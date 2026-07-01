@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Guardians of the Galaxy, 2014, 121, 8.0
+Guardians of the Galaxy Vol. 3, 2023, 150, 7.9
+Deadpool &amp; Wolverine, 2024, 128, 7.5
+Everything Everywhere All at Once, 2022, 139, 7.7
+Spider-Man: Far from Home, 2019, 129, 7.3
+Game Night, 2018, 100, 6.9
+Jumanji: Welcome to the Jungle, 2017, 119, 6.9
+Zootropolis, 2016, 108, 8.0
+Kingsman: The Secret Service, 2014, 129, 7.7
+Dungeons &amp; Dragons: Honour Among Thieves, 2023, 134, 7.2
+Sonic the Hedgehog 3, 2024, 110, 6.9
+Thor: Ragnarok, 2017, 130, 7.9
+Guardians of the Galaxy: Vol. 2, 2017, 136, 7.6
+Kung Fu Panda, 2008, 92, 7.6
+The Man from U.N.C.L.E., 2015, 116, 7.2
+The Suicide Squad, 2021, 132, 7.2
+Free Guy, 2021, 115, 7.1
+Borderlands, 2024, 101, 4.7
+Thor: Love and Thunder, 2022, 118, 6.1
+Knight and Day, 2010, 109, 6.3
+Jumanji: The Next Level, 2019, 123, 6.6
+Operation Fortune: Ruse de Guerre, 2023, 114, 6.3
+Deadpool 2, 2018, 119, 7.6
+Brave, 2012, 93, 7.1
+Austin Powers in Goldmember, 2002, 94, 6.3
+Lightyear, 2022, 105, 6.1
+Incredibles 2, 2018, 118, 7.5
+Now You See Me 2, 2016, 129, 6.4
+Big Hero 6, 2014, 102, 7.8
+Puss in Boots: The Last Wish, 2022, 102, 7.9
+Rango, 2011, 107, 7.3
+The Adam Project, 2022, 106, 6.7
+Raya and the Last Dragon, 2021, 107, 7.3
+The Lost City, 2022, 112, 6.1
+The Lego Movie, 2014, 100, 7.7
+Ghosted, 2023, 117, 5.8
+Bad Boys: Ride or Die, 2024, 115, 6.5
+Transformers: The Last Knight, 2017, 154, 5.2
+The Lego Batman Movie, 2017, 104, 7.3
+Kingsman: The Golden Circle, 2017, 141, 6.7
+Shazam!, 2019, 132, 7.0
+Megamind, 2010, 95, 7.3
+Kung Fu Panda 4, 2024, 94, 6.3
+Pixels, 2015, 105, 5.6
+Rat Race, 2001, 112, 6.5
+The Dukes of Hazzard, 2005, 104, 5.2
+Turning Red, 2022, 100, 6.9
+Teenage Mutant Ninja Turtles, 2014, 101, 5.8
+Sonic the Hedgehog, 2020, 99, 6.5
+Get Smart, 2008, 110, 6.5
+The Interview, 2014, 112, 6.5
+Transformers: Age of Extinction, 2014, 165, 5.6
+Transformers: Dark of the Moon, 2011, 154, 6.2
+Love and Monsters, 2020, 109, 6.9
+Ant-Man and the Wasp: Quantumania, 2023, 124, 6.0
+How to Train Your Dragon 2, 2014, 102, 7.8
+6 Underground, 2019, 128, 6.1
+The Angry Birds Movie, 2016, 97, 6.3
+Fool's Gold, 2008, 112, 5.7
+Wild Hogs, 2007, 100, 5.9
+Red One, 2024, 123, 6.2
+Sonic the Hedgehog 2, 2022, 122, 6.5
+Kung Fu Panda 3, 2016, 95, 7.1
+Ant-Man and the Wasp, 2018, 118, 7.0
+Jungle Cruise, 2021, 127, 6.5
+Charlie's Angels, 2000, 98, 5.7
+Men in Black 3, 2012, 106, 6.8
+Men in Black II, 2002, 88, 6.2
+Zathura: A Space Adventure, 2005, 101, 6.3
+Men in Black: International, 2019, 114, 5.6
+The Good Dinosaur, 2015, 93, 6.7
+Shazam! Fury of the Gods, 2023, 130, 5.9
+Kung Fu Panda 2, 2011, 90, 7.3
+Journey The Mysterious Island, 2012, 94, 5.7
+Welcome to the Jungle, 2003, 104, 6.6
+Speed Racer, 2008, 135, 6.1
+Teenage Mutant Ninja Turtles: Mutant Mayhem, 2023, 99, 7.2
+How to Train Your Dragon: The Hidden World, 2019, 104, 7.4
+Grimsby, 2016, 83, 6.2
+Puss in Boots, 2011, 90, 6.6
+Spy Kids, 2001, 88, 5.6
+Sahara, 2005, 124, 6.1
+Boss Level, 2020, 100, 6.8
+Penguins of Madagascar, 2014, 92, 6.7
+Ice Age: Collision Course, 2016, 94, 5.7
+Rise of the Guardians, 2012, 97, 7.2
+The Losers, 2010, 97, 6.2
+The Man from Toronto, 2022, 110, 5.9
+Monsters vs. Aliens, 2009, 94, 6.4
+The Hitman's Bodyguard, 2017, 118, 6.9
+Freaky Tales, 2024, 107, 6.2
+The Life Aquatic with Steve Zissou, 2004, 119, 7.2
+The Brothers Grimm, 2005, 118, 5.9
+Murder Mystery 2, 2023, 89, 5.7
+The Lego Ninjago Movie, 2017, 101, 6.1
+Land of the Lost, 2009, 102, 5.4
+Freelance, 2023, 108, 5.6
+The Angry Birds Movie 2, 2019, 97, 6.4
+Flushed Away, 2006, 85, 6.6
+Nimona, 2023, 101, 7.5
+Pan, 2015, 111, 5.7
+Hitman's Wife's Bodyguard, 2021, 100, 6.1
+Charlie's Angels, 2019, 118, 5.0
+Shanghai Noon, 2000, 110, 6.6
+Super Pets, 2022, 105, 6.8
+Your Highness, 2011, 102, 5.5
+Johnny English, 2003, 88, 6.3
+Dora and the Lost City of Gold, 2019, 102, 6.1
+Attack the Block, 2011, 88, 6.6
+Hundreds of Beavers, 2022, 108, 7.6
+The Extraordinary Adventures of Adèle Blanc-Sec, 2010, 107, 6.3
+Boy Kills World, 2023, 111, 6.4
+Doraemon: Nobita and the New Steel Troops: Angel Wings, 2011, 108, 8.1
+Teenage Mutant Ninja Turtles: Out of the Shadows, 2016, 112, 5.9
+Johnny English Strikes Again, 2018, 89, 6.2
+Spies in Disguise, 2019, 102, 6.8
+R.I.P.D., 2013, 96, 5.6
+The Sea Beast, 2022, 115, 7.0
+TMNT, 2007, 87, 6.2
+Johnny English Reborn, 2011, 101, 6.3
+The Ridiculous 6, 2015, 119, 4.9
+Dunki, 2023, 160, 6.5
+The Misfits, 2021, 94, 4.5
+The Spy Who Dumped Me, 2018, 117, 6.1
+Zoolander 2, 2016, 101, 4.7
+The VelociPastor, 2018, 75, 5.1
+Captain Underpants: The First Epic Movie, 2017, 89, 6.2
+Hidden Strike, 2023, 102, 5.4
+The Myth, 2005, 122, 6.1
+G-Force, 2009, 88, 5.1
+The Do-Over, 2016, 108, 5.7
+Welcome to the Jungle, 2013, 95, 4.9
+Son of Rambow, 2007, 96, 7.0
+Tokyo Gore Police, 2008, 110, 5.9
+Osmosis Jones, 2001, 95, 6.3
+Cats &amp; Dogs, 2001, 87, 5.2
+Iron Sky, 2012, 93, 5.9
+Strange World, 2022, 102, 5.7
+Snatched, 2017, 90, 4.7
+Spy Kids Island of Lost Dreams, 2002, 100, 5.3
+Eight Legged Freaks, 2002, 99, 5.5
+The Retirement Plan, 2023, 103, 5.1
+Once Upon a Deadpool, 2018, 118, 7.1
+Pete's Dragon, 2016, 102, 6.7
+Megamind vs. The Doom Syndicate, 2024, 83, 2.4
+Big Game, 2014, 90, 5.4
+Charlie's Angels: Full Throttle, 2003, 106, 5.0
+The Pirates! In an Adventure with Scientists!, 2012, 88, 6.7
+The Brothers Bloom, 2008, 114, 6.7
+The Pink Panther 2, 2009, 92, 5.6
+Crayon Shin-chan Movie Ora No Hikkoshi Monogatari - Saboten Daisuugeki, 2015, 103, 6.7
+Rim of the World, 2019, 98, 5.3
+The Good, the Bad, the Weird, 2008, 139, 7.2
+Skiptrace, 2016, 107, 5.6
+Guardians, 2017, 89, 4.1
+Astro Boy, 2009, 94, 6.3
+Doraemon the Movie: Nobita's Secret Gadget Museum, 2013, 100, 7.1
+The Adventures of Sharkboy and Lavagirl 3-D, 2005, 93, 3.8
+I Spy, 2002, 97, 5.4
+Shanghai Knights, 2003, 114, 6.2
+Jay and Silent Bob Reboot, 2019, 105, 5.6
+Summer Wars, 2009, 114, 7.4
+Around the World in Days, 2004, 2, 5.9
+Journey to the West: Conquering the Demons, 2013, 110, 6.7
+Mortdecai, 2015, 107, 5.5
+Agent Cody Banks, 2003, 102, 5.2
+Jimmy Neutron: Boy Genius, 2001, 82, 6.1
+Accident Man, 2018, 105, 6.2
+The Sleepover, 2020, 100, 5.7
+Knights of Badassdom, 2013, 86, 5.6
+Spy Kids All the Time in the World, 2011, 89, 3.6
+Ruby Gillman: Teenage Kraken, 2023, 91, 5.7
+Spy Kids Game Over, 2003, 84, 4.4
+Grabbers, 2012, 94, 6.3
+Monster Trucks, 2016, 104, 5.7
+Batman: Return of the Caped Crusaders, 2016, 78, 6.7
+Iron Sky: The Coming Race, 2019, 93, 5.0
+Secret Society of Second Born Royals, 2020, 99, 5.1
+Turbo Kid, 2015, 93, 6.7
+Hit and Run, 2012, 100, 6.1
+Lego Marvel Avengers: Code Red, 2023, 46, 5.5
+Batman and Harley Quinn, 2017, 74, 5.9
+Pootie Tang, 2001, 81, 5.3
+A Legend, 2024, 129, 4.7
+Ultraman: Rising, 2024, 117, 6.9
+Mindhorn, 2016, 89, 6.3
+Rise of the Teenage Mutant Ninja Turtles, 2022, 82, 6.2
+Chinese Zodiac, 2012, 122, 6.0
+Eiga Doraemon Nobita no Ritoru Sutâ Wôzu 2021, 2022, 108, 6.6
+One Piece: The Movie, 2000, 51, 6.8
+Fatman, 2020, 100, 5.9
+Pokémon: The Rise of Darkrai, 2007, 95, 6.4
+Dead Leaves, 2004, 55, 7.1
+Aqua Teen Hunger Force Colon Movie Film for Theaters, 2007, 86, 6.7
+Please Don't Destroy: The Treasure of Foggy Mountain, 2023, 92, 6.0
+OSS Cairo, Nest of Spies, 2006, 99, 7.0
+Dhamaal, 2007, 136, 7.6
+Hitpig!, 2024, 86, 5.2
+Agent Cody Banks Destination London, 2004, 100, 4.6
+Kung Fu Yoga, 2017, 107, 5.2
+The Paw Patrol Movie, 2021, 86, 6.1
+Zoom, 2006, 93, 4.4
+Minuscule: Valley of the Lost Ants, 2013, 89, 7.1
+Chhota Bheem Master of Shaolin, 2011, 75, 7.2
+The Warriors Gate, 2016, 108, 5.4
+Underdog, 2007, 100, 4.8
+Big Ass Spider!, 2013, 80, 5.3
+Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson, 2019, 90, 7.8
+The Pirates: The Last Royal Treasure, 2022, 126, 6.1
+The Monkey King, 2023, 97, 5.8
+Killing Cabos, 2004, 99, 7.4
+Green Ghost and the Masters of the Stone, 2021, 82, 4.6
+Teen Titans GO! to the Movies, 2018, 84, 6.7
+Finding 'Ohana, 2021, 123, 6.1
+Secret Headquarters, 2022, 104, 5.3
+Paws of Fury: The Legend of Hank, 2022, 98, 5.8
+Hobo with a Shotgun, 2011, 86, 6.1
+PAW Patrol: The Mighty Movie, 2023, 88, 5.9
+Go Goa Gone, 2013, 108, 6.7
+Doraemon: Nobita's Chronicle of the Moon Exploration, 2019, 111, 6.9
+Killer Bean Forever, 2008, 85, 6.6
+Kangaroo Jack, 2003, 89, 4.5
+R.I.P.D. Rise of the Damned, 2022, 102, 4.6
+Pokémon the Movie: I Choose You!, 2017, 98, 6.3
+Dragon Ball Z: Battle of Gods, 2013, 85, 7.1
+Regular Show: The Movie, 2015, 70, 7.5
+Pokémon the Movie: Hoopa and the Clash of Ages, 2015, 79, 5.9
+I, the Executioner, 2024, 118, 6.3
+Mad Heidi, 2022, 92, 5.5
+Playmobil: The Movie, 2019, 99, 4.9
+Ronal Barbaren, 2011, 89, 6.5
+Chip 'n Dale: Rescue Rangers, 2022, 97, 6.9
+One Piece: Baron Omatsuri and the Secret Island, 2005, 88, 7.2
+Vanguard, 2020, 107, 4.7
+Pokémon Heroes: The Movie, 2002, 80, 6.1
+Infestation, 2009, 91, 5.8
+Doraemon: Nobita and the Island of Miracles - Animal Adventure, 2012, 100, 6.8
+The Venture Bros.: Radiant Is the Blood of the Baboon Heart, 2023, 83, 7.9
+Witching and Bitching, 2013, 112, 6.4
+Doraemon: Nobita and the Winged Braves, 2001, 95, 6.9
+Detective Chinatown 3, 2021, 136, 5.6
+Cells at Work!, 2024, 109, 6.7
+Zombie Town, 2023, 92, 3.8
+The Abduction Club, 2002, 96, 6.6
+Dead Weight, 2002, 107, 6.0
+Pretty Guardian Sailor Moon Cosmos: The Movie, 2023, 160, 7.3
+Kangaroo Jack: G'Day U.S.A.!, 2004, 75, 4.0
+One Piece: Chopper's Kingdom in the Strange Animal Island, 2002, 56, 6.2
+Spy Kids: Armageddon, 2023, 97, 4.3
+The Missing Lynx, 2008, 97, 5.2

@@ -1,0 +1,1 @@
+Za analizo podatkov sem se odločil analizirati filme. Zanima me predvsem, ali so se filmi "poslabšali" torej, da se je njihova povprečna ocena znižala v zadnjih letih, ali filmi postajajo daljši ali krajši in katere vrste filmov so najbolje ocenjenje.
