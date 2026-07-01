@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Grave of the Fireflies, 1988, 88, 8.5
+My Neighbour Totoro, 1988, 86, 8.1
+Akira, 1988, 124, 8.0
+Who Framed Roger Rabbit, 1988, 104, 7.7
+The Little Mermaid, 1989, 83, 7.6
+Kiki's Delivery Service, 1989, 103, 7.8
+The Land Before Time, 1988, 69, 7.4
+Laputa: Castle in the Sky, 1986, 124, 8.0
+Barefoot Gen, 1983, 83, 8.0
+Nausicaä of the Valley of the Wind, 1984, 117, 8.0
+Heavy Metal, 1981, 86, 6.6
+The Fox and the Hound, 1981, 83, 7.2
+The Brave Little Toaster, 1987, 90, 7.2
+All Dogs Go to Heaven, 1989, 84, 6.8
+The Secret of NIMH, 1982, 82, 7.5
+The Black Cauldron, 1985, 80, 6.3
+Doraemon: Nobita and the Steel Troops, 1986, 97, 7.8
+The Last Unicorn, 1982, 92, 7.3
+An American Tail, 1986, 80, 6.9
+Oliver &amp; Company, 1988, 74, 6.6
+Heroic Times, 1983, 84, 7.3
+The Great Mouse Detective, 1986, 74, 7.1
+Gandahar, 1987, 78, 6.9
+Fire and Ice, 1983, 81, 6.5
+American Pop, 1981, 96, 7.2
+Son of the White Mare, 1981, 86, 7.8
+Vampire Hunter D, 1985, 80, 7.0
+When the Wind Blows, 1986, 84, 7.7
+Doraemon: Nobita's Dinosaur, 1980, 92, 7.4
+The Transformers: The Movie, 1986, 84, 7.2
+The Secret of the Sword, 1985, 88, 7.2
+Neo Tokyo, 1987, 50, 7.0
+Doraemon: Nobita and the Haunts of Evil, 1982, 91, 6.8
+Fist of the North Star, 1986, 110, 7.2
+Nobita no uchû shô-sensô, 1985, 98, 7.3
+Little Nemo, 1989, 85, 7.1
+Rock &amp; Rule, 1983, 77, 6.4
+Love City, 1986, 86, 5.8
+Alice, 1988, 86, 7.4
+The Pied Piper, 1986, 55, 7.8
+Marquis, 1989, 83, 6.7
+Patlabor: The Movie, 1989, 100, 7.0
+Royal Space Force: The Wings of Honnêamise, 1987, 121, 7.2
+Starchaser: The Legend of Orin, 1985, 100, 6.5
+Cat City, 1986, 96, 8.3
+The Adventures of Mark Twain, 1985, 86, 7.2
+Felix the Cat: The Movie, 1988, 82, 4.7
+Barefoot Gen 2, 1986, 85, 7.1
+Wicked City, 1987, 82, 6.7
+Bubble Bath, 1980, 79, 7.1
+The Plague Dogs, 1982, 103, 7.7
+Urotsukidoji: Legend of the Overfiend, 1989, 108, 6.3
+Doraemon: Nobita no Uchû kaitakushi, 1981, 90, 6.7
+The Masters of Time, 1982, 78, 7.3
+Doraemon: Nobita's Version of Saiyuki, 1988, 90, 6.9
+The Chipmunk Adventure, 1987, 78, 7.2
+Doraemon: Nobita and the Knights on Dinosaurs, 1987, 90, 6.7
+The BFG, 1989, 91, 6.7
+Super Dimension Fortress Macross: Do You Remember Love?, 1984, 114, 7.6
+Night on the Galactic Railroad, 1985, 113, 7.0
+Genma taisen, 1983, 135, 5.6
+Footrot Flats: The Dog's Tale, 1986, 71, 7.0
+GoBots: Battle of the Rock Lords, 1986, 75, 5.5
+Dragon Ball: Mystical Adventure, 1988, 48, 6.8
+The Flying Luna Clipper, 1987, 55, 6.6
+Doraemon: Nobita no makai dai bôken, 1984, 97, 7.0
+Doraemon: Nobita and the Castle of the Undersea Devil, 1983, 94, 6.9
+Venus Wars, 1989, 103, 6.6
+Doraemon: Nobita and the Birth of Japan, 1989, 102, 6.9
+The Care Bears Movie, 1985, 77, 5.6
+Happily Ever After, 1989, 75, 5.6
+My Little Pony: The Movie, 1986, 86, 6.0
+Space Adventure Cobra, 1982, 99, 7.1
+The King and Mister Bird, 1980, 83, 7.7
+Hey Good Lookin', 1982, 76, 6.1
+Looney, Looney, Looney Bugs Bunny Movie, 1981, 79, 7.1
+Dragon Ball: Curse of the Blood Rubies, 1986, 50, 6.7
+Golgo The Professional, 1983, 94, 6.8
+Arion, 1986, 118, 6.5
+Care Bears Movie II: A New Generation, 1986, 76, 5.6
+Willy the Sparrow, 1989, 76, 7.3
+Valhalla, 1986, 76, 7.1
+Swan Lake, 1981, 71, 7.6
+Mobile Suit Gundam I, 1981, 137, 7.0
+Mobile Suit Gundam: Char's Counterattack, 1988, 124, 7.2
+Rainbow Brite and the Star Stealer, 1985, 85, 6.8
+Project A-ko, 1986, 86, 6.9
+Asterix vs. Caesar, 1985, 79, 6.8
+Animalympics, 1980, 78, 6.8
+Bon Voyage, Charlie Brown (and Don't Come Back!!), 1980, 75, 7.1
+Return to Treasure Island, 1989, 107, 8.1
+The Fantastic Adventures of Unico, 1981, 90, 7.4
+The Little Fox, 1981, 79, 8.3
+Super Mario Brothers: Great Mission to Rescue Princess Peach, 1986, 1, 5.7
+Asterix and the Big Fight, 1989, 81, 6.4
+Asterix in Britain, 1986, 79, 7.1
+Priklyucheniya pingvinenka Lolo, 1987, 78, 7.4
+The Care Bears Adventure in Wonderland, 1987, 80, 5.9
+Conan the Future Boy: The Big Giant Robot's Resurrection, 1984, 49, 8.2
+Faibu Sutâ Sutôrîzu, 1989, 65, 6.1
+Tomorrow's Joe, 1980, 153, 7.4
+Babar: The Movie, 1989, 70, 6.3
+Sea Prince and the Fire Child, 1981, 108, 7.1
+Urusei Yatsura Movie Beautiful Dreamer, 1984, 98, 7.4
+Tomorrow's Joe 2, 1981, 110, 7.5
+The Wizard of Oz, 1982, 78, 6.6
+Waga seishun no Arcadia, 1982, 130, 7.1
+Twice Upon a Time, 1983, 74, 6.9
+The Mystery of the Third Planet, 1981, 48, 7.8
+Windaria, 1986, 100, 7.1
+Cudesna suma, 1986, 83, 8.0
+Kurasshâ Jô, 1983, 132, 7.0
+Aladdin and the Wonderful Lamp, 1982, 65, 6.8
+Dragon Ball: Sleeping Beauty in Devil Castle, 1987, 45, 6.5
+Bugs Bunny's 3rd Movie: Rabbit Tales, 1982, 74, 7.0
+The Bloody Lady, 1980, 72, 6.3
+The Dagger of Kamui, 1985, 132, 6.9
+Heidi's Song, 1982, 94, 6.2
+The Planet of Treasure, 1982, 72, 5.9
+Daffy Duck's Movie: Fantastic Island, 1983, 78, 6.9
+Daffy Duck's Quackbusters, 1988, 78, 7.0
+Lensman, 1984, 107, 6.4
+The Big Bang, 1987, 76, 5.4
+Maria, Mirabella, 1981, 69, 7.5
+Pinocchio and the Emperor of the Night, 1987, 87, 6.2
+Robotech: The Movie, 1986, 87, 6.2
+Vampires in Havana, 1985, 69, 6.8
+In the Aftermath, 1988, 72, 4.6
+Mobile Suit Gundam III: Encounters in Space, 1982, 144, 7.5
+The Missing Link, 1980, 84, 5.8
+Urusei Yatsura Onri yû, 1983, 101, 6.6
+The Adventures of the American Rabbit, 1986, 85, 5.3
+Dâti pea Gekijô-ban, 1987, 81, 7.0
+Captain Tsubasa Movie Attention! The Japanese Junior Selection, 1985, 1, 6.5
+Penguin's Memory: A Tale of Happiness, 1985, 102, 6.9
+Lupin III: Legend of the Gold of Babylon, 1985, 100, 6.1
+Samson and Sally, 1984, 1, 7.0
+Sayônara, ginga tetsudô Surî-Nain: Andromeda shûchakueki, 1981, 135, 7.0
+Gwen, the Book of Sand, 1985, 67, 6.9
+The Puppetoon Movie, 1987, 79, 7.1
+BraveStarr: The Legend, 1988, 91, 6.8
+Legend of the Galactic Heroes: My Conquest is the Sea of Stars, 1988, 1, 7.7
+Peter-No-Tail, 1981, 81, 7.0
+Pound Puppies and the Legend of Big Paw, 1988, 76, 4.8
+Lupin III: The Fuma Conspiracy, 1987, 73, 7.0
+They Were Eleven, 1986, 91, 7.0
+Lucky Luke: The Daltons on the Run, 1983, 82, 6.1
+Grendel Grendel Grendel, 1981, 88, 6.7
+Yôtôden, 1989, 97, 5.6
+Mobile Suit Gundam II: Soldiers of Sorrow, 1981, 139, 7.1
+Katy, la oruga, 1984, 86, 6.9
+Gokiburi-tachi no tasogare, 1987, 105, 6.5
+Rock Odyssey, 1987, 72, 6.6
+Delta Space Mission, 1984, 68, 6.3
+Als je begrijpt wat ik bedoel, 1983, 84, 7.4
+Unico in the Island of Magic, 1983, 91, 7.6
+Katy, Kiki y Koko, 1988, 70, 6.5
+Here Come the Littles, 1985, 72, 6.8
+Gall Force: Eternal Story, 1986, 86, 6.5
+Seinto Seiya: Shinku no shônen densetsu, 1988, 71, 7.2
+Mafalda, 1982, 82, 6.4
+Toward the Terra, 1980, 113, 6.4
+Peter-No-Tail in America, 1985, 78, 5.7
+L'ange, 1982, 64, 7.3
+Captain Tsubasa Movie The Great World Competition! The Junior World Cup, 1986, 57, 6.5
+The Treasure of Swamp Castle, 1985, 76, 7.8
+Gauche the Cellist, 1982, 61, 7.0
+Phoenix 2772, 1980, 122, 6.8
+Amon Saga, 1986, 80, 5.6
+Heathcliff: The Movie, 1986, 73, 5.1
+The Legend of Sealed Book, 1983, 89, 7.8
+City Hunter: .Magnum, 1989, 87, 6.9
+Dot and Keeto, 1986, 75, 6.3
+Vincent, 1987, 105, 7.4
+The Monkey King Conquers the Demon, 1985, 89, 7.9
+Chronopolis, 1982, 52, 6.7
+Nobody's Boy Remi, 1980, 96, 6.7
+Lensman: Power of the Lens, 1987, 100, 5.8
+Star Warrior The Final Battle, 1983, 2, 6.2
+The Journey to Melonia, 1989, 104, 7.3
+The Tale of Genji, 1987, 110, 6.5
+Birth, 1984, 80, 6.2
+Chie the Brat, 1981, 105, 7.1
+The Soldier's Tale, 1984, 51, 7.0
+Dot and the Whale, 1986, 75, 6.9
+Uimitoarele aventuri ale muschetarilor, 1988, 81, 7.4
+Seinto Seiya: Jashin Erisu, 1987, 46, 6.4
+Los viajes de Gulliver, 1983, 80, 5.0
+Gallavants, 1984, 100, 6.8
+Subway to Paradise, 1987, 78, 7.1
+Urusei Yatsura Remember My Love, 1985, 93, 6.6
+Seinto Seiya: Saishu Seisen no Senshi-tachi, 1989, 45, 6.5
+Turning Table, 1988, 80, 7.1
+Final Yamato, 1983, 152, 7.0
+I Go Pogo, 1980, 86, 6.5
+Kimagure Orange Road: I Want to Return to That Day, 1988, 69, 7.6
+Time Stranger, 1986, 91, 6.3
+The Cosmic Eye, 1986, 71, 6.1
+Epic, 1985, 70, 5.8
+From the Apennines to the Andes: The Movie, 1980, 107, 7.6
+Future War 198X, 1982, 125, 6.2
+Twelve Months, 1980, 65, 7.3
+Sarah, 1982, 1, 6.0
+Le secret des sélénites, 1983, 76, 5.7
+Captain of the Forest, 1988, 73, 7.2
+Town Musicians of Bremen, 1989, 86, 6.4
+Cyborg Legend of the Super Galaxy, 1980, 130, 6.0
+Xanadu Dragonslayer Densetsu, 1988, 50, 5.0
+Urusei Yatsura Lum the Forever, 1986, 95, 6.4
+Mighty Mouse in the Great Space Chase, 1982, 86, 5.8
+The Brave Frog's Greatest Adventure, 1985, 91, 6.2
+Snow White, 1984, 90, 7.7
+Gurikku no bouken, 1981, 84, 7.1
+Yousei furorensu, 1985, 90, 6.9
+Maria si Mirabella in Tranzistoria, 1989, 71, 5.8
+California Crisis, 1986, 45, 6.1
+Ico, the Brave Horse, 1983, 85, 7.4
+Odin, 1985, 93, 5.4
+La Revanche des humanoïdes, 1983, 100, 7.3
+Seinto Seiya: Kamigami no atsuki tatakai, 1988, 45, 6.6
+Urusei Yatsura The Final Chapter, 1988, 85, 7.0
+Bolek i Lolek na Dzikim Zachodzie, 1986, 95, 6.5
+Salar, 1986, 47, NE
+Manga Isoppu monogatari, 1983, 61, 7.4
+John the Fearless, 1984, 78, 7.1
+Abra Cadabra, 1983, 84, 6.5
+Hi no tori: Hôô-hen, 1986, 1, 7.0
+Die fliegende Windmühle, 1982, 85, 7.1
+The Adventures of Pinocchio, 1984, 98, 5.2
+Uchû senshi Baldios, 1981, 117, 6.7
+Ninja Hattori-kun + Pâman: Chônôryoku Wôzu, 1984, 52, 8.3
+Hi no Ame ga Furu, 1988, 80, 7.5
+The Ideon: Be Invoked, 1982, 98, 7.7
+Yuki, 1981, 89, 7.4
+The Tale of Tsar Saltan, 1984, 53, 7.3
+Cantinflas profesor de historia, 1983, 56, 7.0
+The Tale of John and Mary, 1980, 65, 7.1
+Dot and the Koala, 1985, 70, 6.2
+Adventures of the Blue Knight, 1984, 93, 6.8
+Space Transformer, 1985, 63, 3.7
+Dot and the Bunny, 1983, 81, 6.7
+The Camel Boy, 1984, 72, 7.2
+Makoto-chan, 1980, 85, 7.6
+Eria 88, 1985, 100, 7.7
+Densetsu-kyoshin ideon: Sesshoku-hen, 1982, 85, 6.1
+Koshka, kotoraya gulyala sama po sebe, 1988, 70, 7.0
+Techno Police 21C, 1982, 78, 6.2
+Kuroi Ame ni Utarete, 1984, 94, 5.5
+Tatchi: Sebangô no nai êsu, 1986, 93, 5.8
+Velká sýrová loupez, 1986, 55, 7.3

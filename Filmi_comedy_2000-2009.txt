@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Cars, 2006, 116, 7.3
+The Devil Wears Prada, 2006, 109, 7.0
+Legally Blonde, 2001, 96, 6.5
+Scary Movie, 2000, 88, 6.3
+The Hangover, 2009, 100, 7.7
+Night at the Museum, 2006, 108, 6.5
+Ratatouille, 2007, 111, 8.1
+Idiocracy, 2006, 84, 6.5
+Finding Nemo, 2003, 100, 8.2
+He's Just Not That Into You, 2009, 129, 6.4
+Snatch, 2000, 104, 8.2
+Bandits, 2001, 123, 6.5
+Jackass: The Movie, 2002, 85, 6.6
+The Girl Next Door, 2004, 109, 6.7
+Wet Hot American Summer, 2001, 97, 6.5
+Little Miss Sunshine, 2006, 101, 7.8
+Tropic Thunder, 2008, 107, 7.1
+Monsters, Inc., 2001, 92, 8.1
+She's the Man, 2006, 105, 6.4
+Mean Girls, 2004, 97, 7.1
+Hot Fuzz, 2007, 121, 7.8
+Superbad, 2007, 113, 7.6
+Mamma Mia!, 2008, 108, 6.5
+Shrek, 2001, 90, 7.9
+Up, 2009, 96, 8.3
+Days of Summer, 2009, 95, 7.6
+Coyote Ugly, 2000, 100, 5.8
+Step Brothers, 2008, 98, 6.9
+Amélie, 2001, 122, 8.2
+White Chicks, 2004, 109, 5.9
+How to Lose a Guy in Days, 2003, 116, 6.5
+The Proposal, 2009, 108, 6.8
+3 Idiots, 2009, 170, 8.4
+Talladega Nights: The Ballad of Ricky Bobby, 2006, 108, 6.6
+Scooby-Doo, 2002, 89, 5.4
+Night at the Museum 2, 2009, 105, 6.0
+Lilo &amp; Stitch, 2002, 85, 7.4
+Love Actually, 2003, 135, 7.5
+Napoleon Dynamite, 2004, 96, 7.0
+Kung Fu Panda, 2008, 92, 7.6
+Jennifer's Body, 2009, 102, 5.6
+Old School, 2003, 88, 7.0
+Almost Famous, 2000, 122, 7.9
+Scary Movie 2, 2001, 83, 5.4
+Madagascar, 2005, 86, 7.0
+Wedding Crashers, 2005, 119, 7.0
+Dodgeball: A True Underdog Story, 2004, 92, 6.7
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan, 2006, 84, 7.4
+Shaun of the Dead, 2004, 99, 7.8
+Shrek 2, 2004, 93, 7.4
+O Brother, Where Art Thou?, 2000, 107, 7.7
+A Cinderella Story, 2004, 95, 6.0
+Lost in Translation, 2003, 102, 7.7
+The Year-Old Virgin, 2005, 116, 7.1
+Ice Age, 2002, 81, 7.5
+Waiting..., 2005, 94, 6.7
+First Dates, 2004, 99, 6.8
+Meet the Parents, 2000, 108, 7.0
+The Princess Diaries, 2001, 115, 6.4
+EuroTrip, 2004, 92, 6.6
+Mr. &amp; Mrs. Smith, 2005, 2, 6.5
+Vicky Cristina Barcelona, 2008, 96, 7.1
+Going on 30, 2004, 98, 6.3
+Dresses, 2008, 111, 6.1
+In Bruges, 2008, 107, 7.9
+Good Luck Chuck, 2007, 101, 5.6
+Charlie and the Chocolate Factory, 2005, 115, 6.7
+Austin Powers in Goldmember, 2002, 94, 6.3
+Jackass Number Two, 2006, 92, 7.0
+Secretary, 2002, 107, 6.9
+Burn After Reading, 2008, 96, 7.0
+Click, 2006, 107, 6.4
+Lars and the Real Girl, 2007, 106, 7.3
+Fantastic Mr. Fox, 2009, 87, 7.9
+Remember the Titans, 2000, 113, 7.8
+Thank You for Smoking, 2005, 92, 7.5
+Scary Movie 3, 2003, 84, 5.6
+Meet the Fockers, 2004, 115, 6.4
+Holes, 2003, 117, 7.0
+Not Another Teen Movie, 2001, 89, 5.8
+Zombieland, 2009, 88, 7.5
+Postal, 2007, 100, 4.5
+Zoolander, 2001, 90, 6.5
+Gosford Park, 2001, 137, 7.2
+Secondhand Lions, 2003, 111, 7.5
+Superhero Movie, 2008, 75, 4.8
+Bend It Like Beckham, 2002, 112, 6.7
+Sweet Home Alabama, 2002, 108, 6.2
+The Emperor's New Groove, 2000, 78, 7.4
+The Terminal, 2004, 128, 7.4
+Slither, 2006, 95, 6.5
+Bee Movie, 2007, 91, 6.1
+Bring It On, 2000, 98, 6.2
+The Royal Tenenbaums, 2001, 110, 7.6
+Scary Movie 4, 2006, 83, 5.1
+Anchorman: The Legend of Ron Burgundy, 2004, 94, 7.1
+School of Rock, 2003, 109, 7.2
+The Princess and the Frog, 2009, 97, 7.2
+A Series of Unfortunate Events, 2004, 108, 6.8
+The Producers, 2005, 134, 6.4
+Catch and Release, 2006, 124, 5.9
+Made of Honour, 2008, 101, 5.9
+Juno, 2007, 96, 7.4
+Enchanted, 2007, 107, 7.1
+Kiss Kiss Bang Bang, 2005, 103, 7.4
+Miss Congeniality, 2000, 109, 6.4
+Chicago, 2002, 113, 7.2
+Forgetting Sarah Marshall, 2008, 111, 7.1
+The Darjeeling Limited, 2007, 91, 7.2
+Big Trouble, 2002, 85, 6.4
+Adaptation., 2002, 115, 7.6
+Super Troopers, 2001, 100, 7.0
+Norbit, 2007, 103, 4.3
+Bruce Almighty, 2003, 101, 6.8
+What Women Want, 2000, 127, 6.5
+It's Complicated, 2009, 121, 6.6
+Shrek the Third, 2007, 93, 6.1
+The Wedding Date, 2005, 90, 6.1
+Rat Race, 2001, 112, 6.5
+The Holiday, 2006, 136, 7.0
+The Dukes of Hazzard, 2005, 104, 5.2
+Ponyo, 2008, 101, 7.6
+Knocked Up, 2007, 129, 6.9
+Punch-Drunk Love, 2002, 95, 7.3
+Shark Tale, 2004, 90, 6.0
+The Station Agent, 2003, 89, 7.6
+Aquamarine, 2006, 110, 5.5
+Sideways, 2004, 127, 7.5
+Virgin Territory, 2007, 97, 4.7
+Cloudy with a Chance of Meatballs, 2009, 90, 6.9
+Get Smart, 2008, 110, 6.5
+Hitch, 2005, 118, 6.6
+Robots, 2005, 91, 6.4
+Corpse Bride, 2005, 77, 7.4
+Me, Myself &amp; Irene, 2000, 116, 6.6
+Monster House, 2006, 91, 6.7
+Role Models, 2008, 99, 6.8
+Stick It, 2006, 103, 6.4
+Hancock, 2008, 92, 6.4
+The Break-Up, 2006, 106, 5.8
+Kung Fu Hustle, 2004, 99, 7.7
+Up in the Air, 2009, 109, 7.4
+The Long Weekend, 2005, 90, 5.2
+Meet the Robinsons, 2007, 95, 6.8
+Pineapple Express, 2008, 111, 6.9
+Harold &amp; Kumar Get the Munchies, 2004, 88, 7.0
+Fool's Gold, 2008, 112, 5.7
+Wild Hogs, 2007, 100, 5.9
+The Benchwarmers, 2006, 85, 5.6
+High Fidelity, 2000, 113, 7.4
+The Hitchhiker's Guide to the Galaxy, 2005, 109, 6.7
+Disaster Movie, 2008, 87, 1.9
+Bridget Jones's Diary, 2001, 97, 6.8
+P.S. I Love You, 2007, 126, 7.0
+Over the Hedge, 2006, 83, 6.7
+Sky High, 2005, 100, 6.3
+Rush Hour 2, 2001, 90, 6.7
+Keeping Mum, 2005, 99, 6.8
+Sex and the City, 2008, 145, 5.7
+Whatever Works, 2009, 93, 7.1
+My Big Fat Greek Wedding, 2002, 95, 6.6
+The Road to El Dorado, 2000, 89, 6.9
+Evolution, 2001, 101, 6.1
+Surf's Up, 2007, 85, 6.7
+Best in Show, 2000, 90, 7.5
+A Serious Man, 2009, 106, 7.0
+Accepted, 2006, 93, 6.4
+You Don't Mess with the Zohan, 2008, 113, 5.6
+Charlie's Angels, 2000, 98, 5.7
+The Imaginarium of Doctor Parnassus, 2009, 123, 6.7
+Yes Man, 2008, 104, 6.8
+The Bucket List, 2007, 97, 7.3
+Ice Age: Dawn of the Dinosaurs, 2009, 94, 6.9
+Hairspray, 2007, 117, 6.7
+Men in Black II, 2002, 88, 6.2
+Zathura: A Space Adventure, 2005, 101, 6.3
+Planet Terror, 2007, 105, 7.0
+The Hot Chick, 2002, 104, 5.6
+The Ugly Truth, 2009, 96, 6.4
+Madagascar: Escape 2 Africa, 2008, 89, 6.7
+Under the Tuscan Sun, 2003, 113, 6.8
+Uptown Girls, 2003, 92, 6.3
+Without a Paddle, 2004, 95, 5.9
+Stranger Than Fiction, 2006, 113, 7.5
+New York, I Love You, 2008, 103, 6.2
+Road Trip, 2000, 93, 6.5
+Elf, 2003, 97, 7.1
+Ghosts of Girlfriends Past, 2009, 115, 5.8
+Welcome to the Jungle, 2003, 104, 6.6
+Cashback, 2006, 102, 7.1
+Speed Racer, 2008, 135, 6.1
+In Her Shoes, 2005, 130, 6.5
+Shaolin Soccer, 2001, 113, 7.3
+The Longest Yard, 2005, 113, 6.4
+Grandma's Boy, 2006, 94, 6.9
+Chicken Run, 2000, 84, 7.1
+The Pink Panther, 2006, 93, 5.7
+American Pie 2, 2001, 105, 6.5
+Charlie Wilson's War, 2007, 102, 7.0
+No Reservations, 2007, 104, 6.4
+Death to Smoochy, 2002, 109, 6.3
+Just Like Heaven, 2005, 95, 6.7
+Joe Dirt, 2001, 91, 6.0
+Cheaper by the Dozen, 2003, 98, 5.9
+About a Boy, 2002, 101, 7.1
+Shallow Hal, 2001, 114, 6.0
+Mary and Max, 2009, 92, 8.1
+Shortbus, 2006, 101, 6.3
+I Love You, Man, 2009, 105, 7.0
+Help! I'm a Fish, 2000, 80, 6.1
+Anger Management, 2003, 106, 6.3
+Zack and Miri Make a Porno, 2008, 101, 6.5
+Ella Enchanted, 2004, 96, 6.3
+Along Came Polly, 2004, 90, 6.0
+The Heartbreak Kid, 2007, 116, 5.9
+Sleepover, 2004, 89, 5.3
+Ghost World, 2001, 111, 7.3
+A Good Year, 2006, 117, 6.9
+Bolt, 2008, 96, 6.8
+Spy Kids, 2001, 88, 5.6
+Spanglish, 2004, 131, 6.4
+Big Stan, 2007, 105, 6.2
+Team America: World Police, 2004, 98, 7.2
+Sahara, 2005, 124, 6.1
+Visitor Q, 2001, 84, 6.5
+Freaky Friday, 2003, 97, 6.4
+Bad Boys II, 2003, 147, 6.6
+Death at a Funeral, 2007, 90, 7.3
+Epic Movie, 2007, 86, 2.5
+The Boat That Rocked, 2009, 135, 7.3
+Rush Hour 3, 2007, 91, 6.3
+Serendipity, 2001, 90, 6.8
+Failure to Launch, 2006, 97, 5.7
+Animal Attraction, 2001, 97, 6.1
+Scooby-Doo Monsters Unleashed, 2004, 93, 5.4
+The Wedding Planner, 2001, 103, 5.4
+Again, 2009, 102, 6.4
+Nacho Libre, 2006, 92, 5.9
+The Cat in the Hat, 2003, 82, 4.2
+Monsters vs. Aliens, 2009, 94, 6.4
+Dude, Where's My Car?, 2000, 83, 5.5
+The Family Man, 2000, 125, 6.9
+Sex Drive, 2008, 109, 6.5
+Couples Retreat, 2009, 113, 5.6
+Matchstick Men, 2003, 116, 7.2
+The Princess Diaries Royal Engagement, 2004, 113, 5.9
+Ice Age The Meltdown, 2006, 91, 6.8
+A Scanner Darkly, 2006, 100, 7.0
+Happy Feet, 2006, 108, 6.4
+D.E.B.S., 2004, 91, 5.5

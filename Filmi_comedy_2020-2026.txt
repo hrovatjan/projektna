@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+The Sheep Detectives, 2026, 109, 7.5
+Voicemails for Isabelle, 2026, 118, 7.4
+Toy Story 5, 2026, 102, 7.6
+Little Brother, 2026, 102, 5.4
+Welcome to the Jungle, 2026, 170, 4.9
+Project Hail Mary, 2026, 156, 8.2
+Cocktail 2, 2026, 150, 7.9
+Jackass: Best and Last, 2026, 92, 6.8
+Scary Movie 6, 2026, 96, 5.2
+Practical Magic 2, Releases Sep 11, 2026, N/A, NE
+Good Luck, Have Fun, Don't Die, 2025, 134, 7.0
+The Invite, Releases Jul 3, 2026, 107, 7.7
+Minions &amp; Monsters, 2026, 90, 6.4
+How to Make a Killing, 2026, 105, 6.5
+They Will Kill You, 2026, 94, 6.3
+Hoppers, 2026, 104, 7.3
+Over Your Dead Body, 2026, 105, 6.3
+Office Romance, 2026, 114, 5.8
+Remarkably Bright Creatures, 2026, 111, 7.7
+The Drama, 2026, 105, 7.2
+Moana, Releases Jul 10, 2026, 115, NE
+The Devil Wears Prada 2, 2026, 119, 6.6
+Power Ballad, 2026, 98, 6.8
+I Love Boosters, 2026, 113, 6.9
+Savage House, 2026, 113, 6.2
+Marty Supreme, 2025, 149, 7.6
+Finding Emily, 2026, 111, 7.0
+Bugonia, 2025, 118, 7.4
+Descendants: Wicked Wonderland, Releases Jul 17, 2026, 95, NE
+Ladies First, 2026, 90, 5.8
+Ready or Not Here I Come, 2026, 108, 6.5
+The Super Mario Galaxy Movie, 2026, 98, 6.3
+The Debut, Expected Dec 3, 2026, 105, NE
+Torrente for President, 2026, 102, 5.8
+Main Vaapas Aaunga, 2026, 167, 8.3
+Digger, Expected Oct 2, 2026, N/A, NE
+GOAT, 2026, 100, 6.7
+The Ministry of Ungentlemanly Warfare, 2024, 122, 6.8
+The Dink, Releases Jul 24, 2026, 102, NE
+I Want Your Sex, Releases Aug 28, 2026, 90, NE
+Anora, 2024, 139, 7.4
+Swapped, 2026, 98, 7.3
+Wake Up Dead Man, 2025, 144, 7.3
+Pillion, 2025, 106, 6.9
+Zootropolis 2, 2025, 108, 7.3
+The Love Hypothesis, Releases Sep 23, 2026, N/A, NE
+Gail Daughtry and the Celebrity Sex Pass, Releases Jul 10, 2026, 93, 6.4
+Driver's Ed, 2025, 98, 5.3
+People We Meet on Vacation, 2026, 117, 6.6
+Enola Holmes 3, 2026, 105, NE
+A Minecraft Movie, 2025, 101, 5.6
+Americana, 2023, 107, 6.0
+Forbidden Fruits, 2026, 103, 5.2
+Busboys, 2026, 97, 4.4
+Bhooth Bangla, 2026, 163, 5.1
+The Amazing Digital Circus: The Last Act, 2026, 95, 7.6
+Eternity, 2025, 114, 6.9
+Husbands in Action, 2026, 107, 6.2
+Charlie Harper, Releases Sep 25, 2026, 102, 7.8
+Anaconda, 2025, 99, 5.5
+Carry on Jattiye, 2026, 142, 9.1
+Guardians of the Galaxy Vol. 3, 2023, 150, 7.9
+Bullet Train, 2022, 127, 7.3
+Outcome, 2026, 83, 4.5
+Deadpool &amp; Wolverine, 2024, 128, 7.5
+The Wrecking Crew, 2026, 124, 6.4
+The Menu, 2022, 107, 7.1
+Never Change!, 2026, 98, 4.5
+No Other Choice, 2025, 139, 7.5
+Balls Up, 2026, 104, 4.7
+7 Dogs, 2026, 125, 5.5
+29, 2026, 150, 7.9
+The Idea of You, 2024, 115, 6.3
+Mike &amp; Nick &amp; Nick &amp; Alice, 2026, 107, 6.2
+One Night Only, Releases Aug 28, 2026, N/A, NE
+KPop Demon Hunters, 2025, 95, 7.4
+How to Train Your Dragon, 2025, 125, 7.7
+Everything Everywhere All at Once, 2022, 139, 7.7
+Jumanji: Open World, Expected Dec 25, 2026, N/A, NE
+Mickey 17, 2025, 137, 6.7
+Cold Storage, 2026, 99, 6.0
+Eddington, 2025, 148, 6.6
+Poor Things, 2023, 141, 7.7
+Hexed, Expected Nov 25, 2026, N/A, NE
+Abigail, 2024, 109, 6.5
+The Fall Guy, 2024, 126, 6.8
+Anyone But You, 2023, 103, 6.1
+Challengers, 2024, 131, 7.0
+Karuppu, 2026, 150, 6.2
+Nobody 2, 2025, 89, 6.3
+The Breadwinner, 2026, 99, 6.0
+Rental Family, 2025, 109, 7.6
+Stop! That! Train!, 2026, 90, 6.3
+The Pout-Pout Fish, 2026, 92, 4.9
+No Hard Feelings, 2023, 103, 6.3
+Caught Stealing, 2025, 107, 6.8
+The Last Viking, 2025, 116, 7.2
+The Threesome, 2025, 112, 6.2
+Barbie, 2023, 114, 6.8
+Solo Mio, 2026, 96, 6.7
+Ticket to Paradise, 2022, 104, 6.1
+The Thursday Murder Club, 2025, 118, 6.5
+Jackass Forever, 2022, 96, 6.8
+Animal Farm, 2025, 95, 2.8
+The Naked Gun, 2025, 85, 6.3
+Focker-in-Law, Expected Nov 25, 2026, 13, NE
+Happy Gilmore 2, 2025, 114, 6.1
+Materialists, 2025, 116, 6.2
+Is This Thing On?, 2025, 121, 6.7
+Despicable Me 4, 2024, 94, 6.2
+Coyote vs. Acme, Releases Aug 21, 2026, N/A, NE
+Dungeons &amp; Dragons: Honour Among Thieves, 2023, 134, 7.2
+Sonic the Hedgehog 3, 2024, 110, 6.9
+Bad Counselors, Releases Jul 23, 2026, 100, NE
+Good Fortune, 2025, 97, 6.5
+Glass Onion, 2022, 139, 7.1
+Maa Behen, 2026, 127, 5.5
+The Worst Person in the World, 2021, 128, 7.7
+Honey Don't!, 2025, 89, 5.3
+Dates and Nights, 2026, 101, 6.1
+Forgotten Island, 2026, 98, NE
+The Family Plan, 2023, 118, 6.3
+Babylon, 2022, 189, 7.1
+Palm Springs, 2020, 90, 7.4
+Mother's Pride, 2026, 93, 6.4
+Jerry &amp; Marge Go Large, 2022, 96, 6.9
+Chapter 51, 2025, 2, 3.4
+Don't Look Up, 2021, 138, 7.1
+The Suicide Squad, 2021, 132, 7.2
+Roommates, 2026, 107, 5.7
+Sing 2, 2021, 110, 7.3
+A Man Called Otto, 2022, 126, 7.5
+Hit Man, 2023, 115, 6.8
+Nirvanna the Band the Show the Movie, Releases Jul 3, 2026, 100, 7.8
+How to Rob a Bank, Releases Sep 4, 2026, N/A, NE
+Red, White &amp; Royal Blue, 2023, 118, 7.0
+Super Troopers 3, Releases Aug 7, 2026, 100, NE
+Twinless, 2025, 100, 7.3
+The Super Mario Bros. Movie, 2023, 92, 7.0
+Free Guy, 2021, 115, 7.1
+Athiradi, 2026, 157, 7.0
+Chainsaw Man - The Movie: Reze Arc, 2025, 100, 8.3
+Snack Shack, 2024, 112, 7.0
+Borderlands, 2024, 101, 4.7
+Hold the Fort, 2025, 76, 5.3
+Thor: Love and Thunder, 2022, 118, 6.1
+Hours, Releases Jul 24, 2026, N/A, NE
+Moana 2, 2024, 100, 6.3
+Above the Line, 2025, 90, 6.4
+The Wrong Girls, Releases Aug 14, 2026, 99, NE
+The Phoenician Scheme, 2025, 101, 6.6
+The Adventures of Cliff Booth, Expected Dec 23, 2026, N/A, NE
+You, Me &amp; Tuscany, 2026, 105, 6.1
+Playdate, 2025, 93, 5.5
+Fackham Hall, 2025, 97, 6.4
+The Electric State, 2025, 125, 5.9
+Lilo &amp; Stitch, 2025, 108, 6.7
+CODA, 2021, 111, 8.0
+Con City, 2026, 150, 9.2
+Operation Fortune: Ruse de Guerre, 2023, 114, 6.3
+Blue Moon, 2025, 100, 6.8
+The Banshees of Inisherin, 2022, 114, 7.6
+The Ugly Stepsister, 2025, 109, 7.0
+Soul, 2020, 100, 8.0
+Idiots, Releases Aug 28, 2026, 98, 6.3
+Something from Tiffany's, 2022, 87, 6.2
+Nouvelle Vague, 2025, 106, 7.3
+Beetlejuice Beetlejuice, 2024, 105, 6.6
+Sex-Positive, 2024, 85, 4.1
+Wolfs, 2024, 108, 6.5
+Late Fame, Releases Aug 28, 2026, 96, 6.8
+My Old Ass, 2024, 89, 6.9
+Not Okay, 2022, 100, 6.1
+Maddie's Secret, 2025, 98, 7.1
+Cruella, 2021, 134, 7.3
+Triangle of Sadness, 2022, 147, 7.2
+The Roses, 2025, 105, 6.6
+Lightyear, 2022, 105, 6.1
+Inside Out 2, 2024, 96, 7.5
+Minions: The Rise of Gru, 2022, 87, 6.5
+The Holdovers, 2023, 133, 7.9
+Another Round, 2020, 117, 7.7
+The Christophers, 2025, 100, 6.8
+Saturday Night, 2024, 109, 6.8
+Mexico 86, 2026, 95, 6.4
+Pizza Movie, 2026, 97, 5.9
+The Family Plan 2, 2025, 106, 5.6
+Wonka, 2023, 116, 6.9
+Jay Kelly, 2025, 132, 6.5
+Heads of State, 2025, 116, 6.4
+Encanto, 2021, 102, 7.2
+Puss in Boots: The Last Wish, 2022, 102, 7.9
+Red Notice, 2021, 118, 6.3
+Father Mother Sister Brother, 2025, 110, 6.5
+Ray Gunn, Expected Dec 18, 2026, N/A, NE
+PAW Patrol: The Dino Movie, Releases Aug 7, 2026, 88, NE
+Je M'appelle Agneta, 2026, 113, 6.8
+The Adam Project, 2022, 106, 6.7
+Kinds of Kindness, 2024, 164, 6.4
+Raya and the Last Dragon, 2021, 107, 7.3
+The Lost City, 2022, 112, 6.1
+Argylle, 2024, 139, 5.6
+Upgraded, 2024, 104, 6.1
+Sorry, Baby, 2025, 103, 7.1
+Emma., 2020, 124, 6.7
+The Bad Guys 2, 2025, 104, 7.0
+Wild Horse Nine, Expected Nov 6, 2026, N/A, NE
+Oh, Hi!, 2025, 95, 6.1
+The Life List, 2025, 123, 6.8
+A Real Pain, 2024, 90, 7.0
+Elemental, 2023, 101, 7.0
+Bottoms, 2023, 91, 6.7
+Novocaine, 2025, 110, 6.5
+The Angry Birds Movie 3, Expected Dec 23, 2026, N/A, NE
+Ghosted, 2023, 117, 5.8
+Mr. Malcolm's List, 2022, 117, 6.0
+Bad Boys: Ride or Die, 2024, 115, 6.5
+Luca, 2021, 95, 7.4
+Wish Dragon, 2021, 98, 7.2
+Dream Scenario, 2023, 102, 6.8
+Nightbitch, 2024, 99, 5.5
+The Cat in the Hat, Expected Nov 6, 2026, 91, NE
+She's the He, 2025, 82, 6.1
+The Trip, 2021, 113, 6.9
+Death of a Unicorn, 2025, 107, 5.8
+Glenrothan, 2025, 97, 5.8
+Mile End Kicks, 2025, 111, 6.2
+Finnegan's Foursome, 2026, 122, 4.9
+Elio, 2025, 98, 6.6
+Slanted, 2025, 104, 5.7
+Fresh, 2022, 114, 6.7
+IF, 2024, 104, 6.4
+Ghostbusters: Frozen Empire, 2024, 115, 6.1
+Nonnas, 2025, 111, 6.8
+Wicker, 2026, 105, 8.0
+Licorice Pizza, 2021, 133, 7.1
+Ricky Stanicky, 2024, 113, 6.2
+My Oxford Year, 2025, 112, 5.9
+The People Upstairs, 2020, 82, 6.6
+It's What's Inside, 2024, 103, 6.6
+Shell, 2024, 100, 4.9
+Kung Fu Panda 4, 2024, 94, 6.3
+Role Play, 2024, 100, 5.5
+BlackBerry, 2023, 2, 7.3
+Through My Window, 2022, 116, 5.5
+Back in Action, 2025, 114, 5.9
+Cinderella, 2021, 112, 4.4
+Deep Cover, 2025, 100, 6.7
+Horsegirls, Releases Jul 17, 2026, 101, 8.1
+Splitsville, 2025, 104, 6.4

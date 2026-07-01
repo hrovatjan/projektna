@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Supergirl, 2026, 108, 6.1
+Voicemails for Isabelle, 2026, 118, 7.4
+Toy Story 5, 2026, 102, 7.6
+Disclosure Day, 2026, 145, 6.7
+Avatar: Fire and Ash, 2025, 197, 7.2
+Project Hail Mary, 2026, 156, 8.2
+Michael, 2026, 127, 7.5
+The Odyssey, Releases Jul 17, 2026, 172, NE
+Cocktail 2, 2026, 150, 7.9
+Tuner, 2025, 107, 7.3
+In the Hand of Dante, 2025, 150, 4.9
+The Death of Robin Hood, Releases Sep 4, 2026, 122, 6.4
+Pressure, Releases Sep 9, 2026, 100, 7.3
+Practical Magic 2, Releases Sep 11, 2026, N/A, NE
+The Invite, Releases Jul 3, 2026, 107, 7.7
+How to Make a Killing, 2026, 105, 6.5
+In the Grey, 2026, 98, 6.3
+The Housemaid, 2025, 131, 6.7
+Sense and Sensibility, Releases Sep 25, 2026, N/A, NE
+Motor City, Releases Jul 24, 2026, 103, 5.9
+Remarkably Bright Creatures, 2026, 111, 7.7
+Carolina Caroline, 2025, 107, 6.7
+The Drama, 2026, 105, 7.2
+Your Fault: London, 2026, 123, 6.0
+The Devil Wears Prada 2, 2026, 119, 6.6
+Deep Water, 2026, 106, 5.5
+Power Ballad, 2026, 98, 6.8
+Blast, 2026, 142, 7.5
+Your Mother Your Mother Your Mother, Expected Oct 9, 2026, N/A, NE
+I Love Boosters, 2026, 113, 6.9
+Savage House, 2026, 113, 6.2
+Nuremberg, 2025, 148, 7.4
+Marty Supreme, 2025, 149, 7.6
+Lucky Strike, 2026, 102, 5.9
+Song Sung Blue, 2025, 132, 7.3
+Tom Clancy's Jack Ryan: Ghost War, 2026, 105, 5.7
+Crime 101, 2026, 140, 6.8
+Wuthering Heights, 2026, 136, 6.1
+Main Vaapas Aaunga, 2026, 167, 8.3
+Raja Shivaji, 2026, 195, 7.1
+Girls Like Girls, 2026, 95, 6.9
+Digger, Expected Oct 2, 2026, N/A, NE
+F1, 2025, 155, 7.6
+Top Gun: Maverick, 2022, 130, 8.2
+Batman: Knightfall - Part Knightfall, 2026, 79, 9.2
+The Weight, Releases Sep 18, 2026, 115, 7.4
+The Bride!, 2026, 126, 5.6
+Hamnet, 2025, 125, 7.8
+I Want Your Sex, Releases Aug 28, 2026, 90, NE
+Maa Inti Bangaram, 2026, 154, 8.7
+Anora, 2024, 139, 7.4
+The Rip, 2026, 113, 6.8
+My Fault: London, 2025, 2, 6.2
+Wake Up Dead Man, 2025, 144, 7.3
+Pillion, 2025, 106, 6.9
+The Batman, 2022, 176, 7.8
+Klara and the Sun, Expected Oct 23, 2026, 13, NE
+I Swear, 2025, 2, 8.4
+Heart of the Beast, Releases Sep 25, 2026, N/A, NE
+Drishyam 3, 2026, 157, 6.7
+Enola Holmes 3, 2026, 105, NE
+Dune: Part Two, 2024, 166, 8.4
+Oppenheimer, 2023, 3, 8.2
+Mercy, 2026, 99, 6.2
+The Shadow's Edge, 2025, 141, 7.0
+Dune: Part One, 2021, 155, 8.0
+Days, 2020, 114, 3.3
+Americana, 2023, 107, 6.0
+Frankenstein, 2025, 149, 7.4
+The Substance, 2024, 141, 7.2
+Dune: Part Three, Expected Dec 18, 2026, N/A, NE
+Gladiator II, 2024, 148, 6.4
+Those Who Wish Me Dead, 2021, 100, 6.0
+The Creator, 2023, 133, 6.7
+The Killer, 2024, 126, 5.7
+Enola Holmes, 2020, 123, 6.7
+Couture, 2025, 106, 5.7
+Thunderbolts*, 2025, 127, 7.1
+The Amazing Digital Circus: The Last Act, 2026, 95, 7.6
+Beast, 2026, 114, 5.8
+My Fault, 2023, 117, 6.1
+Hope, 2026, 160, 6.9
+Dead Man's Wire, 2025, 104, 6.4
+Eternity, 2025, 114, 6.9
+The Hunger Games: Sunrise on the Reaping, Expected Nov 20, 2026, 150, NE
+Street Fighter, Expected Oct 16, 2026, 13, NE
+Roofman, 2025, 126, 6.9
+Speak No Evil, 2024, 110, 6.8
+Outcome, 2026, 83, 4.5
+Nagabandham - The Secret Treasure, Releases Jul 3, 2026, 185, NE
+Regretting You, 2025, 116, 6.0
+Reminders of Him, 2026, 114, 6.3
+Blue Heron, 2025, 91, 7.3
+No Other Choice, 2025, 139, 7.5
+Dear You, 2026, 118, 8.4
+Colors of Evil: Black, 2026, 110, 5.9
+29, 2026, 150, 7.9
+The Voyeurs, 2021, 116, 6.1
+The Dog Stars, Releases Aug 28, 2026, 100, NE
+Sentimental Value, 2025, 133, 7.7
+Peaky Blinders: The Immortal Man, 2026, 112, 6.5
+The Idea of You, 2024, 115, 6.3
+Train Dreams, 2025, 102, 7.5
+One Night Only, Releases Aug 28, 2026, N/A, NE
+The Good Boy, 2025, 110, 6.8
+How to Train Your Dragon, 2025, 125, 7.7
+Teenage Sex and Death at Camp Miasma, Releases Aug 21, 2026, 106, 6.9
+Everything Everywhere All at Once, 2022, 139, 7.7
+Ballerina, 2025, 124, 6.8
+Don't Worry Darling, 2022, 123, 6.3
+Eddington, 2025, 148, 6.6
+Blades of the Guardians, 2026, 126, 6.9
+Poor Things, 2023, 141, 7.7
+The Marked Woman, 2026, 109, 5.5
+Until Dawn, 2025, 103, 5.7
+Return to Silent Hill, 2026, 106, 4.0
+Die My Love, 2025, 119, 6.0
+Abigail, 2024, 109, 6.5
+The Fall Guy, 2024, 126, 6.8
+Saltburn, 2023, 130, 7.0
+Balan: The Boy, 2026, 150, 8.3
+The Life of Chuck, 2024, 111, 7.3
+Challengers, 2024, 131, 7.0
+Karuppu, 2026, 150, 6.2
+Juror #2, 2024, 114, 7.0
+Echo Valley, 2025, 104, 6.3
+Aftersun, 2022, 102, 7.6
+Rental Family, 2025, 109, 7.6
+The Killer, 2023, 118, 6.7
+The Last Viking, 2025, 116, 7.2
+The Threesome, 2025, 112, 6.2
+The Secret Agent, 2025, 161, 7.2
+Dridam, 2026, 128, 7.0
+Leave the World Behind, 2023, 138, 6.4
+Nobody, 2021, 92, 7.4
+The Woman in Cabin 10, 2025, 92, 5.8
+The Samurai and the Prisoner, 2026, 147, 7.1
+Fall Deadpoint, Releases Aug 7, 2026, N/A, NE
+Eden, 2024, 129, 6.5
+Enola Holmes 2, 2022, 129, 6.8
+Verity, Expected Oct 2, 2026, 114, NE
+Road House, 2024, 121, 6.2
+The Wizard of the Kremlin, 2025, 152, 6.0
+Ticket to Paradise, 2022, 104, 6.1
+Your Fault, 2024, 118, 5.3
+Is God Is, 2026, 100, 6.6
+Animal Farm, 2025, 95, 2.8
+Saccharine, 2026, 113, 5.9
+The 24th, 2020, 113, 6.6
+Killers of the Flower Moon, 2023, 206, 7.5
+The Covenant, 2023, 123, 7.5
+The Accountant 2, 2025, 132, 6.6
+Past Lives, 2023, 105, 7.8
+Mon Potongo, 2024, 149, 4.9
+Mother Mary, 2026, 111, 5.5
+Materialists, 2025, 116, 6.2
+Is This Thing On?, 2025, 121, 6.7
+Daniel, Releases Sep 11, 2026, N/A, NE
+The Northman, 2022, 137, 7.0
+Peddi, 2026, 182, 5.9
+Dacoit: A Love Story, 2026, 149, 7.5
+Wicked: For Good, 2025, 137, 6.6
+A Complete Unknown, 2024, 141, 7.3
+Whalefall, Expected Oct 16, 2026, N/A, NE
+Glass Onion, 2022, 139, 7.1
+The Social Reckoning, Expected Oct 9, 2026, N/A, NE
+A House of Dynamite, 2025, 112, 6.4
+Maa Behen, 2026, 127, 5.5
+Euphoria, 2026, 150, 7.7
+The Hunger Games: The Ballad of Songbirds &amp; Snakes, 2023, 157, 6.6
+The Worst Person in the World, 2021, 128, 7.7
+Psycho Killer, 2026, 91, 4.8
+Fast Charlie, 2023, 90, 6.0
+12th Fail, 2023, 147, 8.7
+Black Bag, 2025, 93, 6.7
+KD: The Devil, 2026, 140, 6.5
+Sirat, 2025, 114, 7.0
+Babylon, 2022, 189, 7.1
+Her Private Hell, Releases Sep 25, 2026, 109, 3.8
+Dust Bunny, 2025, 106, 6.5
+Warfare, 2025, 95, 7.1
+The Testament of Ann Lee, 2025, 136, 6.5
+Anatomy of a Fall, 2023, 151, 7.6
+Deep Water, 2022, 115, 5.5
+It Was Just an Accident, 2025, 103, 7.4
+Jerry &amp; Marge Go Large, 2022, 96, 6.9
+Kraken, 2026, 100, 5.2
+David, 2025, 109, 6.9
+Nightmare Alley, 2021, 150, 7.0
+The Invisible Man, 2020, 124, 7.1
+Don't Look Up, 2021, 138, 7.1
+Babygirl, 2024, 114, 5.7
+Bharat Bhhagya Viddhaata, 2026, 125, 8.0
+It Ends with Us, 2024, 130, 6.3
+A Man Called Otto, 2022, 126, 7.5
+Caddo Lake, 2024, 103, 6.8
+The Brutalist, 2024, 216, 7.2
+Fjord, 2026, 146, 8.4
+The Last Sunrise, Releases Aug 26, 2026, N/A, NE
+Perfect Days, 2023, 124, 7.9
+Hamilton, 2020, 160, 8.3
+Twinless, 2025, 100, 7.3
+Love Is the Monster, 2025, 87, 3.7
+Horizon: An American Saga - Chapter 1, 2024, 181, 6.6
+Purple Hearts, 2022, 122, 6.7
+Athiradi, 2026, 157, 7.0
+Snack Shack, 2024, 112, 7.0
+Your Heart Will Be Broken, 2026, 134, 4.7
+The Tomorrow War, 2021, 138, 6.6
+One Mile: Chapter One, 2026, 89, 5.7
+Pearl, 2022, 103, 7.0
+The Whale, 2022, 117, 7.6
+The Last Duel, 2021, 152, 7.3
+Relay, 2024, 112, 7.0
+The Zone of Interest, 2023, 105, 7.3
+Conclave, 2024, 2, 7.4
+Above the Line, 2025, 90, 6.4
+The Wrong Girls, Releases Aug 14, 2026, 99, NE
+The Phoenician Scheme, 2025, 101, 6.6
+Our Fault, 2025, 112, 5.4
+If I Had Legs I'd Kick You, 2025, 113, 6.6
+The Adventures of Cliff Booth, Expected Dec 23, 2026, N/A, NE
+Wasteman, 2025, 90, 7.2
+Men, 2022, 100, 6.0
+Havoc, 2025, 107, 5.6
+The Stranger, 2025, 122, 7.1
+All Quiet on the Western Front, 2022, 148, 7.8
+Blue Film, 2025, 82, 7.1
+The Electric State, 2025, 125, 5.9
+Lilo &amp; Stitch, 2025, 108, 6.7
+Miss You, Love You, 2026, 97, 6.8
+CODA, 2021, 111, 8.0
+Con City, 2026, 150, 9.2
+Resurrection, 2025, 160, 7.3
+Toxic, Releases Aug 26, 2026, 195, NE
+De Gaulle: Résistance, Releases Aug 28, 2026, 160, 7.6
+On the Sea, 2025, 111, 7.3
+Blue Moon, 2025, 100, 6.8
+The Banshees of Inisherin, 2022, 114, 7.6
+The Lost Bus, 2025, 130, 6.8
+Patriot, 2026, 3, 6.3
+Keep Quiet, 2025, 104, 8.0
+The Fabelmans, 2022, 151, 7.5
+Springsteen: Deliver Me from Nowhere, 2025, 119, 6.6
+The Ugly Stepsister, 2025, 109, 7.0
+Soul, 2020, 100, 8.0
+All of Us Strangers, 2023, 105, 7.6
+Nouvelle Vague, 2025, 106, 7.3
+A Private Life, 2025, 107, 5.9
+The Devil All the Time, 2020, 138, 7.1

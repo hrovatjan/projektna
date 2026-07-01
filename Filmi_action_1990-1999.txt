@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Heat, 1995, 170, 8.3
+The Matrix, 1999, 136, 8.7
+Independence Day, 1996, 145, 7.0
+The Fifth Element, 1997, 126, 7.6
+Terminator Judgment Day, 1991, 137, 8.6
+Leon, 1994, 110, 8.5
+True Lies, 1994, 141, 7.3
+The Rock, 1996, 136, 7.4
+Starship Troopers, 1997, 129, 7.3
+Point Break, 1991, 122, 7.3
+The Mummy, 1999, 124, 7.1
+Fallen, 1998, 124, 7.0
+Twister, 1996, 113, 6.6
+Star Wars: Episode I - The Phantom Menace, 1999, 136, 6.5
+The Fugitive, 1993, 130, 7.8
+Men in Black, 1997, 98, 7.3
+Rush Hour, 1998, 98, 7.1
+The Last of the Mohicans, 1992, 112, 7.6
+Hercules, 1997, 93, 7.3
+Face/Off, 1997, 138, 7.3
+Speed, 1994, 116, 7.3
+Total Recall, 1990, 113, 7.5
+The Quick and the Dead, 1995, 108, 6.5
+The Lost World: Jurassic Park, 1997, 129, 6.6
+Con Air, 1997, 115, 6.9
+Austin Powers: The Spy Who Shagged Me, 1999, 95, 6.7
+Deep Impact, 1998, 2, 6.3
+Armageddon, 1998, 151, 6.7
+Robin Hood: Prince of Thieves, 1991, 143, 6.9
+Stargate, 1994, 121, 7.0
+The Hunt for Red October, 1990, 135, 7.5
+Blade, 1998, 2, 7.1
+From Dusk Till Dawn, 1996, 108, 7.2
+Ghost in the Shell, 1995, 83, 7.9
+Mortal Kombat, 1995, 101, 5.9
+Waterworld, 1995, 135, 6.3
+Batman Forever, 1995, 121, 5.5
+Demolition Man, 1993, 115, 6.7
+Bad Boys, 1995, 119, 6.8
+The Man in the Iron Mask, 1998, 132, 6.5
+Mission: Impossible, 1996, 110, 7.2
+The Iron Giant, 1999, 86, 8.1
+Enemy of the State, 1998, 132, 7.3
+The Jackal, 1997, 124, 6.4
+Kindergarten Cop, 1990, 111, 6.3
+Batman Returns, 1992, 126, 7.1
+The Last Boy Scout, 1991, 105, 7.0
+Batman &amp; Robin, 1997, 125, 3.8
+Anaconda, 1997, 89, 5.0
+The Crow, 1994, 102, 7.5
+GoldenEye, 1995, 130, 7.2
+The Boondock Saints, 1999, 108, 7.6
+Crimson Tide, 1995, 116, 7.4
+Striking Distance, 1993, 102, 5.9
+Dante's Peak, 1997, 108, 6.1
+The Mask of Zorro, 1998, 136, 6.8
+Desperado, 1995, 104, 7.1
+Harley Davidson and the Marlboro Man, 1991, 98, 6.1
+Split Second, 1992, 90, 6.0
+Last Action Hero, 1993, 130, 6.5
+Days of Thunder, 1990, 107, 6.1
+Teenage Mutant Ninja Turtles, 1990, 93, 6.8
+Deep Blue Sea, 1999, 105, 6.0
+Breakdown, 1997, 93, 7.0
+The Devil's Own, 1997, 111, 6.2
+Air Force One, 1997, 124, 6.6
+Grosse Pointe Blank, 1997, 107, 7.3
+Ronin, 1998, 122, 7.2
+Clear and Present Danger, 1994, 141, 6.9
+Congo, 1995, 109, 5.3
+The 13th Warrior, 1999, 102, 6.6
+Die Hard: With a Vengeance, 1995, 128, 7.6
+Run Lola Run, 1998, 81, 7.6
+Maverick, 1994, 127, 7.0
+The Long Kiss Goodnight, 1996, 121, 6.8
+Small Soldiers, 1998, 108, 6.3
+The Three Musketeers, 1993, 105, 6.4
+Eraser, 1996, 115, 6.2
+Ricochet, 1991, 102, 6.2
+In the Line of Fire, 1993, 128, 7.2
+Dick Tracy, 1990, 105, 6.2
+The Negotiator, 1998, 140, 7.3
+Toy Soldiers, 1991, 111, 6.6
+Arlington Road, 1999, 117, 7.2
+Lethal Weapon 3, 1992, 118, 6.7
+Species, 1995, 108, 5.9
+Patriot Games, 1992, 117, 6.8
+Die Hard 2, 1990, 124, 7.2
+Godzilla, 1998, 139, 5.5
+Hard Boiled, 1992, 128, 7.7
+Neon Genesis Evangelion: The End of Evangelion, 1997, 87, 8.1
+The Rocketeer, 1991, 108, 6.6
+Payback, 1999, 100, 7.0
+The World Is Not Enough, 1999, 128, 6.4
+State of Grace, 1990, 134, 7.1
+Alien³, 1992, 114, 6.4
+Conspiracy Theory, 1997, 135, 6.7
+The Postman, 1997, 177, 6.1
+Three Kings, 1999, 114, 7.1
+Batman: Mask of the Phantasm, 1993, 76, 7.8
+Passenger 57, 1992, 84, 5.9
+George of the Jungle, 1997, 92, 5.6
+Ninja Scroll, 1993, 94, 7.8
+Cliffhanger, 1993, 113, 6.5
+Executive Decision, 1996, 133, 6.5
+The Edge, 1997, 117, 7.0
+Navy Seals, 1990, 113, 5.6
+Star Trek: First Contact, 1996, 111, 7.6
+Judge Dredd, 1995, 96, 5.6
+DragonHeart, 1996, 103, 6.4
+Under Siege, 1992, 103, 6.5
+Tomorrow Never Dies, 1997, 119, 6.5
+Virtuosity, 1995, 106, 5.5
+Mortal Kombat: Annihilation, 1997, 95, 3.6
+Outbreak, 1995, 128, 6.6
+Predator 2, 1990, 108, 6.3
+G.I. Jane, 1997, 125, 6.1
+Six Days Seven Nights, 1998, 102, 5.9
+Wild Wild West, 1999, 106, 4.9
+Entrapment, 1999, 113, 6.3
+Johnny Mnemonic, 1995, 103, 5.6
+Mystery Men, 1999, 121, 6.1
+New Jack City, 1991, 101, 6.7
+Volcano, 1997, 104, 5.6
+Escape from L.A., 1996, 101, 5.7
+Deep Rising, 1998, 106, 6.1
+Backdraft, 1991, 137, 6.7
+Ransom, 1996, 121, 6.7
+Tank Girl, 1995, 104, 5.4
+The Cowboy Way, 1994, 102, 6.0
+Alien: Resurrection, 1997, 109, 6.2
+Hot Shots!, 1991, 85, 6.7
+Lost in Space, 1998, 130, 5.3
+Nikita, 1990, 117, 7.2
+Hard Target, 1993, 97, 6.2
+Loaded Weapon 1, 1993, 84, 6.2
+The Siege, 1998, 116, 6.4
+Deep Cover, 1992, 107, 7.0
+Street Fighter, 1994, 102, 4.1
+Spawn, 1997, 96, 5.2
+U.S. Marshals, 1998, 131, 6.6
+The Substitute, 1996, 114, 6.1
+Revenge, 1990, 124, 6.2
+Buffy the Vampire Slayer, 1992, 86, 5.7
+Hot Shots! Part Deux, 1993, 86, 6.6
+Timecop, 1994, 99, 6.0
+Star Trek: Generations, 1994, 118, 6.6
+Taxi, 1998, 89, 7.0
+Dead Presidents, 1995, 119, 6.9
+Broken Arrow, 1996, 108, 6.1
+Beverly Hills Cop III, 1994, 104, 5.5
+Lake Placid, 1999, 82, 5.8
+Daylight, 1996, 114, 6.0
+Courage Under Fire, 1996, 116, 6.6
+The Big Hit, 1998, 91, 6.0
+Quigley Down Under, 1990, 119, 6.9
+Lethal Weapon 4, 1998, 127, 6.6
+Darkman, 1990, 96, 6.4
+Star Trek VI: The Undiscovered Country, 1991, 110, 7.3
+The Saint, 1997, 116, 6.2
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze, 1991, 88, 6.0
+Virus, 1999, 99, 5.1
+The Prophecy, 1995, 98, 6.4
+Vampires, 1998, 108, 6.1
+Point of No Return, 1993, 109, 6.1
+Soldier, 1998, 99, 6.1
+Dark Angel, 1990, 91, 6.1
+Mercury Rising, 1998, 111, 6.1
+The Fan, 1996, 116, 5.9
+Money Talks, 1997, 97, 6.2
+End of Days, 1999, 122, 5.8
+Blown Away, 1994, 121, 6.3
+Cutthroat Island, 1995, 124, 5.7
+Barb Wire, 1996, 98, 3.6
+The Specialist, 1994, 110, 5.6
+Universal Soldier, 1992, 102, 6.1
+Who Am I?, 1998, 2, 6.8
+The Phantom, 1996, 100, 5.1
+Star Trek: Insurrection, 1998, 103, 6.4
+Arunachalam, 1997, 165, 7.5
+The Net, 1995, 114, 6.0
+First Knight, 1995, 134, 6.0
+Young Guns II: Blaze of Glory, 1990, 104, 6.5
+The Thief and the Cobbler, 1993, 99, 7.1
+El mariachi, 1992, 81, 6.8
+Pokémon: The First Movie, 1998, 96, 6.4
+Speed Cruise Control, 1997, 121, 4.0
+Nothing to Lose, 1997, 98, 6.7
+Sniper, 1993, 98, 6.1
+Rumble in the Bronx, 1995, 106, 6.8
+Thursday, 1998, 87, 7.1
+Assassins, 1995, 133, 6.3
+Street Fighter II: The Animated Movie, 1994, 102, 7.2
+Chain Reaction, 1996, 107, 5.7
+Sonatine, 1993, 94, 7.4
+Absolute Power, 1997, 121, 6.7
+Drunken Master II, 1994, 102, 7.5
+Juice, 1992, 95, 7.0
+Wrongfully Accused, 1998, 87, 6.1
+Hudson Hawk, 1991, 100, 5.7
+Bullet in the Head, 1990, 136, 7.5
+Fortress, 1992, 95, 5.9
+Nightbreed, 1990, 102, 6.5
+RoboCop 2, 1990, 117, 5.8
+Double Impact, 1991, 110, 5.7
+Muppet Treasure Island, 1996, 99, 6.9
+Hard Rain, 1998, 97, 5.9
+Last Man Standing, 1996, 101, 6.4
+Blue Streak, 1999, 93, 6.4
+Doraemon: Nobita and the Galaxy Super-express, 1996, 97, 7.0
+No Escape, 1994, 118, 6.1
+Rush, 1991, 2, 6.7
+Stone Cold, 1991, 92, 6.1
+Dragon: The Bruce Lee Story, 1993, 119, 7.0
+Species II, 1998, 93, 4.5
+Rapid Fire, 1992, 95, 6.3
+Set It Off, 1996, 123, 6.9
+The Enforcer, 1995, 104, 6.5
+Om, 1995, 150, 8.9
+City Hunter, 1993, 100, 6.3
+The Peacemaker, 1997, 124, 6.0
+The Day of the Beast, 1995, 103, 7.3
+From Beijing with Love, 1994, 84, 7.1
+Andaz Apna Apna, 1994, 160, 8.0
+Police Story Supercop, 1992, 96, 7.0
+The Next Karate Kid, 1994, 107, 4.6
+Captain America, 1990, 97, 3.3
+Nick of Time, 1995, 89, 6.3
+Freejack, 1992, 110, 5.4
+The Getaway, 1994, 115, 5.9
+Bad Girls, 1994, 99, 5.2
+Rising Sun, 1993, 125, 6.3
+Nemesis, 1992, 96, 5.4
+Marked for Death, 1990, 93, 5.9
+Robin Hood, 1991, 104, 5.7
+Death Warrant, 1990, 89, 5.7
+Under Siege Dark Territory, 1995, 100, 5.6
+Showdown in Little Tokyo, 1991, 79, 6.1
+Canadian Bacon, 1995, 91, 5.9
+The Chase, 1994, 89, 5.9
+Once Upon a Time in China, 1991, 134, 7.2
+Just Cause, 1995, 102, 6.4
+Rosewood, 1997, 142, 7.2
+Teenage Mutant Ninja Turtles III, 1993, 96, 4.8
+Thevar Magan, 1992, 145, 8.7
+Tales from the Crypt: Demon Knight, 1995, 92, 6.7
+Men at Work, 1990, 98, 5.9
+The Quest, 1996, 95, 5.6
+Mighty Joe Young, 1998, 114, 5.7
+The God of Cookery, 1996, 88, 7.2

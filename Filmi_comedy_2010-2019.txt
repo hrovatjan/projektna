@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Toy Story 4, 2019, 100, 7.6
+Toy Story 3, 2010, 103, 8.3
+The Wolf of Wall Street, 2013, 3, 8.2
+Once Upon a Time... in Hollywood, 2019, 161, 7.6
+Guardians of the Galaxy, 2014, 121, 8.0
+Ready or Not, 2019, 95, 6.9
+The Gentlemen, 2019, 113, 7.8
+Knives Out, 2019, 130, 7.9
+Green Book, 2018, 130, 8.2
+We're the Millers, 2013, 110, 7.0
+The Nice Guys, 2016, 116, 7.4
+La La Land, 2016, 128, 8.0
+Crazy, Stupid, Love., 2011, 118, 7.4
+Moana, 2016, 107, 7.6
+About Time, 2013, 123, 7.8
+Love, Simon, 2018, 110, 7.5
+Set It Up, 2018, 105, 6.5
+Spider-Man: Far from Home, 2019, 129, 7.3
+The Grand Budapest Hotel, 2014, 99, 8.1
+War Dogs, 2016, 114, 7.1
+The Big Short, 2015, 130, 7.8
+Game Night, 2018, 100, 6.9
+Untouchable, 2011, 112, 8.5
+Jumanji: Welcome to the Jungle, 2017, 119, 6.9
+Sing, 2016, 108, 7.1
+Grown Ups, 2010, 102, 6.0
+Pitch Perfect, 2012, 112, 7.1
+Three Billboards Outside Ebbing, Missouri, 2017, 115, 8.1
+Zootropolis, 2016, 108, 8.0
+Kingsman: The Secret Service, 2014, 129, 7.7
+Deadpool, 2016, 108, 8.0
+Despicable Me, 2010, 95, 7.6
+Jump Street, 2012, 109, 7.2
+Thor: Ragnarok, 2017, 130, 7.9
+Guardians of the Galaxy: Vol. 2, 2017, 136, 7.6
+The Secret Life of Walter Mitty, 2013, 114, 7.3
+Love &amp; Other Drugs, 2010, 112, 6.7
+Vacation, 2015, 99, 6.2
+The Man from U.N.C.L.E., 2015, 116, 7.2
+Minions, 2015, 91, 6.4
+Just Go with It, 2011, 117, 6.4
+Inside Out, 2015, 95, 8.1
+Frozen, 2013, 102, 7.4
+Hustlers, 2019, 110, 6.3
+The Fundamentals of Caring, 2016, 97, 7.3
+Booksmart, 2019, 102, 7.1
+Tusk, 2014, 102, 5.4
+Tangled, 2010, 100, 7.7
+Grown Ups 2, 2013, 101, 5.4
+Scott Pilgrim vs. the World, 2010, 112, 7.5
+Knight and Day, 2010, 109, 6.3
+Cocktail, 2012, 146, 6.3
+The Dictator, 2012, 83, 6.5
+Jumanji: The Next Level, 2019, 123, 6.6
+Chef, 2014, 114, 7.3
+Jojo Rabbit, 2019, 108, 7.9
+Deadpool 2, 2018, 119, 7.6
+Bridesmaids, 2011, 125, 6.8
+Central Intelligence, 2016, 107, 6.3
+Cars 3, 2017, 102, 6.7
+Cars 2, 2011, 106, 6.2
+Night at the Museum: Secret of the Tomb, 2014, 98, 6.2
+Brave, 2012, 93, 7.1
+Aladdin, 2019, 128, 6.9
+Spy, 2015, 2, 7.0
+Diary of a Wimpy Kid, 2010, 94, 6.3
+Ted, 2012, 106, 6.9
+Kick-Ass, 2010, 117, 7.6
+The Other Guys, 2010, 107, 6.7
+Movie 43, 2013, 90, 4.4
+Monsters University, 2013, 104, 7.2
+Incredibles 2, 2018, 118, 7.5
+Lady Bird, 2017, 94, 7.4
+Scary Movie 5, 2013, 88, 3.6
+Wild Tales, 2014, 122, 8.1
+What We Do in the Shadows, 2014, 86, 7.6
+Now You See Me 2, 2016, 129, 6.4
+Ant-Man, 2015, 117, 7.2
+The Big Sick, 2017, 2, 7.5
+Big Hero 6, 2014, 102, 7.8
+Walking on Sunshine, 2014, 97, 5.4
+Despicable Me 3, 2017, 90, 6.3
+Jump Street, 2014, 112, 7.0
+Rango, 2011, 107, 7.3
+Crazy Rich Asians, 2018, 2, 6.9
+Silver Linings Playbook, 2012, 122, 7.7
+The Kings of Summer, 2013, 95, 7.1
+Isle of Dogs, 2018, 101, 7.8
+Life as We Know It, 2010, 115, 6.5
+Birdman or (The Unexpected Virtue of Ignorance), 2014, 119, 7.7
+Jackass 3D, 2010, 94, 7.0
+Blended, 2014, 117, 6.5
+This Is Where I Leave You, 2014, 103, 6.7
+The Lego Movie, 2014, 100, 7.7
+Seven Psychopaths, 2012, 110, 7.1
+Project X, 2012, 88, 6.7
+Captain Fantastic, 2016, 118, 7.8
+Demolition, 2015, 101, 7.0
+Zombieland: Double Tap, 2019, 99, 6.6
+The Intern, 2015, 121, 7.1
+Baywatch, 2017, 116, 5.5
+Murder on the Orient Express, 2017, 114, 6.5
+Wreck-It Ralph, 2012, 101, 7.7
+Moonrise Kingdom, 2012, 94, 7.7
+Sorry to Bother You, 2018, 112, 6.9
+The Hangover Part II, 2011, 102, 6.5
+American Made, 2017, 115, 7.2
+RED, 2010, 111, 7.0
+Pokémon: Detective Pikachu, 2019, 104, 6.5
+I, Tonya, 2017, 119, 7.5
+Identity Thief, 2013, 111, 5.7
+Despicable Me 2, 2013, 98, 7.3
+No Strings Attached, 2011, 108, 6.2
+Transformers: The Last Knight, 2017, 154, 5.2
+We Bought a Zoo, 2011, 124, 7.0
+That's My Boy, 2012, 116, 5.6
+Hotel Transylvania, 2012, 91, 7.1
+The Favourite, 2018, 119, 7.5
+Easy A, 2010, 92, 7.0
+Midnight in Paris, 2011, 94, 7.6
+Mamma Mia: Here We Go Again!, 2018, 114, 6.6
+Friends with Benefits, 2011, 109, 6.5
+The Heat, 2013, 117, 6.6
+The Lego Batman Movie, 2017, 104, 7.3
+Kingsman: The Golden Circle, 2017, 141, 6.7
+Tag, 2018, 100, 6.5
+Shazam!, 2019, 132, 7.0
+Megamind, 2010, 95, 7.3
+The World's End, 2013, 109, 6.9
+Footloose, 2011, 113, 5.9
+Why Him?, 2016, 111, 6.2
+Burnt, 2015, 101, 6.6
+The Disaster Artist, 2017, 104, 7.3
+Pitch Perfect 2, 2015, 115, 6.4
+This Is the End, 2013, 107, 6.6
+Finding Dory, 2016, 97, 7.2
+Pixels, 2015, 105, 5.6
+The Secret Life of Pets, 2016, 86, 6.5
+Ocean's Eight, 2018, 110, 6.3
+Love, Rosie, 2014, 102, 7.1
+Rio, 2011, 96, 6.9
+Mid90s, 2018, 85, 7.4
+The Ballad of Buster Scruggs, 2018, 133, 7.2
+Sex Tape, 2014, 94, 5.1
+Shrek Forever After, 2010, 93, 6.3
+Teenage Mutant Ninja Turtles, 2014, 101, 5.8
+The Way Way Back, 2013, 103, 7.4
+Hot Tub Time Machine, 2010, 99, 6.4
+BlacKkKlansman, 2018, 135, 7.5
+The Art of Racing in the Rain, 2019, 109, 7.6
+A Simple Favour, 2018, 117, 6.7
+Instant Family, 2018, 118, 7.3
+Happy Death Day, 2017, 96, 6.6
+The Interview, 2014, 112, 6.5
+Transformers: Age of Extinction, 2014, 165, 5.6
+Transformers: Dark of the Moon, 2011, 154, 6.2
+The Babysitter, 2017, 85, 6.4
+To All the Boys I've Loved Before, 2018, 99, 7.0
+Guns Akimbo, 2019, 98, 6.3
+Horrible Bosses, 2011, 98, 6.9
+The To-Do List, 2013, 104, 5.8
+Turbo, 2013, 96, 6.4
+The Dead Don't Die, 2019, 104, 5.4
+Don Jon, 2013, 90, 6.5
+Going in Style, 2017, 96, 6.6
+The Peanut Butter Falcon, 2019, 97, 7.6
+Scouts Guide to the Zombie Apocalypse, 2015, 93, 6.3
+Leap Year, 2010, 100, 6.5
+How to Train Your Dragon 2, 2014, 102, 7.8
+Mr. Church, 2016, 104, 7.6
+Inherent Vice, 2014, 148, 6.6
+6 Underground, 2019, 128, 6.1
+The Angry Birds Movie, 2016, 97, 6.3
+Tucker and Dale vs Evil, 2010, 89, 7.5
+Safety Not Guaranteed, 2012, 86, 6.9
+Dark Shadows, 2012, 113, 6.2
+Kung Fu Panda 3, 2016, 95, 7.1
+Klaus, 2019, 96, 8.2
+Ant-Man and the Wasp, 2018, 118, 7.0
+Sing Street, 2016, 106, 7.9
+Paul, 2011, 104, 6.9
+The Edge of Seventeen, 2016, 104, 7.3
+Bad Neighbours, 2014, 97, 6.3
+The Descendants, 2011, 115, 7.3
+Flower, 2017, 90, 6.0
+Tully, 2018, 95, 6.9
+Paddington, 2014, 95, 7.3
+Begin Again, 2013, 104, 7.4
+Ghostbusters, 2016, 117, 6.8
+Family, 2018, 85, 6.4
+Logan Lucky, 2017, 118, 7.0
+Thoroughbreds, 2017, 92, 6.6
+Home, 2015, 94, 6.5
+Hunt for the Wilderpeople, 2016, 101, 7.8
+Odd Thomas, 2013, 100, 6.8
+Sex and the City 2, 2010, 146, 4.6
+The Change-Up, 2011, 112, 6.3
+Sausage Party, 2016, 89, 6.1
+Due Date, 2010, 95, 6.5
+A Million Ways to Die in the West, 2014, 116, 6.1
+The Death of Stalin, 2017, 107, 7.3
+Bad Teacher, 2011, 92, 5.7
+The Upside, 2017, 126, 7.1
+Frozen II, 2019, 103, 6.8
+The Family, 2013, 111, 6.3
+Men in Black 3, 2012, 106, 6.8
+Focus, 2015, 105, 6.6
+Diet of Sex, 2014, 72, 4.3
+The Kissing Booth, 2018, 105, 5.9
+Dirty Grandpa, 2016, 102, 5.9
+Yesterday, 2019, 116, 6.8
+Sisters, 2015, 118, 6.0
+Piranha 3D, 2010, 88, 5.5
+Men in Black: International, 2019, 114, 5.6
+Vice, 2018, 132, 7.2
+The Good Dinosaur, 2015, 93, 6.7
+The Hangover Part III, 2013, 100, 5.9
+The Secret Life of Pets 2, 2019, 86, 6.4
+The Boss Baby, 2017, 97, 6.3
+Ralph Breaks the Internet, 2018, 112, 7.0
+Kung Fu Panda 2, 2011, 90, 7.3
+Somewhere, 2010, 97, 6.3
+Journey The Mysterious Island, 2012, 94, 5.7
+Submarine, 2010, 97, 7.3
+Flipped, 2010, 90, 7.6
+After Everything, 2018, 95, 6.5
+Paddington 2, 2017, 103, 7.8
+Pride, 2014, 119, 7.8
+Trolls, 2016, 92, 6.4
+Eighth Grade, 2018, 93, 7.3
+The Croods, 2013, 98, 7.1
+2 Guns, 2013, 109, 6.7
+Barefoot, 2014, 90, 6.5
+Into the Woods, 2014, 125, 5.9
+How to Train Your Dragon: The Hidden World, 2019, 104, 7.4
+August: Osage County, 2013, 121, 7.2
+50/50, 2011, 100, 7.6
+Grimsby, 2016, 83, 6.2
+The Internship, 2013, 119, 6.3
+Colossal, 2016, 109, 6.2
+The Dirt, 2019, 107, 7.0
+One Wild Moment, 2015, 105, 6.2
+Swiss Army Man, 2016, 97, 6.9
+Warm Bodies, 2013, 98, 6.8
+Madagascar Europe's Most Wanted, 2012, 95, 6.8
+Youth, 2015, 124, 7.3
+Puss in Boots, 2011, 90, 6.6
+The Way, 2010, 123, 7.3
+We Still Kill the Old Way, 2014, 94, 6.0
+Bad Grandpa, 2013, 92, 6.5

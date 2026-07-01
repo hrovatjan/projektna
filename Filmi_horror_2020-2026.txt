@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Obsession, 2025, 108, 8.1
+Backrooms, 2026, 110, 7.1
+Scary Movie 6, 2026, 96, 5.2
+Leviticus, 2026, 88, 6.8
+Undertone, 2025, 94, 5.9
+They Will Kill You, 2026, 94, 6.3
+Hokum, 2026, 107, 6.7
+Send Help, 2026, 113, 6.7
+Deep Water, 2026, 106, 5.5
+Lee Cronin's The Mummy, 2026, 134, 6.2
+Evil Dead Burn, Releases Jul 10, 2026, 110, NE
+Colony, Releases Aug 28, 2026, 122, 6.9
+Weapons, 2025, 128, 7.4
+Years Later: The Bone Temple, 2026, 109, 7.2
+Hungry, 2026, 93, 5.0
+Sinners, 2025, 137, 7.5
+Ready or Not Here I Come, 2026, 108, 6.5
+Scream 7, 2026, 114, 5.5
+Bring Her Back, 2025, 104, 7.1
+The Bride!, 2026, 126, 5.6
+Iron Lung, 2026, 125, 5.8
+The Long Walk, 2025, 108, 6.7
+Forbidden Fruits, 2026, 103, 5.2
+Frankenstein, 2025, 149, 7.4
+Dracula: A Love Tale, 2025, 129, 6.2
+The Substance, 2024, 141, 7.2
+Resident Evil, Releases Sep 18, 2026, 90, NE
+Werwulf, Expected Dec 25, 2026, N/A, NE
+The Last House, Releases Aug 7, 2026, 13, NE
+Exit 8, 2025, 95, 6.5
+We Bury the Dead, 2024, 95, 5.6
+The Gorge, 2025, 128, 6.7
+Years Later, 2025, 115, 6.6
+Bhooth Bangla, 2026, 163, 5.1
+The Amazing Digital Circus: The Last Act, 2026, 95, 7.6
+X, 2022, 105, 6.5
+Passenger, 2026, 94, 5.6
+Hope, 2026, 160, 6.9
+Heretic, 2024, 111, 7.0
+Speak No Evil, 2024, 110, 6.8
+The Menu, 2022, 107, 7.1
+Together, 2025, 102, 6.7
+The Good Boy, 2025, 110, 6.8
+Teenage Sex and Death at Camp Miasma, Releases Aug 21, 2026, 106, 6.9
+Pinocchio: Unstrung, Releases Jul 24, 2026, 82, 7.8
+Thrash, 2026, 86, 5.0
+Ice Cream Man, Releases Aug 7, 2026, 86, NE
+Cold Storage, 2026, 99, 6.0
+Clayface, Expected Oct 23, 2026, N/A, NE
+Keeper, 2025, 99, 5.5
+The Watchers, 2024, 102, 5.7
+Until Dawn, 2025, 103, 5.7
+Return to Silent Hill, 2026, 106, 4.0
+Talk to Me, 2022, 95, 7.1
+The Hunt, 2020, 90, 6.6
+Abigail, 2024, 109, 6.5
+Nope, 2022, 130, 6.8
+Black Box, Releases Jul 7, 2026, 85, 6.8
+Evil Dead Rise, 2023, 96, 6.5
+Whistle, 2025, 100, 5.2
+Barbarian, 2022, 102, 7.0
+Nosferatu, 2024, 132, 7.1
+Longlegs, 2024, 101, 6.5
+Primate, 2025, 92, 5.8
+Five Nights at Freddy's 2, 2025, 104, 5.1
+Black Phone 2, 2025, 114, 6.0
+Smile, 2022, 115, 6.5
+Saccharine, 2026, 113, 5.9
+The Conjuring: Last Rites, 2025, 135, 6.2
+Oddity, 2024, 98, 6.7
+Psycho Killer, 2026, 91, 4.8
+Milk &amp; Serial, 2024, 62, 6.6
+Closure, 2025, 107, 4.7
+Her Private Hell, Releases Sep 25, 2026, 109, 3.8
+Dust Bunny, 2025, 106, 6.5
+Smile 2, 2024, 127, 6.7
+Faces of Death, 2026, 97, 5.8
+Insidious: Out of the Further, Releases Aug 21, 2026, N/A, NE
+Kraken, 2026, 100, 5.2
+Affection, 2025, 90, 5.4
+Good Boy, 2025, 72, 6.1
+The Invisible Man, 2020, 124, 7.1
+Alien: Romulus, 2024, 119, 7.1
+Final Destination: Bloodlines, 2025, 110, 6.7
+The Black Phone, 2021, 103, 6.9
+Love Is the Monster, 2025, 87, 3.7
+Hold the Fort, 2025, 76, 5.3
+Pearl, 2022, 103, 7.0
+Trap, 2024, 105, 5.8
+The Monkey, 2025, 98, 5.9
+Men, 2022, 100, 6.0
+Dangerous Animals, 2025, 98, 6.4
+Venom: The Last Dance, 2024, 110, 6.0
+Five Nights at Freddy's, 2023, 109, 5.4
+Strange Darling, 2023, 97, 7.0
+Him, 2025, 96, 5.0
+The Ugly Stepsister, 2025, 109, 7.0
+Beetlejuice Beetlejuice, 2024, 105, 6.6
+MaXXXine, 2024, 103, 6.2
+I Know What You Did Last Summer, 2025, 111, 5.1
+Cuckoo, 2024, 102, 5.7
+When Evil Lurks, 2023, 99, 6.9
+Prey, 2022, 100, 7.1
+Rose of Nevada, 2025, 114, 6.9
+Attack on Titan: The Last Attack, 2024, 145, 9.0
+Pretty Lethal, 2026, 88, 5.8
+The Empty Man, 2020, 137, 6.2
+Run, 2020, 90, 6.7
+I Saw the TV Glow, 2024, 100, 5.8
+Scream VI, 2023, 122, 6.4
+Marama, 2025, 89, 5.9
+Hallow Road, 2025, 80, 6.0
+The Yeti, 2026, 93, 3.6
+A Quiet Place: Day One, 2024, 99, 6.3
+Scream, 2022, 114, 6.3
+Killer Whale, 2026, 89, 3.9
+Watcher, 2022, 96, 6.3
+Caveat, 2020, 88, 6.0
+Onslaught, Releases Sep 4, 2026, N/A, NE
+Kinds of Kindness, 2024, 164, 6.4
+Red Rooms, 2023, 118, 7.1
+Wildwood, Expected Oct 23, 2026, N/A, NE
+Godzilla Minus One, 2023, 124, 7.7
+Cruel Hands, Releases Jul 24, 2026, 76, 8.3
+Alpha, 2025, 128, 5.9
+The Pale Blue Eye, 2022, 128, 6.6
+No One Will Save You, 2023, 93, 6.2
+Incantation, 2022, 110, 6.3
+Protector, 2025, 91, 5.2
+Thanksgiving, 2023, 106, 6.2
+Godzilla Minus Zero, Expected Nov 3, 2026, 125, NE
+Do Not Enter, 2026, 91, 4.3
+Dream Scenario, 2023, 102, 6.8
+Night Patrol, 2025, 103, 4.4
+Nightbitch, 2024, 99, 5.5
+The Voices of Our Mother, 2026, 93, 4.6
+The Trip, 2021, 113, 6.9
+Death of a Unicorn, 2025, 107, 5.8
+Last Night in Soho, 2021, 116, 7.0
+Infinity Pool, 2023, 117, 6.0
+A Quiet Place Part II, 2020, 97, 7.2
+Slanted, 2025, 104, 5.7
+Fresh, 2022, 114, 6.7
+The Call, 2020, 112, 7.1
+The Strangers: Chapter 3, 2026, 91, 4.2
+Chum, 2026, 87, 2.9
+Ghabadkund, 2026, 132, 8.4
+Shell, 2024, 100, 4.9
+Primitive War, 2025, 133, 5.3
+I Am Frankelda, 2025, 114, 6.9
+Late Night with the Devil, 2023, 93, 7.0
+Bone Lake, 2024, 94, 5.6
+Redux Redux, 2025, 109, 6.2
+Arcadian, 2024, 92, 5.5
+Venom: Let There Be Carnage, 2021, 97, 5.9
+Malignant, 2021, 111, 6.2
+Exhuma, 2024, 134, 6.9
+Camp, 2025, 111, 5.2
+The Astronaut, 2025, 90, 4.8
+The Mortuary Assistant, 2026, 91, 3.8
+Underwater, 2020, 95, 5.9
+Terrifier 4, Expected Oct 1, 2026, N/A, NE
+A Haunting in Venice, 2023, 103, 6.5
+Buddy, Releases Aug 28, 2026, 95, 7.1
+Host, 2020, 57, 6.5
+Salem's Lot, 2024, 114, 5.6
+It Ends, 2025, 89, 5.7
+The Strangers: Chapter 1, 2024, 91, 4.7
+Bones and All, 2022, 131, 6.8
+Meg The Trench, 2023, 116, 5.0
+The Hand That Rocks the Cradle, 2025, 105, 5.3
+The Virginia Bitches, Releases Aug 1, 2026, 112, 6.7
+Titane, 2021, 108, 6.4
+Immaculate, 2024, 89, 5.8
+Army of the Dead, 2021, 148, 5.8
+Beau Is Afraid, 2023, 179, 6.6
+Speak No Evil, 2022, 97, 6.7
+The Night House, 2020, 107, 6.4
+Terrifier 3, 2024, 125, 6.2
+The Sadness, 2021, 99, 6.5
+Presence, 2024, 84, 6.1
+This Is Not a Test, 2025, 103, 4.7
+Possessor, 2020, 103, 6.5
+M3GAN, 2022, 102, 6.3
+The New Mutants, 2020, 94, 5.3
+Elevation, 2024, 91, 5.7
+Nefarious, 2023, 97, 6.4
+Skinamarink, 2022, 100, 4.7
+The Dark and the Wicked, 2020, 95, 6.1
+Shelby Oaks, 2024, 91, 5.3
+The Coffee Table, 2022, 89, 6.7
+Haunted Ghosts of the Past, 2026, 140, 6.0
+The Strangers: Chapter 2, 2025, 98, 4.7
+Nightborn, Releases Jul 22, 2026, 92, 6.1
+Don't Move, 2024, 92, 5.8
+Speed Demon, 2026, 92, 3.5
+Shaun the Sheep: The Beast of Mossy Bottom, Expected Oct 31, 2026, 91, NE
+The Medium, 2021, 130, 6.5
+Pitfall, 2025, 108, 4.8
+Influencer, 2022, 92, 6.2
+The Dreadful, 2026, 94, 3.9
+Heart Eyes, 2025, 97, 6.0
+House on Haunted Hill, 2026, N/A, NE
+The Conjuring: The Devil Made Me Do It, 2021, 112, 6.2
+Vicious, 2025, 103, 4.9
+Borderline, 2025, 94, 5.5
+Mad God, 2021, 83, 6.8
+Tarot, 2024, 92, 4.8
+Knock at the Cabin, 2023, 100, 6.1
+Morbius, 2022, 104, 5.1
+The Home, 2025, 95, 5.5
+Christmas at the Kringles, Expected Oct 30, 2026, N/A, NE
+Clown in a Cornfield, 2025, 96, 5.6
+Victorian Psycho, Releases Sep 25, 2026, 90, 4.9
+Totally Killer, 2023, 106, 6.5
+Strange Harvest, 2024, 94, 6.3
+The Innocents, 2021, 117, 7.0
+The Invitation, 2022, 105, 5.3
+Succubus, 2024, 103, 4.7
+Cobweb, 2023, 88, 5.9
+Ghost in the Cell, 2026, 106, 7.6
+The Nun II, 2023, 110, 5.6
+Wolf Man, 2025, 103, 5.6
+Dolly, 2025, 83, 5.0
+The Wolf of Snow Hollow, 2020, 85, 6.2
+Freaky, 2020, 102, 6.3
+Fear Street: Part One - 1994, 2021, 107, 6.2
+Winnie-the-Pooh: Blood and Honey, 2023, 84, 2.9
+The First Omen, 2024, 119, 6.5
+Survive, 2024, 90, 4.6
+Heresy, 2024, 61, 6.3
+You Won't Be Alone, 2022, 108, 6.4
+Imposters, 2026, 102, 7.0
+The Pope's Exorcist, 2023, 103, 6.1
+Bodies Bodies Bodies, 2022, 94, 6.1
+Gretel &amp; Hansel, 2020, 87, 5.6
+Hellboy: The Crooked Man, 2024, 99, 4.5
+Rabbit Trap, 2025, 88, 4.8
+Significant Other, 2022, 84, 5.7
+His House, 2020, 93, 6.4
+Bramayugam, 2024, 139, 7.7
+The Devil's Mouth, Releases Jul 29, 2026, 13, NE
+Gator Creek, 2025, 87, 4.1
+Saw X, 2023, 118, 6.6
+The Toxic Avenger, 2023, 102, 5.9
+Train to Busan Presents: Peninsula, 2020, 116, 5.5
+What You Wish For, 2023, 101, 6.7
+The Jester, 2023, 90, 3.9
+Insidious: The Red Door, 2023, 107, 5.5
+The Woman in the Yard, 2025, 88, 5.0

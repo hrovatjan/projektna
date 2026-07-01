@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Interstellar, 2014, 169, 8.7
+The Wolf of Wall Street, 2013, 3, 8.2
+Once Upon a Time... in Hollywood, 2019, 161, 7.6
+Parasite, 2019, 132, 8.5
+Prisoners, 2013, 153, 8.2
+Midsommar, 2019, 148, 7.1
+Gone Girl, 2014, 149, 8.1
+Whiplash, 2014, 106, 8.5
+Love, 2015, 135, 6.1
+Arrival, 2016, 116, 7.9
+Hereditary, 2018, 127, 7.3
+Shutter Island, 2010, 138, 8.2
+Django Unchained, 2012, 165, 8.5
+The Handmaiden, 2016, 145, 8.1
+Call Me by Your Name, 2017, 132, 7.8
+Me Before You, 2016, 110, 7.4
+Knives Out, 2019, 130, 7.9
+Green Book, 2018, 130, 8.2
+Blade Runner 2049, 2017, 164, 8.0
+Sicario, 2015, 121, 7.7
+Fifty Shades of Grey, 2015, 125, 4.2
+Hacksaw Ridge, 2016, 139, 8.1
+Incendies, 2010, 131, 8.3
+The Hunt, 2012, 115, 8.3
+La La Land, 2016, 128, 8.0
+The Martian, 2015, 144, 8.0
+Crazy, Stupid, Love., 2011, 118, 7.4
+About Time, 2013, 123, 7.8
+Love, Simon, 2018, 110, 7.5
+The Witch, 2015, 92, 7.0
+The Grand Budapest Hotel, 2014, 99, 8.1
+Joker, 2019, 122, 8.3
+War Dogs, 2016, 114, 7.1
+Enemy, 2013, 91, 6.8
+The Big Short, 2015, 130, 7.8
+Coco, 2017, 105, 8.4
+1917, 2019, 119, 8.2
+Untouchable, 2011, 112, 8.5
+Bohemian Rhapsody, 2018, 134, 7.9
+Wind River, 2017, 107, 7.7
+Passengers, 2016, 116, 7.0
+Le Mans '66, 2019, 152, 8.1
+A Quiet Place, 2018, 90, 7.5
+The Social Network, 2010, 2, 7.8
+Drive, 2011, 100, 7.8
+The Perks of Being a Wallflower, 2012, 103, 7.9
+Your Name., 2016, 106, 8.4
+Three Billboards Outside Ebbing, Missouri, 2017, 115, 8.1
+Nightcrawler, 2014, 117, 7.8
+Dunkirk, 2017, 106, 7.8
+The Town, 2010, 125, 7.5
+Hidden Figures, 2016, 127, 7.8
+Rush, 2013, 123, 8.1
+Her, 2013, 126, 8.0
+Moneyball, 2011, 133, 7.6
+Fury, 2014, 134, 7.6
+The Secret Life of Walter Mitty, 2013, 114, 7.3
+Love &amp; Other Drugs, 2010, 112, 6.7
+Les Misérables, 2012, 158, 7.5
+The Greatest Showman, 2017, 105, 7.5
+We, 2018, 100, 5.6
+The Revenant, 2015, 156, 8.0
+The Imitation Game, 2014, 114, 8.0
+The Debt, 2010, 113, 6.8
+Predestination, 2014, 97, 7.4
+The Accountant, 2016, 128, 7.3
+Blue Is the Warmest Colour, 2013, 3, 7.6
+The Lighthouse, 2019, 109, 7.4
+Ex Machina, 2014, 108, 7.7
+Hell or High Water, 2016, 102, 7.6
+Contagion, 2011, 106, 6.8
+After, 2019, 105, 5.3
+Divergent, 2014, 139, 6.6
+Baby Driver, 2017, 113, 7.5
+The Irishman, 2019, 209, 7.8
+Nymphomaniac: Vol. I, 2013, 117, 6.9
+Years a Slave, 2013, 134, 8.1
+Inside Out, 2015, 95, 8.1
+Logan, 2017, 137, 8.1
+Little Women, 2019, 135, 7.7
+Room, 2015, 118, 8.1
+Manchester by the Sea, 2016, 137, 7.8
+Black Swan, 2010, 108, 8.0
+Hustlers, 2019, 110, 6.3
+The Invisible Guest, 2016, 106, 8.0
+The Fundamentals of Caring, 2016, 97, 7.3
+The Girl with the Dragon Tattoo, 2011, 158, 7.8
+Young &amp; Beautiful, 2013, 95, 6.7
+Life of Pi, 2012, 127, 7.9
+Downton Abbey, 2019, 122, 7.4
+Warrior, 2011, 140, 8.1
+Spotlight, 2015, 129, 8.1
+Blue Valentine, 2010, 112, 7.3
+Shame, 2011, 101, 7.2
+Fractured, 2019, 99, 6.5
+The Hateful Eight, 2015, 168, 7.8
+Annihilation, 2018, 115, 6.8
+Moonlight, 2016, 111, 7.4
+Uncut Gems, 2019, 135, 7.4
+Source Code, 2011, 93, 7.5
+The Great Gatsby, 2013, 143, 7.2
+The Invitation, 2015, 100, 6.6
+Cocktail, 2012, 146, 6.3
+The Wailing, 2016, 156, 7.4
+The Fault in Our Stars, 2014, 126, 7.6
+The Killing of a Sacred Deer, 2017, 121, 7.0
+Under the Skin, 2013, 108, 6.3
+Chef, 2014, 114, 7.3
+The Impossible, 2012, 114, 7.5
+Argo, 2012, 2, 7.7
+The Help, 2011, 146, 8.1
+Jojo Rabbit, 2019, 108, 7.9
+The Gift, 2015, 108, 7.0
+The King, 2019, 140, 7.3
+The Girl on the Train, 2016, 112, 6.5
+American Hustle, 2013, 138, 7.2
+A Cure for Wellness, 2016, 146, 6.4
+First Man, 2018, 141, 7.3
+The Magnificent Seven, 2016, 132, 6.9
+Legend, 2015, 132, 6.9
+Beautiful Boy, 2018, 2, 7.4
+Creed, 2015, 133, 7.6
+The Lobster, 2015, 119, 7.1
+Capernaum, 2018, 126, 8.4
+Gifted, 2017, 101, 7.6
+Snowpiercer, 2013, 126, 7.1
+Portrait of a Lady on Fire, 2019, 122, 8.0
+Lincoln, 2012, 150, 7.3
+Only the Brave, 2017, 134, 7.6
+Ad Astra, 2019, 123, 6.5
+Brave, 2012, 93, 7.1
+King Arthur: Legend of the Sword, 2017, 126, 6.7
+Looper, 2012, 119, 7.4
+Anna, 2019, 118, 6.7
+The Place Beyond the Pines, 2012, 140, 7.3
+Everything, Everything, 2017, 96, 6.3
+The Shape of Water, 2017, 123, 7.3
+Diary of a Wimpy Kid, 2010, 94, 6.3
+Cloud Atlas, 2012, 172, 7.3
+Nocturnal Animals, 2016, 116, 7.4
+Bridge of Spies, 2015, 142, 7.6
+The Tunnel, 2019, 105, 6.0
+True Grit, 2010, 110, 7.6
+American Sniper, 2014, 133, 7.3
+Gravity, 2013, 91, 7.7
+Margin Call, 2011, 107, 7.1
+Hot Summer Nights, 2017, 107, 6.4
+A Silent Voice: The Movie, 2016, 130, 8.2
+Take Me to the River, 2015, 84, 6.2
+Cloverfield Lane, 2016, 103, 7.2
+El Camino: A Breaking Bad Movie, 2019, 122, 7.3
+Lady Bird, 2017, 94, 7.4
+Wild Tales, 2014, 122, 8.1
+The Age of Adaline, 2015, 112, 7.2
+Q, 2011, 103, 5.4
+Silence, 2016, 161, 7.2
+The Big Sick, 2017, 2, 7.5
+The Signal, 2014, 97, 6.0
+Walking on Sunshine, 2014, 97, 5.4
+The Master, 2012, 138, 7.1
+Rango, 2011, 107, 7.3
+Robin Hood, 2010, 140, 6.6
+Crazy Rich Asians, 2018, 2, 6.9
+Silver Linings Playbook, 2012, 122, 7.7
+The Longest Ride, 2015, 123, 7.0
+The Kings of Summer, 2013, 95, 7.1
+Isle of Dogs, 2018, 101, 7.8
+Life as We Know It, 2010, 115, 6.5
+Birdman or (The Unexpected Virtue of Ignorance), 2014, 119, 7.7
+Doctor Sleep, 2019, 152, 7.3
+Side Effects, 2013, 106, 7.0
+Mud, 2012, 130, 7.3
+Dangal, 2016, 161, 8.3
+Sicario Soldado, 2018, 122, 7.1
+The Fighter, 2010, 116, 7.8
+This Is Where I Leave You, 2014, 103, 6.7
+Seven Psychopaths, 2012, 110, 7.1
+The Glass Castle, 2017, 127, 7.1
+Captain Fantastic, 2016, 118, 7.8
+Demolition, 2015, 101, 7.0
+Southpaw, 2015, 124, 7.3
+Below Her Mouth, 2016, 92, 5.5
+The Intern, 2015, 121, 7.1
+Murder on the Orient Express, 2017, 114, 6.5
+Before I Fall, 2017, 98, 6.4
+Tumbbad, 2018, 108, 8.2
+We Need to Talk About Kevin, 2011, 112, 7.4
+Moonrise Kingdom, 2012, 94, 7.7
+Flight, 2012, 138, 7.3
+Sorry to Bother You, 2018, 112, 6.9
+Dallas Buyers Club, 2013, 117, 7.9
+Fruitvale Station, 2013, 85, 7.5
+I'll Find You, 2019, 116, 6.7
+The Choice, 2016, 111, 6.5
+American Made, 2017, 115, 7.2
+Deepwater Horizon, 2016, 107, 7.1
+The Florida Project, 2017, 111, 7.6
+Zero Dark Thirty, 2012, 157, 7.4
+A Separation, 2011, 123, 8.3
+Phantom Thread, 2017, 130, 7.4
+Richard Jewell, 2019, 131, 7.5
+The Tree of Life, 2011, 139, 6.8
+Hours, 2016, 144, 7.3
+I, Tonya, 2017, 119, 7.5
+Identity Thief, 2013, 111, 5.7
+Revenge, 2017, 108, 6.4
+Good Time, 2017, 102, 7.3
+Hugo, 2011, 126, 7.5
+It: Chapter Two, 2019, 169, 6.5
+We Bought a Zoo, 2011, 124, 7.0
+Maleficent, 2014, 97, 6.9
+Real Steel, 2011, 127, 7.1
+Siberia, 2018, 104, 4.3
+Anthropoid, 2016, 2, 7.2
+Never Let Me Go, 2010, 103, 7.1
+Cinderella, 2015, 105, 6.9
+That's My Boy, 2012, 116, 5.6
+Detachment, 2011, 98, 7.7
+The Favourite, 2018, 119, 7.5
+The Post, 2017, 116, 7.2
+Easy A, 2010, 92, 7.0
+Den of Thieves, 2018, 140, 7.0
+The Lincoln Lawyer, 2011, 118, 7.3
+Everest, 2015, 121, 7.1
+Five Feet Apart, 2019, 116, 7.2
+Megan Is Missing, 2011, 89, 4.6
+Bad Times at the El Royale, 2018, 141, 7.1
+Wonder, 2017, 113, 7.9
+Queen of Hearts, 2019, 127, 7.0
+The Skin I Live In, 2011, 2, 7.6
+Sound of Metal, 2019, 2, 7.7
+The Founder, 2016, 115, 7.2
+Mother!, 2017, 121, 6.6
+Footloose, 2011, 113, 5.9
+A Star Is Born, 2018, 136, 7.6
+The Lion King, 2019, 118, 6.8
+Burnt, 2015, 101, 6.6
+Jungle, 2017, 115, 6.7
+The Man Who Knew Infinity, 2015, 108, 7.2
+The Disaster Artist, 2017, 104, 7.3
+Climax, 2018, 97, 6.9
+The Dark Tower, 2017, 95, 5.6
+Creed II, 2018, 130, 7.1
+Remember Me, 2010, 113, 7.1
+Black Mass, 2015, 123, 6.8
+Miss Peregrine's Home for Peculiar Children, 2016, 127, 6.7
+The Karate Kid, 2010, 140, 6.3
+Perfect Sense, 2011, 92, 7.0
+Lone Survivor, 2013, 121, 7.5
+End of Watch, 2012, 109, 7.6

@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Masters of the Universe, 1987, 106, 5.4
+Top Gun, 1986, 109, 7.0
+Supergirl, 1984, 124, 4.4
+Blade Runner, 1982, 117, 8.1
+The Terminator, 1984, 107, 8.1
+Aliens, 1986, 137, 8.4
+Predator, 1987, 107, 7.8
+Die Hard, 1988, 132, 8.2
+Ghostbusters, 1984, 105, 7.8
+The Karate Kid, 1984, 126, 7.3
+Star Wars: Episode VI - Return of the Jedi, 1983, 131, 8.3
+Indiana Jones and the Temple of Doom, 1984, 118, 7.5
+Road House, 1989, 114, 6.7
+They Live, 1988, 94, 7.2
+Akira, 1988, 124, 8.0
+Lethal Weapon, 1987, 109, 7.6
+Highlander, 1986, 116, 7.0
+Escape from New York, 1981, 99, 7.1
+The Running Man, 1987, 101, 6.6
+First Blood, 1982, 93, 7.7
+Superman II, 1980, 127, 6.8
+WarGames, 1983, 114, 7.1
+Ran, 1985, 160, 8.2
+Big Trouble in Little China, 1986, 99, 7.2
+Willow, 1988, 126, 7.2
+RoboCop, 1987, 102, 7.6
+Beverly Hills Cop, 1984, 105, 7.4
+Thief, 1981, 123, 7.4
+To Live and Die in L.A., 1985, 116, 7.3
+Young Guns, 1988, 107, 6.8
+Dune, 1984, 137, 6.2
+Never Say Never Again, 1983, 134, 6.1
+Commando, 1985, 90, 6.7
+Flash Gordon, 1980, 111, 6.5
+Superman III, 1983, 125, 5.0
+Red Dawn, 1984, 114, 6.4
+Lethal Weapon 2, 1989, 114, 7.3
+Licence to Kill, 1989, 133, 6.7
+Mad Max 2, 1981, 96, 7.6
+The Cannonball Run, 1981, 95, 6.2
+Against All Odds, 1984, 121, 6.0
+The Karate Kid Part II, 1986, 113, 6.2
+Moonwalker, 1988, 93, 6.1
+Battle Beyond the Stars, 1980, 104, 5.5
+Enemy Mine, 1985, 108, 6.9
+Krull, 1983, 116, 6.1
+Rambo: First Blood Part II, 1985, 96, 6.5
+Bloodsport, 1988, 92, 6.8
+For Your Eyes Only, 1981, 127, 6.7
+Innerspace, 1987, 2, 6.8
+The Last Starfighter, 1984, 100, 6.7
+Midnight Run, 1988, 126, 7.5
+The Living Daylights, 1987, 130, 6.7
+Octopussy, 1983, 131, 6.5
+Ghostbusters II, 1989, 108, 6.6
+Romancing the Stone, 1984, 106, 6.9
+A View to a Kill, 1985, 131, 6.3
+I'm Gonna Git You Sucka, 1988, 88, 6.6
+Tron, 1982, 96, 6.7
+The Black Cauldron, 1985, 80, 6.3
+Silverado, 1985, 133, 7.2
+Beverly Hills Cop II, 1987, 103, 6.6
+Hell Comes to Frogtown, 1988, 86, 5.5
+Streets of Fire, 1984, 93, 6.7
+Lifeforce, 1985, 101, 6.2
+A Better Tomorrow, 1986, 95, 7.4
+Over the Top, 1987, 93, 5.9
+The Karate Kid Part III, 1989, 112, 5.4
+Cobra, 1986, 87, 5.8
+Clash of the Titans, 1981, 118, 6.9
+Hrs., 1982, 96, 6.9
+Star Trek II: The Wrath of Khan, 1982, 113, 7.7
+No Way Out, 1987, 114, 7.1
+Stakeout, 1987, 117, 6.7
+Mad Max: Beyond Thunderdome, 1985, 107, 6.2
+The Final Countdown, 1980, 103, 6.7
+My Science Project, 1985, 94, 5.9
+City on Fire, 1987, 101, 7.1
+Maximum Overdrive, 1986, 98, 5.4
+The Killer, 1989, 111, 7.7
+Tango &amp; Cash, 1989, 104, 6.4
+Dragonslayer, 1981, 108, 6.6
+Rambo III, 1988, 102, 5.8
+Howard the Duck, 1986, 110, 4.8
+Kickboxer, 1989, 97, 6.4
+Conan the Destroyer, 1984, 103, 5.9
+The Wraith, 1986, 93, 5.9
+The Punisher, 1989, 89, 5.7
+Superman IV: The Quest for Peace, 1987, 90, 3.8
+Outland, 1981, 109, 6.6
+The Dead Pool, 1988, 91, 6.3
+Clan of the White Lotus, 1980, 95, 7.1
+Police Story, 1985, 99, 7.5
+Runaway Train, 1985, 111, 7.2
+Running Scared, 1986, 107, 6.5
+Red Heat, 1988, 104, 6.1
+The Monster Squad, 1987, 82, 6.9
+Lock Up, 1989, 109, 6.4
+Extreme Prejudice, 1987, 105, 6.7
+Gleaming the Cube, 1989, 105, 6.3
+Star Trek III: The Search for Spock, 1984, 105, 6.7
+Black Rain, 1989, 125, 6.6
+Vampire Hunter D, 1985, 80, 7.0
+Red Sonja, 1985, 89, 5.1
+Hamburger Hill, 1987, 110, 6.7
+The Beastmaster, 1982, 118, 6.2
+The Golden Child, 1986, 94, 6.0
+Cannonball Run II, 1984, 108, 5.1
+Hard Ticket to Hawaii, 1987, 96, 5.1
+Sudden Impact, 1983, 117, 6.6
+Casualties of War, 1989, 113, 7.1
+Miracle Mile, 1988, 87, 7.0
+Next of Kin, 1989, 108, 5.9
+Dead End Drive-In, 1986, 92, 5.9
+Star Trek V: The Final Frontier, 1989, 107, 5.5
+Dreamscape, 1984, 99, 6.3
+The Stunt Man, 1980, 131, 6.9
+The Jewel of the Nile, 1985, 106, 6.1
+Iron Eagle, 1986, 117, 5.6
+The Legend of Billie Jean, 1985, 96, 6.7
+Runaway, 1984, 100, 5.9
+Flodder, 1986, 111, 6.7
+Maniac Cop, 1988, 85, 6.0
+Trancers, 1984, 76, 6.0
+Tuff Turf, 1985, 112, 6.0
+Firestarter, 1984, 114, 6.1
+The Ice Pirates, 1984, 94, 5.7
+Raw Deal, 1986, 106, 5.6
+The Pope of Greenwich Village, 1984, 121, 6.6
+The Osterman Weekend, 1983, 103, 5.8
+Gwendoline, 1984, 105, 5.2
+The Package, 1989, 108, 6.4
+The Sword and the Sorcerer, 1982, 100, 5.5
+Yellowbeard, 1983, 96, 5.9
+The Transformers: The Movie, 1986, 84, 7.2
+The Secret of the Sword, 1985, 88, 7.2
+Class of 1984, 1982, 98, 6.5
+Year of the Dragon, 1985, 134, 6.8
+Into the Night, 1985, 115, 6.4
+The Siege of Firebase Gloria, 1988, 99, 6.8
+Uncommon Valour, 1983, 105, 6.3
+Death Wish 3, 1985, 90, 5.8
+Any Which Way You Can, 1980, 116, 6.1
+The Salute of the Jugger, 1989, 99, 6.3
+Le Professionnel, 1981, 108, 7.4
+Megaforce, 1982, 99, 3.7
+Strul, 1988, 101, 5.9
+The Last Dragon, 1985, 109, 6.8
+Three Fugitives, 1989, 96, 6.2
+Lone Wolf McQuade, 1983, 107, 6.3
+Galaxy of Terror, 1981, 81, 5.0
+Saigon, 1988, 102, 6.2
+F/X, 1986, 109, 6.7
+Fortress, 1985, 85, 7.0
+Bronco Billy, 1980, 116, 6.2
+Never Too Young to Die, 1986, 97, 4.9
+Alien Nation, 1988, 91, 6.3
+Savage Streets, 1984, 93, 6.2
+A Chinese Ghost Story, 1987, 98, 7.3
+8 Million Ways to Die, 1986, 115, 5.8
+Angel, 1984, 94, 5.8
+Shogun Assassin, 1980, 85, 7.3
+Fist of the North Star, 1986, 110, 7.2
+Amsterdamned, 1988, 114, 6.6
+Armour of God, 1986, 88, 6.9
+Breathless, 1983, 100, 6.0
+Cloak &amp; Dagger, 1984, 101, 6.6
+Man on Fire, 1987, 92, 5.8
+Crocodile Dundee II, 1988, 111, 5.7
+Blind Fury, 1989, 86, 6.3
+A Better Tomorrow II, 1987, 105, 7.1
+Project A, 1983, 105, 7.2
+Action Jackson, 1988, 96, 5.6
+Vigilante, 1982, 90, 6.5
+Death Hunt, 1981, 97, 6.9
+The Toxic Avenger, 1984, 82, 6.2
+The Delta Force, 1986, 125, 5.7
+Love City, 1986, 86, 5.8
+Sharky's Machine, 1981, 122, 6.3
+Oru Kaidhiyin Diary, 1985, 152, 7.2
+Let It Ride, 1989, 90, 6.8
+Invasion U.S.A., 1985, 107, 5.5
+Nighthawks, 1981, 99, 6.3
+Southern Comfort, 1981, 106, 7.1
+Death Wish II, 1982, 89, 6.0
+Ishtar, 1987, 107, 4.8
+Best of the Best, 1989, 97, 6.4
+Timerider: The Adventure of Lyle Swann, 1982, 94, 5.4
+Surf Nazis Must Die, 1987, 83, 3.8
+Straight to Hell, 1987, 86, 5.6
+Project A Part II, 1987, 106, 7.0
+Violent Cop, 1989, 103, 7.1
+The Return of Godzilla, 1984, 103, 6.8
+Patlabor: The Movie, 1989, 100, 7.0
+Eliminators, 1986, 96, 4.9
+Radioactive Dreams, 1984, 98, 5.5
+Peking Opera Blues, 1986, 104, 7.2
+Starchaser: The Legend of Orin, 1985, 100, 6.5
+Remo: Unarmed and Dangerous, 1985, 121, 6.4
+The Adventures of Mark Twain, 1985, 86, 7.2
+No Retreat, No Surrender, 1986, 85, 5.6
+Umut Sokagi, 1986, 79, 5.9
+Miracles: The Canton Godfather, 1989, 101, 6.9
+Deathstalker II, 1987, 77, 5.2
+DeepStar Six, 1989, 99, 5.4
+Game Over, 1989, 92, 6.4
+Wicked City, 1987, 82, 6.7
+Code Name: Emerald, 1985, 95, 5.9
+Code Name: Wild Geese, 1984, 101, 5.1
+Death Wish The Crackdown, 1987, 99, 5.5
+The Hunter, 1980, 97, 6.2
+Robot Jox, 1989, 85, 5.5
+Pink Cadillac, 1989, 122, 5.4
+De John Boorman a Floresta Das Esmeraldas, 1985, 114, 6.9
+She, 1984, 104, 4.8
+The Principal, 1987, 109, 6.3
+Dead Heat, 1988, 84, 6.1
+Deadly Pursuit, 1988, 110, 6.8
+Police Story 2, 1988, 92, 7.0
+Wanted: Dead or Alive, 1986, 106, 5.9
+The Island, 1980, 114, 5.3
+Godzilla vs. Biollante, 1989, 104, 6.5
+Picasso Trigger, 1988, 99, 4.6
+City Heat, 1984, 97, 5.5
+When Time Ran Out..., 1980, 121, 4.6
+The Mighty Quinn, 1989, 98, 6.0
+Enter the Ninja, 1981, 99, 5.3
+An Innocent Man, 1989, 113, 6.5
+The Return of Swamp Thing, 1989, 89, 4.7
+Dragons Forever, 1988, 93, 7.1
+The Sea Wolves, 1980, 2, 6.3
+Kinjite: Forbidden Subjects, 1989, 97, 5.5
+Vice Squad, 1982, 97, 6.4
+The Presidio, 1988, 97, 6.0
+Best Seller, 1987, 95, 6.4
+Cannonball Fever, 1989, 94, 4.5
+Shocking Dark, 1989, 90, 4.3
+Blue Jean Cop, 1988, 112, 6.0
+Violence in a Women's Prison, 1982, 99, 4.6
+Sorceress, 1982, 83, 4.4
+Yes, Madam!, 1985, 93, 6.6
+Battle Creek Brawl, 1980, 95, 5.7
+Cyborg, 1989, 86, 5.1
+World Gone Wild, 1987, 95, 5.1
+Roller Blade Warriors: Taken by Force, 1989, 81, 3.5
+Veerana, 1988, 135, 6.6
+God of Gamblers, 1989, 126, 7.2
+Godzilla 1985, 1985, 87, 6.1
+Savage Island, 1985, 74, 3.3
+True Blood, 1989, 100, 5.1

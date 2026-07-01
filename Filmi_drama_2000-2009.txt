@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+The Lord of the Rings: The Fellowship of the Ring, 2001, 178, 8.9
+The Prestige, 2006, 130, 8.5
+Inglourious Basterds, 2009, 153, 8.4
+No Country for Old Men, 2007, 122, 8.2
+Gladiator, 2000, 155, 8.5
+The Departed, 2006, 151, 8.5
+Kingdom of Heaven, 2005, 144, 7.3
+City of God, 2002, 130, 8.6
+The Notebook, 2004, 123, 7.8
+Oldboy, 2003, 2, 8.3
+The Lord of the Rings: The Return of the King, 2003, 201, 9.0
+The Devil Wears Prada, 2006, 109, 7.0
+Requiem for a Dream, 2000, 102, 8.3
+Irreversible, 2002, 97, 7.3
+Malena, 2000, 108, 7.4
+Zodiac, 2007, 157, 7.7
+Twilight, 2008, 122, 5.4
+A History of Violence, 2005, 96, 7.4
+Pride &amp; Prejudice, 2005, 129, 7.8
+Catch Me If You Can, 2002, 141, 8.1
+Bully, 2001, 108, 6.9
+Eternal Sunshine of the Spotless Mind, 2004, 108, 8.3
+Watchmen, 2009, 162, 7.6
+He's Just Not That Into You, 2009, 129, 6.4
+Mulholland Drive, 2001, 147, 7.9
+The Lord of the Rings: The Two Towers, 2002, 179, 8.8
+Donnie Darko, 2001, 113, 8.0
+There Will Be Blood, 2007, 158, 8.2
+Bandits, 2001, 123, 6.5
+Memories of Murder, 2003, 131, 8.1
+The Girl Next Door, 2004, 109, 6.7
+American Psycho, 2000, 102, 7.6
+A Beautiful Mind, 2001, 135, 8.2
+Little Miss Sunshine, 2006, 101, 7.8
+Finding Forrester, 2000, 136, 7.3
+Apocalypto, 2006, 139, 7.9
+The Pianist, 2002, 150, 8.5
+Days Later ..., 2002, 113, 7.5
+Children of Men, 2006, 109, 7.9
+Lilya 4-Ever, 2002, 109, 7.8
+Up, 2009, 96, 8.3
+Atonement, 2007, 123, 7.8
+The Patriot, 2000, 165, 7.2
+The Dreamers, 2003, 115, 7.1
+The Lives of Others, 2006, 137, 8.4
+Mystic River, 2003, 138, 7.9
+Days of Summer, 2009, 95, 7.6
+Coyote Ugly, 2000, 100, 5.8
+Collateral, 2004, 2, 7.5
+Brokeback Mountain, 2005, 134, 7.7
+300, 2006, 117, 7.6
+American Gangster, 2007, 157, 7.8
+A Knight's Tale, 2001, 132, 7.0
+The Proposal, 2009, 108, 6.8
+Pan's Labyrinth, 2006, 118, 8.2
+Erin Brockovich, 2000, 131, 7.5
+The Pursuit of Happyness, 2006, 117, 8.0
+A.I. Artificial Intelligence, 2001, 146, 7.2
+3 Idiots, 2009, 170, 8.4
+The Fall, 2006, 117, 7.8
+Lilo &amp; Stitch, 2002, 85, 7.4
+Stay, 2005, 99, 6.7
+Love Actually, 2003, 135, 7.5
+Moulin Rouge!, 2001, 127, 7.5
+Brothers, 2009, 105, 7.1
+Into the Wild, 2007, 148, 8.0
+Black Hawk Down, 2001, 144, 7.7
+Law Abiding Citizen, 2009, 109, 7.4
+The Room, 2003, 99, 3.6
+Unfaithful, 2002, 124, 6.7
+Man on Fire, 2004, 146, 7.7
+Almost Famous, 2000, 122, 7.9
+Cast Away, 2000, 143, 7.8
+The Butterfly Effect, 2004, 113, 7.6
+Downfall, 2004, 156, 8.2
+The Curious Case of Benjamin Button, 2008, 166, 7.8
+Inside Man, 2006, 129, 7.6
+Master and Commander: The Far Side of the World, 2003, 138, 7.5
+V for Vendetta, 2005, 132, 8.1
+The Count of Monte Cristo, 2002, 131, 7.7
+Insomnia, 2002, 118, 7.2
+Training Day, 2001, 122, 7.8
+Shooter, 2007, 124, 7.2
+O Brother, Where Art Thou?, 2000, 107, 7.7
+The Piano Teacher, 2001, 131, 7.5
+Coraline, 2009, 100, 7.8
+The Aviator, 2004, 170, 7.5
+Lost in Translation, 2003, 102, 7.7
+The Machinist, 2004, 101, 7.6
+I Am Legend, 2007, 101, 7.2
+Million Dollar Baby, 2004, 132, 8.1
+First Dates, 2004, 99, 6.8
+Y tu mamá también, 2001, 106, 7.7
+The Last Samurai, 2003, 154, 7.8
+Signs, 2002, 106, 6.8
+Bridge to Terabithia, 2007, 96, 7.2
+Vicky Cristina Barcelona, 2008, 96, 7.1
+The Phantom of the Opera, 2004, 143, 7.2
+Crash, 2004, 112, 7.7
+The Lovely Bones, 2009, 135, 6.6
+In Bruges, 2008, 107, 7.9
+Big Fish, 2003, 125, 7.9
+Gangs of New York, 2002, 167, 7.5
+Miami Vice, 2006, 132, 6.1
+Moon, 2009, 97, 7.8
+In the Mood for Love, 2000, 98, 8.0
+The Secret in Their Eyes, 2009, 129, 8.2
+Gran Torino, 2008, 116, 8.1
+Secretary, 2002, 107, 6.9
+Blood Diamond, 2006, 143, 8.0
+The Score, 2001, 124, 6.8
+Burn After Reading, 2008, 96, 7.0
+Click, 2006, 107, 6.4
+Lars and the Real Girl, 2007, 106, 7.3
+Fantastic Mr. Fox, 2009, 87, 7.9
+Remember the Titans, 2000, 113, 7.8
+Lie with Me, 2005, 93, 5.2
+A Walk to Remember, 2002, 101, 7.3
+Thank You for Smoking, 2005, 92, 7.5
+Pearl Harbor, 2001, 183, 6.3
+The Road, 2009, 111, 7.2
+Holes, 2003, 117, 7.0
+The Man from Earth, 2007, 87, 7.8
+9 Songs, 2004, 71, 4.7
+Little Children, 2006, 137, 7.5
+Munich, 2005, 164, 7.5
+The Reader, 2008, 124, 7.6
+Before Sunset, 2004, 80, 8.1
+Gosford Park, 2001, 137, 7.2
+The Blind Side, 2009, 129, 7.6
+Secondhand Lions, 2003, 111, 7.5
+Death Proof, 2007, 127, 7.0
+Bend It Like Beckham, 2002, 112, 6.7
+Goal!, 2005, 118, 6.7
+Lord of War, 2005, 122, 7.6
+Fracture, 2007, 113, 7.2
+The Terminal, 2004, 128, 7.4
+An Unfinished Life, 2005, 108, 7.0
+The Passion of the Christ, 2004, 127, 7.3
+King Arthur, 2004, 126, 6.3
+Slumdog Millionaire, 2008, 2, 8.0
+Tell No One, 2006, 131, 7.5
+Gone Baby Gone, 2007, 114, 7.6
+Bee Movie, 2007, 91, 6.1
+Cinderella Man, 2005, 144, 8.0
+Enemy at the Gates, 2001, 131, 7.5
+Eastern Promises, 2007, 100, 7.6
+Dogtooth, 2009, 97, 7.1
+The Royal Tenenbaums, 2001, 110, 7.6
+Body of Lies, 2008, 128, 7.0
+I Am Sam, 2001, 132, 7.6
+Frailty, 2001, 100, 7.2
+The Punisher, 2004, 124, 6.4
+Three - III, 2005, 95, 4.9
+Antichrist, 2009, 108, 6.5
+Mysterious Skin, 2004, 105, 7.6
+Open Range, 2003, 139, 7.4
+Closer, 2004, 104, 7.1
+Babel, 2006, 143, 7.4
+Catch and Release, 2006, 124, 5.9
+The Assassination of Jesse James by the Coward Robert Ford, 2007, 160, 7.5
+The Hours, 2002, 114, 7.5
+Public Enemies, 2009, 140, 6.9
+The Brave One, 2007, 122, 6.7
+Let the Right One In, 2008, 114, 7.8
+Juno, 2007, 96, 7.4
+Match Point, 2005, 124, 7.6
+Monster, 2003, 109, 7.3
+Like Stars on Earth, 2007, 162, 8.3
+Radio, 2003, 109, 6.9
+Primer, 2004, 77, 6.7
+Hunger, 2008, 96, 7.5
+Hannibal, 2001, 131, 6.8
+Forgetting Sarah Marshall, 2008, 111, 7.1
+Paprika, 2006, 90, 7.7
+Desert Flower, 2009, 2, 7.3
+Hachi: A Dog's Tale, 2009, 93, 8.1
+Equilibrium, 2002, 107, 7.3
+8 Mile, 2002, 110, 7.2
+Mona Lisa Smile, 2003, 117, 6.6
+The Darjeeling Limited, 2007, 91, 7.2
+Road to Perdition, 2002, 117, 7.6
+Adaptation., 2002, 115, 7.6
+Revolutionary Road, 2008, 119, 7.3
+Unbreakable, 2000, 106, 7.3
+Mr. Nobody, 2009, 141, 7.7
+It's Complicated, 2009, 121, 6.6
+Birth, 2004, 100, 6.3
+Sweeney Todd: The Demon Barber of Fleet Street, 2007, 116, 7.3
+Before the Devil Knows You're Dead, 2007, 117, 7.3
+Red Dragon, 2002, 124, 7.2
+The Hurt Locker, 2008, 131, 7.5
+The Good Shepherd, 2006, 167, 6.7
+Frequency, 2000, 118, 7.4
+Punch-Drunk Love, 2002, 95, 7.3
+Disturbia, 2007, 105, 6.8
+Walk the Line, 2005, 136, 7.8
+The Boy in the Striped Pyjamas, 2008, 94, 7.7
+Crouching Tiger, Hidden Dragon, 2000, 2, 7.9
+The Station Agent, 2003, 89, 7.6
+Appaloosa, 2008, 115, 6.7
+Dogville, 2003, 171, 8.0
+Enter the Void, 2009, 142, 7.2
+Sideways, 2004, 127, 7.5
+The Village, 2004, 108, 6.6
+Dear Zachary: A Letter to a Son About His Father, 2008, 93, 8.5
+Thirteen, 2003, 100, 6.8
+The Time Traveler's Wife, 2009, 107, 7.1
+What Lies Beneath, 2000, 130, 6.6
+Blow, 2001, 124, 7.5
+Traffic, 2000, 147, 7.5
+Layer Cake, 2004, 105, 7.2
+Amores Perros, 2000, 154, 8.0
+The Girl Next Door, 2007, 91, 6.4
+Michael Clayton, 2007, 119, 7.2
+We Own the Night, 2007, 117, 6.8
+9, 2009, 79, 7.0
+Lust, Caution, 2007, 157, 7.5
+Miracle, 2004, 135, 7.5
+Corpse Bride, 2005, 77, 7.4
+Billy Elliot, 2000, 110, 7.7
+The Illusionist, 2006, 110, 7.5
+The Skeleton Key, 2005, 104, 6.5
+Bronson, 2008, 92, 7.0
+Stick It, 2006, 103, 6.4
+Hancock, 2008, 92, 6.4
+The Break-Up, 2006, 106, 5.8
+Rachel Getting Married, 2008, 113, 6.6
+The Chaser, 2008, 125, 7.8
+Up in the Air, 2009, 109, 7.4
+Lucky Number Slevin, 2006, 110, 7.7
+Lake Mungo, 2008, 87, 6.2
+Rocky Balboa, 2006, 102, 7.1
+Vertical Limit, 2000, 124, 6.0
+Valkyrie, 2008, 121, 7.1
+Green Street, 2005, 109, 7.4
+High Fidelity, 2000, 113, 7.4
+Four Brothers, 2005, 109, 6.8
+A Perfect Getaway, 2009, 98, 6.5
+One Hour Photo, 2002, 96, 6.8
+3:to Yuma, 2007, 122, 7.6
+The Beach, 2000, 119, 6.6
+Bridget Jones's Diary, 2001, 97, 6.8
+Perfume: The Story of a Murderer, 2006, 147, 7.5
+Hotel Rwanda, 2004, 121, 8.1
+Chloe, 2009, 96, 6.2
+P.S. I Love You, 2007, 126, 7.0
+The Host, 2006, 2, 7.1
+The Last King of Scotland, 2006, 123, 7.6
+Funny Games, 2007, 111, 6.5

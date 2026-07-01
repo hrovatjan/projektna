@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Obsession, 2025, 108, 8.1
+Voicemails for Isabelle, 2026, 118, 7.4
+Cocktail 2, 2026, 150, 7.9
+Tuner, 2025, 107, 7.3
+Practical Magic 2, Releases Sep 11, 2026, N/A, NE
+Leviticus, 2026, 88, 6.8
+The Invite, Releases Jul 3, 2026, 107, 7.7
+Sense and Sensibility, Releases Sep 25, 2026, N/A, NE
+Office Romance, 2026, 114, 5.8
+Carolina Caroline, 2025, 107, 6.7
+The Drama, 2026, 105, 7.2
+Your Fault: London, 2026, 123, 6.0
+Song Sung Blue, 2025, 132, 7.3
+Finding Emily, 2026, 111, 7.0
+Wuthering Heights, 2026, 136, 6.1
+Main Vaapas Aaunga, 2026, 167, 8.3
+Girls Like Girls, 2026, 95, 6.9
+The Bride!, 2026, 126, 5.6
+Hamnet, 2025, 125, 7.8
+I Want Your Sex, Releases Aug 28, 2026, 90, NE
+Anora, 2024, 139, 7.4
+My Fault: London, 2025, 2, 6.2
+Pillion, 2025, 106, 6.9
+The Love Hypothesis, Releases Sep 23, 2026, N/A, NE
+Driver's Ed, 2025, 98, 5.3
+People We Meet on Vacation, 2026, 117, 6.6
+5lbs of Pressure, 2024, 111, 5.3
+Days, 2020, 114, 3.3
+Dracula: A Love Tale, 2025, 129, 6.2
+The Gorge, 2025, 128, 6.7
+My Fault, 2023, 117, 6.1
+Eternity, 2025, 114, 6.9
+Charlie Harper, Releases Sep 25, 2026, 102, 7.8
+Roofman, 2025, 126, 6.9
+Regretting You, 2025, 116, 6.0
+Reminders of Him, 2026, 114, 6.3
+29, 2026, 150, 7.9
+The Voyeurs, 2021, 116, 6.1
+The Idea of You, 2024, 115, 6.3
+Together, 2025, 102, 6.7
+One Night Only, Releases Aug 28, 2026, N/A, NE
+Teenage Sex and Death at Camp Miasma, Releases Aug 21, 2026, 106, 6.9
+Poor Things, 2023, 141, 7.7
+Wicked, 2024, 160, 7.3
+The Fall Guy, 2024, 126, 6.8
+Anyone But You, 2023, 103, 6.1
+Challengers, 2024, 131, 7.0
+No Hard Feelings, 2023, 103, 6.3
+The Threesome, 2025, 112, 6.2
+Solo Mio, 2026, 96, 6.7
+Verity, Expected Oct 2, 2026, 114, NE
+Ticket to Paradise, 2022, 104, 6.1
+Your Fault, 2024, 118, 5.3
+Past Lives, 2023, 105, 7.8
+Mon Potongo, 2024, 149, 4.9
+Materialists, 2025, 116, 6.2
+Peddi, 2026, 182, 5.9
+Dacoit: A Love Story, 2026, 149, 7.5
+Wicked: For Good, 2025, 137, 6.6
+Good Fortune, 2025, 97, 6.5
+Maa Behen, 2026, 127, 5.5
+The Worst Person in the World, 2021, 128, 7.7
+Dates and Nights, 2026, 101, 6.1
+Black Bag, 2025, 93, 6.7
+Palm Springs, 2020, 90, 7.4
+Deep Water, 2022, 115, 5.5
+Babygirl, 2024, 114, 5.7
+It Ends with Us, 2024, 130, 6.3
+Hit Man, 2023, 115, 6.8
+The Last Sunrise, Releases Aug 26, 2026, N/A, NE
+Red, White &amp; Royal Blue, 2023, 118, 7.0
+Purple Hearts, 2022, 122, 6.7
+Free Guy, 2021, 115, 7.1
+Chainsaw Man - The Movie: Reze Arc, 2025, 100, 8.3
+Your Heart Will Be Broken, 2026, 134, 4.7
+Thor: Love and Thunder, 2022, 118, 6.1
+Our Fault, 2025, 112, 5.4
+You, Me &amp; Tuscany, 2026, 105, 6.1
+On the Sea, 2025, 111, 7.3
+Blue Moon, 2025, 100, 6.8
+Something from Tiffany's, 2022, 87, 6.2
+All of Us Strangers, 2023, 105, 7.6
+My Old Ass, 2024, 89, 6.9
+Dreams, 2025, 98, 5.6
+The Choral, 2025, 113, 6.4
+We Live in Time, 2024, 108, 7.0
+Where the Crawdads Sing, 2022, 125, 7.2
+Along for the Ride, 2022, 106, 6.2
+Days: This Day, 2022, 111, 2.7
+The Count of Monte Cristo, 2024, 178, 7.6
+The Lost City, 2022, 112, 6.1
+A Big Bold Beautiful Journey, 2025, 109, 6.0
+Snow White, 2025, 109, 2.2
+Upgraded, 2024, 104, 6.1
+Emma., 2020, 124, 6.7
+The Little Mermaid, 2023, 135, 7.2
+The History of Sound, 2025, 128, 6.9
+The Life List, 2025, 123, 6.8
+Elemental, 2023, 101, 7.0
+Love Me, Love Me, 2026, 99, 4.2
+Ghosted, 2023, 117, 5.8
+Mr. Malcolm's List, 2022, 117, 6.0
+Lady Chatterley's Lover, 2022, 126, 6.6
+Wish Dragon, 2021, 98, 7.2
+The Map That Leads to You, 2025, 96, 6.2
+West Side Story, 2021, 156, 7.1
+Tell Me What You Want, 2024, 114, 4.1
+Mile End Kicks, 2025, 111, 6.2
+Fresh, 2022, 114, 6.7
+Romería, 2025, 114, 6.8
+Wicker, 2026, 105, 8.0
+Licorice Pizza, 2021, 133, 7.1
+My Oxford Year, 2025, 112, 5.9
+Redeeming Love, 2022, 134, 6.8
+Role Play, 2024, 100, 5.5
+Love Lies Bleeding, 2024, 104, 6.6
+Chand Mera Dil, 2026, 135, 7.7
+Through My Window, 2022, 116, 5.5
+Three Thousand Years of Longing, 2022, 108, 6.7
+Cinderella, 2021, 112, 4.4
+Turning Red, 2022, 100, 6.9
+Love at First Sight, 2023, 91, 6.8
+Heartstopper Forever, Releases Jul 17, 2026, N/A, NE
+The Ballad of Wallis Island, 2025, 99, 7.4
+Amsterdam, 2022, 134, 6.2
+The French Dispatch, 2021, 107, 7.1
+On the Road, 2025, 93, 7.3
+Virginia Woolf's Night &amp; Day, 2026, 95, 6.1
+The Wait, 2021, 101, 5.4
+Turn Me On, 2024, 99, 5.7
+Asteroid City, 2023, 105, 6.4
+La Chimera, 2023, 131, 7.3
+Decision to Leave, 2022, 139, 7.3
+On Swift Horses, 2024, 119, 6.0
+The Black Ball, Releases Sep 25, 2026, 155, 6.8
+Kissing Is the Easy Part, 2026, 100, 6.0
+Bones and All, 2022, 131, 6.8
+Queer, 2024, 137, 6.3
+Beauty from Pain, 2025, 116, 5.1
+Love Again, 2023, 104, 5.9
+The Chronology of Water, 2025, 128, 6.4
+Hai Jawani Toh Ishq Hona Hai, 2026, 136, 5.5
+Youth, 2026, 140, 7.0
+Shotgun Wedding, 2022, 101, 5.5
+Dinner in America, 2020, 106, 7.5
+Saiyaara, 2025, 150, 6.3
+Fly Me to the Moon, 2024, 132, 6.6
+Mareechika, 2026, 142, 5.1
+All the Bright Places, 2020, 107, 6.6
+The Hating Game, 2021, 102, 6.2
+Perfect Addiction, 2023, 107, 5.5
+King, Expected Dec 24, 2026, N/A, NE
+Marked Men, 2025, 93, 5.2
+Haunted Ghosts of the Past, 2026, 140, 6.0
+After We Collided, 2020, 105, 5.1
+Father of the Bride, 2022, 117, 5.9
+The Man I Love, 2026, 95, 5.0
+Bridget Jones: Mad About the Boy, 2025, 124, 6.5
+Forty Love, Expected Nov 25, 2026, N/A, NE
+Young Hearts, 2024, 99, 7.9
+The American Dream, 2026, 122, 7.4
+Spaceman, 2024, 107, 5.7
+Rebecca, 2020, 123, 6.1
+Heart Eyes, 2025, 97, 6.0
+Persuasion, 2022, 108, 5.8
+Sidelined: The QB and Me, 2024, 99, 5.8
+Naughty, 2023, 107, 4.5
+Nights of Hero, 2025, 91, 5.9
+Priscilla, 2023, 113, 6.4
+You're Cordially Invited, 2025, 109, 5.5
+Deewana, 2026, 150, 9.4
+Scarlet, 2025, 111, 6.3
+Downton Abbey: A New Era, 2022, 124, 7.4
+Benedetta, 2021, 131, 6.7
+Ginny Wedss Sunny 2, 2026, 134, 4.5
+Flora and Son, 2023, 97, 7.0
+Magic Hour, 2025, 94, 4.7
+In the Heights, 2021, 143, 7.2
+Tu Yaa Main, 2026, 143, 6.2
+Red Rocket, 2021, 130, 7.1
+Maestro, 2023, 129, 6.5
+The Wrong Paris, 2025, 105, 6.1
+A Family Affair, 2024, 111, 5.4
+The Beast, 2023, 146, 6.4
+Calle Málaga, 2025, 116, 7.1
+The Secret: Dare to Dream, 2020, 107, 6.6
+A Sad and Beautiful World, 2025, 110, 7.6
+Colours of Time, 2025, 124, 7.2
+The Next Days, 2022, 112, 2.9
+The Shift, 2023, 115, 5.6
+Do Revenge, 2022, 118, 6.3
+Ammonite, 2020, 117, 6.5
+Sex Appeal, 2022, 90, 5.4
+Happy Hours, 2026, 80, 8.6
+What's Love Got to Do with It?, 2022, 108, 6.3
+Lisa Frankenstein, 2024, 101, 6.1
+Even If This Love Disappears from the World Tonight, 2025, 105, 7.5
+Sleeping Beauty Next Door, 2026, 98, 7.4
+Marry Me, 2022, 112, 6.1
+The Wrong Missy, 2020, 90, 5.8
+Emmanuelle, 2024, 107, 4.1
+Plainclothes, 2025, 95, 7.0
+Mothering Sunday, 2021, 104, 6.1
+Teen Wolf: The Movie, 2023, 141, 5.6
+No Place to Be Single, 2026, 103, 5.5
+Murder Mystery 2, 2023, 89, 5.7
+With Love, 2026, 141, 7.6
+Am I OK?, 2022, 86, 6.1
+Couple Friendly, 2026, 2, 7.1
+Quinze Dias, 2026, 100, 8.4
+I Want You Back, 2022, 116, 6.5
+The Night Clerk, 2020, 90, 5.6
+Wild Mountain Thyme, 2020, 102, 5.8
+Fingernails, 2023, 113, 5.8
+A Special Memory, 2026, 124, 6.7
+Fantasy Life, 2025, 91, 6.0
+Tere Ishk Mein, 2025, 167, 6.2
+Once We Were Us, 2025, 114, 7.0
+Little Fish, 2020, 101, 7.0
+Godari Gattupaina, 2026, 145, 7.2
+Coward, 2026, 2, 7.1
+Hedda, 2025, 107, 5.8
+Spoiler Alert, 2022, 112, 7.4
+Hitman's Wife's Bodyguard, 2021, 100, 6.1
+The Map of Tiny Perfect Things, 2021, 98, 6.8
+Drunken Noodles, 2025, 83, 5.9
+The Crow, 2024, 111, 4.7
+Dead Lover, 2025, 95, 5.8
+All That's Left of You, 2025, 146, 7.9
+Malcolm &amp; Marie, 2021, 106, 6.6
+Swan Song, 2021, 116, 6.8
+Passages, 2023, 91, 6.6
+You People, 2023, 117, 5.5
+The Best You Can, 2025, 103, 6.3
+Julian, 2025, 91, 6.4
+Sarvam Maya, 2025, 146, 7.7
+Beautiful Disaster, 2023, 96, 5.3
+He's All That, 2021, 88, 4.4
+Krishnavatar Part Hridayam, 2026, 150, 7.5
+She Came to Me, 2023, 102, 6.0
+The Tearsmith, 2024, 103, 5.2
+My Dearest Señorita, 2026, 113, 6.3
+Dangerous, 2022, 99, 6.6
+After We Fell, 2021, 98, 4.8
+Departures, 2025, 82, 6.3
+Superintelligence, 2020, 106, 5.5
+You Can Live Forever, 2022, 96, 6.8
+Alice, Darling, 2022, 89, 5.6
+Little Trouble Girls, 2025, 89, 6.5
+Champagne Problems, 2025, 99, 6.0

@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Practical Magic, 1998, 104, 6.4
+Titanic, 1997, 194, 8.0
+Forrest Gump, 1994, 142, 8.8
+Good Will Hunting, 1997, 126, 8.4
+True Romance, 1993, 119, 7.9
+Sense and Sensibility, 1995, 136, 7.7
+She's All That, 1999, 95, 6.0
+Things I Hate About You, 1999, 97, 7.4
+Life Is Beautiful, 1997, 116, 8.6
+Father of the Bride, 1991, 105, 6.6
+Lolita, 1997, 137, 6.8
+Before Sunrise, 1995, 101, 8.1
+Jerry Maguire, 1996, 139, 7.3
+Pretty Woman, 1990, 119, 7.1
+There's Something About Mary, 1998, 119, 7.1
+Basic Instinct, 1992, 127, 7.1
+Clueless, 1995, 97, 6.9
+The Last of the Mohicans, 1992, 112, 7.6
+Hercules, 1997, 93, 7.3
+Notting Hill, 1999, 124, 7.2
+The Parent Trap, 1998, 128, 6.7
+Cruel Intentions, 1999, 97, 6.8
+The Quick and the Dead, 1995, 108, 6.5
+Romeo + Juliet, 1996, 2, 6.7
+The Wedding Singer, 1998, 97, 6.9
+But I'm a Cheerleader, 1999, 92, 6.9
+Phenomenon, 1996, 123, 6.5
+Four Weddings and a Funeral, 1994, 117, 7.1
+Robin Hood: Prince of Thieves, 1991, 143, 6.9
+Meet Joe Black, 1998, 178, 7.2
+Dracula, 1992, 128, 7.4
+The English Patient, 1996, 162, 7.4
+My Best Friend's Wedding, 1997, 105, 6.4
+Groundhog Day, 1993, 101, 8.0
+Aladdin, 1992, 90, 8.0
+Ghost, 1990, 126, 7.1
+The Virgin Suicides, 1999, 97, 7.2
+The Little Rascals, 1994, 82, 6.4
+Beauty and the Beast, 1991, 84, 8.0
+My Girl, 1991, 102, 6.9
+Legends of the Fall, 1994, 133, 7.5
+You've Got Mail, 1998, 119, 6.7
+Natural Born Killers, 1994, 119, 7.2
+Chungking Express, 1994, 102, 7.9
+Sleepless in Seattle, 1993, 105, 6.8
+Robin Hood: Men in Tights, 1993, 104, 6.7
+All Things Fair, 1995, 130, 6.8
+Edward Scissorhands, 1990, 105, 7.8
+Empire Records, 1995, 90, 6.7
+Leaving Las Vegas, 1995, 111, 7.5
+Runaway Bride, 1999, 116, 5.6
+As Good as It Gets, 1997, 139, 7.7
+Anastasia, 1997, 94, 7.2
+The Cider House Rules, 1999, 126, 7.4
+The Hunchback of Notre Dame, 1996, 91, 7.0
+What Dreams May Come, 1998, 113, 7.0
+Now and Then, 1995, 102, 6.8
+The Mask of Zorro, 1998, 136, 6.8
+Romance, 1999, 84, 5.2
+Hackers, 1995, 105, 6.2
+Pocahontas, 1995, 81, 6.7
+It Takes Two, 1995, 101, 6.0
+Indecent Proposal, 1993, 117, 6.1
+The Remains of the Day, 1993, 134, 7.8
+The Bodyguard, 1992, 129, 6.4
+Mallrats, 1995, 94, 7.0
+Father of the Bride Part II, 1995, 106, 6.1
+The Age of Innocence, 1993, 139, 7.2
+Patch Adams, 1998, 115, 6.9
+Grosse Pointe Blank, 1997, 107, 7.3
+The Piano, 1993, 121, 7.5
+Can't Hardly Wait, 1998, 100, 6.5
+The Bridges of Madison County, 1995, 135, 7.6
+Fallen Angels, 1995, 99, 7.5
+Shakespeare in Love, 1998, 123, 7.1
+City of Angels, 1998, 114, 6.7
+The Three Musketeers, 1993, 105, 6.4
+While You Were Sleeping, 1995, 103, 6.8
+Dick Tracy, 1990, 105, 6.2
+Three Colors: Blue, 1993, 98, 7.8
+Buffalo '66, 1998, 110, 7.4
+The Lover, 1992, 115, 6.8
+Bitter Moon, 1992, 139, 7.2
+The Frighteners, 1996, 110, 7.1
+The Crying Game, 1992, 112, 7.2
+Whisper of the Heart, 1995, 111, 7.8
+Out of Sight, 1998, 123, 7.0
+Bicentennial Man, 1999, 132, 6.9
+Total Eclipse, 1995, 111, 6.4
+Sliding Doors, 1998, 99, 6.7
+The Thomas Crown Affair, 1999, 113, 6.9
+Frankie and Johnny, 1991, 118, 6.8
+Drop Dead Gorgeous, 1999, 97, 6.7
+State of Grace, 1990, 134, 7.1
+Only You, 1994, 109, 6.5
+Rushmore, 1998, 93, 7.6
+Three Colours: Red, 1994, 99, 8.1
+Election, 1999, 103, 7.2
+Sabrina, 1995, 127, 6.3
+Much Ado About Nothing, 1993, 111, 7.3
+Blast from the Past, 1999, 112, 6.7
+Singles, 1992, 99, 6.8
+Brassed Off, 1996, 108, 7.2
+A Goofy Movie, 1995, 78, 7.0
+George of the Jungle, 1997, 92, 5.6
+Little Women, 1994, 115, 7.3
+The Last Seduction, 1994, 110, 7.0
+Immortal Beloved, 1994, 121, 7.4
+Reality Bites, 1994, 99, 6.6
+Ever After: A Cinderella Story, 1998, 121, 7.1
+A Night at the Roxbury, 1998, 82, 6.2
+Damage, 1992, 111, 6.7
+The American President, 1995, 114, 6.9
+Emma, 1996, 2, 6.6
+Career Opportunities, 1991, 83, 5.9
+The Double Life of Véronique, 1991, 98, 7.6
+A Summer's Tale, 1996, 113, 7.6
+The Hot Spot, 1990, 130, 6.4
+Great Expectations, 1998, 111, 6.8
+Never Been Kissed, 1999, 107, 6.0
+Six Days Seven Nights, 1998, 102, 5.9
+Varsity Blues, 1999, 106, 6.6
+In &amp; Out, 1997, 90, 6.4
+Entrapment, 1999, 113, 6.3
+The Nutty Professor, 1996, 95, 5.7
+The House of the Spirits, 1993, 145, 6.9
+The Prince of Tides, 1991, 132, 6.8
+Frankenstein, 1994, 123, 6.3
+So I Married an Axe Murderer, 1993, 93, 6.5
+Happy Together, 1997, 96, 7.6
+The Voyeur, 1994, 90, 5.5
+Boys Don't Cry, 1999, 118, 7.5
+Hope Floats, 1998, 114, 6.1
+Three Colors: White, 1994, 92, 7.6
+White Palace, 1990, 103, 6.5
+It Could Happen to You, 1994, 101, 6.4
+SLC Punk!, 1998, 97, 7.3
+Far and Away, 1992, 140, 6.6
+Mississippi Masala, 1991, 118, 6.8
+My Father the Hero, 1994, 90, 5.5
+Chasing Amy, 1997, 113, 7.2
+Dilwale Dulhania Le Jayenge, 1995, 189, 8.0
+Howards End, 1992, 142, 7.3
+Queen Margot, 1994, 161, 7.4
+Farewell My Concubine, 1993, 171, 8.1
+When a Man Loves a Woman, 1994, 126, 6.6
+Senseless, 1998, 93, 6.0
+Color of Night, 1994, 121, 5.2
+Summer of Sam, 1999, 142, 6.7
+Wolf, 1994, 125, 6.3
+Waiting to Exhale, 1995, 124, 6.0
+Revenge, 1990, 124, 6.2
+A Walk in the Clouds, 1995, 102, 6.7
+Show Me Love, 1998, 89, 7.5
+One Fine Day, 1996, 108, 6.5
+All About My Mother, 1999, 101, 7.8
+Tin Cup, 1996, 135, 6.4
+Mermaids, 1990, 110, 6.7
+French Kiss, 1995, 111, 6.6
+Wuthering Heights, 1992, 105, 6.6
+Dying Young, 1991, 111, 6.0
+Quigley Down Under, 1990, 119, 6.9
+Regarding Henry, 1991, 108, 6.7
+Dave, 1993, 110, 6.9
+The Horse Whisperer, 1998, 169, 6.7
+Les Misérables, 1998, 134, 7.4
+The Lovers on the Bridge, 1991, 125, 7.6
+Return to the Blue Lagoon, 1991, 102, 5.2
+The Saint, 1997, 116, 6.2
+High Art, 1998, 101, 6.6
+Beautiful Thing, 1996, 90, 7.6
+Drive Me Crazy, 1999, 91, 5.8
+Grumpy Old Men, 1993, 103, 7.0
+The Watermelon Woman, 1996, 90, 7.1
+Jamon Jamon, 1992, 95, 6.4
+A Brighter Summer Day, 1991, 237, 8.2
+Joe Versus the Volcano, 1990, 102, 5.9
+The Bonfire of the Vanities, 1990, 125, 5.6
+Shine, 1996, 105, 7.6
+Sirens, 1994, 98, 5.9
+Stealing Beauty, 1996, 118, 6.5
+Fireworks, 1997, 103, 7.7
+The Cutting Edge, 1992, 101, 6.9
+The Postman, 1994, 108, 7.8
+Days of Being Wild, 1990, 94, 7.4
+Untamed Heart, 1993, 102, 6.8
+Kama Sutra: A Tale of Love, 1996, 114, 6.0
+First Knight, 1995, 134, 6.0
+Forever Young, 1992, 102, 6.4
+Benny &amp; Joon, 1993, 98, 7.1
+A Walk on the Moon, 1999, 107, 6.6
+Frivolous Lola, 1998, 105, 5.1
+The End of the Affair, 1999, 102, 7.0
+Message in a Bottle, 1999, 126, 6.3
+Boomerang, 1992, 117, 5.7
+Soapdish, 1991, 97, 6.6
+The Legend of 1900, 1998, 169, 8.0
+The Thing Called Love, 1993, 116, 6.4
+Strictly Ballroom, 1992, 94, 7.2
+Big Night, 1996, 109, 7.3
+Raise the Red Lantern, 1991, 125, 8.1
+Arizona Dream, 1993, 142, 7.2
+Poetic Justice, 1993, 109, 6.2
+Pushing Tin, 1999, 124, 6.0
+Thumbelina, 1994, 86, 6.3
+Speed Cruise Control, 1997, 121, 4.0
+Beautiful Girls, 1996, 112, 7.1
+The Man in the Moon, 1991, 99, 7.2
+A Midsummer Night's Dream, 1999, 116, 6.4
+Forces of Nature, 1999, 105, 5.5
+Mansfield Park, 1999, 112, 7.0
+The Raffle, 1991, 93, 5.2
+The Crazy Stranger, 1997, 102, 7.6
+Only Yesterday, 1991, 119, 7.6
+Sonatine, 1993, 94, 7.4
+The Handmaid's Tale, 1990, 109, 6.0
+Jungle Fever, 1991, 132, 6.6
+Like Water for Chocolate, 1992, 105, 7.1
+Orlando, 1992, 94, 7.1
+The Swan Princess, 1994, 89, 6.5
+The Crush, 1993, 89, 5.9
+A Scene at the Sea, 1991, 101, 7.5
+Don Juan DeMarco, 1994, 97, 6.7
+The Story of Us, 1999, 95, 6.0
+Muppet Treasure Island, 1996, 99, 6.9
+Cyrano de Bergerac, 1990, 137, 7.5
+Addicted to Love, 1997, 100, 6.1
+Love Letter, 1995, 117, 7.9
+Fools Rush In, 1997, 109, 6.1
+Deuce Bigalow: Male Gigolo, 1999, 88, 5.7
+L'Appartement, 1996, 116, 7.3
+Rush, 1991, 2, 6.7
+(Haru), 1996, 118, 7.5
+Vampire in Brooklyn, 1995, 100, 4.7
+Lost and Found, 1996, 109, 7.3
+Dragon: The Bruce Lee Story, 1993, 119, 7.0
+L.A. Story, 1991, 95, 6.7
+A Life Less Ordinary, 1997, 103, 6.3
+I.Q., 1994, 100, 6.2
+Set It Off, 1996, 123, 6.9
+The Wood, 1999, 106, 7.0
+Love Jones, 1997, 109, 7.3
+Mighty Aphrodite, 1995, 95, 7.0
+Om, 1995, 150, 8.9
+The Russia House, 1990, 123, 6.1
+Romeo Is Bleeding, 1993, 110, 6.5
+Andaz Apna Apna, 1994, 160, 8.0
+Stolen Hearts, 1996, 96, 5.3
+The Next Karate Kid, 1994, 107, 4.6
+Wilde, 1997, 118, 6.9

@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Toy Story 4, 2019, 100, 7.6
+Toy Story 3, 2010, 103, 8.3
+Spider-Man: Into the Spider-Verse, 2018, 117, 8.4
+Moana, 2016, 107, 7.6
+Percy Jackson &amp; the Lightning Thief, 2010, 118, 5.9
+The Last Airbender, 2010, 103, 3.9
+Coco, 2017, 105, 8.4
+Sing, 2016, 108, 7.1
+Zootropolis, 2016, 108, 8.0
+Harry Potter and the Deathly Hallows: Part 2, 2011, 130, 8.1
+Despicable Me, 2010, 95, 7.6
+Minions, 2015, 91, 6.4
+Inside Out, 2015, 95, 8.1
+Frozen, 2013, 102, 7.4
+How to Train Your Dragon, 2010, 98, 8.1
+Tangled, 2010, 100, 7.7
+Tomorrowland, 2015, 130, 6.4
+Cars 3, 2017, 102, 6.7
+Cars 2, 2011, 106, 6.2
+Beauty and the Beast, 2017, 129, 7.1
+Night at the Museum: Secret of the Tomb, 2014, 98, 6.2
+Brave, 2012, 93, 7.1
+Harry Potter and the Deathly Hallows: Part 1, 2010, 146, 7.7
+Aladdin, 2019, 128, 6.9
+Diary of a Wimpy Kid, 2010, 94, 6.3
+Percy Jackson: Sea of Monsters, 2013, 106, 5.7
+Monsters University, 2013, 104, 7.2
+Incredibles 2, 2018, 118, 7.5
+Alice in Wonderland, 2010, 108, 6.4
+Big Hero 6, 2014, 102, 7.8
+Despicable Me 3, 2017, 90, 6.3
+Rango, 2011, 107, 7.3
+Fantastic Beasts and Where to Find Them, 2016, 132, 7.2
+The Lego Movie, 2014, 100, 7.7
+Wreck-It Ralph, 2012, 101, 7.7
+Pokémon: Detective Pikachu, 2019, 104, 6.5
+Despicable Me 2, 2013, 98, 7.3
+Hugo, 2011, 126, 7.5
+We Bought a Zoo, 2011, 124, 7.0
+Maleficent, 2014, 97, 6.9
+Cinderella, 2015, 105, 6.9
+Hotel Transylvania, 2012, 91, 7.1
+The Lego Batman Movie, 2017, 104, 7.3
+Megamind, 2010, 95, 7.3
+Wonder, 2017, 113, 7.9
+The Lion King, 2019, 118, 6.8
+Finding Dory, 2016, 97, 7.2
+Miss Peregrine's Home for Peculiar Children, 2016, 127, 6.7
+The Karate Kid, 2010, 140, 6.3
+The Secret Life of Pets, 2016, 86, 6.5
+Rio, 2011, 96, 6.9
+The Adventures of Tintin: The Secret of the Unicorn, 2011, 107, 7.3
+The Jungle Book, 2016, 106, 7.3
+Shrek Forever After, 2010, 93, 6.3
+Turbo, 2013, 96, 6.4
+Where Hope Grows, 2014, 95, 6.7
+How to Train Your Dragon 2, 2014, 102, 7.8
+The Angry Birds Movie, 2016, 97, 6.3
+Kung Fu Panda 3, 2016, 95, 7.1
+Klaus, 2019, 96, 8.2
+Paddington, 2014, 95, 7.3
+The Chronicles of Narnia: The Voyage of the Dawn Treader, 2010, 113, 6.3
+Home, 2015, 94, 6.5
+Epic, 2013, 102, 6.6
+I Want to Eat Your Pancreas, 2018, 109, 8.1
+Frozen II, 2019, 103, 6.8
+A Beautiful Day in the Neighborhood, 2019, 109, 7.2
+Fantastic Beasts: The Crimes of Grindelwald, 2018, 134, 6.5
+The Good Dinosaur, 2015, 93, 6.7
+The Secret Life of Pets 2, 2019, 86, 6.4
+The Boss Baby, 2017, 97, 6.3
+Ralph Breaks the Internet, 2018, 112, 7.0
+Kung Fu Panda 2, 2011, 90, 7.3
+Journey The Mysterious Island, 2012, 94, 5.7
+Paddington 2, 2017, 103, 7.8
+Trolls, 2016, 92, 6.4
+The Croods, 2013, 98, 7.1
+Into the Woods, 2014, 125, 5.9
+How to Train Your Dragon: The Hidden World, 2019, 104, 7.4
+The BFG, 2016, 117, 6.3
+I Can Only Imagine, 2018, 110, 7.3
+Madagascar Europe's Most Wanted, 2012, 95, 6.8
+Puss in Boots, 2011, 90, 6.6
+Hotel Transylvania 2, 2015, 89, 6.6
+The Emoji Movie, 2017, 86, 3.5
+The Secret World of Arrietty, 2010, 94, 7.6
+Kubo and the Two Strings, 2016, 101, 7.7
+Maleficent: Mistress of Evil, 2019, 119, 6.6
+Penguins of Madagascar, 2014, 92, 6.7
+Ice Age: Collision Course, 2016, 94, 5.7
+Goosebumps, 2015, 103, 6.3
+Rise of the Guardians, 2012, 97, 7.2
+Mary Poppins Returns, 2018, 130, 6.6
+Soul Surfer, 2011, 112, 7.0
+A Dog's Purpose, 2017, 100, 7.3
+ParaNorman, 2012, 92, 7.0
+The Tale of the Princess Kaguya, 2013, 137, 8.0
+Diary of a Wimpy Kid Rodrick Rules, 2011, 100, 6.6
+Ice Age: Continental Drift, 2012, 88, 6.5
+The Lorax, 2012, 86, 6.4
+Alice Through the Looking Glass, 2016, 113, 6.2
+A Monster Calls, 2016, 108, 7.4
+Cats, 2019, 110, 2.8
+Ferdinand, 2017, 108, 6.7
+Togo, 2019, 113, 7.9
+Hotel Transylvania 3, 2018, 97, 6.3
+The Lego Ninjago Movie, 2017, 101, 6.1
+Song of the Sea, 2014, 93, 8.0
+When Marnie Was There, 2014, 103, 7.6
+Cloudy with a Chance of Meatballs 2, 2013, 95, 6.3
+The Angry Birds Movie 2, 2019, 97, 6.4
+Pan, 2015, 111, 5.7
+The Kid Who Would Be King, 2019, 2, 6.1
+The Book of Life, 2014, 95, 7.2
+Wolf Children, 2012, 117, 8.1
+Rio 2, 2014, 101, 6.3
+Miracles from Heaven, 2016, 109, 7.1
+Daddy's Home, 2015, 96, 6.2
+The Sorcerer's Apprentice, 2010, 109, 6.1
+Early Man, 2018, 89, 6.1
+Dora and the Lost City of Gold, 2019, 102, 6.1
+Planes, 2013, 92, 5.7
+From Up on Poppy Hill, 2011, 91, 7.4
+Oz the Great and Powerful, 2013, 130, 6.3
+The Little Prince, 2015, 108, 7.6
+Storks, 2016, 87, 6.8
+Peter Rabbit, 2018, 95, 6.6
+The Extraordinary Adventures of Adèle Blanc-Sec, 2010, 107, 6.3
+The House with a Clock in Its Walls, 2018, 105, 6.1
+Doraemon: Nobita and the New Steel Troops: Angel Wings, 2011, 108, 8.1
+The Muppets, 2011, 103, 7.1
+The Grinch, 2018, 86, 6.4
+Legend of the Guardians: The Owls of Ga'Hoole, 2010, 97, 6.9
+Playing with Fire, 2019, 96, 5.2
+Spies in Disguise, 2019, 102, 6.8
+Frankenweenie, 2012, 87, 6.9
+Ernest &amp; Celestine, 2012, 80, 7.8
+The LEGO Movie 2, 2019, 107, 6.5
+Jack and Jill, 2011, 91, 3.3
+Angels Sing, 2013, 87, 6.0
+The Red Turtle, 2016, 80, 7.5
+The Three Stooges, 2012, 92, 5.2
+The Boxtrolls, 2014, 96, 6.8
+Mirror Mirror, 2012, 106, 5.6
+Mr. Popper's Penguins, 2011, 94, 6.0
+Captain Underpants: The First Epic Movie, 2017, 89, 6.2
+Christopher Robin, 2018, 104, 7.2
+Night Is Short, Walk on Girl, 2017, 92, 7.5
+Dragon Ball Super: Broly, 2018, 100, 7.7
+A Dog's Journey, 2019, 109, 7.5
+Twelve, 2019, 92, 6.4
+A Wrinkle in Time, 2018, 109, 4.3
+Heaven Is for Real, 2014, 99, 5.9
+Our Little Sister, 2015, 127, 7.6
+Zookeeper, 2011, 102, 5.2
+Doraemon the Movie: Nobita's Treasure Island, 2018, 108, 6.7
+Diary of a Wimpy Kid: Dog Days, 2012, 94, 6.3
+Storm Boy, 2019, 99, 6.9
+The Smurfs, 2011, 103, 5.4
+Dumbo, 2019, 112, 6.2
+Alvin and the Chipmunks: Chipwrecked, 2011, 87, 4.5
+Max, 2015, 111, 6.6
+Winnie the Pooh, 2011, 63, 7.1
+Overcomer, 2019, 119, 6.7
+Gnomeo &amp; Juliet, 2011, 84, 5.9
+Annie, 2014, 118, 5.4
+The Christmas Chronicles, 2018, 104, 7.0
+The Odd Life of Timothy Green, 2012, 105, 6.6
+Pete's Dragon, 2016, 102, 6.7
+The SpongeBob Movie: Sponge Out of Water, 2015, 92, 6.0
+Missing Link, 2019, 94, 6.7
+Beauty and the Beast, 2014, 112, 6.4
+Lunana: A Yak in the Classroom, 2019, 110, 7.5
+The Young and Prodigious T.S. Spivet, 2013, 105, 7.0
+Snoopy and Charlie Brown: The Peanuts Movie, 2015, 88, 7.0
+The Pirates! In an Adventure with Scientists!, 2012, 88, 6.7
+East Side Sushi, 2014, 106, 7.1
+A Street Cat Named Bob, 2016, 103, 7.3
+Journey to Agartha, 2011, 116, 7.1
+Gulliver's Travels, 2010, 85, 4.9
+Monte Carlo, 2011, 109, 5.8
+Red Dog, 2011, 92, 7.3
+Doraemon the Movie: Nobita's Secret Gadget Museum, 2013, 100, 7.1
+Shaun the Sheep Movie, 2015, 85, 7.3
+English Vinglish, 2012, 134, 7.8
+Lady and the Tramp, 2019, 111, 6.2
+A-X-L, 2018, 98, 5.3
+Million Dollar Arm, 2014, 124, 7.0
+Tooth Fairy, 2010, 101, 5.1
+Happy Feet Two, 2011, 100, 5.8
+Secretariat, 2010, 123, 7.2
+A Dog's Way Home, 2019, 96, 6.7
+The Biggest Little Farm, 2018, 91, 8.0
+The Nutcracker and the Four Realms, 2018, 99, 5.6
+Smurfs: The Lost Village, 2017, 90, 6.0
+Barbie: The Princess &amp; the Popstar, 2012, 86, 6.0
+The Art of Getting By, 2011, 83, 6.5
+Troop Zero, 2019, 94, 6.9
+Spy Kids All the Time in the World, 2011, 89, 3.6
+Yogi Bear, 2010, 81, 4.6
+Gnomeo &amp; Juliet Sherlock Gnomes, 2018, 86, 5.3
+Barbie and the Secret Door, 2014, 81, 5.8
+Monster Trucks, 2016, 104, 5.7
+Furry Vengeance, 2010, 92, 3.9
+Batman: Return of the Caped Crusaders, 2016, 78, 6.7
+Ballerina, 2016, 89, 6.8
+Ribbon, 2017, 106, 6.9
+Mr. Peabody &amp; Sherman, 2014, 92, 6.8
+Cool Kids Don't Cry, 2012, 96, 7.4
+Goodbye Christopher Robin, 2017, 107, 7.1
+Mirai, 2018, 98, 7.0
+Heidi, 2015, 111, 7.5
+Chillar Party, 2011, 135, 7.5
+Abominable, 2019, 97, 7.0
+Ramona and Beezus, 2010, 104, 6.5
+Nancy Drew and the Hidden Staircase, 2019, 89, 5.7
+Alvin and the Chipmunks: The Road Chip, 2015, 92, 5.0
+Paul Blart: Mall Cop 2, 2015, 94, 4.5
+My Babysitter's a Vampire, 2010, 80, 6.2
+Mars Needs Moms, 2011, 88, 5.4
+Open Season 3, 2010, 75, 5.0
+Tad: The Explorer, 2012, 92, 6.0
+The Nut Job, 2014, 85, 5.7
+Finding Your Feet, 2017, 111, 6.8
+Nanny McPhee and the Big Bang, 2010, 109, 6.1
+Barbie in Rock 'N Royals, 2015, 80, 6.0
+Barbie Mariposa and the Fairy Princess, 2013, 79, 6.3
+Tall Girl, 2019, 101, 5.2
+Wish Man, 2019, 107, 7.0
+Barbie in the Pink Shoes, 2013, 75, 5.8
+Tad the Lost Explorer and the Secret of King Midas, 2017, 85, 6.2
+Mr. Holmes, 2015, 104, 6.8
+Animal Crackers, 2017, 105, 5.8
+My Little Pony, 2017, 99, 6.1
+Tinker', 2017, 97, 5.2
+Stan &amp; Ollie, 2018, 98, 7.2
+Tom Sawyer, 2011, 109, 6.1
+Alexander and the Terrible, Horrible, No Good, Very Bad Day, 2014, 81, 6.2
+Advantageous, 2015, 90, 6.0
+Arthur Christmas, 2011, 97, 7.1
+Sgt. Stubby: An Unlikely Hero, 2018, 84, 6.9
+The Healer, 2016, 113, 6.4
+Tarzan, 2013, 94, 4.8
+The Addams Family, 2019, 86, 5.9
+Hoodwinked Too! Hood vs. Evil, 2011, 87, 4.7
+Cats &amp; Dogs: The Revenge of Kitty Galore, 2010, 82, 4.4
+Noelle, 2019, 100, 6.3
+Mary and the Witch's Flower, 2017, 103, 6.8
+Smallfoot, 2018, 96, 6.6
+Natsamrat, 2016, 166, 8.8

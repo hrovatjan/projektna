@@ -1,0 +1,251 @@
+naslov, leto_izida, trajanje, ocena
+Toy Story, 1995, 81, 8.3
+Toy Story 2, 1999, 92, 7.9
+The Lion King, 1994, 88, 8.5
+Father of the Bride, 1991, 105, 6.6
+The Sandlot Kids, 1993, 101, 7.8
+Rookie of the Year, 1993, 103, 6.1
+Home Alone, 1990, 103, 7.8
+Jumanji, 1995, 104, 7.1
+Hercules, 1997, 93, 7.3
+Matilda, 1996, 98, 7.0
+A Bug's Life, 1998, 95, 7.2
+The Parent Trap, 1998, 128, 6.7
+FernGully: The Last Rainforest, 1992, 76, 6.6
+Hook, 1991, 142, 6.8
+Mulan, 1998, 87, 7.7
+Mrs. Doubtfire, 1993, 125, 7.1
+Aladdin, 1992, 90, 8.0
+The Witches, 1990, 91, 6.8
+Stuart Little, 1999, 84, 6.0
+The Little Rascals, 1994, 82, 6.4
+The Iron Giant, 1999, 86, 8.1
+Beauty and the Beast, 1991, 84, 8.0
+My Girl, 1991, 102, 6.9
+Babe, 1995, 91, 6.9
+Sister Act, 1992, 100, 6.6
+The Nightmare Before Christmas, 1993, 76, 7.9
+Anastasia, 1997, 94, 7.2
+The Hunchback of Notre Dame, 1996, 91, 7.0
+The Prince of Egypt, 1998, 99, 7.2
+The Pagemaster, 1994, 75, 6.2
+Tarzan, 1999, 88, 7.3
+Major Payne, 1995, 95, 6.3
+Pocahontas, 1995, 81, 6.7
+It Takes Two, 1995, 101, 6.0
+Teenage Mutant Ninja Turtles, 1990, 93, 6.8
+The Flintstones, 1994, 91, 5.1
+Father of the Bride Part II, 1995, 106, 6.1
+Casper, 1995, 100, 6.2
+Space Jam, 1996, 88, 6.5
+Homeward Bound: The Incredible Journey, 1993, 84, 7.0
+Free Willy, 1993, 112, 6.1
+Small Soldiers, 1998, 108, 6.3
+Children of Heaven, 1997, 89, 8.2
+The Mighty Ducks, 1992, 104, 6.6
+Cool Runnings, 1993, 98, 7.0
+Home Alone Lost in New York, 1992, 2, 6.9
+Heavyweights, 1995, 97, 6.6
+Beethoven, 1992, 87, 5.8
+Whisper of the Heart, 1995, 111, 7.8
+Fly Away Home, 1996, 107, 6.9
+The Rocketeer, 1991, 108, 6.6
+Hocus Pocus, 1993, 96, 6.9
+Toys, 1992, 118, 5.1
+Angels in the Outfield, 1994, 102, 6.2
+Ri¢hie Ri¢h, 1994, 95, 5.5
+Batman: Mask of the Phantasm, 1993, 76, 7.8
+A Goofy Movie, 1995, 78, 7.0
+George of the Jungle, 1997, 92, 5.6
+The Secret Garden, 1993, 101, 7.3
+Little Women, 1994, 115, 7.3
+October Sky, 1999, 108, 7.8
+The Borrowers, 1997, 89, 5.9
+Dennis the Menace, 1993, 94, 5.7
+Super Mario Bros., 1993, 104, 4.2
+Blank Cheque, 1994, 93, 5.3
+Doctor Dolittle, 1998, 85, 5.4
+The Rescuers Down Under, 1990, 77, 6.8
+Dalmatians, 1996, 103, 5.8
+James and the Giant Peach, 1996, 79, 6.7
+Little Giants, 1994, 107, 6.5
+The Santa Clause, 1994, 97, 6.6
+Baby's Day Out, 1994, 99, 6.3
+Doraemon: Nobita's Three Visionary Swordsmen, 1994, 98, 7.5
+A Little Princess, 1995, 97, 7.6
+Pom Poko, 1994, 119, 7.2
+Newsies, 1992, 121, 6.9
+Sister Act Back in the Habit, 1993, 107, 5.8
+The Big Green, 1995, 100, 5.6
+Balto, 1995, 78, 7.1
+Problem Child, 1990, 81, 5.5
+Good Burger, 1997, 95, 5.8
+Teenage Mutant Ninja Turtles II: The Secret of the Ooze, 1991, 88, 6.0
+Doraemon: Nobita's Dorabian Nights, 1991, 99, 7.4
+DThe Mighty Ducks, 1994, 106, 6.1
+Antz, 1998, 83, 6.5
+Paulie, 1998, 91, 6.6
+The Beverly Hillbillies, 1993, 92, 5.1
+Bean, 1997, 89, 6.5
+The Indian in the Cupboard, 1995, 96, 6.0
+Flubber, 1997, 93, 5.3
+The Thief and the Cobbler, 1993, 99, 7.1
+White Fang, 1991, 107, 6.7
+Camp Nowhere, 1994, 96, 6.1
+Man of the House, 1995, 96, 5.3
+Pokémon: The First Movie, 1998, 96, 6.4
+We're Back! A Dinosaur's Story, 1993, 72, 6.1
+Thumbelina, 1994, 86, 6.3
+Simon Birch, 1998, 114, 6.8
+An American Tail: Fievel Goes West, 1991, 75, 6.5
+Jungle 2 Jungle, 1997, 105, 5.3
+The Swan Princess, 1994, 89, 6.5
+Muppet Treasure Island, 1996, 99, 6.9
+Doraemon: Nobita and the Galaxy Super-express, 1996, 97, 7.0
+Kirikou and the Sorceress, 1998, 71, 7.5
+Miracle on 34th Street, 1994, 114, 6.7
+The Colour of Paradise, 1999, 90, 8.1
+Babe: Pig in the City, 1998, 97, 5.9
+North, 1994, 87, 4.6
+The White Balloon, 1995, 85, 7.6
+The Next Karate Kid, 1994, 107, 4.6
+Spice World, 1997, 93, 3.8
+Problem Child 2, 1991, 90, 5.0
+Harriet the Spy, 1996, 100, 6.0
+The NeverEnding Story II: The Next Chapter, 1990, 89, 5.1
+Once Upon a Forest, 1993, 71, 6.5
+Tom and Huck, 1995, 97, 5.5
+The Jungle Book, 1994, 111, 6.1
+My Neighbours the Yamadas, 1999, 104, 7.1
+Teenage Mutant Ninja Turtles III, 1993, 96, 4.8
+All Dogs Go to Heaven Charlie's New Adventure, 1996, 82, 5.5
+Mighty Joe Young, 1998, 114, 5.7
+The Magic Sword: Quest for Camelot, 1998, 86, 6.3
+A Troll in Central Park, 1994, 76, 5.3
+Flipper, 1996, 95, 5.4
+Fantasia 2000, 1999, 75, 7.1
+Mighty Morphin Power Rangers: The Movie, 1995, 95, 5.3
+Doraemon: Nobita and the Kingdom of Clouds, 1992, 97, 7.2
+Dunston Checks In, 1996, 88, 5.4
+Curly Sue, 1991, 101, 5.9
+Free Willy The Adventure Home, 1995, 95, 5.1
+3 Ninja Kids, 1992, 84, 5.4
+Rock-A-Doodle, 1991, 74, 6.0
+Honey, I Blew Up the Kid, 1992, 89, 4.9
+A Simple Wish, 1997, 89, 5.4
+Madeline, 1998, 88, 6.0
+Cats Don't Dance, 1997, 75, 6.9
+Jingle All the Way, 1996, 89, 5.8
+The Muppet Christmas Carol, 1992, 85, 7.8
+Gold Diggers: The Secret of Bear Mountain, 1995, 94, 6.1
+Baby Geniuses, 1999, 97, 2.6
+Andre, 1994, 94, 5.7
+The Princess and the Goblin, 1991, 82, 6.7
+My Girl 2, 1994, 99, 5.3
+Kazaam, 1996, 93, 3.2
+The Mommy Market, 1994, 85, 5.5
+Ernest Goes to Jail, 1990, 81, 5.5
+Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom, 1994, 95, 6.7
+Wild America, 1997, 106, 6.4
+Little Big League, 1994, 119, 6.2
+Pokémon: The Movie 2000, 1999, 84, 6.1
+Look Who's Talking Too, 1990, 81, 4.7
+Flodder in Amerika!, 1992, 2, 5.7
+Ernest Scared Stupid, 1991, 91, 5.8
+Anne of Green Gables: Road to Green Gables, 2010, 100, 7.2
+My Favorite Martian, 1999, 94, 5.1
+Munchie, 1992, 80, 3.5
+Kureyon Shinchan: Action Kamen vs Haigure Maô, 1993, 93, 6.7
+The NeverEnding Story III: Return to Fantasia, 1994, 100, 3.2
+Willow and Wind, 1999, 81, 7.6
+Asterix and Obelix Take on Caesar, 1999, 109, 6.0
+Tall Tale, 1995, 96, 5.9
+The Rugrats Movie, 1998, 79, 5.9
+Look Who's Talking Now, 1993, 96, 4.4
+House Arrest, 1996, 108, 5.8
+Air Bud, 1997, 98, 5.4
+Iron Will, 1994, 108, 6.6
+Doraemon: Nobita's Great Adventure in the South Seas, 1998, 100, 7.2
+Bushwhacked, 1995, 90, 5.7
+Doraemon: Nobita and the Tin Labyrinth, 1993, 100, 7.1
+The Adventures of Pinocchio, 1996, 96, 5.3
+Mom and Dad Save the World, 1992, 88, 5.4
+Doraemon: Nobita's Diary on the Creation of the World, 1995, 97, 6.8
+Inspector Gadget, 1999, 78, 4.2
+I'll Be Home for Christmas, 1998, 86, 5.6
+RocketMan, 1997, 95, 5.9
+Star Kid, 1997, 101, 5.3
+Three Wishes, 1995, 115, 6.1
+Village of Dreams, 1996, 112, 6.8
+Home Alone 3, 1997, 102, 4.6
+The Baby-Sitters Club, 1995, 94, 5.8
+Ernest Goes to School, 1994, 89, 4.7
+The Second Jungle Book: Mowgli &amp; Baloo, 1997, 88, 4.5
+DThe Mighty Ducks, 1996, 104, 5.5
+Three Men and a Little Lady, 1990, 104, 5.5
+King Uncle, 1993, 171, 5.3
+Rainbow, 1995, 98, 4.6
+Wild Hearts Can't Be Broken, 1991, 88, 7.2
+Beethoven's 2nd, 1993, 89, 5.0
+Homeward Bound II: Lost in San Francisco, 1996, 88, 5.9
+First Kid, 1996, 101, 5.3
+Tom and Jerry: The Movie, 1992, 84, 5.5
+Jack Frost, 1998, 101, 5.5
+Meet the Deedles, 1998, 93, 4.2
+The Adventures of Huck Finn, 1993, 108, 6.2
+Surf Ninjas, 1993, 87, 5.1
+3 Ninjas Kick Back, 1994, 93, 4.6
+Black Beauty, 1994, 88, 6.6
+DuckTales: The Movie - Treasure of the Lost Lamp, 1990, 74, 6.8
+A Kid in King Arthur's Court, 1995, 89, 4.8
+Monkey Trouble, 1994, 96, 5.4
+The Fantastic Four, 1994, 90, 3.8
+Muppets from Space, 1999, 87, 6.3
+Fluke, 1995, 96, 6.6
+The Pebble and the Penguin, 1995, 74, 5.6
+The Secret of Roan Inish, 1994, 103, 7.4
+3 Ninjas: Knuckle Up, 1995, 85, 4.4
+Magic in the Water, 1995, 98, 5.4
+Cop &amp; ½, 1993, 97, 4.2
+Getting Even with Dad, 1994, 109, 4.9
+Home Along da Riles da Movie, 1993, 130, 7.0
+Lassie, 1994, 94, 5.9
+Larger Than Life, 1996, 93, 5.7
+Mr. Magoo, 1997, 87, 4.1
+Crayon Shin-chan: Unkokusai no Yabou, 1995, 94, 6.4
+3 Ninjas: High Noon at Mega Mountain, 1998, 93, 3.0
+FairyTale: A True Story, 1997, 99, 6.5
+Dudley Do-Right, 1999, 77, 4.0
+Shiloh, 1996, 93, 6.3
+Wide Awake, 1998, 88, 5.8
+Jetsons: The Movie, 1990, 82, 5.6
+The Air Up There, 1994, 107, 5.6
+Kureyon Shin-chan: Hendârando no daibôken, 1996, 93, 7.1
+The Adventures of Elmo in Grouchland, 1999, 73, 5.9
+Crayon Shin-chan: Pursuit of the Balls of Darkness, 1997, 100, 7.0
+Operation Dumbo Drop, 1995, 107, 5.3
+Life with Mikey, 1993, 91, 5.7
+Leave It to Beaver, 1997, 84, 5.2
+Turbo: A Power Rangers Movie, 1997, 99, 3.7
+War of the Buttons, 1994, 94, 7.3
+Air Bud: Golden Receiver, 1998, 90, 4.6
+Barney's Great Adventure, 1998, 76, 3.3
+Free Willy The Rescue, 1997, 86, 4.8
+That Darn Cat, 1997, 89, 4.7
+Mr. Nanny, 1993, 84, 3.9
+Far from Home: The Adventures of Yellow Dog, 1995, 81, 6.3
+The Wind in the Willows, 1996, 88, 6.3
+Doraemon: Nobita Drifts in the Universe, 1999, 93, 6.6
+Shipwrecked, 1990, 92, 6.5
+Alaska, 1996, 109, 5.8
+Bingo, 1991, 89, 5.1
+Prehysteria!, 1993, 84, 4.7
+Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle, 1999, 88, 6.2
+Gordy, 1994, 90, 3.9
+Ghost Dad, 1990, 83, 4.4
+A Far Off Place, 1993, 100, 6.5
+Suryavamsam, 1997, 156, 7.8
+The Amazing Panda Adventure, 1995, 81, 5.7
+Troublemakers, 1994, 107, 6.0
+Into the West, 1992, 97, 7.0
+Chachi 420, 1997, 155, 7.4
