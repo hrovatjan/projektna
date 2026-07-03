@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Avengers: Endgame, 2019, 181, 8.4
-Spider-Man: Homecoming, 2017, 133, 7.4
-Ready Player One, 2018, 140, 7.4
-Guardians of the Galaxy, 2014, 121, 8.0
-John Wick, 2014, 101, 7.5
-The Hunger Games, 2012, 142, 7.2
-Spider-Man: Into the Spider-Verse, 2018, 117, 8.4
-The Gentlemen, 2019, 113, 7.8
-Avengers: Infinity War, 2018, 149, 8.4
-Blade Runner 2049, 2017, 164, 8.0
-Sicario, 2015, 121, 7.7
-The Nice Guys, 2016, 116, 7.4
-Avengers Assemble, 2012, 143, 8.0
-Jurassic World, 2015, 124, 6.9
-Spider-Man: Far from Home, 2019, 129, 7.3
-The Last Airbender, 2010, 103, 3.9
-Edge of Tomorrow, 2014, 113, 7.9
-Mad Max: Fury Road, 2015, 2, 8.1
-The Amazing Spider-Man, 2012, 136, 6.9
-Man of Steel, 2013, 143, 7.1
-Game Night, 2018, 100, 6.9
-The Gangster, the Cop, the Devil, 2019, 109, 7.0
-Le Mans '66, 2019, 152, 8.1
-Jumanji: Welcome to the Jungle, 2017, 119, 6.9
-Drive, 2011, 100, 7.8
-Zootropolis, 2016, 108, 8.0
-Dunkirk, 2017, 106, 7.8
-Kingsman: The Secret Service, 2014, 129, 7.7
-Captain America: The First Avenger, 2011, 124, 6.9
-Skyfall, 2012, 143, 7.8
-Deadpool, 2016, 108, 8.0
-Night Hunter, 2018, 98, 6.0
-Jump Street, 2012, 109, 7.2
-World War Z, 2013, 116, 7.0
-Thor: Ragnarok, 2017, 130, 7.9
-Guardians of the Galaxy: Vol. 2, 2017, 136, 7.6
-Alita: Battle Angel, 2019, 122, 7.3
-Fury, 2014, 134, 7.6
-The Equalizer, 2014, 132, 7.3
-The Revenant, 2015, 156, 8.0
-Captain America: Civil War, 2016, 147, 7.8
-Predestination, 2014, 97, 7.4
-The Accountant, 2016, 128, 7.3
-Starship Troopers: Invasion, 2012, 89, 5.8
-Lucy, 2014, 89, 6.4
-Pacific Rim, 2013, 131, 6.9
-Divergent, 2014, 139, 6.6
-Baby Driver, 2017, 113, 7.5
-Avengers: Age of Ultron, 2015, 141, 7.3
-The Man from U.N.C.L.E., 2015, 116, 7.2
-The Maze Runner, 2014, 113, 6.8
-Rogue One: A Star Wars Story, 2016, 133, 7.8
-Aquaman, 2018, 143, 6.8
-Logan, 2017, 137, 8.1
-Train to Busan, 2016, 118, 7.6
-Thor, 2011, 115, 7.0
-How to Train Your Dragon, 2010, 98, 8.1
-The Raid: Redemption, 2011, 101, 7.6
-Homefront, 2013, 100, 6.5
-Suicide Squad, 2016, 123, 5.9
-Warrior, 2011, 140, 8.1
-Doctor Strange, 2016, 115, 7.5
-Spectre, 2015, 148, 6.8
-The Amazing Spider-Man 2, 2014, 142, 6.6
-The Hunger Games: Catching Fire, 2013, 146, 7.5
-Source Code, 2011, 93, 7.5
-Scott Pilgrim vs. the World, 2010, 112, 7.5
-Black Panther, 2018, 134, 7.3
-Knight and Day, 2010, 109, 6.3
-I Saw the Devil, 2010, 144, 7.8
-Pirates of the Caribbean: Salazar's Revenge, 2017, 129, 6.5
-Jumanji: The Next Level, 2019, 123, 6.6
-Upgrade, 2018, 100, 7.5
-Star Wars: Episode VII - The Force Awakens, 2015, 138, 7.7
-Tomorrowland, 2015, 130, 6.4
-Captain America: The Winter Soldier, 2014, 136, 7.7
-Deadpool 2, 2018, 119, 7.6
-Venom, 2018, 112, 6.6
-Central Intelligence, 2016, 107, 6.3
-The Magnificent Seven, 2016, 132, 6.9
-Jack Reacher, 2012, 130, 7.0
-X-Men: Days of Future Past, 2014, 132, 7.9
-Battleship, 2012, 131, 5.8
-Creed, 2015, 133, 7.6
-X-Men: First Class, 2011, 131, 7.7
-Rampage, 2018, 107, 6.1
-Snowpiercer, 2013, 126, 7.1
-Iron Man 2, 2010, 124, 6.9
-Only the Brave, 2017, 134, 7.6
-Iron Man 3, 2013, 130, 7.1
-Brave, 2012, 93, 7.1
-Star Wars: Episode IX - The Rise of Skywalker, 2019, 141, 6.3
-King Arthur: Legend of the Sword, 2017, 126, 6.7
-Looper, 2012, 119, 7.4
-Pirates of the Caribbean: On Stranger Tides, 2011, 137, 6.6
-Anna, 2019, 118, 6.7
-Spy, 2015, 2, 7.0
-The Tunnel, 2019, 105, 6.0
-Kick-Ass, 2010, 117, 7.6
-Captain Marvel, 2019, 123, 6.7
-The Other Guys, 2010, 107, 6.7
-American Sniper, 2014, 133, 7.3
-Wonder Woman, 2017, 141, 7.3
-Oblivion, 2013, 124, 7.0
-In Time, 2011, 109, 6.7
-Incredibles 2, 2018, 118, 7.5
-Tomb Raider, 2018, 119, 6.3
-Dredd, 2012, 95, 7.1
-Now You See Me 2, 2016, 129, 6.4
-Ant-Man, 2015, 117, 7.2
-Big Hero 6, 2014, 102, 7.8
-Jump Street, 2014, 112, 7.0
-Riddick, 2013, 119, 6.4
-Rango, 2011, 107, 7.3
-Robin Hood, 2010, 140, 6.6
-John Wick: Chapter 2, 2017, 122, 7.4
-Jackass 3D, 2010, 94, 7.0
-Dangal, 2016, 161, 8.3
-Clash of the Titans, 2010, 106, 5.8
-Sicario Soldado, 2018, 122, 7.1
-The Fighter, 2010, 116, 7.8
-Independence Day: Resurgence, 2016, 2, 5.2
-The Lego Movie, 2014, 100, 7.7
-X-Men: Apocalypse, 2016, 144, 6.8
-Southpaw, 2015, 124, 7.3
-John Wick: Chapter 3 - Parabellum, 2019, 130, 7.4
-Zombieland: Double Tap, 2019, 99, 6.6
-Baywatch, 2017, 116, 5.5
-The Raid 2, 2014, 150, 7.9
-Thor: The Dark World, 2013, 112, 6.7
-American Made, 2017, 115, 7.2
-Deepwater Horizon, 2016, 107, 7.1
-RED, 2010, 111, 7.0
-Mission: Impossible - Fallout, 2018, 147, 7.7
-Star Wars: Episode VIII - The Last Jedi, 2017, 152, 6.8
-Hours, 2016, 144, 7.3
-Jurassic World: Fallen Kingdom, 2018, 128, 6.2
-Terminator: Dark Fate, 2019, 128, 6.2
-Revenge, 2017, 108, 6.4
-Polar, 2019, 118, 6.3
-Transformers: The Last Knight, 2017, 154, 5.2
-Mission: Impossible - Ghost Protocol, 2011, 132, 7.4
-Real Steel, 2011, 127, 7.1
-Anthropoid, 2016, 2, 7.2
-Super 8, 2011, 112, 7.0
-The Hunger Games: Mockingjay - Part 1, 2014, 123, 6.6
-The Equalizer 2, 2018, 121, 6.7
-Den of Thieves, 2018, 140, 7.0
-Solo: A Star Wars Story, 2018, 135, 6.9
-Jason Bourne, 2016, 123, 6.6
-Fast &amp; Furious 5, 2011, 130, 7.3
-The Heat, 2013, 117, 6.6
-Tron: Legacy, 2010, 125, 6.8
-The Lego Batman Movie, 2017, 104, 7.3
-Kingsman: The Golden Circle, 2017, 141, 6.7
-Tag, 2018, 100, 6.5
-Shazam!, 2019, 132, 7.0
-Megamind, 2010, 95, 7.3
-The World's End, 2013, 109, 6.9
-Star Trek Into Darkness, 2013, 132, 7.7
-The Dark Tower, 2017, 95, 5.6
-Creed II, 2018, 130, 7.1
-Overlord, 2018, 110, 6.6
-Olympus Has Fallen, 2013, 119, 6.5
-The Karate Kid, 2010, 140, 6.3
-The Hunger Games: Mockingjay - Part 2, 2015, 137, 6.6
-Lone Survivor, 2013, 121, 7.5
-End of Watch, 2012, 109, 7.6
-Pixels, 2015, 105, 5.6
-The Lone Ranger, 2013, 150, 6.4
-Fast &amp; Furious 7, 2015, 137, 7.1
-Elysium, 2013, 109, 6.6
-The Adventures of Tintin: The Secret of the Unicorn, 2011, 107, 7.3
-The Counsellor, 2013, 117, 5.4
-Red Sparrow, 2018, 140, 6.6
-The Jungle Book, 2016, 106, 7.3
-Teenage Mutant Ninja Turtles, 2014, 101, 5.8
-Warcraft: The Beginning, 2016, 123, 6.7
-Midway, 2019, 138, 6.7
-Edge of Darkness, 2010, 117, 6.6
-The Wolverine, 2013, 126, 6.7
-Sucker Punch, 2011, 110, 6.1
-Godzilla, 2014, 123, 6.4
-Robin Hood, 2018, 116, 5.4
-The Meg, 2018, 113, 5.7
-Captain Phillips, 2013, 134, 7.8
-The Outpost, 2019, 123, 6.9
-Valerian and the City of a Thousand Planets, 2017, 136, 6.4
-John Carter, 2012, 132, 6.6
-Fast &amp; Furious 8, 2017, 136, 6.6
-The Interview, 2014, 112, 6.5
-Transformers: Age of Extinction, 2014, 165, 5.6
-San Andreas, 2015, 114, 6.1
-Transformers: Dark of the Moon, 2011, 154, 6.2
-From Paris with Love, 2010, 92, 6.4
-Escape Room, 2019, 99, 6.4
-Immortals, 2011, 110, 6.0
-Guns Akimbo, 2019, 98, 6.3
-Atomic Blonde, 2017, 115, 6.7
-Triple Frontier, 2019, 125, 6.5
-Prince of Persia: The Sands of Time, 2010, 116, 6.5
-Allied, 2016, 124, 7.1
-Terminator Genisys, 2015, 126, 6.3
-The Book of Eli, 2010, 118, 6.8
-The Mummy, 2017, 111, 5.4
-Kong: Skull Island, 2017, 118, 6.7
-The Dead Don't Die, 2019, 104, 5.4
-Scouts Guide to the Zombie Apocalypse, 2015, 93, 6.3
-Jack the Giant Slayer, 2013, 114, 6.3
-How to Train Your Dragon 2, 2014, 102, 7.8
-6 Underground, 2019, 128, 6.1
-The Angry Birds Movie, 2016, 97, 6.3
-Fast &amp; Furious: Hobbs &amp; Shaw, 2019, 137, 6.4
-Sin City: A Dame to Kill For, 2014, 102, 6.5
-Fast &amp; Furious 6, 2013, 130, 7.0
-Bumblebee, 2018, 114, 6.7
-Cowboys &amp; Aliens, 2011, 119, 6.0
-Kung Fu Panda 3, 2016, 95, 7.1
-Ant-Man and the Wasp, 2018, 118, 7.0
-Death Wish, 2018, 107, 6.3
-The Legend of Tarzan, 2016, 110, 6.2
-The Three Musketeers, 2011, 110, 5.7
-Geostorm, 2017, 109, 5.4
-Ghostbusters, 2016, 117, 6.8
-Only God Forgives, 2013, 90, 5.7
-Rise of the Planet of the Apes, 2011, 105, 7.6
-Logan Lucky, 2017, 118, 7.0
-Rise of an Empire, 2014, 102, 6.2
-The Man from Nowhere, 2010, 119, 7.7
-Okja, 2017, 2, 7.3
-Epic, 2013, 102, 6.6
-Assault on Wall Street, 2013, 99, 6.0
-The Grey, 2011, 117, 6.7
-The Mechanic, 2011, 93, 6.5
-Mandy, 2018, 121, 6.5
-Oldboy, 2013, 104, 5.8
-The Guest, 2014, 100, 6.7
-Snow White and the Huntsman, 2012, 127, 6.1
-Inferno, 2016, 121, 6.2
-Colombiana, 2011, 108, 6.4
-Sherlock Holmes: A Game of Shadows, 2011, 129, 7.4
-Baahubali: The Beginning, 2015, 159, 8.0
-The 5th Wave, 2016, 112, 5.2
-Ghost in the Shell, 2017, 107, 6.3
-Men in Black 3, 2012, 106, 6.8
-The Take, 2016, 92, 6.4
-Men in Black: International, 2019, 114, 5.6
-Insurgent, 2015, 119, 6.2
-Hercules, 2014, 98, 6.0
-Hotel Mumbai, 2018, 123, 7.6
+naslov% leto_izida% trajanje% ocena
+Avengers: Endgame% 2019% 181% 8.4
+Spider-Man: Homecoming% 2017% 133% 7.4
+Ready Player One% 2018% 140% 7.4
+Guardians of the Galaxy% 2014% 121% 8.0
+John Wick% 2014% 101% 7.5
+The Hunger Games% 2012% 142% 7.2
+Spider-Man: Into the Spider-Verse% 2018% 117% 8.4
+The Gentlemen% 2019% 113% 7.8
+Avengers: Infinity War% 2018% 149% 8.4
+Blade Runner 2049% 2017% 164% 8.0
+Sicario% 2015% 121% 7.7
+The Nice Guys% 2016% 116% 7.4
+Avengers Assemble% 2012% 143% 8.0
+Jurassic World% 2015% 124% 6.9
+Spider-Man: Far from Home% 2019% 129% 7.3
+The Last Airbender% 2010% 103% 3.9
+Edge of Tomorrow% 2014% 113% 7.9
+Mad Max: Fury Road% 2015% 2% 8.1
+The Amazing Spider-Man% 2012% 136% 6.9
+Man of Steel% 2013% 143% 7.1
+Game Night% 2018% 100% 6.9
+The Gangster, the Cop, the Devil% 2019% 109% 7.0
+Le Mans '66% 2019% 152% 8.1
+Jumanji: Welcome to the Jungle% 2017% 119% 6.9
+Drive% 2011% 100% 7.8
+Zootropolis% 2016% 108% 8.0
+Dunkirk% 2017% 106% 7.8
+Kingsman: The Secret Service% 2014% 129% 7.7
+Captain America: The First Avenger% 2011% 124% 6.9
+Skyfall% 2012% 143% 7.8
+Deadpool% 2016% 108% 8.0
+Night Hunter% 2018% 98% 6.0
+Jump Street% 2012% 109% 7.2
+World War Z% 2013% 116% 7.0
+Thor: Ragnarok% 2017% 130% 7.9
+Guardians of the Galaxy: Vol. 2% 2017% 136% 7.6
+Alita: Battle Angel% 2019% 122% 7.3
+Fury% 2014% 134% 7.6
+The Equalizer% 2014% 132% 7.3
+The Revenant% 2015% 156% 8.0
+Captain America: Civil War% 2016% 147% 7.8
+Predestination% 2014% 97% 7.4
+The Accountant% 2016% 128% 7.3
+Starship Troopers: Invasion% 2012% 89% 5.8
+Lucy% 2014% 89% 6.4
+Pacific Rim% 2013% 131% 6.9
+Divergent% 2014% 139% 6.6
+Baby Driver% 2017% 113% 7.5
+Avengers: Age of Ultron% 2015% 141% 7.3
+The Man from U.N.C.L.E.% 2015% 116% 7.2
+The Maze Runner% 2014% 113% 6.8
+Rogue One: A Star Wars Story% 2016% 133% 7.8
+Aquaman% 2018% 143% 6.8
+Logan% 2017% 137% 8.1
+Train to Busan% 2016% 118% 7.6
+Thor% 2011% 115% 7.0
+How to Train Your Dragon% 2010% 98% 8.1
+The Raid: Redemption% 2011% 101% 7.6
+Homefront% 2013% 100% 6.5
+Suicide Squad% 2016% 123% 5.9
+Warrior% 2011% 140% 8.1
+Doctor Strange% 2016% 115% 7.5
+Spectre% 2015% 148% 6.8
+The Amazing Spider-Man 2% 2014% 142% 6.6
+The Hunger Games: Catching Fire% 2013% 146% 7.5
+Source Code% 2011% 93% 7.5
+Scott Pilgrim vs. the World% 2010% 112% 7.5
+Black Panther% 2018% 134% 7.3
+Knight and Day% 2010% 109% 6.3
+I Saw the Devil% 2010% 144% 7.8
+Pirates of the Caribbean: Salazar's Revenge% 2017% 129% 6.5
+Jumanji: The Next Level% 2019% 123% 6.6
+Upgrade% 2018% 100% 7.5
+Star Wars: Episode VII - The Force Awakens% 2015% 138% 7.7
+Tomorrowland% 2015% 130% 6.4
+Captain America: The Winter Soldier% 2014% 136% 7.7
+Deadpool 2% 2018% 119% 7.6
+Venom% 2018% 112% 6.6
+Central Intelligence% 2016% 107% 6.3
+The Magnificent Seven% 2016% 132% 6.9
+Jack Reacher% 2012% 130% 7.0
+X-Men: Days of Future Past% 2014% 132% 7.9
+Battleship% 2012% 131% 5.8
+Creed% 2015% 133% 7.6
+X-Men: First Class% 2011% 131% 7.7
+Rampage% 2018% 107% 6.1
+Snowpiercer% 2013% 126% 7.1
+Iron Man 2% 2010% 124% 6.9
+Only the Brave% 2017% 134% 7.6
+Iron Man 3% 2013% 130% 7.1
+Brave% 2012% 93% 7.1
+Star Wars: Episode IX - The Rise of Skywalker% 2019% 141% 6.3
+King Arthur: Legend of the Sword% 2017% 126% 6.7
+Looper% 2012% 119% 7.4
+Pirates of the Caribbean: On Stranger Tides% 2011% 137% 6.6
+Anna% 2019% 118% 6.7
+Spy% 2015% 2% 7.0
+The Tunnel% 2019% 105% 6.0
+Kick-Ass% 2010% 117% 7.6
+Captain Marvel% 2019% 123% 6.7
+The Other Guys% 2010% 107% 6.7
+American Sniper% 2014% 133% 7.3
+Wonder Woman% 2017% 141% 7.3
+Oblivion% 2013% 124% 7.0
+In Time% 2011% 109% 6.7
+Incredibles 2% 2018% 118% 7.5
+Tomb Raider% 2018% 119% 6.3
+Dredd% 2012% 95% 7.1
+Now You See Me 2% 2016% 129% 6.4
+Ant-Man% 2015% 117% 7.2
+Big Hero 6% 2014% 102% 7.8
+Jump Street% 2014% 112% 7.0
+Riddick% 2013% 119% 6.4
+Rango% 2011% 107% 7.3
+Robin Hood% 2010% 140% 6.6
+John Wick: Chapter 2% 2017% 122% 7.4
+Jackass 3D% 2010% 94% 7.0
+Dangal% 2016% 161% 8.3
+Clash of the Titans% 2010% 106% 5.8
+Sicario Soldado% 2018% 122% 7.1
+The Fighter% 2010% 116% 7.8
+Independence Day: Resurgence% 2016% 2% 5.2
+The Lego Movie% 2014% 100% 7.7
+X-Men: Apocalypse% 2016% 144% 6.8
+Southpaw% 2015% 124% 7.3
+John Wick: Chapter 3 - Parabellum% 2019% 130% 7.4
+Zombieland: Double Tap% 2019% 99% 6.6
+Baywatch% 2017% 116% 5.5
+The Raid 2% 2014% 150% 7.9
+Thor: The Dark World% 2013% 112% 6.7
+American Made% 2017% 115% 7.2
+Deepwater Horizon% 2016% 107% 7.1
+RED% 2010% 111% 7.0
+Mission: Impossible - Fallout% 2018% 147% 7.7
+Star Wars: Episode VIII - The Last Jedi% 2017% 152% 6.8
+Hours% 2016% 144% 7.3
+Jurassic World: Fallen Kingdom% 2018% 128% 6.2
+Terminator: Dark Fate% 2019% 128% 6.2
+Revenge% 2017% 108% 6.4
+Polar% 2019% 118% 6.3
+Transformers: The Last Knight% 2017% 154% 5.2
+Mission: Impossible - Ghost Protocol% 2011% 132% 7.4
+Real Steel% 2011% 127% 7.1
+Anthropoid% 2016% 2% 7.2
+Super 8% 2011% 112% 7.0
+The Hunger Games: Mockingjay - Part 1% 2014% 123% 6.6
+The Equalizer 2% 2018% 121% 6.7
+Den of Thieves% 2018% 140% 7.0
+Solo: A Star Wars Story% 2018% 135% 6.9
+Jason Bourne% 2016% 123% 6.6
+Fast & Furious 5% 2011% 130% 7.3
+The Heat% 2013% 117% 6.6
+Tron: Legacy% 2010% 125% 6.8
+The Lego Batman Movie% 2017% 104% 7.3
+Kingsman: The Golden Circle% 2017% 141% 6.7
+Tag% 2018% 100% 6.5
+Shazam!% 2019% 132% 7.0
+Megamind% 2010% 95% 7.3
+The World's End% 2013% 109% 6.9
+Star Trek Into Darkness% 2013% 132% 7.7
+The Dark Tower% 2017% 95% 5.6
+Creed II% 2018% 130% 7.1
+Overlord% 2018% 110% 6.6
+Olympus Has Fallen% 2013% 119% 6.5
+The Karate Kid% 2010% 140% 6.3
+The Hunger Games: Mockingjay - Part 2% 2015% 137% 6.6
+Lone Survivor% 2013% 121% 7.5
+End of Watch% 2012% 109% 7.6
+Pixels% 2015% 105% 5.6
+The Lone Ranger% 2013% 150% 6.4
+Fast & Furious 7% 2015% 137% 7.1
+Elysium% 2013% 109% 6.6
+The Adventures of Tintin: The Secret of the Unicorn% 2011% 107% 7.3
+The Counsellor% 2013% 117% 5.4
+Red Sparrow% 2018% 140% 6.6
+The Jungle Book% 2016% 106% 7.3
+Teenage Mutant Ninja Turtles% 2014% 101% 5.8
+Warcraft: The Beginning% 2016% 123% 6.7
+Midway% 2019% 138% 6.7
+Edge of Darkness% 2010% 117% 6.6
+The Wolverine% 2013% 126% 6.7
+Sucker Punch% 2011% 110% 6.1
+Godzilla% 2014% 123% 6.4
+Robin Hood% 2018% 116% 5.4
+The Meg% 2018% 113% 5.7
+Captain Phillips% 2013% 134% 7.8
+The Outpost% 2019% 123% 6.9
+Valerian and the City of a Thousand Planets% 2017% 136% 6.4
+John Carter% 2012% 132% 6.6
+Fast & Furious 8% 2017% 136% 6.6
+The Interview% 2014% 112% 6.5
+Transformers: Age of Extinction% 2014% 165% 5.6
+San Andreas% 2015% 114% 6.1
+Transformers: Dark of the Moon% 2011% 154% 6.2
+From Paris with Love% 2010% 92% 6.4
+Escape Room% 2019% 99% 6.4
+Immortals% 2011% 110% 6.0
+Guns Akimbo% 2019% 98% 6.3
+Atomic Blonde% 2017% 115% 6.7
+Triple Frontier% 2019% 125% 6.5
+Prince of Persia: The Sands of Time% 2010% 116% 6.5
+Allied% 2016% 124% 7.1
+Terminator Genisys% 2015% 126% 6.3
+The Book of Eli% 2010% 118% 6.8
+The Mummy% 2017% 111% 5.4
+Kong: Skull Island% 2017% 118% 6.7
+The Dead Don't Die% 2019% 104% 5.4
+Scouts Guide to the Zombie Apocalypse% 2015% 93% 6.3
+Jack the Giant Slayer% 2013% 114% 6.3
+How to Train Your Dragon 2% 2014% 102% 7.8
+6 Underground% 2019% 128% 6.1
+The Angry Birds Movie% 2016% 97% 6.3
+Fast & Furious: Hobbs & Shaw% 2019% 137% 6.4
+Sin City: A Dame to Kill For% 2014% 102% 6.5
+Fast & Furious 6% 2013% 130% 7.0
+Bumblebee% 2018% 114% 6.7
+Cowboys & Aliens% 2011% 119% 6.0
+Kung Fu Panda 3% 2016% 95% 7.1
+Ant-Man and the Wasp% 2018% 118% 7.0
+Death Wish% 2018% 107% 6.3
+The Legend of Tarzan% 2016% 110% 6.2
+The Three Musketeers% 2011% 110% 5.7
+Geostorm% 2017% 109% 5.4
+Ghostbusters% 2016% 117% 6.8
+Only God Forgives% 2013% 90% 5.7
+Rise of the Planet of the Apes% 2011% 105% 7.6
+Logan Lucky% 2017% 118% 7.0
+Rise of an Empire% 2014% 102% 6.2
+The Man from Nowhere% 2010% 119% 7.7
+Okja% 2017% 2% 7.3
+Epic% 2013% 102% 6.6
+Assault on Wall Street% 2013% 99% 6.0
+The Grey% 2011% 117% 6.7
+The Mechanic% 2011% 93% 6.5
+Mandy% 2018% 121% 6.5
+Oldboy% 2013% 104% 5.8
+The Guest% 2014% 100% 6.7
+Snow White and the Huntsman% 2012% 127% 6.1
+Inferno% 2016% 121% 6.2
+Colombiana% 2011% 108% 6.4
+Sherlock Holmes: A Game of Shadows% 2011% 129% 7.4
+Baahubali: The Beginning% 2015% 159% 8.0
+The 5th Wave% 2016% 112% 5.2
+Ghost in the Shell% 2017% 107% 6.3
+Men in Black 3% 2012% 106% 6.8
+The Take% 2016% 92% 6.4
+Men in Black: International% 2019% 114% 5.6
+Insurgent% 2015% 119% 6.2
+Hercules% 2014% 98% 6.0
+Hotel Mumbai% 2018% 123% 7.6

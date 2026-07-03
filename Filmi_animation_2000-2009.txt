@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Cars, 2006, 116, 7.3
-Spirited Away, 2001, 124, 8.6
-Ratatouille, 2007, 111, 8.1
-Finding Nemo, 2003, 100, 8.2
-WALL·E, 2008, 98, 8.4
-Monsters, Inc., 2001, 92, 8.1
-The Incredibles, 2004, 115, 8.0
-Shrek, 2001, 90, 7.9
-Up, 2009, 96, 8.3
-Lilo &amp; Stitch, 2002, 85, 7.4
-Kung Fu Panda, 2008, 92, 7.6
-Howl's Moving Castle, 2004, 119, 8.2
-Madagascar, 2005, 86, 7.0
-Shrek 2, 2004, 93, 7.4
-Coraline, 2009, 100, 7.8
-Ice Age, 2002, 81, 7.5
-Fantastic Mr. Fox, 2009, 87, 7.9
-The Emperor's New Groove, 2000, 78, 7.4
-Bee Movie, 2007, 91, 6.1
-The Princess and the Frog, 2009, 97, 7.2
-Enchanted, 2007, 107, 7.1
-Atlantis: The Lost Empire, 2001, 95, 6.9
-Treasure Planet, 2002, 95, 7.2
-Paprika, 2006, 90, 7.7
-Shrek the Third, 2007, 93, 6.1
-Ponyo, 2008, 101, 7.6
-Shark Tale, 2004, 90, 6.0
-Cloudy with a Chance of Meatballs, 2009, 90, 6.9
-Robots, 2005, 91, 6.4
-9, 2009, 79, 7.0
-Corpse Bride, 2005, 77, 7.4
-Monster House, 2006, 91, 6.7
-Meet the Robinsons, 2007, 95, 6.8
-Over the Hedge, 2006, 83, 6.7
-Redline, 2009, 102, 7.5
-The Road to El Dorado, 2000, 89, 6.9
-Surf's Up, 2007, 85, 6.7
-Ice Age: Dawn of the Dinosaurs, 2009, 94, 6.9
-Madagascar: Escape 2 Africa, 2008, 89, 6.7
-Chicken Run, 2000, 84, 7.1
-Mary and Max, 2009, 92, 8.1
-Help! I'm a Fish, 2000, 80, 6.1
-Spirit: Stallion of the Cimarron, 2002, 83, 7.2
-Bolt, 2008, 96, 6.8
-Vampire Hunter D: Bloodlust, 2000, 103, 7.7
-Monsters vs. Aliens, 2009, 94, 6.4
-Persepolis, 2007, 96, 8.0
-The Polar Express, 2004, 100, 6.6
-Ice Age The Meltdown, 2006, 91, 6.8
-A Scanner Darkly, 2006, 100, 7.0
-Happy Feet, 2006, 108, 6.4
-Open Season, 2006, 86, 6.1
-Horton Hears a Who!, 2008, 86, 6.8
-Titan A.E., 2000, 94, 6.6
-Chicken Little, 2005, 81, 5.7
-The Cat Returns, 2002, 75, 7.1
-Beowulf, 2007, 115, 6.3
-Flushed Away, 2006, 85, 6.6
-The Triplets of Belleville, 2003, 80, 7.7
-Brother Bear, 2003, 85, 6.9
-Barnyard, 2006, 90, 5.7
-The SpongeBob SquarePants Movie, 2004, 87, 7.2
-Hoodwinked!, 2005, 80, 6.5
-Millennium Actress, 2001, 87, 7.8
-Alvin and the Chipmunks, 2007, 92, 5.3
-The Simpsons Movie, 2007, 87, 7.3
-Tokyo Godfathers, 2003, 88, 7.8
-Cowboy Bebop: The Movie, 2001, 115, 7.8
-Dinosaur, 2000, 82, 6.4
-TMNT, 2007, 87, 6.2
-The Curse of the Were-Rabbit, 2005, 85, 7.5
-The Secret of Kells, 2009, 71, 7.5
-Tales from Earthsea, 2006, 115, 6.3
-Waking Life, 2001, 99, 7.6
-Star Wars: The Clone Wars, 2008, 98, 6.0
-5 Centimeters per Second, 2007, 63, 7.4
-Ghost in the Shell Innocence, 2004, 100, 7.4
-Final Fantasy: The Spirits Within, 2001, 106, 6.4
-A Christmas Carol, 2009, 96, 6.8
-G-Force, 2009, 88, 5.1
-Tekkonkinkreet, 2006, 111, 7.5
-Alvin and the Chipmunks: The Squeakquel, 2009, 88, 4.6
-Mind Game, 2004, 103, 7.7
-Osmosis Jones, 2001, 95, 6.3
-The Girl Who Leapt Through Time, 2006, 98, 7.6
-Sword of the Stranger, 2007, 103, 7.7
-Doraemon the Movie: Nobita's New Great Adventure Into the Underworld - The Seven Magic Users, 2007, 112, 7.2
-Sinbad: Legend of the Seven Seas, 2003, 88, 6.8
-Arthur and the Invisibles, 2006, 94, 6.0
-Astro Boy, 2009, 94, 6.3
-Doraemon the Movie: Nobita's Dinosaur, 2006, 107, 7.2
-Planet 51, 2009, 91, 6.0
-Summer Wars, 2009, 114, 7.4
-Steamboy, 2004, 126, 6.8
-Curious George, 2006, 87, 6.5
-Evangelion: 1.0 You Are (Not) Alone, 2007, 98, 7.5
-The Ant Bully, 2006, 88, 5.8
-Waltz with Bashir, 2008, 90, 8.0
-Jimmy Neutron: Boy Genius, 2001, 82, 6.1
-Doraemon: Nobita and the Wind Wizard, 2003, 84, 7.0
-Metropolis, 2001, 108, 7.2
-Delgo, 2008, 89, 4.2
-Valiant, 2005, 76, 5.5
-The Tale of Despereaux, 2008, 93, 6.1
-Aachi &amp; Ssipak, 2005, 90, 6.7
-Kureyon Shin-chan: Densetsu o yobu odore! Amîgo!, 2006, 90, 6.1
-Home on the Range, 2004, 76, 5.4
-Looney Tunes: Back in Action, 2003, 93, 5.8
-Doraemon: Nobita and the Green Giant Legend, 2008, 112, 6.7
-One Piece: The Movie, 2000, 51, 6.8
-Heavy Metal 2000, 2000, 88, 5.4
-Pokémon: The Rise of Darkrai, 2007, 95, 6.4
-Dead Leaves, 2004, 55, 7.1
-Evangelion: 2.0 You Can (Not) Advance, 2009, 108, 7.9
-Aqua Teen Hunger Force Colon Movie Film for Theaters, 2007, 86, 6.7
-Arthur and the Great Adventure, 2009, 107, 5.3
-Igor, 2008, 87, 5.9
-The Wild Thornberrys Movie, 2002, 85, 5.7
-Greedy Guts, 2000, 132, 7.3
-The Place Promised in Our Early Days, 2004, 90, 6.8
-Doraemon: Nobita and the Legend of the Sun King, 2000, 93, 7.2
-Fullmetal Alchemist the Movie: Conqueror of Shamballa, 2005, 105, 7.3
-Resident Evil: Degeneration, 2008, 97, 6.4
-Everyone's Hero, 2006, 87, 5.7
-Open Season 2, 2008, 76, 5.5
-Killer Bean Forever, 2008, 85, 6.6
-Interstella The 5tory of the 5ecret 5tar 5ystem, 2003, 68, 7.8
-The Jungle Book 2, 2003, 72, 5.4
-Kureyon Shinchan: Arashi o Yobu Janguru!, 2000, 88, 7.2
-One Piece: Baron Omatsuri and the Secret Island, 2005, 88, 7.2
-Ghost in the Shell 2.0, 2008, 83, 7.8
-Jonah: A VeggieTales Movie, 2002, 82, 6.5
-Blood: The Last Vampire, 2000, 48, 6.6
-Pokémon Heroes: The Movie, 2002, 80, 6.1
-Kara no Kyoukai: The Garden of Sinners - Overlooking View, 2007, 49, 6.9
-Doraemon: Nobita and the Winged Braves, 2001, 95, 6.9
-Renaissance, 2006, 105, 6.6
-The Wild, 2006, 95, 5.2
-Naruto Shippuden: The Movie - Bonds, 2008, 98, 6.8
-Hey Arnold! The Movie, 2002, 76, 6.0
-Final Fantasy VII: Advent Children, 2005, 101, 7.1
-Blood Tea and Red String, 2006, 71, 7.0
-A Town Called Panic, 2009, 75, 7.4
-Metropia, 2009, 86, 6.2
-Clannad, 2007, 94, 7.3
-One Piece: Strong World, 2009, 113, 7.4
-Toys in the Attic, 2009, 74, 6.5
-Crayon Shin-chan: The Legend Called Buri Buri 3 Minutes Charge, 2005, 92, 5.5
-Kangaroo Jack: G'Day U.S.A.!, 2004, 75, 4.0
-One Piece: Chopper's Kingdom in the Strange Animal Island, 2002, 56, 6.2
-Origin: Spirits of the Past, 2006, 94, 6.3
-Initial D: Third Stage, 2001, 100, 7.7
-Kâdokaputâ Sakura: Fûin sareta kâdo, 2000, 79, 7.7
-The Missing Lynx, 2008, 97, 5.2
-Stormy Night, 2005, 110, 7.0
-Krishna - Kans Vadh, 2007, 69, 8.6
-Genius Party, 2007, 102, 6.9
-Krishna - The Birth, 2006, 75, 8.2
-Kara no Kyoukai: The Garden of Sinners - Remaining Sense of Pain, 2008, 58, 7.3
-Krishna in Vrindavan, 2007, 111, 8.4
-Momo alla conquista del tempo, 2001, 80, 6.9
-The King's Beard, 2002, 73, 6.2
-Krishna - Makhan Chor, 2006, N/A, 8.9
-Return to Never Land, 2002, 72, 5.8
-Pokémon The Movie, 2000, 93, 5.9
-Shin Chan: The Adult Empire Strikes Back, 2001, 90, 7.8
-The Powerpuff Girls Movie, 2002, 73, 6.6
-Doogal, 2006, 85, 2.8
-Happily N'Ever After, 2006, 75, 4.5
-Eight Crazy Nights, 2002, 76, 5.3
-Naruto the Movie: Ninja Clash in the Land of Snow, 2004, 82, 6.6
-Rugrats in Paris, 2000, 78, 6.2
-The Magic Roundabout, 2004, 81, 5.3
-The Tigger Movie, 2000, 77, 6.4
-Space Chimps, 2008, 81, 4.5
-The Reef, 2006, 77, 4.2
-Rugrats Go Wild, 2003, 81, 5.6
-Recess: School's Out, 2001, 82, 6.5
-Digimon: The Movie, 2000, 88, 6.1
-Doraemon the Movie: The New Records of Nobita's Spaceblazer, 2009, 103, 6.7
-Pokémon 4Ever, 2001, 75, 5.8
-Pokémon: Lucario and the Mystery of Mew, 2005, 103, 6.8
-Gurren Lagann the Movie: The Lights in the Sky Are Stars, 2009, 126, 8.0
-An Egg Movie, 2005, 90, 6.6
-Naruto Shippûden: The Movie, 2007, 94, 6.7
-Dragon Hunters, 2008, 80, 6.5
-Bleach: Memories of Nobody, 2006, 87, 7.1
-Crayon Shin-chan: Fierceness That Invites Storm! The Battle of the Warring States, 2002, 95, 7.3
-JoJo's Bizarre Adventure: Phantom Blood, 2007, 100, 7.8
-Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Rekkû no hômonsha Deokishisu, 2004, 98, 6.1
-Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Glory, 2003, 88, 6.7
-Battle for Terra, 2007, 90, 6.5
-Azur &amp; Asmar: The Princes' Quest, 2006, 99, 7.3
-Pooh's Heffalump Movie, 2005, 68, 6.4
-Detective Conan: The Phantom of Baker Street, 2002, 98, 7.8
-The Trouble with Terkel, 2004, 77, 7.1
-Appleseed, 2004, 101, 6.9
-Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey, 2004, 89, 7.1
-Doraemon: Nobita and the Robot Kingdom, 2002, 80, 6.8
-The Ten Commandments, 2007, 88, 2.9
-Naruto the Movie Legend of the Stone of Gelel, 2005, 97, 6.3
-Pokémon: Arceus and the Jewel of Life, 2009, 95, 6.3
-Pokémon: Jirachi - Wish Maker, 2003, 81, 5.8
-Chico &amp; Rita, 2009, 94, 7.2
-One Piece: Clockwork Island Adventure, 2001, 55, 6.6
-Naruto the Movie Guardians of the Crescent Moon Kingdom, 2006, 95, 6.3
-Astérix et les Vikings, 2006, 78, 6.0
-Piglet's Big Movie, 2003, 75, 6.1
-Crayon Shin-chan: Invoke a Storm! The Kasukabe Boys of the Evening Sun, 2004, 96, 6.8
-Gurren Lagann the Movie: Childhood's End, 2008, 112, 7.6
-Roadside Romeo, 2008, 93, 4.9
-Sisu: The Death of Tom Sukanen, 2009, 91, 7.5
-Crayon Shin-chan: Fierceness That Invites Storm! The Hero of Kinpoko, 2008, 90, 5.6
-Dante's Inferno, 2007, 88, 6.6
-The Laws of the Sun, 2000, 104, 6.5
-Free Jimmy, 2006, 86, 5.9
-Kaena: The Prophecy, 2003, 92, 6.0
-Fly Me to the Moon, 2007, 84, 4.5
-Curious George Follow That Monkey!, 2009, 80, 5.6
-The Pirates Who Don't Do Anything: A VeggieTales Movie, 2008, 85, 5.7
-Teacher's Pet, 2004, 73, 5.7
-Princes et princesses, 2000, 70, 7.6
-Unstable Fables: 3 Pigs &amp; a Baby, 2008, 76, 5.1
-Naruto Shippûden: The Movie Inheritors of the Will of Fire, 2009, 95, 7.0
-Yu Gi Oh the Movie, 2004, 100, 5.0
-Happily N'Ever After 2, 2009, 75, 3.7
-$9.99, 2008, 78, 6.7
-El bosque animado, 2001, 83, 5.0
-Escaflowne, 2000, 98, 6.5
-Clifford's Really Big Movie, 2004, 74, 5.4
-Muhammad: The Last Prophet, 2002, 95, 7.5
-Titanic: The Legend Goes On..., 2000, 90, 1.5
-Pokémon Ranger and the Temple of the Sea, 2006, 105, 5.9
-Ibara no O, 2009, 2, 6.3
-Sky Blue, 2003, 86, 6.6
-Boo, Zino &amp; the Snurks, 2004, 91, 5.2
-Pokémon: Giratina and the Sky Warrior, 2008, 100, 6.1
-Detective Conan: Countdown to Heaven, 2001, 100, 7.6
-Goat Story, 2008, 82, 3.3
-Genius Party Beyond, 2008, 85, 7.0
-Crayon Shin-chan: Fierceness That Invites Storm! The Singing Buttocks Bomb, 2007, 102, 5.8
-Nocturna, 2007, 80, 7.2
-Pinocchio 3000, 2003, 80, 3.9
-Bleach the Movie: The Diamond Dust Rebellion, 2007, 92, 7.0
-The Blue Elephant, 2006, 88, 5.7
-One Piece: Episode of Alabasta - The Desert Princess and the Pirates, 2007, 90, 6.7
-A Christmas Carol, 2001, 81, 5.4
-The Dolphin: Story of a Dreamer, 2009, 86, 3.5
-Appleseed: Ex Machina, 2007, 105, 7.0
-The Little Bear Movie, 2000, 75, 6.6
+naslov% leto_izida% trajanje% ocena
+Cars% 2006% 116% 7.3
+Spirited Away% 2001% 124% 8.6
+Ratatouille% 2007% 111% 8.1
+Finding Nemo% 2003% 100% 8.2
+WALL·E% 2008% 98% 8.4
+Monsters, Inc.% 2001% 92% 8.1
+The Incredibles% 2004% 115% 8.0
+Shrek% 2001% 90% 7.9
+Up% 2009% 96% 8.3
+Lilo & Stitch% 2002% 85% 7.4
+Kung Fu Panda% 2008% 92% 7.6
+Howl's Moving Castle% 2004% 119% 8.2
+Madagascar% 2005% 86% 7.0
+Shrek 2% 2004% 93% 7.4
+Coraline% 2009% 100% 7.8
+Ice Age% 2002% 81% 7.5
+Fantastic Mr. Fox% 2009% 87% 7.9
+The Emperor's New Groove% 2000% 78% 7.4
+Bee Movie% 2007% 91% 6.1
+The Princess and the Frog% 2009% 97% 7.2
+Enchanted% 2007% 107% 7.1
+Atlantis: The Lost Empire% 2001% 95% 6.9
+Treasure Planet% 2002% 95% 7.2
+Paprika% 2006% 90% 7.7
+Shrek the Third% 2007% 93% 6.1
+Ponyo% 2008% 101% 7.6
+Shark Tale% 2004% 90% 6.0
+Cloudy with a Chance of Meatballs% 2009% 90% 6.9
+Robots% 2005% 91% 6.4
+9% 2009% 79% 7.0
+Corpse Bride% 2005% 77% 7.4
+Monster House% 2006% 91% 6.7
+Meet the Robinsons% 2007% 95% 6.8
+Over the Hedge% 2006% 83% 6.7
+Redline% 2009% 102% 7.5
+The Road to El Dorado% 2000% 89% 6.9
+Surf's Up% 2007% 85% 6.7
+Ice Age: Dawn of the Dinosaurs% 2009% 94% 6.9
+Madagascar: Escape 2 Africa% 2008% 89% 6.7
+Chicken Run% 2000% 84% 7.1
+Mary and Max% 2009% 92% 8.1
+Help! I'm a Fish% 2000% 80% 6.1
+Spirit: Stallion of the Cimarron% 2002% 83% 7.2
+Bolt% 2008% 96% 6.8
+Vampire Hunter D: Bloodlust% 2000% 103% 7.7
+Monsters vs. Aliens% 2009% 94% 6.4
+Persepolis% 2007% 96% 8.0
+The Polar Express% 2004% 100% 6.6
+Ice Age The Meltdown% 2006% 91% 6.8
+A Scanner Darkly% 2006% 100% 7.0
+Happy Feet% 2006% 108% 6.4
+Open Season% 2006% 86% 6.1
+Horton Hears a Who!% 2008% 86% 6.8
+Titan A.E.% 2000% 94% 6.6
+Chicken Little% 2005% 81% 5.7
+The Cat Returns% 2002% 75% 7.1
+Beowulf% 2007% 115% 6.3
+Flushed Away% 2006% 85% 6.6
+The Triplets of Belleville% 2003% 80% 7.7
+Brother Bear% 2003% 85% 6.9
+Barnyard% 2006% 90% 5.7
+The SpongeBob SquarePants Movie% 2004% 87% 7.2
+Hoodwinked!% 2005% 80% 6.5
+Millennium Actress% 2001% 87% 7.8
+Alvin and the Chipmunks% 2007% 92% 5.3
+The Simpsons Movie% 2007% 87% 7.3
+Tokyo Godfathers% 2003% 88% 7.8
+Cowboy Bebop: The Movie% 2001% 115% 7.8
+Dinosaur% 2000% 82% 6.4
+TMNT% 2007% 87% 6.2
+The Curse of the Were-Rabbit% 2005% 85% 7.5
+The Secret of Kells% 2009% 71% 7.5
+Tales from Earthsea% 2006% 115% 6.3
+Waking Life% 2001% 99% 7.6
+Star Wars: The Clone Wars% 2008% 98% 6.0
+5 Centimeters per Second% 2007% 63% 7.4
+Ghost in the Shell Innocence% 2004% 100% 7.4
+Final Fantasy: The Spirits Within% 2001% 106% 6.4
+A Christmas Carol% 2009% 96% 6.8
+G-Force% 2009% 88% 5.1
+Tekkonkinkreet% 2006% 111% 7.5
+Alvin and the Chipmunks: The Squeakquel% 2009% 88% 4.6
+Mind Game% 2004% 103% 7.7
+Osmosis Jones% 2001% 95% 6.3
+The Girl Who Leapt Through Time% 2006% 98% 7.6
+Sword of the Stranger% 2007% 103% 7.7
+Doraemon the Movie: Nobita's New Great Adventure Into the Underworld - The Seven Magic Users% 2007% 112% 7.2
+Sinbad: Legend of the Seven Seas% 2003% 88% 6.8
+Arthur and the Invisibles% 2006% 94% 6.0
+Astro Boy% 2009% 94% 6.3
+Doraemon the Movie: Nobita's Dinosaur% 2006% 107% 7.2
+Planet 51% 2009% 91% 6.0
+Summer Wars% 2009% 114% 7.4
+Steamboy% 2004% 126% 6.8
+Curious George% 2006% 87% 6.5
+Evangelion: 1.0 You Are (Not) Alone% 2007% 98% 7.5
+The Ant Bully% 2006% 88% 5.8
+Waltz with Bashir% 2008% 90% 8.0
+Jimmy Neutron: Boy Genius% 2001% 82% 6.1
+Doraemon: Nobita and the Wind Wizard% 2003% 84% 7.0
+Metropolis% 2001% 108% 7.2
+Delgo% 2008% 89% 4.2
+Valiant% 2005% 76% 5.5
+The Tale of Despereaux% 2008% 93% 6.1
+Aachi & Ssipak% 2005% 90% 6.7
+Kureyon Shin-chan: Densetsu o yobu odore! Amîgo!% 2006% 90% 6.1
+Home on the Range% 2004% 76% 5.4
+Looney Tunes: Back in Action% 2003% 93% 5.8
+Doraemon: Nobita and the Green Giant Legend% 2008% 112% 6.7
+One Piece: The Movie% 2000% 51% 6.8
+Heavy Metal 2000% 2000% 88% 5.4
+Pokémon: The Rise of Darkrai% 2007% 95% 6.4
+Dead Leaves% 2004% 55% 7.1
+Evangelion: 2.0 You Can (Not) Advance% 2009% 108% 7.9
+Aqua Teen Hunger Force Colon Movie Film for Theaters% 2007% 86% 6.7
+Arthur and the Great Adventure% 2009% 107% 5.3
+Igor% 2008% 87% 5.9
+The Wild Thornberrys Movie% 2002% 85% 5.7
+Greedy Guts% 2000% 132% 7.3
+The Place Promised in Our Early Days% 2004% 90% 6.8
+Doraemon: Nobita and the Legend of the Sun King% 2000% 93% 7.2
+Fullmetal Alchemist the Movie: Conqueror of Shamballa% 2005% 105% 7.3
+Resident Evil: Degeneration% 2008% 97% 6.4
+Everyone's Hero% 2006% 87% 5.7
+Open Season 2% 2008% 76% 5.5
+Killer Bean Forever% 2008% 85% 6.6
+Interstella The 5tory of the 5ecret 5tar 5ystem% 2003% 68% 7.8
+The Jungle Book 2% 2003% 72% 5.4
+Kureyon Shinchan: Arashi o Yobu Janguru!% 2000% 88% 7.2
+One Piece: Baron Omatsuri and the Secret Island% 2005% 88% 7.2
+Ghost in the Shell 2.0% 2008% 83% 7.8
+Jonah: A VeggieTales Movie% 2002% 82% 6.5
+Blood: The Last Vampire% 2000% 48% 6.6
+Pokémon Heroes: The Movie% 2002% 80% 6.1
+Kara no Kyoukai: The Garden of Sinners - Overlooking View% 2007% 49% 6.9
+Doraemon: Nobita and the Winged Braves% 2001% 95% 6.9
+Renaissance% 2006% 105% 6.6
+The Wild% 2006% 95% 5.2
+Naruto Shippuden: The Movie - Bonds% 2008% 98% 6.8
+Hey Arnold! The Movie% 2002% 76% 6.0
+Final Fantasy VII: Advent Children% 2005% 101% 7.1
+Blood Tea and Red String% 2006% 71% 7.0
+A Town Called Panic% 2009% 75% 7.4
+Metropia% 2009% 86% 6.2
+Clannad% 2007% 94% 7.3
+One Piece: Strong World% 2009% 113% 7.4
+Toys in the Attic% 2009% 74% 6.5
+Crayon Shin-chan: The Legend Called Buri Buri 3 Minutes Charge% 2005% 92% 5.5
+Kangaroo Jack: G'Day U.S.A.!% 2004% 75% 4.0
+One Piece: Chopper's Kingdom in the Strange Animal Island% 2002% 56% 6.2
+Origin: Spirits of the Past% 2006% 94% 6.3
+Initial D: Third Stage% 2001% 100% 7.7
+Kâdokaputâ Sakura: Fûin sareta kâdo% 2000% 79% 7.7
+The Missing Lynx% 2008% 97% 5.2
+Stormy Night% 2005% 110% 7.0
+Krishna - Kans Vadh% 2007% 69% 8.6
+Genius Party% 2007% 102% 6.9
+Krishna - The Birth% 2006% 75% 8.2
+Kara no Kyoukai: The Garden of Sinners - Remaining Sense of Pain% 2008% 58% 7.3
+Krishna in Vrindavan% 2007% 111% 8.4
+Momo alla conquista del tempo% 2001% 80% 6.9
+The King's Beard% 2002% 73% 6.2
+Krishna - Makhan Chor% 2006% N/A% 8.9
+Return to Never Land% 2002% 72% 5.8
+Pokémon The Movie% 2000% 93% 5.9
+Shin Chan: The Adult Empire Strikes Back% 2001% 90% 7.8
+The Powerpuff Girls Movie% 2002% 73% 6.6
+Doogal% 2006% 85% 2.8
+Happily N'Ever After% 2006% 75% 4.5
+Eight Crazy Nights% 2002% 76% 5.3
+Naruto the Movie: Ninja Clash in the Land of Snow% 2004% 82% 6.6
+Rugrats in Paris% 2000% 78% 6.2
+The Magic Roundabout% 2004% 81% 5.3
+The Tigger Movie% 2000% 77% 6.4
+Space Chimps% 2008% 81% 4.5
+The Reef% 2006% 77% 4.2
+Rugrats Go Wild% 2003% 81% 5.6
+Recess: School's Out% 2001% 82% 6.5
+Digimon: The Movie% 2000% 88% 6.1
+Doraemon the Movie: The New Records of Nobita's Spaceblazer% 2009% 103% 6.7
+Pokémon 4Ever% 2001% 75% 5.8
+Pokémon: Lucario and the Mystery of Mew% 2005% 103% 6.8
+Gurren Lagann the Movie: The Lights in the Sky Are Stars% 2009% 126% 8.0
+An Egg Movie% 2005% 90% 6.6
+Naruto Shippûden: The Movie% 2007% 94% 6.7
+Dragon Hunters% 2008% 80% 6.5
+Bleach: Memories of Nobody% 2006% 87% 7.1
+Crayon Shin-chan: Fierceness That Invites Storm! The Battle of the Warring States% 2002% 95% 7.3
+JoJo's Bizarre Adventure: Phantom Blood% 2007% 100% 7.8
+Gekijôban Poketto Monsutâ Adobansu Jenerêshon: Rekkû no hômonsha Deokishisu% 2004% 98% 6.1
+Crayon Shin-chan: Fierceness That Invites Storm! Yakiniku Road of Glory% 2003% 88% 6.7
+Battle for Terra% 2007% 90% 6.5
+Azur & Asmar: The Princes' Quest% 2006% 99% 7.3
+Pooh's Heffalump Movie% 2005% 68% 6.4
+Detective Conan: The Phantom of Baker Street% 2002% 98% 7.8
+The Trouble with Terkel% 2004% 77% 7.1
+Appleseed% 2004% 101% 6.9
+Doraemon: Nobita in the Wan-Nyan Spacetime Odyssey% 2004% 89% 7.1
+Doraemon: Nobita and the Robot Kingdom% 2002% 80% 6.8
+The Ten Commandments% 2007% 88% 2.9
+Naruto the Movie Legend of the Stone of Gelel% 2005% 97% 6.3
+Pokémon: Arceus and the Jewel of Life% 2009% 95% 6.3
+Pokémon: Jirachi - Wish Maker% 2003% 81% 5.8
+Chico & Rita% 2009% 94% 7.2
+One Piece: Clockwork Island Adventure% 2001% 55% 6.6
+Naruto the Movie Guardians of the Crescent Moon Kingdom% 2006% 95% 6.3
+Astérix et les Vikings% 2006% 78% 6.0
+Piglet's Big Movie% 2003% 75% 6.1
+Crayon Shin-chan: Invoke a Storm! The Kasukabe Boys of the Evening Sun% 2004% 96% 6.8
+Gurren Lagann the Movie: Childhood's End% 2008% 112% 7.6
+Roadside Romeo% 2008% 93% 4.9
+Sisu: The Death of Tom Sukanen% 2009% 91% 7.5
+Crayon Shin-chan: Fierceness That Invites Storm! The Hero of Kinpoko% 2008% 90% 5.6
+Dante's Inferno% 2007% 88% 6.6
+The Laws of the Sun% 2000% 104% 6.5
+Free Jimmy% 2006% 86% 5.9
+Kaena: The Prophecy% 2003% 92% 6.0
+Fly Me to the Moon% 2007% 84% 4.5
+Curious George Follow That Monkey!% 2009% 80% 5.6
+The Pirates Who Don't Do Anything: A VeggieTales Movie% 2008% 85% 5.7
+Teacher's Pet% 2004% 73% 5.7
+Princes et princesses% 2000% 70% 7.6
+Unstable Fables: 3 Pigs & a Baby% 2008% 76% 5.1
+Naruto Shippûden: The Movie Inheritors of the Will of Fire% 2009% 95% 7.0
+Yu Gi Oh the Movie% 2004% 100% 5.0
+Happily N'Ever After 2% 2009% 75% 3.7
+$9.99% 2008% 78% 6.7
+El bosque animado% 2001% 83% 5.0
+Escaflowne% 2000% 98% 6.5
+Clifford's Really Big Movie% 2004% 74% 5.4
+Muhammad: The Last Prophet% 2002% 95% 7.5
+Titanic: The Legend Goes On...% 2000% 90% 1.5
+Pokémon Ranger and the Temple of the Sea% 2006% 105% 5.9
+Ibara no O% 2009% 2% 6.3
+Sky Blue% 2003% 86% 6.6
+Boo, Zino & the Snurks% 2004% 91% 5.2
+Pokémon: Giratina and the Sky Warrior% 2008% 100% 6.1
+Detective Conan: Countdown to Heaven% 2001% 100% 7.6
+Goat Story% 2008% 82% 3.3
+Genius Party Beyond% 2008% 85% 7.0
+Crayon Shin-chan: Fierceness That Invites Storm! The Singing Buttocks Bomb% 2007% 102% 5.8
+Nocturna% 2007% 80% 7.2
+Pinocchio 3000% 2003% 80% 3.9
+Bleach the Movie: The Diamond Dust Rebellion% 2007% 92% 7.0
+The Blue Elephant% 2006% 88% 5.7
+One Piece: Episode of Alabasta - The Desert Princess and the Pirates% 2007% 90% 6.8
+A Christmas Carol% 2001% 81% 5.4
+The Dolphin: Story of a Dreamer% 2009% 86% 3.5
+Appleseed: Ex Machina% 2007% 105% 7.0
+The Little Bear Movie% 2000% 75% 6.6

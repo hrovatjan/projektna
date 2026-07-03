@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Harry Potter and the Philosopher's Stone, 2001, 152, 7.7
-Cars, 2006, 116, 7.3
-Spirited Away, 2001, 124, 8.6
-Night at the Museum, 2006, 108, 6.5
-Ratatouille, 2007, 111, 8.1
-Finding Nemo, 2003, 100, 8.2
-WALL·E, 2008, 98, 8.4
-Harry Potter and the Goblet of Fire, 2005, 157, 7.7
-Monsters, Inc., 2001, 92, 8.1
-The Incredibles, 2004, 115, 8.0
-Shrek, 2001, 90, 7.9
-Up, 2009, 96, 8.3
-Harry Potter and the Prisoner of Azkaban, 2004, 142, 7.9
-Harry Potter and the Chamber of Secrets, 2002, 161, 7.5
-Scooby-Doo, 2002, 89, 5.4
-Night at the Museum 2, 2009, 105, 6.0
-Lilo &amp; Stitch, 2002, 85, 7.4
-The Chronicles of Narnia: The Lion, the Witch and the Wardrobe, 2005, 143, 6.9
-Kung Fu Panda, 2008, 92, 7.6
-Howl's Moving Castle, 2004, 119, 8.2
-Madagascar, 2005, 86, 7.0
-Harry Potter and the Order of the Phoenix, 2007, 138, 7.5
-Shrek 2, 2004, 93, 7.4
-Coraline, 2009, 100, 7.8
-A Cinderella Story, 2004, 95, 6.0
-Ice Age, 2002, 81, 7.5
-The Princess Diaries, 2001, 115, 6.4
-Harry Potter and the Half-Blood Prince, 2009, 153, 7.6
-Bridge to Terabithia, 2007, 96, 7.2
-Charlie and the Chocolate Factory, 2005, 115, 6.7
-Fantastic Mr. Fox, 2009, 87, 7.9
-Holes, 2003, 117, 7.0
-Secondhand Lions, 2003, 111, 7.5
-The Emperor's New Groove, 2000, 78, 7.4
-An Unfinished Life, 2005, 108, 7.0
-Bee Movie, 2007, 91, 6.1
-The Princess and the Frog, 2009, 97, 7.2
-A Series of Unfortunate Events, 2004, 108, 6.8
-Enchanted, 2007, 107, 7.1
-Atlantis: The Lost Empire, 2001, 95, 6.9
-Treasure Planet, 2002, 95, 7.2
-Like Stars on Earth, 2007, 162, 8.3
-Hachi: A Dog's Tale, 2009, 93, 8.1
-Shrek the Third, 2007, 93, 6.1
-Ponyo, 2008, 101, 7.6
-Shark Tale, 2004, 90, 6.0
-Aquamarine, 2006, 110, 5.5
-Cloudy with a Chance of Meatballs, 2009, 90, 6.9
-Robots, 2005, 91, 6.4
-Corpse Bride, 2005, 77, 7.4
-Monster House, 2006, 91, 6.7
-Meet the Robinsons, 2007, 95, 6.8
-Over the Hedge, 2006, 83, 6.7
-Sky High, 2005, 100, 6.3
-Peter Pan, 2003, 113, 6.8
-The Road to El Dorado, 2000, 89, 6.9
-Surf's Up, 2007, 85, 6.7
-Ice Age: Dawn of the Dinosaurs, 2009, 94, 6.9
-Zathura: A Space Adventure, 2005, 101, 6.3
-The Chronicles of Narnia: Prince Caspian, 2008, 150, 6.5
-Madagascar: Escape 2 Africa, 2008, 89, 6.7
-Elf, 2003, 97, 7.1
-Speed Racer, 2008, 135, 6.1
-Chicken Run, 2000, 84, 7.1
-Cheaper by the Dozen, 2003, 98, 5.9
-The Ultimate Gift, 2006, 118, 7.3
-Help! I'm a Fish, 2000, 80, 6.1
-Spirit: Stallion of the Cimarron, 2002, 83, 7.2
-Ella Enchanted, 2004, 96, 6.3
-My Sister's Keeper, 2009, 109, 7.3
-Sleepover, 2004, 89, 5.3
-Bolt, 2008, 96, 6.8
-Spy Kids, 2001, 88, 5.6
-Freaky Friday, 2003, 97, 6.4
-Scooby-Doo Monsters Unleashed, 2004, 93, 5.4
-Nacho Libre, 2006, 92, 5.9
-The Cat in the Hat, 2003, 82, 4.2
-Journey to the Centre of the Earth, 2008, 93, 5.8
-The Spiderwick Chronicles, 2008, 96, 6.5
-Monsters vs. Aliens, 2009, 94, 6.4
-The Polar Express, 2004, 100, 6.6
-The Princess Diaries Royal Engagement, 2004, 113, 5.9
-Ice Age The Meltdown, 2006, 91, 6.8
-Happy Feet, 2006, 108, 6.4
-Evan Almighty, 2007, 96, 5.5
-Open Season, 2006, 86, 6.1
-Daddy Day Care, 2003, 92, 5.7
-Bedtime Stories, 2008, 99, 6.0
-How the Grinch Stole Christmas, 2000, 104, 6.4
-Nanny McPhee, 2005, 97, 6.6
-Horton Hears a Who!, 2008, 86, 6.8
-The Golden Compass, 2007, 113, 6.1
-Titan A.E., 2000, 94, 6.6
-Chicken Little, 2005, 81, 5.7
-Finding Neverland, 2004, 106, 7.6
-The Cat Returns, 2002, 75, 7.1
-Marley &amp; Me, 2008, 111, 7.0
-Paul Blart: Mall Cop, 2009, 91, 5.3
-Flushed Away, 2006, 85, 6.6
-Brother Bear, 2003, 85, 6.9
-The Pacifier, 2005, 95, 5.6
-Barnyard, 2006, 90, 5.7
-The SpongeBob SquarePants Movie, 2004, 87, 7.2
-Hoodwinked!, 2005, 80, 6.5
-St. Trinian's, 2007, 101, 5.8
-Alvin and the Chipmunks, 2007, 92, 5.3
-R.V.: Runaway Vacation, 2006, 99, 5.6
-The Rookie, 2002, 128, 6.9
-What a Girl Wants, 2003, 105, 5.8
-Where the Wild Things Are, 2009, 101, 6.7
-City of Ember, 2008, 90, 6.4
-Dinosaur, 2000, 82, 6.4
-TMNT, 2007, 87, 6.2
-The Curse of the Were-Rabbit, 2005, 85, 7.5
-The Secret of Kells, 2009, 71, 7.5
-A Shine of Rainbows, 2009, 101, 7.1
-The Game Plan, 2007, 110, 6.2
-Star Wars: The Clone Wars, 2008, 98, 6.0
-Yours, Mine &amp; Ours, 2005, 88, 5.5
-5 Centimeters per Second, 2007, 63, 7.4
-The Lizzie McGuire Movie, 2003, 94, 5.6
-Tuck Everlasting, 2002, 90, 6.6
-Inkheart, 2008, 106, 6.1
-Charlotte's Web, 2006, 97, 6.3
-Meet Dave, 2008, 90, 5.1
-Mr. Bean's Holiday, 2007, 90, 6.4
-The Secret of Moonacre, 2008, 103, 6.1
-A Christmas Carol, 2009, 96, 6.8
-G-Force, 2009, 88, 5.1
-Ice Princess, 2005, 98, 6.1
-Circus Island, 2006, 101, 3.8
-Son of Rambow, 2007, 96, 7.0
-Alvin and the Chipmunks: The Squeakquel, 2009, 88, 4.6
-High School Musical Senior Year, 2008, 112, 5.1
-Nim's Island, 2008, 96, 6.0
-Osmosis Jones, 2001, 95, 6.3
-The Girl Who Leapt Through Time, 2006, 98, 7.6
-The Perfect Man, 2005, 100, 5.5
-Cats &amp; Dogs, 2001, 87, 5.2
-Alabama Moon, 2009, 99, 6.5
-Doraemon the Movie: Nobita's New Great Adventure Into the Underworld - The Seven Magic Users, 2007, 112, 7.2
-Eight Below, 2006, 2, 7.3
-Sinbad: Legend of the Seven Seas, 2003, 88, 6.8
-Spy Kids Island of Lost Dreams, 2002, 100, 5.3
-Race to Witch Mountain, 2009, 98, 5.7
-The Flintstones in Viva Rock Vegas, 2000, 90, 3.8
-Eragon, 2006, 104, 5.1
-New York Minute, 2004, 91, 5.0
-Arthur and the Invisibles, 2006, 94, 6.0
-The Perfect Game, 2009, 118, 7.0
-Garfield: The Movie, 2004, 80, 5.1
-Big Fat Liar, 2002, 88, 5.6
-Veer Zaara, 2004, 192, 7.8
-Son of the Mask, 2005, 94, 2.3
-The Haunted Mansion, 2003, 87, 5.2
-Bratz, 2007, 110, 3.2
-Cheaper by the Dozen 2, 2005, 94, 5.6
-Astro Boy, 2009, 94, 6.3
-Doraemon the Movie: Nobita's Dinosaur, 2006, 107, 7.2
-Whale Rider, 2002, 101, 7.5
-Mr. Magorium's Wonder Emporium, 2007, 93, 6.2
-Planet 51, 2009, 91, 6.0
-The Adventures of Sharkboy and Lavagirl 3-D, 2005, 93, 3.8
-Little Manhattan, 2005, 90, 7.4
-Raise Your Voice, 2004, 107, 5.8
-Asterix &amp; Obelix: Mission Cleopatra, 2002, 107, 6.7
-Christmas with the Kranks, 2004, 99, 5.6
-The Master of Disguise, 2002, 80, 3.4
-Curious George, 2006, 87, 6.5
-Are We There Yet?, 2005, 95, 4.8
-Around the World in Days, 2004, 2, 5.9
-Martian Child, 2007, 106, 6.7
-Herbie: Fully Loaded, 2005, 101, 5.0
-Agent Cody Banks, 2003, 102, 5.2
-The Ant Bully, 2006, 88, 5.8
-Jimmy Neutron: Boy Genius, 2001, 82, 6.1
-The Santa Clause 2, 2002, 104, 5.8
-Doraemon: Nobita and the Wind Wizard, 2003, 84, 7.0
-Delgo, 2008, 89, 4.2
-Garfield 2, 2006, 82, 5.0
-Chak De! India, 2007, 153, 8.1
-Hannah Montana: The Movie, 2009, 102, 4.8
-Spy Kids Game Over, 2003, 84, 4.4
-Valiant, 2005, 76, 5.5
-Like Mike, 2002, 99, 5.5
-Stormbreaker, 2006, 93, 5.1
-Dreamer, 2005, 106, 6.9
-The Tale of Despereaux, 2008, 93, 6.1
-The Little Vampire, 2000, 95, 5.8
-I Love You, Beth Cooper, 2009, 102, 5.4
-Aliens in the Attic, 2009, 86, 5.5
-Home on the Range, 2004, 76, 5.4
-Stuart Little 2, 2002, 77, 5.5
-Looney Tunes: Back in Action, 2003, 93, 5.8
-The Adventures of Rocky &amp; Bullwinkle, 2000, 92, 4.3
-Doraemon: Nobita and the Green Giant Legend, 2008, 112, 6.7
-Pokémon: The Rise of Darkrai, 2007, 95, 6.4
-Arthur and the Great Adventure, 2009, 107, 5.3
-The Last Mimzy, 2007, 90, 6.2
-Akeelah and the Bee, 2006, 112, 7.4
-Asterix at the Olympic Games, 2008, 116, 5.2
-Imagine That, 2009, 107, 5.6
-Married Life, 2007, 91, 6.2
-Flicka, 2006, 95, 6.0
-Igor, 2008, 87, 5.9
-Millions, 2004, 98, 6.8
-The Kid, 2000, 104, 6.1
-Two Brothers, 2004, 109, 7.0
-Material Girls, 2006, 98, 4.0
-Snow Day, 2000, 89, 5.2
-How to Eat Fried Worms, 2006, 84, 5.4
-Agent Cody Banks Destination London, 2004, 100, 4.6
-Zoom, 2006, 93, 4.4
-Saathiya, 2002, 138, 6.8
-The Wild Thornberrys Movie, 2002, 85, 5.7
-Because of Winn-Dixie, 2005, 106, 6.4
-Underdog, 2007, 100, 4.8
-Doraemon: Nobita and the Legend of the Sun King, 2000, 93, 7.2
-The Song of Sparrows, 2008, 96, 7.9
-Bhoothnath, 2008, 150, 6.5
-Beverly Hills Chihuahua, 2008, 91, 4.0
-Snow Dogs, 2002, 99, 5.2
-The Water Horse, 2007, 112, 6.4
-Nancy Drew, 2007, 99, 5.9
-St Trinian's The Legend of Fritton's Gold, 2009, 106, 5.3
-Hotel for Dogs, 2009, 100, 5.5
-Are We Done Yet?, 2007, 92, 4.4
-Everyone's Hero, 2006, 87, 5.7
-Open Season 2, 2008, 76, 5.5
-The Longshots, 2008, 94, 5.6
-Kangaroo Jack, 2003, 89, 4.5
-Fred Claus, 2007, 116, 5.7
-The Challenge, 2003, 92, 5.3
-The Shaggy Dog, 2006, 98, 4.4
-The Jungle Book 2, 2003, 72, 5.4
-Deck the Halls, 2006, 93, 5.1
-Vivah, 2006, 160, 6.7
-Little Nicholas, 2009, 91, 7.1
-Kureyon Shinchan: Arashi o Yobu Janguru!, 2000, 88, 7.2
-Catch That Kid, 2004, 91, 5.2
-Kicking &amp; Screaming, 2005, 95, 5.6
-Jonah: A VeggieTales Movie, 2002, 82, 6.5
-The Seeker: The Dark Is Rising, 2007, 99, 4.8
-Duma, 2005, 100, 7.1
-Pokémon Heroes: The Movie, 2002, 80, 6.1
-Ai Que Vida!, 2008, 100, 7.7
-Red Riding Hood, 2006, 82, 3.6
-Doraemon: Nobita and the Winged Braves, 2001, 95, 6.9
-Post Grad, 2009, 88, 5.3
-The Wild, 2006, 95, 5.2
+naslov% leto_izida% trajanje% ocena
+Harry Potter and the Philosopher's Stone% 2001% 152% 7.7
+Cars% 2006% 116% 7.3
+Spirited Away% 2001% 124% 8.6
+Night at the Museum% 2006% 108% 6.5
+Ratatouille% 2007% 111% 8.1
+Finding Nemo% 2003% 100% 8.2
+WALL·E% 2008% 98% 8.4
+Harry Potter and the Goblet of Fire% 2005% 157% 7.7
+Monsters, Inc.% 2001% 92% 8.1
+The Incredibles% 2004% 115% 8.0
+Shrek% 2001% 90% 7.9
+Up% 2009% 96% 8.3
+Harry Potter and the Prisoner of Azkaban% 2004% 142% 7.9
+Harry Potter and the Chamber of Secrets% 2002% 161% 7.5
+Scooby-Doo% 2002% 89% 5.4
+Night at the Museum 2% 2009% 105% 6.0
+Lilo & Stitch% 2002% 85% 7.4
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe% 2005% 143% 6.9
+Kung Fu Panda% 2008% 92% 7.6
+Howl's Moving Castle% 2004% 119% 8.2
+Madagascar% 2005% 86% 7.0
+Harry Potter and the Order of the Phoenix% 2007% 138% 7.5
+Shrek 2% 2004% 93% 7.4
+Coraline% 2009% 100% 7.8
+A Cinderella Story% 2004% 95% 6.0
+Ice Age% 2002% 81% 7.5
+The Princess Diaries% 2001% 115% 6.4
+Harry Potter and the Half-Blood Prince% 2009% 153% 7.6
+Bridge to Terabithia% 2007% 96% 7.2
+Charlie and the Chocolate Factory% 2005% 115% 6.7
+Fantastic Mr. Fox% 2009% 87% 7.9
+Holes% 2003% 117% 7.0
+Secondhand Lions% 2003% 111% 7.5
+The Emperor's New Groove% 2000% 78% 7.4
+An Unfinished Life% 2005% 108% 7.0
+Bee Movie% 2007% 91% 6.1
+The Princess and the Frog% 2009% 97% 7.2
+A Series of Unfortunate Events% 2004% 108% 6.8
+Enchanted% 2007% 107% 7.1
+Atlantis: The Lost Empire% 2001% 95% 6.9
+Treasure Planet% 2002% 95% 7.2
+Like Stars on Earth% 2007% 162% 8.3
+Hachi: A Dog's Tale% 2009% 93% 8.1
+Shrek the Third% 2007% 93% 6.1
+Ponyo% 2008% 101% 7.6
+Shark Tale% 2004% 90% 6.0
+Aquamarine% 2006% 110% 5.5
+Cloudy with a Chance of Meatballs% 2009% 90% 6.9
+Robots% 2005% 91% 6.4
+Corpse Bride% 2005% 77% 7.4
+Monster House% 2006% 91% 6.7
+Meet the Robinsons% 2007% 95% 6.8
+Over the Hedge% 2006% 83% 6.7
+Sky High% 2005% 100% 6.3
+Peter Pan% 2003% 113% 6.8
+The Road to El Dorado% 2000% 89% 6.9
+Surf's Up% 2007% 85% 6.7
+Ice Age: Dawn of the Dinosaurs% 2009% 94% 6.9
+Zathura: A Space Adventure% 2005% 101% 6.3
+The Chronicles of Narnia: Prince Caspian% 2008% 150% 6.5
+Madagascar: Escape 2 Africa% 2008% 89% 6.7
+Elf% 2003% 97% 7.1
+Speed Racer% 2008% 135% 6.1
+Chicken Run% 2000% 84% 7.1
+Cheaper by the Dozen% 2003% 98% 5.9
+The Ultimate Gift% 2006% 118% 7.3
+Help! I'm a Fish% 2000% 80% 6.1
+Spirit: Stallion of the Cimarron% 2002% 83% 7.2
+Ella Enchanted% 2004% 96% 6.3
+My Sister's Keeper% 2009% 109% 7.3
+Sleepover% 2004% 89% 5.3
+Bolt% 2008% 96% 6.8
+Spy Kids% 2001% 88% 5.6
+Freaky Friday% 2003% 97% 6.4
+Scooby-Doo Monsters Unleashed% 2004% 93% 5.4
+Nacho Libre% 2006% 92% 5.9
+The Cat in the Hat% 2003% 82% 4.2
+Journey to the Centre of the Earth% 2008% 93% 5.8
+The Spiderwick Chronicles% 2008% 96% 6.5
+Monsters vs. Aliens% 2009% 94% 6.4
+The Polar Express% 2004% 100% 6.6
+The Princess Diaries Royal Engagement% 2004% 113% 5.9
+Ice Age The Meltdown% 2006% 91% 6.8
+Happy Feet% 2006% 108% 6.4
+Evan Almighty% 2007% 96% 5.5
+Open Season% 2006% 86% 6.1
+Daddy Day Care% 2003% 92% 5.7
+Bedtime Stories% 2008% 99% 6.0
+How the Grinch Stole Christmas% 2000% 104% 6.4
+Nanny McPhee% 2005% 97% 6.6
+Horton Hears a Who!% 2008% 86% 6.8
+The Golden Compass% 2007% 113% 6.1
+Titan A.E.% 2000% 94% 6.6
+Chicken Little% 2005% 81% 5.7
+Finding Neverland% 2004% 106% 7.6
+The Cat Returns% 2002% 75% 7.1
+Marley & Me% 2008% 111% 7.0
+Paul Blart: Mall Cop% 2009% 91% 5.3
+Flushed Away% 2006% 85% 6.6
+Brother Bear% 2003% 85% 6.9
+The Pacifier% 2005% 95% 5.6
+Barnyard% 2006% 90% 5.7
+The SpongeBob SquarePants Movie% 2004% 87% 7.2
+Hoodwinked!% 2005% 80% 6.5
+St. Trinian's% 2007% 101% 5.8
+Alvin and the Chipmunks% 2007% 92% 5.3
+R.V.: Runaway Vacation% 2006% 99% 5.6
+The Rookie% 2002% 128% 6.9
+What a Girl Wants% 2003% 105% 5.8
+Where the Wild Things Are% 2009% 101% 6.7
+City of Ember% 2008% 90% 6.4
+Dinosaur% 2000% 82% 6.4
+TMNT% 2007% 87% 6.2
+The Curse of the Were-Rabbit% 2005% 85% 7.5
+The Secret of Kells% 2009% 71% 7.5
+A Shine of Rainbows% 2009% 101% 7.1
+The Game Plan% 2007% 110% 6.2
+Star Wars: The Clone Wars% 2008% 98% 6.0
+Yours, Mine & Ours% 2005% 88% 5.5
+5 Centimeters per Second% 2007% 63% 7.4
+The Lizzie McGuire Movie% 2003% 94% 5.6
+Tuck Everlasting% 2002% 90% 6.6
+Inkheart% 2008% 106% 6.1
+Charlotte's Web% 2006% 97% 6.3
+Meet Dave% 2008% 90% 5.1
+Mr. Bean's Holiday% 2007% 90% 6.4
+The Secret of Moonacre% 2008% 103% 6.1
+A Christmas Carol% 2009% 96% 6.8
+G-Force% 2009% 88% 5.1
+Ice Princess% 2005% 98% 6.1
+Circus Island% 2006% 101% 3.8
+Son of Rambow% 2007% 96% 7.0
+Alvin and the Chipmunks: The Squeakquel% 2009% 88% 4.6
+High School Musical Senior Year% 2008% 112% 5.1
+Nim's Island% 2008% 96% 6.0
+Osmosis Jones% 2001% 95% 6.3
+The Girl Who Leapt Through Time% 2006% 98% 7.6
+The Perfect Man% 2005% 100% 5.5
+Cats & Dogs% 2001% 87% 5.2
+Alabama Moon% 2009% 99% 6.5
+Doraemon the Movie: Nobita's New Great Adventure Into the Underworld - The Seven Magic Users% 2007% 112% 7.2
+Eight Below% 2006% 2% 7.3
+Sinbad: Legend of the Seven Seas% 2003% 88% 6.8
+Spy Kids Island of Lost Dreams% 2002% 100% 5.3
+Race to Witch Mountain% 2009% 98% 5.7
+The Flintstones in Viva Rock Vegas% 2000% 90% 3.8
+Eragon% 2006% 104% 5.1
+New York Minute% 2004% 91% 5.0
+Arthur and the Invisibles% 2006% 94% 6.0
+The Perfect Game% 2009% 118% 7.0
+Garfield: The Movie% 2004% 80% 5.1
+Big Fat Liar% 2002% 88% 5.6
+Veer Zaara% 2004% 192% 7.8
+Son of the Mask% 2005% 94% 2.3
+The Haunted Mansion% 2003% 87% 5.2
+Bratz% 2007% 110% 3.2
+Cheaper by the Dozen 2% 2005% 94% 5.6
+Astro Boy% 2009% 94% 6.3
+Doraemon the Movie: Nobita's Dinosaur% 2006% 107% 7.2
+Whale Rider% 2002% 101% 7.5
+Mr. Magorium's Wonder Emporium% 2007% 93% 6.2
+Planet 51% 2009% 91% 6.0
+The Adventures of Sharkboy and Lavagirl 3-D% 2005% 93% 3.8
+Little Manhattan% 2005% 90% 7.4
+Raise Your Voice% 2004% 107% 5.8
+Asterix & Obelix: Mission Cleopatra% 2002% 107% 6.7
+Christmas with the Kranks% 2004% 99% 5.6
+The Master of Disguise% 2002% 80% 3.4
+Curious George% 2006% 87% 6.5
+Are We There Yet?% 2005% 95% 4.8
+Around the World in Days% 2004% 2% 5.9
+Martian Child% 2007% 106% 6.7
+Herbie: Fully Loaded% 2005% 101% 5.0
+Agent Cody Banks% 2003% 102% 5.2
+The Ant Bully% 2006% 88% 5.8
+Jimmy Neutron: Boy Genius% 2001% 82% 6.1
+The Santa Clause 2% 2002% 104% 5.8
+Doraemon: Nobita and the Wind Wizard% 2003% 84% 7.0
+Delgo% 2008% 89% 4.2
+Garfield 2% 2006% 82% 5.0
+Chak De! India% 2007% 153% 8.1
+Hannah Montana: The Movie% 2009% 102% 4.8
+Spy Kids Game Over% 2003% 84% 4.4
+Valiant% 2005% 76% 5.5
+Like Mike% 2002% 99% 5.5
+Stormbreaker% 2006% 93% 5.1
+Dreamer% 2005% 106% 6.9
+The Tale of Despereaux% 2008% 93% 6.1
+The Little Vampire% 2000% 95% 5.8
+I Love You, Beth Cooper% 2009% 102% 5.4
+Aliens in the Attic% 2009% 86% 5.5
+Home on the Range% 2004% 76% 5.4
+Stuart Little 2% 2002% 77% 5.5
+Looney Tunes: Back in Action% 2003% 93% 5.8
+The Adventures of Rocky & Bullwinkle% 2000% 92% 4.3
+Doraemon: Nobita and the Green Giant Legend% 2008% 112% 6.7
+Pokémon: The Rise of Darkrai% 2007% 95% 6.4
+Arthur and the Great Adventure% 2009% 107% 5.3
+The Last Mimzy% 2007% 90% 6.2
+Akeelah and the Bee% 2006% 112% 7.4
+Asterix at the Olympic Games% 2008% 116% 5.2
+Imagine That% 2009% 107% 5.6
+Married Life% 2007% 91% 6.2
+Flicka% 2006% 95% 6.0
+Igor% 2008% 87% 5.9
+Millions% 2004% 98% 6.8
+The Kid% 2000% 104% 6.1
+Two Brothers% 2004% 109% 7.0
+Material Girls% 2006% 98% 4.0
+Snow Day% 2000% 89% 5.2
+How to Eat Fried Worms% 2006% 84% 5.4
+Agent Cody Banks Destination London% 2004% 100% 4.6
+Zoom% 2006% 93% 4.4
+Saathiya% 2002% 138% 6.8
+The Wild Thornberrys Movie% 2002% 85% 5.7
+Because of Winn-Dixie% 2005% 106% 6.4
+Underdog% 2007% 100% 4.8
+Doraemon: Nobita and the Legend of the Sun King% 2000% 93% 7.2
+The Song of Sparrows% 2008% 96% 7.9
+Bhoothnath% 2008% 150% 6.5
+Beverly Hills Chihuahua% 2008% 91% 4.0
+Snow Dogs% 2002% 99% 5.2
+The Water Horse% 2007% 112% 6.4
+Nancy Drew% 2007% 99% 5.9
+St Trinian's The Legend of Fritton's Gold% 2009% 106% 5.3
+Hotel for Dogs% 2009% 100% 5.5
+Are We Done Yet?% 2007% 92% 4.4
+Everyone's Hero% 2006% 87% 5.7
+Open Season 2% 2008% 76% 5.5
+The Longshots% 2008% 94% 5.6
+Kangaroo Jack% 2003% 89% 4.5
+Fred Claus% 2007% 116% 5.7
+The Challenge% 2003% 92% 5.3
+The Shaggy Dog% 2006% 98% 4.4
+The Jungle Book 2% 2003% 72% 5.4
+Deck the Halls% 2006% 93% 5.1
+Vivah% 2006% 160% 6.7
+Little Nicholas% 2009% 91% 7.1
+Kureyon Shinchan: Arashi o Yobu Janguru!% 2000% 88% 7.2
+Catch That Kid% 2004% 91% 5.2
+Kicking & Screaming% 2005% 95% 5.6
+Jonah: A VeggieTales Movie% 2002% 82% 6.5
+The Seeker: The Dark Is Rising% 2007% 99% 4.8
+Duma% 2005% 100% 7.1
+Pokémon Heroes: The Movie% 2002% 80% 6.1
+Ai Que Vida!% 2008% 100% 7.7
+Red Riding Hood% 2006% 82% 3.6
+Doraemon: Nobita and the Winged Braves% 2001% 95% 6.9
+Post Grad% 2009% 88% 5.3
+The Wild% 2006% 95% 5.2

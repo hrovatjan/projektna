@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Supergirl, 2026, 108, 6.1
-Citizen Vigilante, 2026, 89, 6.5
-Disclosure Day, 2026, 145, 6.7
-Welcome to the Jungle, 2026, 170, 4.9
-Masters of the Universe, 2026, 140, 6.9
-Avatar: Fire and Ash, 2025, 197, 7.2
-Spider-Man: Brand New Day, Releases Jul 31, 2026, 150, NE
-The Death of Robin Hood, Releases Sep 4, 2026, 122, 6.4
-Superman, 2025, 129, 7.0
-Good Luck, Have Fun, Don't Die, 2025, 134, 7.0
-They Will Kill You, 2026, 94, 6.3
-The Furious, 2025, 113, 7.9
-Star Wars: The Mandalorian and Grogu, 2026, 132, 7.0
-In the Grey, 2026, 98, 6.3
-Mortal Kombat II, 2026, 116, 6.4
-Motor City, Releases Jul 24, 2026, 103, 5.9
-Over Your Dead Body, 2026, 105, 6.3
-Apex, 2026, 95, 6.1
-Moana, Releases Jul 10, 2026, 115, NE
-Dhurandhar: The Revenge, 2026, 235, 8.2
-Deep Water, 2026, 106, 5.5
-Blast, 2026, 142, 7.5
-Your Mother Your Mother Your Mother, Expected Oct 9, 2026, N/A, NE
-Young Washington, Releases Jul 3, 2026, 125, NE
-Colony, Releases Aug 28, 2026, 122, 6.9
-Shelter, 2026, 107, 6.2
-Lucky Strike, 2026, 102, 5.9
-Avatar: The Way of Water, 2022, 192, 7.5
-Tom Clancy's Jack Ryan: Ghost War, 2026, 105, 5.7
-Spider-Man: No Way Home, 2021, 148, 8.1
-Descendants: Wicked Wonderland, Releases Jul 17, 2026, 95, NE
-The Legend of Aang: The Last Airbender, Expected Oct 9, 2026, 99, NE
-Avengers: Doomsday, Expected Dec 18, 2026, N/A, NE
-Raja Shivaji, 2026, 195, 7.1
-The Running Man, 2025, 133, 6.4
-War Machine, 2026, 106, 6.3
-Top Gun: Maverick, 2022, 130, 8.2
-The Ministry of Ungentlemanly Warfare, 2024, 122, 6.8
-Batman: Knightfall - Part Knightfall, 2026, 79, 9.2
-The Weight, Releases Sep 18, 2026, 115, 7.4
-Fuze, 2025, 98, 6.2
-Maa Inti Bangaram, 2026, 154, 8.7
-The Rip, 2026, 113, 6.8
-Normal, 2025, 91, 6.3
-Alpha, Releases Jul 3, 2026, 141, NE
-The Batman, 2022, 176, 7.8
-Master of the Universe, 2026, 81, 1.9
-Heart of the Beast, Releases Sep 25, 2026, N/A, NE
-Driver's Ed, 2025, 98, 5.3
-Spider-Man: Across the Spider-Verse, 2023, 140, 8.5
-Enola Holmes 3, 2026, 105, NE
-Dune: Part Two, 2024, 166, 8.4
-Mercy, 2026, 99, 6.2
-The Last Stand of Ellen Cole, 2024, 97, 6.3
-The Shadow's Edge, 2025, 141, 7.0
-Bear Country, 2026, 111, 5.7
-Dune: Part One, 2021, 155, 8.0
-A Minecraft Movie, 2025, 101, 5.6
-Resident Evil, Releases Sep 18, 2026, 90, NE
-Dune: Part Three, Expected Dec 18, 2026, N/A, NE
-Mortal Kombat, 2021, 110, 6.1
-Those Who Wish Me Dead, 2021, 100, 6.0
-The Last House, Releases Aug 7, 2026, 13, NE
-Greenland Migration, 2026, 98, 5.2
-Exit 8, 2025, 95, 6.5
-The Creator, 2023, 133, 6.7
-The Killer, 2024, 126, 5.7
-Predator: Badlands, 2025, 107, 7.2
-The Gorge, 2025, 128, 6.7
-Jurassic World: Rebirth, 2025, 133, 5.8
-The End of Oak Street, Releases Aug 14, 2026, 100, NE
-Thunderbolts*, 2025, 127, 7.1
-Beast, 2026, 114, 5.8
-The Fantastic Four: First Steps, 2025, 115, 6.8
-Hope, 2026, 160, 6.9
-Husbands in Action, 2026, 107, 6.2
-The Hunger Games: Sunrise on the Reaping, Expected Nov 20, 2026, 150, NE
-Street Fighter, Expected Oct 16, 2026, 13, NE
-Anaconda, 2025, 99, 5.5
-Mission: Impossible - The Final Reckoning, 2025, 169, 7.1
-Guardians of the Galaxy Vol. 3, 2023, 150, 7.9
-No Time to Die, 2021, 163, 7.3
-Bullet Train, 2022, 127, 7.3
-Nagabandham - The Secret Treasure, Releases Jul 3, 2026, 185, NE
-Deadpool &amp; Wolverine, 2024, 128, 7.5
-The Wrecking Crew, 2026, 124, 6.4
-Balls Up, 2026, 104, 4.7
-7 Dogs, 2026, 125, 5.5
-The Dog Stars, Releases Aug 28, 2026, 100, NE
-Tenet, 2020, 150, 7.3
-Mike &amp; Nick &amp; Nick &amp; Alice, 2026, 107, 6.2
-KPop Demon Hunters, 2025, 95, 7.4
-How to Train Your Dragon, 2025, 125, 7.7
-Everything Everywhere All at Once, 2022, 139, 7.7
-Jumanji: Open World, Expected Dec 25, 2026, N/A, NE
-Ballerina, 2025, 124, 6.8
-Blades of the Guardians, 2026, 126, 6.9
-The Hunt, 2020, 90, 6.6
-Greenland, 2020, 119, 6.4
-Abigail, 2024, 109, 6.5
-The Fall Guy, 2024, 126, 6.8
-Fall, 2022, 107, 6.4
-Dhurandhar, 2025, 214, 8.3
-A Working Man, 2025, 116, 5.7
-Karuppu, 2026, 150, 6.2
-Nobody 2, 2025, 89, 6.3
-Twisters, 2024, 122, 6.5
-Stop! That! Train!, 2026, 90, 6.3
-Seven Snipers, 2026, 87, 4.4
-The Killer, 2023, 118, 6.7
-Uncharted, 2022, 116, 6.3
-The Gray Man, 2022, 122, 6.5
-Dead of Winter, 2025, 98, 6.1
-Nobody, 2021, 92, 7.4
-Mutiny, Releases Aug 21, 2026, 95, NE
-Enola Holmes 2, 2022, 129, 6.8
-Road House, 2024, 121, 6.2
-Demon Slayer: Kimetsu No Yaiba Infinity Castle, 2025, 155, 8.4
-The Naked Gun, 2025, 85, 6.3
-Furiosa: A Mad Max Saga, 2024, 148, 7.5
-The Covenant, 2023, 123, 7.5
-The Accountant 2, 2025, 132, 6.6
-The Beekeeper, 2024, 105, 6.3
-The Northman, 2022, 137, 7.0
-Dungeons &amp; Dragons: Honour Among Thieves, 2023, 134, 7.2
-Peddi, 2026, 182, 5.9
-KILLHOUSE, 2026, 2, 6.7
-Sonic the Hedgehog 3, 2024, 110, 6.9
-The Flash, 2023, 144, 6.6
-Dacoit: A Love Story, 2026, 149, 7.5
-Sisu, 2022, 91, 6.9
-Wrath of Man, 2021, 119, 7.1
-The Hunger Games: The Ballad of Songbirds &amp; Snakes, 2023, 157, 6.6
-Cliffhanger, Releases Aug 28, 2026, N/A, NE
-Fast Charlie, 2023, 90, 6.0
-Forgotten Island, 2026, 98, NE
-KD: The Devil, 2026, 140, 6.5
-The Family Plan, 2023, 118, 6.3
-Sirat, 2025, 114, 7.0
-John Wick: Chapter 4, 2023, 169, 7.6
-Land of Bad, 2024, 113, 6.6
-Dust Bunny, 2025, 106, 6.5
-Sisu: Road to Revenge, 2025, 89, 6.8
-Warfare, 2025, 95, 7.1
-Kraken, 2026, 100, 5.2
-Tron: Ares, 2025, 119, 6.1
-The Suicide Squad, 2021, 132, 7.2
-Kraven the Hunter, 2024, 127, 5.5
-Fast X, 2023, 141, 5.7
-Shang-Chi and the Legend of the Ten Rings, 2021, 132, 7.3
-How to Rob a Bank, Releases Sep 4, 2026, N/A, NE
-Unhinged, 2020, 90, 6.0
-Runner, Releases Sep 11, 2026, 97, NE
-By Any Means, Releases Sep 4, 2026, N/A, NE
-Free Guy, 2021, 115, 7.1
-Athiradi, 2026, 157, 7.0
-Chainsaw Man - The Movie: Reze Arc, 2025, 100, 8.3
-Borderlands, 2024, 101, 4.7
-The Tomorrow War, 2021, 138, 6.6
-One Mile: Chapter One, 2026, 89, 5.7
-Thor: Love and Thunder, 2022, 118, 6.1
-Relay, 2024, 112, 7.0
-Jurassic World: Dominion, 2022, 147, 5.6
-Above the Line, 2025, 90, 6.4
-The Phoenician Scheme, 2025, 101, 6.6
-Eternals, 2021, 156, 6.2
-The Adventures of Cliff Booth, Expected Dec 23, 2026, N/A, NE
-Playdate, 2025, 93, 5.5
-The Amateur, 2025, 122, 6.5
-Havoc, 2025, 107, 5.6
-Civil War, 2024, 109, 7.0
-Venom: The Last Dance, 2024, 110, 6.0
-The Electric State, 2025, 125, 5.9
-Damsel, 2024, 110, 6.1
-Lilo &amp; Stitch, 2025, 108, 6.7
-Doctor Strange in the Multiverse of Madness, 2022, 126, 6.8
-Operation Fortune: Ruse de Guerre, 2023, 114, 6.3
-Toxic, Releases Aug 26, 2026, 195, NE
-Trap House, 2025, 101, 5.5
-Run Hide Fight: Infidels, Expected 2026, N/A, NE
-Patriot, 2026, 3, 6.3
-Keep Quiet, 2025, 104, 8.0
-Fountain of Youth, 2025, 125, 5.7
-Wolfs, 2024, 108, 6.5
-Indiana Jones and the Dial of Destiny, 2023, 154, 6.5
-Carry-On, 2024, 119, 6.5
-RRR, 2022, 187, 7.8
-One Spoon of Chocolate, 2025, 114, 5.3
-The Smashing Machine, 2025, 123, 6.3
-Prey, 2022, 100, 7.1
-Lightyear, 2022, 105, 6.1
-Attack on Titan: The Last Attack, 2024, 145, 9.0
-Pretty Lethal, 2026, 88, 5.8
-The Vault, 2021, 118, 6.4
-Black Widow, 2021, 134, 6.6
-Gran Turismo, 2023, 134, 7.1
-Captain America: Brave New World, 2025, 118, 5.6
-Worldbreaker, 2025, 95, 4.3
-Desert Warrior, 2025, 127, 4.2
-The Family Plan 2, 2025, 106, 5.6
-Greyhound, 2020, 91, 7.0
-Heads of State, 2025, 116, 6.4
-Killer Whale, 2026, 89, 3.9
-The Count of Monte Cristo, 2024, 178, 7.6
-65, 2023, 93, 5.4
-Aquaman and the Lost Kingdom, 2023, 124, 5.6
-Mission: Impossible - Dead Reckoning Part One, 2023, 163, 7.6
-Puss in Boots: The Last Wish, 2022, 102, 7.9
-Red Notice, 2021, 118, 6.3
-Hunting Season, 2025, 100, 5.8
-Ray Gunn, Expected Dec 18, 2026, N/A, NE
-Plane, 2023, 107, 6.5
-Rebel Ridge, 2024, 131, 6.8
-PAW Patrol: The Dino Movie, Releases Aug 7, 2026, 88, NE
-Onslaught, Releases Sep 4, 2026, N/A, NE
-The Adam Project, 2022, 106, 6.7
-Raya and the Last Dragon, 2021, 107, 7.3
-Ad Vitam, 2025, 98, 5.9
-The Lost City, 2022, 112, 6.1
-Godzilla Minus One, 2023, 124, 7.7
-Argylle, 2024, 139, 5.6
-The Bad Guys 2, 2025, 104, 7.0
-Maharaja, 2024, 141, 8.3
-Novocaine, 2025, 110, 6.5
-The Angry Birds Movie 3, Expected Dec 23, 2026, N/A, NE
-Ghosted, 2023, 117, 5.8
-Neglected, 2025, 92, 4.3
-The Uprising, Releases Sep 11, 2026, N/A, NE
-Protector, 2025, 91, 5.2
-Bad Boys: Ride or Die, 2024, 115, 6.5
-The Bluff, 2026, 103, 5.8
-Godzilla Minus Zero, Expected Nov 3, 2026, 125, NE
-The King's Man, 2021, 131, 6.3
-Rogue Trooper, 2026, 125, 8.7
-Creed III, 2023, 116, 6.7
-Extraction, 2020, 116, 6.8
-The Equalizer 3, 2023, 109, 6.8
-Napoleon, 2023, 158, 6.3
-The Trip, 2021, 113, 6.9
-Karate Kid: Legends, 2025, 94, 6.3
-Transformers One, 2024, 104, 7.6
-Flight Risk, 2025, 91, 5.2
-Fast &amp; Furious 9, 2021, 143, 5.2
-The Matrix Resurrections, 2021, 148, 5.6
-The Last Ronin, 2024, 115, 4.9
-Black Panther: Wakanda Forever, 2022, 161, 6.6
-Primitive War, 2025, 133, 5.3
-M3GAN 2.0, 2025, 2, 6.0
-Primetime, Expected 2026, N/A, NE
-Kung Fu Panda 4, 2024, 94, 6.3
+naslov% leto_izida% trajanje% ocena
+Supergirl% 2026% 108% 6.1
+Citizen Vigilante% 2026% 89% 6.5
+Disclosure Day% 2026% 145% 6.7
+Welcome to the Jungle% 2026% 170% 4.9
+Masters of the Universe% 2026% 140% 6.9
+Avatar: Fire and Ash% 2025% 197% 7.2
+Spider-Man: Brand New Day% Releases Jul 31, 2026% 150% NE
+The Death of Robin Hood% Releases Sep 4, 2026% 122% 6.4
+Superman% 2025% 129% 7.0
+Good Luck, Have Fun, Don't Die% 2025% 134% 7.0
+They Will Kill You% 2026% 94% 6.3
+The Furious% 2025% 113% 7.9
+Star Wars: The Mandalorian and Grogu% 2026% 132% 7.0
+In the Grey% 2026% 98% 6.3
+Mortal Kombat II% 2026% 116% 6.4
+Motor City% Releases Jul 24, 2026% 103% 5.9
+Over Your Dead Body% 2026% 105% 6.3
+Apex% 2026% 95% 6.1
+Moana% Releases Jul 10, 2026% 115% NE
+Dhurandhar: The Revenge% 2026% 235% 8.2
+Deep Water% 2026% 106% 5.5
+Blast% 2026% 142% 7.4
+Your Mother Your Mother Your Mother% Expected Oct 9, 2026% N/A% NE
+Young Washington% Releases Jul 3, 2026% 125% NE
+Colony% Releases Aug 28, 2026% 122% 6.9
+Shelter% 2026% 107% 6.2
+Lucky Strike% 2026% 103% 5.9
+Avatar: The Way of Water% 2022% 192% 7.5
+Tom Clancy's Jack Ryan: Ghost War% 2026% 105% 5.7
+Spider-Man: No Way Home% 2021% 148% 8.1
+Descendants: Wicked Wonderland% Releases Jul 17, 2026% 95% NE
+The Legend of Aang: The Last Airbender% Expected Oct 9, 2026% 99% NE
+Avengers: Doomsday% Expected Dec 18, 2026% N/A% NE
+Raja Shivaji% 2026% 195% 7.1
+The Running Man% 2025% 133% 6.4
+War Machine% 2026% 106% 6.3
+Top Gun: Maverick% 2022% 130% 8.2
+The Ministry of Ungentlemanly Warfare% 2024% 122% 6.8
+Batman: Knightfall - Part Knightfall% 2026% 79% 9.2
+The Weight% Releases Sep 18, 2026% 115% 7.4
+Fuze% 2025% 98% 6.2
+Maa Inti Bangaram% 2026% 154% 8.7
+The Rip% 2026% 113% 6.8
+Normal% 2025% 91% 6.3
+Alpha% Releases Jul 3, 2026% 141% NE
+The Batman% 2022% 176% 7.8
+Master of the Universe% 2026% 81% 1.9
+Heart of the Beast% Releases Sep 25, 2026% N/A% NE
+Driver's Ed% 2025% 98% 5.3
+Spider-Man: Across the Spider-Verse% 2023% 140% 8.5
+Enola Holmes 3% 2026% 105% 6.1
+Dune: Part Two% 2024% 166% 8.4
+Mercy% 2026% 99% 6.2
+The Last Stand of Ellen Cole% 2024% 97% 6.3
+The Shadow's Edge% 2025% 141% 7.0
+Bear Country% 2026% 111% 5.5
+Dune: Part One% 2021% 155% 8.0
+A Minecraft Movie% 2025% 101% 5.6
+Resident Evil% Releases Sep 18, 2026% 90% NE
+Dune: Part Three% Expected Dec 18, 2026% N/A% NE
+Mortal Kombat% 2021% 110% 6.1
+Those Who Wish Me Dead% 2021% 100% 6.0
+The Last House% Releases Aug 7, 2026% 13% NE
+Greenland Migration% 2026% 98% 5.2
+Exit 8% 2025% 95% 6.5
+The Creator% 2023% 133% 6.7
+The Killer% 2024% 126% 5.7
+Predator: Badlands% 2025% 107% 7.2
+The Gorge% 2025% 128% 6.7
+Jurassic World: Rebirth% 2025% 133% 5.8
+The End of Oak Street% Releases Aug 14, 2026% 100% NE
+Thunderbolts*% 2025% 127% 7.1
+Beast% 2026% 114% 5.8
+The Fantastic Four: First Steps% 2025% 115% 6.8
+Hope% 2026% 160% 6.9
+Husbands in Action% 2026% 107% 6.2
+The Hunger Games: Sunrise on the Reaping% Expected Nov 20, 2026% 150% NE
+Street Fighter% Expected Oct 16, 2026% 13% NE
+Anaconda% 2025% 99% 5.5
+Mission: Impossible - The Final Reckoning% 2025% 169% 7.1
+Guardians of the Galaxy Vol. 3% 2023% 150% 7.9
+No Time to Die% 2021% 163% 7.3
+Bullet Train% 2022% 127% 7.3
+Nagabandham - The Secret Treasure% Releases Jul 3, 2026% 185% NE
+Deadpool & Wolverine% 2024% 128% 7.5
+The Wrecking Crew% 2026% 124% 6.4
+Balls Up% 2026% 104% 4.7
+7 Dogs% 2026% 125% 5.5
+The Dog Stars% Releases Aug 28, 2026% 100% NE
+Tenet% 2020% 150% 7.3
+Mike & Nick & Nick & Alice% 2026% 107% 6.2
+KPop Demon Hunters% 2025% 95% 7.4
+How to Train Your Dragon% 2025% 125% 7.7
+Everything Everywhere All at Once% 2022% 139% 7.7
+Jumanji: Open World% Expected Dec 25, 2026% N/A% NE
+Ballerina% 2025% 124% 6.8
+Blades of the Guardians% 2026% 126% 6.9
+The Hunt% 2020% 90% 6.6
+Greenland% 2020% 119% 6.4
+Abigail% 2024% 109% 6.5
+The Fall Guy% 2024% 126% 6.8
+Fall% 2022% 107% 6.4
+Dhurandhar% 2025% 214% 8.3
+A Working Man% 2025% 116% 5.7
+Karuppu% 2026% 150% 6.2
+Nobody 2% 2025% 89% 6.3
+Twisters% 2024% 122% 6.5
+Stop! That! Train!% 2026% 90% 6.3
+Seven Snipers% 2026% 87% 4.4
+The Killer% 2023% 118% 6.7
+Uncharted% 2022% 116% 6.3
+The Gray Man% 2022% 122% 6.5
+Dead of Winter% 2025% 98% 6.1
+Nobody% 2021% 92% 7.4
+Mutiny% Releases Aug 21, 2026% 95% NE
+Enola Holmes 2% 2022% 129% 6.8
+Road House% 2024% 121% 6.2
+Demon Slayer: Kimetsu No Yaiba Infinity Castle% 2025% 155% 8.4
+The Naked Gun% 2025% 85% 6.3
+Furiosa: A Mad Max Saga% 2024% 148% 7.5
+The Covenant% 2023% 123% 7.5
+The Accountant 2% 2025% 132% 6.6
+The Beekeeper% 2024% 105% 6.3
+The Northman% 2022% 137% 7.0
+Dungeons & Dragons: Honour Among Thieves% 2023% 134% 7.2
+Peddi% 2026% 182% 5.9
+KILLHOUSE% 2026% 2% 6.7
+Sonic the Hedgehog 3% 2024% 110% 6.9
+The Flash% 2023% 144% 6.6
+Dacoit: A Love Story% 2026% 149% 7.5
+Sisu% 2022% 91% 6.9
+Wrath of Man% 2021% 119% 7.1
+The Hunger Games: The Ballad of Songbirds & Snakes% 2023% 157% 6.6
+Cliffhanger% Releases Aug 28, 2026% N/A% NE
+Fast Charlie% 2023% 90% 6.0
+Forgotten Island% 2026% 98% 7.3
+KD: The Devil% 2026% 140% 6.5
+The Family Plan% 2023% 118% 6.3
+Sirat% 2025% 114% 7.0
+John Wick: Chapter 4% 2023% 169% 7.6
+Land of Bad% 2024% 113% 6.6
+Dust Bunny% 2025% 106% 6.5
+Sisu: Road to Revenge% 2025% 89% 6.8
+Warfare% 2025% 95% 7.1
+Kraken% 2026% 100% 5.2
+Tron: Ares% 2025% 119% 6.1
+The Suicide Squad% 2021% 132% 7.2
+Kraven the Hunter% 2024% 127% 5.5
+Fast X% 2023% 141% 5.7
+Shang-Chi and the Legend of the Ten Rings% 2021% 132% 7.3
+How to Rob a Bank% Releases Sep 4, 2026% N/A% NE
+Unhinged% 2020% 90% 6.0
+Runner% Releases Sep 11, 2026% 97% NE
+By Any Means% Releases Sep 4, 2026% N/A% NE
+Free Guy% 2021% 115% 7.1
+Athiradi% 2026% 157% 7.0
+Chainsaw Man - The Movie: Reze Arc% 2025% 100% 8.3
+Borderlands% 2024% 101% 4.7
+The Tomorrow War% 2021% 138% 6.6
+One Mile: Chapter One% 2026% 89% 5.7
+Thor: Love and Thunder% 2022% 118% 6.1
+Relay% 2024% 112% 7.0
+Jurassic World: Dominion% 2022% 147% 5.6
+Above the Line% 2025% 90% 6.4
+The Phoenician Scheme% 2025% 101% 6.6
+Eternals% 2021% 156% 6.2
+The Adventures of Cliff Booth% Expected Dec 23, 2026% N/A% NE
+Playdate% 2025% 93% 5.5
+The Amateur% 2025% 122% 6.5
+Havoc% 2025% 107% 5.6
+Civil War% 2024% 109% 7.0
+Venom: The Last Dance% 2024% 110% 6.0
+The Electric State% 2025% 125% 5.9
+Damsel% 2024% 110% 6.1
+Lilo & Stitch% 2025% 108% 6.7
+Doctor Strange in the Multiverse of Madness% 2022% 126% 6.8
+Operation Fortune: Ruse de Guerre% 2023% 114% 6.3
+Toxic% Releases Aug 26, 2026% 195% NE
+Trap House% 2025% 101% 5.5
+Run Hide Fight: Infidels% Expected 2026% N/A% NE
+Patriot% 2026% 3% 6.3
+Keep Quiet% 2025% 104% 8.0
+Fountain of Youth% 2025% 125% 5.7
+Wolfs% 2024% 108% 6.5
+Indiana Jones and the Dial of Destiny% 2023% 154% 6.5
+Carry-On% 2024% 119% 6.5
+RRR% 2022% 187% 7.8
+One Spoon of Chocolate% 2025% 114% 5.3
+The Smashing Machine% 2025% 123% 6.3
+Prey% 2022% 100% 7.1
+Lightyear% 2022% 105% 6.1
+Attack on Titan: The Last Attack% 2024% 145% 9.0
+Pretty Lethal% 2026% 88% 5.8
+The Vault% 2021% 118% 6.4
+Black Widow% 2021% 134% 6.6
+Gran Turismo% 2023% 134% 7.1
+Captain America: Brave New World% 2025% 118% 5.6
+Worldbreaker% 2025% 95% 4.3
+Desert Warrior% 2025% 127% 4.2
+The Family Plan 2% 2025% 106% 5.6
+Greyhound% 2020% 91% 7.0
+Heads of State% 2025% 116% 6.4
+Killer Whale% Releases Jul 3, 2026% 89% 3.9
+The Count of Monte Cristo% 2024% 178% 7.6
+65% 2023% 93% 5.4
+Aquaman and the Lost Kingdom% 2023% 124% 5.6
+Mission: Impossible - Dead Reckoning Part One% 2023% 163% 7.6
+Puss in Boots: The Last Wish% 2022% 102% 7.9
+Red Notice% 2021% 118% 6.3
+Hunting Season% 2025% 100% 5.8
+Ray Gunn% Expected Dec 18, 2026% N/A% NE
+Plane% 2023% 107% 6.5
+Rebel Ridge% 2024% 131% 6.8
+PAW Patrol: The Dino Movie% Releases Aug 7, 2026% 88% NE
+Onslaught% Releases Sep 4, 2026% N/A% NE
+The Adam Project% 2022% 106% 6.7
+Raya and the Last Dragon% 2021% 107% 7.3
+Ad Vitam% 2025% 98% 5.9
+The Lost City% 2022% 112% 6.1
+Godzilla Minus One% 2023% 124% 7.7
+Argylle% 2024% 139% 5.6
+The Bad Guys 2% 2025% 104% 7.0
+Maharaja% 2024% 141% 8.3
+Novocaine% 2025% 110% 6.5
+The Angry Birds Movie 3% Expected Dec 23, 2026% N/A% NE
+Ghosted% 2023% 117% 5.8
+Neglected% 2025% 92% 4.3
+The Uprising% Releases Sep 11, 2026% N/A% NE
+Protector% 2025% 91% 5.2
+Bad Boys: Ride or Die% 2024% 115% 6.5
+The Bluff% 2026% 103% 5.8
+Godzilla Minus Zero% Expected Nov 3, 2026% 125% NE
+The King's Man% 2021% 131% 6.3
+Rogue Trooper% 2026% 125% 8.7
+Creed III% 2023% 116% 6.7
+Extraction% 2020% 116% 6.8
+The Equalizer 3% 2023% 109% 6.8
+Napoleon% 2023% 158% 6.3
+The Trip% 2021% 113% 6.9
+Karate Kid: Legends% 2025% 94% 6.3
+Transformers One% 2024% 104% 7.6
+Flight Risk% 2025% 91% 5.2
+Fast & Furious 9% 2021% 143% 5.2
+The Matrix Resurrections% 2021% 148% 5.6
+The Last Ronin% 2024% 115% 4.9
+Black Panther: Wakanda Forever% 2022% 161% 6.6
+Primitive War% 2025% 133% 5.3
+M3GAN 2.0% 2025% 2% 6.0
+Primetime% Expected 2026% N/A% NE
+Kung Fu Panda 4% 2024% 94% 6.3

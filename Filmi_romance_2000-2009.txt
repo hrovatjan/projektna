@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-The Notebook, 2004, 123, 7.8
-Legally Blonde, 2001, 96, 6.5
-Malena, 2000, 108, 7.4
-Twilight, 2008, 122, 5.4
-Pride &amp; Prejudice, 2005, 129, 7.8
-Eternal Sunshine of the Spotless Mind, 2004, 108, 8.3
-He's Just Not That Into You, 2009, 129, 6.4
-Bandits, 2001, 123, 6.5
-The Girl Next Door, 2004, 109, 6.7
-Wet Hot American Summer, 2001, 97, 6.5
-She's the Man, 2006, 105, 6.4
-Mamma Mia!, 2008, 108, 6.5
-Shrek, 2001, 90, 7.9
-Atonement, 2007, 123, 7.8
-The Dreamers, 2003, 115, 7.1
-Days of Summer, 2009, 95, 7.6
-Coyote Ugly, 2000, 100, 5.8
-Amélie, 2001, 122, 8.2
-Brokeback Mountain, 2005, 134, 7.7
-A Knight's Tale, 2001, 132, 7.0
-How to Lose a Guy in Days, 2003, 116, 6.5
-The Proposal, 2009, 108, 6.8
-Love Actually, 2003, 135, 7.5
-Moulin Rouge!, 2001, 127, 7.5
-Unfaithful, 2002, 124, 6.7
-Cast Away, 2000, 143, 7.8
-Wedding Crashers, 2005, 119, 7.0
-The Curious Case of Benjamin Button, 2008, 166, 7.8
-Shrek 2, 2004, 93, 7.4
-The Piano Teacher, 2001, 131, 7.5
-A Cinderella Story, 2004, 95, 6.0
-The Year-Old Virgin, 2005, 116, 7.1
-Stardust, 2007, 127, 7.6
-First Dates, 2004, 99, 6.8
-Meet the Parents, 2000, 108, 7.0
-The Princess Diaries, 2001, 115, 6.4
-Vicky Cristina Barcelona, 2008, 96, 7.1
-The Phantom of the Opera, 2004, 143, 7.2
-Going on 30, 2004, 98, 6.3
-Dresses, 2008, 111, 6.1
-Good Luck Chuck, 2007, 101, 5.6
-Big Fish, 2003, 125, 7.9
-In the Mood for Love, 2000, 98, 8.0
-The Secret in Their Eyes, 2009, 129, 8.2
-Secretary, 2002, 107, 6.9
-Click, 2006, 107, 6.4
-Lars and the Real Girl, 2007, 106, 7.3
-Lie with Me, 2005, 93, 5.2
-A Walk to Remember, 2002, 101, 7.3
-Pearl Harbor, 2001, 183, 6.3
-Meet the Fockers, 2004, 115, 6.4
-Not Another Teen Movie, 2001, 89, 5.8
-9 Songs, 2004, 71, 4.7
-Little Children, 2006, 137, 7.5
-The Reader, 2008, 124, 7.6
-Before Sunset, 2004, 80, 8.1
-Bend It Like Beckham, 2002, 112, 6.7
-Sweet Home Alabama, 2002, 108, 6.2
-Goal!, 2005, 118, 6.7
-Vanilla Sky, 2001, 136, 6.9
-The Terminal, 2004, 128, 7.4
-An Unfinished Life, 2005, 108, 7.0
-Slumdog Millionaire, 2008, 2, 8.0
-Tell No One, 2006, 131, 7.5
-Bee Movie, 2007, 91, 6.1
-Bring It On, 2000, 98, 6.2
-Cinderella Man, 2005, 144, 8.0
-Open Range, 2003, 139, 7.4
-Closer, 2004, 104, 7.1
-The Princess and the Frog, 2009, 97, 7.2
-Catch and Release, 2006, 124, 5.9
-The Hours, 2002, 114, 7.5
-Made of Honour, 2008, 101, 5.9
-Let the Right One In, 2008, 114, 7.8
-Enchanted, 2007, 107, 7.1
-Match Point, 2005, 124, 7.6
-Miss Congeniality, 2000, 109, 6.4
-Forgetting Sarah Marshall, 2008, 111, 7.1
-Revolutionary Road, 2008, 119, 7.3
-Norbit, 2007, 103, 4.3
-What Women Want, 2000, 127, 6.5
-Mr. Nobody, 2009, 141, 7.7
-It's Complicated, 2009, 121, 6.6
-Shrek the Third, 2007, 93, 6.1
-The Wedding Date, 2005, 90, 6.1
-The Holiday, 2006, 136, 7.0
-Knocked Up, 2007, 129, 6.9
-Punch-Drunk Love, 2002, 95, 7.3
-Walk the Line, 2005, 136, 7.8
-Crouching Tiger, Hidden Dragon, 2000, 2, 7.9
-Aquamarine, 2006, 110, 5.5
-Appaloosa, 2008, 115, 6.7
-King Kong, 2005, 187, 7.2
-Sideways, 2004, 127, 7.5
-Virgin Territory, 2007, 97, 4.7
-The Time Traveler's Wife, 2009, 107, 7.1
-Hitch, 2005, 118, 6.6
-Robots, 2005, 91, 6.4
-Lust, Caution, 2007, 157, 7.5
-Corpse Bride, 2005, 77, 7.4
-The Illusionist, 2006, 110, 7.5
-The Break-Up, 2006, 106, 5.8
-Rachel Getting Married, 2008, 113, 6.6
-Up in the Air, 2009, 109, 7.4
-Fool's Gold, 2008, 112, 5.7
-High Fidelity, 2000, 113, 7.4
-The Beach, 2000, 119, 6.6
-Bridget Jones's Diary, 2001, 97, 6.8
-P.S. I Love You, 2007, 126, 7.0
-Flight of the Phoenix, 2004, 113, 6.1
-Sex and the City, 2008, 145, 5.7
-Whatever Works, 2009, 93, 7.1
-Peter Pan, 2003, 113, 6.8
-My Big Fat Greek Wedding, 2002, 95, 6.6
-Hallam Foe, 2007, 95, 6.9
-Once, 2006, 86, 7.8
-The Fountain, 2006, 97, 7.1
-Yes Man, 2008, 104, 6.8
-Hairspray, 2007, 117, 6.7
-Sex and Lucía, 2001, 128, 7.0
-The Twilight Saga: New Moon, 2009, 130, 4.8
-Julie &amp; Julia, 2009, 123, 7.0
-The Ugly Truth, 2009, 96, 6.4
-Under the Tuscan Sun, 2003, 113, 6.8
-Uptown Girls, 2003, 92, 6.3
-Stranger Than Fiction, 2006, 113, 7.5
-New York, I Love You, 2008, 103, 6.2
-Elf, 2003, 97, 7.1
-Ghosts of Girlfriends Past, 2009, 115, 5.8
-The Best of Youth, 2003, 374, 8.4
-Cashback, 2006, 102, 7.1
-Chocolat, 2000, 121, 7.2
-In Her Shoes, 2005, 130, 6.5
-Awarapan, 2007, 126, 7.4
-Cold Mountain, 2003, 154, 7.2
-Original Sin, 2001, 116, 6.0
-No Reservations, 2007, 104, 6.4
-Just Like Heaven, 2005, 95, 6.7
-Marie Antoinette, 2006, 123, 6.5
-About a Boy, 2002, 101, 7.1
-Shallow Hal, 2001, 114, 6.0
-Shortbus, 2006, 101, 6.3
-I Love You, Man, 2009, 105, 7.0
-Step Up, 2006, 104, 6.5
-The Ultimate Gift, 2006, 118, 7.3
-Crazy Heart, 2009, 112, 7.2
-Zack and Miri Make a Porno, 2008, 101, 6.5
-Ladies in Lavender, 2004, 104, 7.0
-Ella Enchanted, 2004, 96, 6.3
-Along Came Polly, 2004, 90, 6.0
-The Heartbreak Kid, 2007, 116, 5.9
-Sleepover, 2004, 89, 5.3
-A Good Year, 2006, 117, 6.9
-Spanglish, 2004, 131, 6.4
-Intimacy, 2001, 119, 6.0
-Before Night Falls, 2000, 133, 7.1
-Freaky Friday, 2003, 97, 6.4
-Amazing Grace, 2006, 118, 7.4
-The Lake House, 2006, 99, 6.8
-Serendipity, 2001, 90, 6.8
-Failure to Launch, 2006, 97, 5.7
-Animal Attraction, 2001, 97, 6.1
-Notes on a Scandal, 2006, 92, 7.4
-The Wedding Planner, 2001, 103, 5.4
-Again, 2009, 102, 6.4
-The Constant Gardener, 2005, 129, 7.3
-Vampire Hunter D: Bloodlust, 2000, 103, 7.7
-The Family Man, 2000, 125, 6.9
-Sex Drive, 2008, 109, 6.5
-The Princess Diaries Royal Engagement, 2004, 113, 5.9
-Passengers, 2008, 93, 5.8
-Happy Feet, 2006, 108, 6.4
-D.E.B.S., 2004, 91, 5.5
-Garden State, 2004, 102, 7.4
-The New World, 2005, 135, 6.7
-The Mexican, 2001, 123, 6.1
-Then She Found Me, 2007, 100, 5.9
-Angel Eyes, 2001, 102, 5.7
-Confessions of a Dangerous Mind, 2002, 113, 7.0
-A Single Man, 2009, 99, 7.5
-Good Bye Lenin!, 2003, 121, 7.7
-Memoirs of a Geisha, 2005, 145, 7.3
-Bride Wars, 2009, 89, 5.5
-Adventureland, 2009, 107, 6.8
-Where the Heart Is, 2000, 2, 6.7
-What Happens in Vegas, 2008, 99, 6.1
-The Other Boleyn Girl, 2008, 115, 6.7
-Two Weeks Notice, 2002, 101, 6.2
-Something's Gotta Give, 2003, 128, 6.8
-The Life Aquatic with Steve Zissou, 2004, 119, 7.2
-Bedtime Stories, 2008, 99, 6.0
-Imagine Me &amp; You, 2005, 90, 6.8
-Guess Who, 2005, 105, 5.9
-The Sweetest Thing, 2002, 84, 5.2
-Baby Boy, 2001, 130, 6.5
-The Eclipse, 2009, 88, 6.1
-Just My Luck, 2006, 108, 5.5
-Talk to Her, 2002, 112, 7.9
-Sweet November, 2001, 119, 6.7
-I Now Pronounce You Chuck &amp; Larry, 2007, 115, 5.9
-Rumor Has It..., 2005, 97, 5.5
-Frida, 2002, 123, 7.3
-Agora, 2009, 127, 7.1
-The Edge of Love, 2008, 110, 6.1
-View from the Top, 2003, 87, 5.3
-John Tucker Must Die, 2006, 89, 5.8
-Crossroads, 2002, 93, 4.0
-Monster's Ball, 2001, 111, 7.0
-The Cat Returns, 2002, 75, 7.1
-The Nanny Diaries, 2007, 106, 6.2
-Murder, 2004, 130, 5.6
-Killing Me Softly, 2002, 100, 5.4
-Watching the Detectives, 2007, 94, 6.2
-The Painted Veil, 2006, 125, 7.4
-Becoming Jane, 2007, 2, 7.0
-Definitely, Maybe, 2008, 112, 7.1
-Flushed Away, 2006, 85, 6.6
-Love Exposure, 2008, 237, 8.0
-Mr. Deeds, 2002, 96, 5.8
-Across the Universe, 2007, 133, 7.3
-First Daughter, 2004, 106, 5.2
-Heartbreakers, 2001, 123, 6.3
-My One and Only, 2009, 108, 6.5
-Swingers, 2002, 93, 5.5
-Spring, Summer, Fall, Winter... And Spring, 2003, 103, 8.0
-I Love You Phillip Morris, 2009, 102, 6.6
-The Rules of Attraction, 2002, 110, 6.6
-The Invention of Lying, 2009, 100, 6.4
-Just Married, 2003, 95, 5.5
-La Vie En Rose, 2007, 140, 7.5
-Millennium Actress, 2001, 87, 7.8
-Thirst, 2009, 134, 7.1
-Private, 2003, 2, 4.9
-Mohabbatein, 2000, 216, 7.1
-Love &amp; Basketball, 2000, 125, 7.2
-Van Wilder: Party Liaison, 2002, 92, 6.4
-House of Flying Daggers, 2004, 119, 7.5
-What a Girl Wants, 2003, 105, 5.8
-Waitress, 2007, 108, 7.0
-Timer, 2009, 99, 6.4
-The Great Debaters, 2007, 126, 7.5
-Just Friends, 2005, 96, 6.2
-The Sisterhood of the Travelling Pants, 2005, 119, 6.5
-2046, 2004, 129, 7.4
-Saving Silverman, 2001, 90, 5.9
-Baran, 2001, 94, 7.7
-All About Lily Chou-Chou, 2001, 146, 7.5
-Russian Lolita, 2002, 93, 4.8
-Mother and Child, 2009, 125, 7.2
-Nowhere Boy, 2009, 98, 7.1
+naslov% leto_izida% trajanje% ocena
+The Notebook% 2004% 123% 7.8
+Legally Blonde% 2001% 96% 6.5
+Malena% 2000% 108% 7.4
+Twilight% 2008% 122% 5.4
+Pride & Prejudice% 2005% 129% 7.8
+Eternal Sunshine of the Spotless Mind% 2004% 108% 8.3
+He's Just Not That Into You% 2009% 129% 6.4
+Bandits% 2001% 123% 6.5
+The Girl Next Door% 2004% 109% 6.7
+Wet Hot American Summer% 2001% 97% 6.5
+She's the Man% 2006% 105% 6.4
+Mamma Mia!% 2008% 108% 6.5
+Shrek% 2001% 90% 7.9
+Atonement% 2007% 123% 7.8
+The Dreamers% 2003% 115% 7.1
+Days of Summer% 2009% 95% 7.6
+Coyote Ugly% 2000% 100% 5.8
+Amélie% 2001% 122% 8.2
+Brokeback Mountain% 2005% 134% 7.7
+A Knight's Tale% 2001% 132% 7.0
+How to Lose a Guy in Days% 2003% 116% 6.5
+The Proposal% 2009% 108% 6.8
+Love Actually% 2003% 135% 7.5
+Moulin Rouge!% 2001% 127% 7.5
+Unfaithful% 2002% 124% 6.7
+Cast Away% 2000% 143% 7.8
+Wedding Crashers% 2005% 119% 7.0
+The Curious Case of Benjamin Button% 2008% 166% 7.8
+Shrek 2% 2004% 93% 7.4
+The Piano Teacher% 2001% 131% 7.5
+A Cinderella Story% 2004% 95% 6.0
+The Year-Old Virgin% 2005% 116% 7.1
+Stardust% 2007% 127% 7.6
+First Dates% 2004% 99% 6.8
+Meet the Parents% 2000% 108% 7.0
+The Princess Diaries% 2001% 115% 6.4
+Vicky Cristina Barcelona% 2008% 96% 7.1
+The Phantom of the Opera% 2004% 143% 7.2
+Going on 30% 2004% 98% 6.3
+Dresses% 2008% 111% 6.1
+Good Luck Chuck% 2007% 101% 5.6
+Big Fish% 2003% 125% 7.9
+In the Mood for Love% 2000% 98% 8.0
+The Secret in Their Eyes% 2009% 129% 8.2
+Secretary% 2002% 107% 6.9
+Click% 2006% 107% 6.4
+Lars and the Real Girl% 2007% 106% 7.3
+Lie with Me% 2005% 93% 5.2
+A Walk to Remember% 2002% 101% 7.3
+Pearl Harbor% 2001% 183% 6.3
+Meet the Fockers% 2004% 115% 6.4
+Not Another Teen Movie% 2001% 89% 5.8
+9 Songs% 2004% 71% 4.7
+Little Children% 2006% 137% 7.5
+The Reader% 2008% 124% 7.6
+Before Sunset% 2004% 80% 8.1
+Bend It Like Beckham% 2002% 112% 6.7
+Sweet Home Alabama% 2002% 108% 6.2
+Goal!% 2005% 118% 6.7
+Vanilla Sky% 2001% 136% 6.9
+The Terminal% 2004% 128% 7.4
+An Unfinished Life% 2005% 108% 7.0
+Slumdog Millionaire% 2008% 2% 8.0
+Tell No One% 2006% 131% 7.5
+Bee Movie% 2007% 91% 6.1
+Bring It On% 2000% 98% 6.2
+Cinderella Man% 2005% 144% 8.0
+Open Range% 2003% 139% 7.4
+Closer% 2004% 104% 7.1
+The Princess and the Frog% 2009% 97% 7.2
+Catch and Release% 2006% 124% 5.9
+The Hours% 2002% 114% 7.5
+Made of Honour% 2008% 101% 5.9
+Let the Right One In% 2008% 114% 7.8
+Enchanted% 2007% 107% 7.1
+Match Point% 2005% 124% 7.6
+Miss Congeniality% 2000% 109% 6.4
+Forgetting Sarah Marshall% 2008% 111% 7.1
+Revolutionary Road% 2008% 119% 7.3
+Norbit% 2007% 103% 4.3
+What Women Want% 2000% 127% 6.5
+Mr. Nobody% 2009% 141% 7.7
+It's Complicated% 2009% 121% 6.6
+Shrek the Third% 2007% 93% 6.1
+The Wedding Date% 2005% 90% 6.1
+The Holiday% 2006% 136% 7.0
+Knocked Up% 2007% 129% 6.9
+Punch-Drunk Love% 2002% 95% 7.3
+Walk the Line% 2005% 136% 7.8
+Crouching Tiger, Hidden Dragon% 2000% 2% 7.9
+Aquamarine% 2006% 110% 5.5
+Appaloosa% 2008% 115% 6.7
+King Kong% 2005% 187% 7.2
+Sideways% 2004% 127% 7.5
+Virgin Territory% 2007% 97% 4.7
+The Time Traveler's Wife% 2009% 107% 7.1
+Hitch% 2005% 118% 6.6
+Robots% 2005% 91% 6.4
+Lust, Caution% 2007% 157% 7.5
+Corpse Bride% 2005% 77% 7.4
+The Illusionist% 2006% 110% 7.5
+The Break-Up% 2006% 106% 5.8
+Rachel Getting Married% 2008% 113% 6.6
+Up in the Air% 2009% 109% 7.4
+Fool's Gold% 2008% 112% 5.7
+High Fidelity% 2000% 113% 7.4
+The Beach% 2000% 119% 6.6
+Bridget Jones's Diary% 2001% 97% 6.8
+P.S. I Love You% 2007% 126% 7.0
+Flight of the Phoenix% 2004% 113% 6.1
+Sex and the City% 2008% 145% 5.7
+Whatever Works% 2009% 93% 7.1
+Peter Pan% 2003% 113% 6.8
+My Big Fat Greek Wedding% 2002% 95% 6.6
+Hallam Foe% 2007% 95% 6.9
+Once% 2006% 86% 7.8
+The Fountain% 2006% 97% 7.1
+Yes Man% 2008% 104% 6.8
+Hairspray% 2007% 117% 6.7
+Sex and Lucía% 2001% 128% 7.0
+The Twilight Saga: New Moon% 2009% 130% 4.8
+Julie & Julia% 2009% 123% 7.0
+The Ugly Truth% 2009% 96% 6.4
+Under the Tuscan Sun% 2003% 113% 6.8
+Uptown Girls% 2003% 92% 6.3
+Stranger Than Fiction% 2006% 113% 7.5
+New York, I Love You% 2008% 103% 6.2
+Elf% 2003% 97% 7.1
+Ghosts of Girlfriends Past% 2009% 115% 5.8
+The Best of Youth% 2003% 374% 8.4
+Cashback% 2006% 102% 7.1
+Chocolat% 2000% 121% 7.2
+In Her Shoes% 2005% 130% 6.5
+Awarapan% 2007% 126% 7.4
+Cold Mountain% 2003% 154% 7.2
+Original Sin% 2001% 116% 6.0
+No Reservations% 2007% 104% 6.4
+Just Like Heaven% 2005% 95% 6.7
+Marie Antoinette% 2006% 123% 6.5
+About a Boy% 2002% 101% 7.1
+Shallow Hal% 2001% 114% 6.0
+Shortbus% 2006% 101% 6.3
+I Love You, Man% 2009% 105% 7.0
+Step Up% 2006% 104% 6.5
+The Ultimate Gift% 2006% 118% 7.3
+Crazy Heart% 2009% 112% 7.2
+Zack and Miri Make a Porno% 2008% 101% 6.5
+Ladies in Lavender% 2004% 104% 7.0
+Ella Enchanted% 2004% 96% 6.3
+Along Came Polly% 2004% 90% 6.0
+The Heartbreak Kid% 2007% 116% 5.9
+Sleepover% 2004% 89% 5.3
+A Good Year% 2006% 117% 6.9
+Spanglish% 2004% 131% 6.4
+Intimacy% 2001% 119% 6.0
+Before Night Falls% 2000% 133% 7.1
+Freaky Friday% 2003% 97% 6.4
+Amazing Grace% 2006% 118% 7.4
+The Lake House% 2006% 99% 6.8
+Serendipity% 2001% 90% 6.8
+Failure to Launch% 2006% 97% 5.7
+Animal Attraction% 2001% 97% 6.1
+Notes on a Scandal% 2006% 92% 7.4
+The Wedding Planner% 2001% 103% 5.4
+Again% 2009% 102% 6.4
+The Constant Gardener% 2005% 129% 7.3
+Vampire Hunter D: Bloodlust% 2000% 103% 7.7
+The Family Man% 2000% 125% 6.9
+Sex Drive% 2008% 109% 6.5
+The Princess Diaries Royal Engagement% 2004% 113% 5.9
+Passengers% 2008% 93% 5.8
+Happy Feet% 2006% 108% 6.4
+D.E.B.S.% 2004% 91% 5.5
+Garden State% 2004% 102% 7.4
+The New World% 2005% 135% 6.7
+The Mexican% 2001% 123% 6.1
+Then She Found Me% 2007% 100% 5.9
+Angel Eyes% 2001% 102% 5.7
+Confessions of a Dangerous Mind% 2002% 113% 7.0
+A Single Man% 2009% 99% 7.5
+Good Bye Lenin!% 2003% 121% 7.7
+Memoirs of a Geisha% 2005% 145% 7.3
+Bride Wars% 2009% 89% 5.5
+Adventureland% 2009% 107% 6.8
+Where the Heart Is% 2000% 2% 6.7
+What Happens in Vegas% 2008% 99% 6.1
+The Other Boleyn Girl% 2008% 115% 6.7
+Two Weeks Notice% 2002% 101% 6.2
+Something's Gotta Give% 2003% 128% 6.8
+The Life Aquatic with Steve Zissou% 2004% 119% 7.2
+Bedtime Stories% 2008% 99% 6.0
+Imagine Me & You% 2005% 90% 6.8
+Guess Who% 2005% 105% 5.9
+The Sweetest Thing% 2002% 84% 5.2
+Baby Boy% 2001% 130% 6.5
+The Eclipse% 2009% 88% 6.1
+Just My Luck% 2006% 108% 5.5
+Talk to Her% 2002% 112% 7.9
+Sweet November% 2001% 119% 6.7
+I Now Pronounce You Chuck & Larry% 2007% 115% 5.9
+Rumor Has It...% 2005% 97% 5.5
+Frida% 2002% 123% 7.3
+Agora% 2009% 127% 7.1
+The Edge of Love% 2008% 110% 6.1
+View from the Top% 2003% 87% 5.3
+John Tucker Must Die% 2006% 89% 5.8
+Crossroads% 2002% 93% 4.0
+Monster's Ball% 2001% 111% 7.0
+The Cat Returns% 2002% 75% 7.1
+The Nanny Diaries% 2007% 106% 6.2
+Murder% 2004% 130% 5.6
+Killing Me Softly% 2002% 100% 5.4
+Watching the Detectives% 2007% 94% 6.2
+The Painted Veil% 2006% 125% 7.4
+Becoming Jane% 2007% 2% 7.0
+Definitely, Maybe% 2008% 112% 7.1
+Flushed Away% 2006% 85% 6.6
+Love Exposure% 2008% 237% 8.0
+Mr. Deeds% 2002% 96% 5.8
+Across the Universe% 2007% 133% 7.3
+First Daughter% 2004% 106% 5.2
+Heartbreakers% 2001% 123% 6.3
+My One and Only% 2009% 108% 6.5
+Swingers% 2002% 93% 5.5
+Spring, Summer, Fall, Winter... And Spring% 2003% 103% 8.0
+I Love You Phillip Morris% 2009% 102% 6.6
+The Rules of Attraction% 2002% 110% 6.6
+The Invention of Lying% 2009% 100% 6.4
+Just Married% 2003% 95% 5.5
+La Vie En Rose% 2007% 140% 7.5
+Millennium Actress% 2001% 87% 7.8
+Thirst% 2009% 134% 7.1
+Private% 2003% 2% 4.9
+Mohabbatein% 2000% 216% 7.1
+Love & Basketball% 2000% 125% 7.2
+Van Wilder: Party Liaison% 2002% 92% 6.4
+House of Flying Daggers% 2004% 119% 7.5
+What a Girl Wants% 2003% 105% 5.8
+Waitress% 2007% 108% 7.0
+Timer% 2009% 99% 6.4
+The Great Debaters% 2007% 126% 7.5
+Just Friends% 2005% 96% 6.2
+The Sisterhood of the Travelling Pants% 2005% 119% 6.5
+2046% 2004% 129% 7.4
+Saving Silverman% 2001% 90% 5.9
+Baran% 2001% 94% 7.7
+All About Lily Chou-Chou% 2001% 146% 7.5
+Russian Lolita% 2002% 93% 4.8
+Mother and Child% 2009% 125% 7.2
+Nowhere Boy% 2009% 98% 7.1

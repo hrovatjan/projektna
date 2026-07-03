@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-The Princess Bride, 1987, 98, 8.0
-Supergirl, 1984, 124, 4.4
-Cinema Paradiso, 1988, 174, 8.5
-Dirty Dancing, 1987, 100, 7.1
-Steel Magnolias, 1989, 117, 7.3
-Big, 1988, 104, 7.3
-Excalibur, 1981, 140, 7.3
-Witness, 1985, 112, 7.3
-The Blue Lagoon, 1980, 104, 5.8
-Footloose, 1984, 107, 6.6
-Legend, 1985, 94, 6.3
-When Harry Met Sally..., 1989, 95, 7.7
-Willow, 1988, 126, 7.2
-Say Anything..., 1989, 100, 7.3
-Bull Durham, 1988, 108, 7.0
-The Little Mermaid, 1989, 83, 7.6
-Coming to America, 1988, 117, 7.1
-Body Heat, 1981, 113, 7.4
-Out of Africa, 1985, 161, 7.2
-Sixteen Candles, 1984, 93, 7.0
-Maurice, 1987, 140, 7.6
-Weeks, 1986, 117, 5.9
-Risky Business, 1983, 99, 6.8
-A Night on the Town, 1987, 102, 6.9
-Tootsie, 1982, 116, 7.4
-Moonstruck, 1987, 102, 7.2
-Pretty in Pink, 1986, 97, 6.7
-Overboard, 1987, 112, 6.9
-Little Shop of Horrors, 1986, 94, 7.1
-Flashdance, 1983, 95, 6.2
-Tie Me Up! Tie Me Down!, 1989, 101, 7.0
-St. Elmo's Fire, 1985, 108, 6.4
-Stepfather, 1981, 123, 6.9
-Cocktail, 1988, 104, 6.0
-Bill &amp; Ted's Excellent Adventure, 1989, 90, 6.9
-An Officer and a Gentleman, 1982, 124, 7.1
-Splash, 1984, 111, 6.3
-Better Off Dead..., 1985, 97, 7.1
-Sophie's Choice, 1982, 150, 7.5
-Dangerous Liaisons, 1988, 119, 7.5
-Working Girl, 1988, 113, 6.8
-Wings of Desire, 1987, 128, 7.9
-Starman, 1984, 115, 7.0
-Against All Odds, 1984, 121, 6.0
-A Room with a View, 1986, 117, 7.2
-Weird Science, 1985, 94, 6.6
-Mystic Pizza, 1988, 104, 6.4
-Explorers, 1985, 109, 6.4
-Some Kind of Wonderful, 1987, 95, 7.0
-Always, 1989, 122, 6.4
-Romancing the Stone, 1984, 106, 6.9
-Arthur, 1981, 97, 6.9
-The Secret of My Success, 1987, 111, 6.5
-Broadcast News, 1987, 133, 7.3
-Somewhere in Time, 1980, 103, 7.2
-Something Wild, 1986, 114, 6.9
-Tequila Sunrise, 1988, 115, 6.1
-Streets of Fire, 1984, 93, 6.7
-Desert Hearts, 1985, 91, 7.1
-Lifeforce, 1985, 101, 6.2
-Xanadu, 1980, 96, 5.4
-Hairspray, 1988, 92, 7.0
-Can't Buy Me Love, 1987, 94, 6.8
-Mannequin, 1987, 90, 6.0
-Valley Girl, 1983, 99, 6.4
-Reds, 1981, 195, 7.3
-Look Who's Talking, 1989, 93, 6.0
-Purple Rain, 1984, 111, 6.5
-No Way Out, 1987, 114, 7.1
-The Bounty, 1984, 132, 7.1
-Tender Cousins, 1980, 92, 5.4
-Maria's Lovers, 1984, 109, 6.5
-Real Genius, 1985, 108, 6.9
-Urban Cowboy, 1980, 132, 6.5
-Howard the Duck, 1986, 110, 4.8
-The Wraith, 1986, 93, 5.9
-Crossroads, 1986, 99, 7.1
-Betty Blue, 1986, 119, 7.3
-The Fabulous Baker Boys, 1989, 114, 6.9
-Barfly, 1987, 100, 7.1
-Endless Love, 1981, 116, 5.0
-Running on Empty, 1988, 116, 7.6
-Sid and Nancy, 1986, 112, 7.0
-Earth Girls Are Easy, 1988, 100, 5.5
-Summer School, 1987, 97, 6.6
-Sea of Love, 1989, 113, 6.8
-Popeye, 1980, 97, 5.4
-Son of the White Mare, 1981, 86, 7.8
-Devil in the Flesh, 1986, 114, 5.6
-Lucas, 1986, 100, 6.9
-One Crazy Summer, 1986, 93, 6.4
-Peggy Sue Got Married, 1986, 103, 6.4
-Teen Wolf, 1985, 91, 6.1
-Scrooged, 1988, 101, 6.9
-The Jazz Singer, 1980, 115, 6.0
-Mona Lisa, 1986, 104, 7.3
-Blame It on Rio, 1984, 100, 5.8
-The Purple Rose of Cairo, 1985, 82, 7.6
-Wild Orchid, 1989, 105, 4.5
-The Man with Two Brains, 1983, 93, 6.4
-Camille Claudel, 1988, 175, 7.3
-Roxanne, 1987, 107, 6.6
-The Sure Thing, 1985, 100, 7.0
-A Short Film About Love, 1988, 87, 8.1
-Private Lessons, 1981, 87, 5.1
-Rumble Fish, 1983, 94, 7.1
-Crazy for You, 1985, 107, 6.7
-High Spirits, 1988, 99, 5.8
-The Postman Always Rings Twice, 1981, 122, 6.6
-Prizzi's Honor, 1985, 130, 6.7
-Children of a Lesser God, 1986, 119, 7.2
-Miracle Mile, 1988, 87, 7.0
-The Year of Living Dangerously, 1982, 115, 7.1
-Back to School, 1986, 96, 6.7
-The War of the Roses, 1989, 116, 6.9
-The Unbearable Lightness of Being, 1988, 171, 7.2
-Married to the Mob, 1988, 104, 6.3
-Nothing in Common, 1986, 118, 5.9
-The Key, 1983, 116, 5.4
-Seems Like Old Times, 1980, 102, 6.7
-She's Gotta Have It, 1986, 84, 6.8
-Teen Witch, 1989, 93, 6.0
-The Stunt Man, 1980, 131, 6.9
-The Jewel of the Nile, 1985, 106, 6.1
-Dream a Little Dream, 1989, 114, 5.7
-All the Right Moves, 1983, 91, 6.0
-My Beautiful Laundrette, 1985, 97, 6.8
-Atlantic City, USA, 1980, 104, 7.3
-American Gigolo, 1980, 117, 6.3
-Soul Man, 1986, 104, 5.3
-All of Me, 1984, 93, 6.7
-Pauline at the Beach, 1983, 95, 7.3
-A Broken Love Story, 1981, 95, 7.2
-Grease 2, 1982, 115, 4.6
-The Ice Pirates, 1984, 94, 5.7
-Someone to Watch Over Me, 1987, 106, 6.1
-Blind Chance, 1987, 114, 7.7
-The Philadelphia Experiment, 1984, 102, 6.1
-Shirley Valentine, 1989, 108, 7.3
-Just One of the Guys, 1985, 100, 6.5
-White Mischief, 1987, 107, 6.4
-Chances Are, 1989, 108, 6.5
-Bolero, 1984, 105, 3.0
-Eye of the Needle, 1981, 112, 7.1
-Punchline, 1988, 128, 5.9
-Into the Night, 1985, 115, 6.4
-Gregory's Girl, 1980, 91, 7.1
-The Accidental Tourist, 1988, 121, 6.7
-Capriccio, 1987, 98, 4.7
-The Woman in Red, 1984, 87, 6.0
-She's Having a Baby, 1988, 106, 6.0
-Doraemon: Nobita and the Haunts of Evil, 1982, 91, 6.8
-Yentl, 1983, 133, 6.6
-Cocoon: The Return, 1988, 115, 5.4
-El Sur, 1983, 95, 7.8
-Lone Wolf McQuade, 1983, 107, 6.3
-Class, 1983, 98, 6.0
-Mischief, 1985, 100, 6.5
-Hope and Glory, 1987, 113, 7.3
-Paradise, 1982, 102, 4.9
-New York Stories, 1989, 124, 6.4
-Caravaggio, 1986, 93, 6.5
-The Grey Fox, 1982, 92, 7.3
-Miranda, 1985, 90, 4.9
-Bronco Billy, 1980, 116, 6.2
-The Man from Snowy River, 1982, 102, 7.2
-Cucaracha, 1983, 91, 7.6
-The Green Ray, 1986, 99, 7.6
-Baby Boom, 1987, 110, 6.4
-Youngblood, 1986, 110, 6.2
-Longtime Companion, 1989, 100, 7.6
-Secret Admirer, 1985, 90, 6.5
-Jumpin' Jack Flash, 1986, 105, 6.0
-Absence of Malice, 1981, 116, 6.9
-Valmont, 1989, 137, 7.0
-Breathless, 1983, 100, 6.0
-The Muppets Take Manhattan, 1984, 94, 6.9
-Pennies from Heaven, 1981, 108, 6.5
-Absolute Beginners, 1986, 108, 5.6
-The Last Metro, 1980, 132, 7.3
-Staying Alive, 1983, 93, 4.8
-Sherman's March, 1985, 157, 7.2
-Racing with the Moon, 1984, 108, 6.6
-The Pirate Movie, 1982, 98, 5.4
-Every Time We Say Goodbye, 1986, 95, 5.8
-The Unbelievable Truth, 1989, 90, 7.2
-One from the Heart, 1981, 107, 6.5
-A Story of Women, 1988, 108, 7.5
-The Boy Who Could Fly, 1986, 107, 6.6
-Who's That Girl, 1987, 92, 4.9
-Spetters, 1980, 2, 6.7
-Breakin', 1984, 87, 5.9
-About Last Night..., 1986, 113, 6.3
-Fanny Hill, 1983, 98, 5.2
-Victor/Victoria, 1982, 134, 7.6
-Some Girls, 1988, 94, 5.7
-The Wizard, 1989, 96, 6.1
-Cross Creek, 1983, 127, 6.9
-House of the Concubine, 1985, 143, 7.3
-Swing Shift, 1984, 100, 6.0
-Stormy Monday, 1988, 93, 6.2
-The Pirates of Penzance, 1983, 112, 7.1
-Cousins, 1989, 113, 6.4
-Vibes, 1988, 99, 5.7
-As Tears Go By, 1988, 102, 7.0
-The Big Easy, 1986, 102, 6.5
-Lola, 1981, 115, 7.4
-Baby It's You, 1983, 105, 6.4
-Murphy's Romance, 1985, 107, 7.0
-Two Moon Junction, 1988, 104, 5.0
-Shag, 1988, 98, 6.5
-Kansas, 1988, 110, 5.5
-Modern Romance, 1981, 93, 7.0
-Moscow Does Not Believe in Tears, 1980, 150, 8.0
-Ballet, 1989, 101, 5.9
-The Boost, 1988, 95, 6.1
-Loulou, 1980, 110, 6.6
-Ariel, 1988, 72, 7.4
-Red Sorghum, 1988, 91, 7.3
-Abunômaru: Ingyaku, 1988, 64, 6.0
-Remo: Unarmed and Dangerous, 1985, 121, 6.4
-First Name: Carmen, 1983, 85, 6.3
-Miracles: The Canton Godfather, 1989, 101, 6.9
-Private School, 1983, 89, 5.3
-Crimes of Passion, 1984, 107, 6.4
-Electric Dreams, 1984, 95, 6.4
-Catholic Boys, 1985, 104, 6.9
-Night of the Shooting Stars, 1982, 107, 7.2
-Lili Marleen, 1981, 121, 7.1
-Bubble Bath, 1980, 79, 7.1
-The Last American Virgin, 1982, 92, 6.3
-Nice Girls Don't Explode, 1987, 92, 5.5
-Masquerade, 1988, 91, 6.1
-The Party, 1980, 110, 6.7
-Charing Cross Road, 1987, 100, 7.4
-The French Lieutenant's Woman, 1981, 124, 6.9
-Urotsukidoji: Legend of the Overfiend, 1989, 108, 6.3
-Frances, 1982, 140, 7.2
-White Wedding, 1989, 92, 6.8
-Silsila, 1981, 182, 7.1
-Independence Day, 1983, 110, 6.5
-Hiding Out, 1987, 98, 6.3
-Desiring Julia, 1986, 104, 4.9
-The Taming of the Scoundrel, 1980, 107, 7.6
-Under the Cherry Moon, 1986, 100, 5.1
-High Road to China, 1983, 105, 6.1
-Herzklopfen, 1984, 93, 6.1
-Big Top Pee-wee, 1988, 86, 5.2
-The Phantom of the Opera, 1989, 93, 5.5
-The Bride, 1985, 118, 5.4
+naslov% leto_izida% trajanje% ocena
+The Princess Bride% 1987% 98% 8.0
+Supergirl% 1984% 124% 4.4
+Cinema Paradiso% 1988% 174% 8.5
+Dirty Dancing% 1987% 100% 7.1
+Steel Magnolias% 1989% 117% 7.3
+Big% 1988% 104% 7.3
+Excalibur% 1981% 140% 7.3
+Witness% 1985% 112% 7.3
+The Blue Lagoon% 1980% 104% 5.8
+Footloose% 1984% 107% 6.6
+Legend% 1985% 94% 6.3
+When Harry Met Sally...% 1989% 95% 7.7
+Willow% 1988% 126% 7.2
+Say Anything...% 1989% 100% 7.3
+Bull Durham% 1988% 108% 7.0
+The Little Mermaid% 1989% 83% 7.6
+Coming to America% 1988% 117% 7.1
+Body Heat% 1981% 113% 7.4
+Out of Africa% 1985% 161% 7.2
+Sixteen Candles% 1984% 93% 7.0
+Maurice% 1987% 140% 7.6
+Weeks% 1986% 117% 5.9
+Risky Business% 1983% 99% 6.8
+A Night on the Town% 1987% 102% 6.9
+Tootsie% 1982% 116% 7.4
+Moonstruck% 1987% 102% 7.2
+Pretty in Pink% 1986% 97% 6.7
+Overboard% 1987% 112% 6.9
+Little Shop of Horrors% 1986% 94% 7.1
+Flashdance% 1983% 95% 6.2
+Tie Me Up! Tie Me Down!% 1989% 101% 7.0
+St. Elmo's Fire% 1985% 108% 6.4
+Stepfather% 1981% 123% 6.9
+Cocktail% 1988% 104% 6.0
+Bill & Ted's Excellent Adventure% 1989% 90% 6.9
+An Officer and a Gentleman% 1982% 124% 7.1
+Splash% 1984% 111% 6.3
+Better Off Dead...% 1985% 97% 7.1
+Sophie's Choice% 1982% 150% 7.5
+Dangerous Liaisons% 1988% 119% 7.5
+Working Girl% 1988% 113% 6.8
+Wings of Desire% 1987% 128% 7.9
+Starman% 1984% 115% 7.0
+Against All Odds% 1984% 121% 6.0
+A Room with a View% 1986% 117% 7.2
+Weird Science% 1985% 94% 6.6
+Mystic Pizza% 1988% 104% 6.4
+Explorers% 1985% 109% 6.4
+Some Kind of Wonderful% 1987% 95% 7.0
+Always% 1989% 122% 6.4
+Romancing the Stone% 1984% 106% 6.9
+Arthur% 1981% 97% 6.9
+The Secret of My Success% 1987% 111% 6.5
+Broadcast News% 1987% 133% 7.3
+Somewhere in Time% 1980% 103% 7.2
+Something Wild% 1986% 114% 6.9
+Tequila Sunrise% 1988% 115% 6.1
+Streets of Fire% 1984% 93% 6.7
+Desert Hearts% 1985% 91% 7.1
+Lifeforce% 1985% 101% 6.2
+Xanadu% 1980% 96% 5.4
+Hairspray% 1988% 92% 7.0
+Can't Buy Me Love% 1987% 94% 6.8
+Mannequin% 1987% 90% 6.0
+Valley Girl% 1983% 99% 6.4
+Reds% 1981% 195% 7.3
+Look Who's Talking% 1989% 93% 6.0
+Purple Rain% 1984% 111% 6.5
+No Way Out% 1987% 114% 7.1
+The Bounty% 1984% 132% 7.1
+Tender Cousins% 1980% 92% 5.4
+Maria's Lovers% 1984% 109% 6.5
+Real Genius% 1985% 108% 6.9
+Urban Cowboy% 1980% 132% 6.5
+Howard the Duck% 1986% 110% 4.8
+The Wraith% 1986% 93% 5.9
+Crossroads% 1986% 99% 7.1
+Betty Blue% 1986% 119% 7.3
+The Fabulous Baker Boys% 1989% 114% 6.9
+Barfly% 1987% 100% 7.1
+Endless Love% 1981% 116% 5.0
+Running on Empty% 1988% 116% 7.6
+Sid and Nancy% 1986% 112% 7.0
+Earth Girls Are Easy% 1988% 100% 5.5
+Summer School% 1987% 97% 6.6
+Sea of Love% 1989% 113% 6.8
+Popeye% 1980% 97% 5.4
+Son of the White Mare% 1981% 86% 7.8
+Devil in the Flesh% 1986% 114% 5.6
+Lucas% 1986% 100% 6.9
+One Crazy Summer% 1986% 93% 6.4
+Peggy Sue Got Married% 1986% 103% 6.4
+Teen Wolf% 1985% 91% 6.1
+Scrooged% 1988% 101% 6.9
+The Jazz Singer% 1980% 115% 6.0
+Mona Lisa% 1986% 104% 7.3
+Blame It on Rio% 1984% 100% 5.8
+The Purple Rose of Cairo% 1985% 82% 7.6
+Wild Orchid% 1989% 105% 4.5
+The Man with Two Brains% 1983% 93% 6.4
+Camille Claudel% 1988% 175% 7.3
+Roxanne% 1987% 107% 6.6
+The Sure Thing% 1985% 100% 7.0
+A Short Film About Love% 1988% 87% 8.1
+Private Lessons% 1981% 87% 5.1
+Rumble Fish% 1983% 94% 7.1
+Crazy for You% 1985% 107% 6.7
+High Spirits% 1988% 99% 5.8
+The Postman Always Rings Twice% 1981% 122% 6.6
+Prizzi's Honor% 1985% 130% 6.7
+Children of a Lesser God% 1986% 119% 7.2
+Miracle Mile% 1988% 87% 7.0
+The Year of Living Dangerously% 1982% 115% 7.1
+Back to School% 1986% 96% 6.7
+The War of the Roses% 1989% 116% 6.9
+The Unbearable Lightness of Being% 1988% 171% 7.2
+Married to the Mob% 1988% 104% 6.3
+Nothing in Common% 1986% 118% 5.9
+The Key% 1983% 116% 5.4
+Seems Like Old Times% 1980% 102% 6.7
+She's Gotta Have It% 1986% 84% 6.8
+Teen Witch% 1989% 93% 6.0
+The Stunt Man% 1980% 131% 6.9
+The Jewel of the Nile% 1985% 106% 6.1
+Dream a Little Dream% 1989% 114% 5.7
+All the Right Moves% 1983% 91% 6.0
+My Beautiful Laundrette% 1985% 97% 6.8
+Atlantic City, USA% 1980% 104% 7.3
+American Gigolo% 1980% 117% 6.3
+Soul Man% 1986% 104% 5.3
+All of Me% 1984% 93% 6.7
+Pauline at the Beach% 1983% 95% 7.3
+A Broken Love Story% 1981% 95% 7.2
+Grease 2% 1982% 115% 4.6
+The Ice Pirates% 1984% 94% 5.7
+Someone to Watch Over Me% 1987% 106% 6.1
+Blind Chance% 1987% 114% 7.7
+The Philadelphia Experiment% 1984% 102% 6.1
+Shirley Valentine% 1989% 108% 7.3
+Just One of the Guys% 1985% 100% 6.5
+White Mischief% 1987% 107% 6.4
+Chances Are% 1989% 108% 6.5
+Bolero% 1984% 105% 3.0
+Eye of the Needle% 1981% 112% 7.1
+Punchline% 1988% 128% 5.9
+Into the Night% 1985% 115% 6.4
+Gregory's Girl% 1980% 91% 7.1
+The Accidental Tourist% 1988% 121% 6.7
+Capriccio% 1987% 98% 4.7
+The Woman in Red% 1984% 87% 6.0
+She's Having a Baby% 1988% 106% 6.0
+Doraemon: Nobita and the Haunts of Evil% 1982% 91% 6.8
+Yentl% 1983% 133% 6.6
+Cocoon: The Return% 1988% 115% 5.4
+El Sur% 1983% 95% 7.8
+Lone Wolf McQuade% 1983% 107% 6.3
+Class% 1983% 98% 6.0
+Mischief% 1985% 100% 6.5
+Hope and Glory% 1987% 113% 7.3
+Paradise% 1982% 102% 4.9
+New York Stories% 1989% 124% 6.4
+Caravaggio% 1986% 93% 6.5
+The Grey Fox% 1982% 92% 7.3
+Miranda% 1985% 90% 4.9
+Bronco Billy% 1980% 116% 6.2
+The Man from Snowy River% 1982% 102% 7.2
+Cucaracha% 1983% 91% 7.6
+The Green Ray% 1986% 99% 7.6
+Baby Boom% 1987% 110% 6.4
+Youngblood% 1986% 110% 6.2
+Longtime Companion% 1989% 100% 7.6
+Secret Admirer% 1985% 90% 6.5
+Jumpin' Jack Flash% 1986% 105% 6.0
+Absence of Malice% 1981% 116% 6.9
+Valmont% 1989% 137% 7.0
+Breathless% 1983% 100% 6.0
+The Muppets Take Manhattan% 1984% 94% 6.9
+Pennies from Heaven% 1981% 108% 6.5
+Absolute Beginners% 1986% 108% 5.6
+The Last Metro% 1980% 132% 7.3
+Staying Alive% 1983% 93% 4.8
+Sherman's March% 1985% 157% 7.2
+Racing with the Moon% 1984% 108% 6.6
+The Pirate Movie% 1982% 98% 5.4
+Every Time We Say Goodbye% 1986% 95% 5.8
+The Unbelievable Truth% 1989% 90% 7.2
+One from the Heart% 1981% 107% 6.5
+A Story of Women% 1988% 108% 7.5
+The Boy Who Could Fly% 1986% 107% 6.6
+Who's That Girl% 1987% 92% 4.9
+Spetters% 1980% 2% 6.7
+Breakin'% 1984% 87% 5.9
+About Last Night...% 1986% 113% 6.3
+Fanny Hill% 1983% 98% 5.2
+Victor/Victoria% 1982% 134% 7.6
+Some Girls% 1988% 94% 5.7
+The Wizard% 1989% 96% 6.1
+Cross Creek% 1983% 127% 6.9
+House of the Concubine% 1985% 143% 7.3
+Swing Shift% 1984% 100% 6.0
+Stormy Monday% 1988% 93% 6.2
+The Pirates of Penzance% 1983% 112% 7.1
+Cousins% 1989% 113% 6.4
+Vibes% 1988% 99% 5.7
+As Tears Go By% 1988% 102% 7.0
+The Big Easy% 1986% 102% 6.5
+Lola% 1981% 115% 7.4
+Baby It's You% 1983% 105% 6.4
+Murphy's Romance% 1985% 107% 7.0
+Two Moon Junction% 1988% 104% 5.0
+Shag% 1988% 98% 6.5
+Kansas% 1988% 110% 5.5
+Modern Romance% 1981% 93% 7.0
+Moscow Does Not Believe in Tears% 1980% 150% 8.0
+Ballet% 1989% 101% 5.9
+The Boost% 1988% 95% 6.1
+Loulou% 1980% 110% 6.6
+Ariel% 1988% 72% 7.4
+Red Sorghum% 1988% 91% 7.3
+Abunômaru: Ingyaku% 1988% 64% 6.0
+Remo: Unarmed and Dangerous% 1985% 121% 6.4
+First Name: Carmen% 1983% 85% 6.3
+Miracles: The Canton Godfather% 1989% 101% 6.9
+Private School% 1983% 89% 5.3
+Crimes of Passion% 1984% 107% 6.4
+Electric Dreams% 1984% 95% 6.4
+Catholic Boys% 1985% 104% 6.9
+Night of the Shooting Stars% 1982% 107% 7.2
+Lili Marleen% 1981% 121% 7.1
+Bubble Bath% 1980% 79% 7.1
+The Last American Virgin% 1982% 92% 6.3
+Nice Girls Don't Explode% 1987% 92% 5.5
+Masquerade% 1988% 91% 6.1
+The Party% 1980% 110% 6.7
+Charing Cross Road% 1987% 100% 7.4
+The French Lieutenant's Woman% 1981% 124% 6.9
+Urotsukidoji: Legend of the Overfiend% 1989% 108% 6.3
+Frances% 1982% 140% 7.2
+White Wedding% 1989% 92% 6.8
+Silsila% 1981% 182% 7.1
+Independence Day% 1983% 110% 6.5
+Hiding Out% 1987% 98% 6.3
+Desiring Julia% 1986% 104% 4.9
+The Taming of the Scoundrel% 1980% 107% 7.6
+Under the Cherry Moon% 1986% 100% 5.1
+High Road to China% 1983% 105% 6.1
+Herzklopfen% 1984% 93% 6.0
+Big Top Pee-wee% 1988% 86% 5.2
+The Phantom of the Opera% 1989% 93% 5.5
+The Bride% 1985% 118% 5.4

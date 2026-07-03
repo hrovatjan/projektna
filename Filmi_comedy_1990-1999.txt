@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Toy Story, 1995, 81, 8.3
-Toy Story 2, 1999, 92, 7.9
-Practical Magic, 1998, 104, 6.4
-The Truman Show, 1998, 103, 8.2
-The Big Lebowski, 1998, 117, 8.1
-She's All That, 1999, 95, 6.0
-Austin Powers: International Man of Mystery, 1997, 94, 7.0
-Things I Hate About You, 1999, 97, 7.4
-Life Is Beautiful, 1997, 116, 8.6
-True Lies, 1994, 141, 7.3
-American Pie, 1999, 95, 7.0
-Father of the Bride, 1991, 105, 6.6
-The Birdcage, 1996, 117, 7.3
-The Sandlot Kids, 1993, 101, 7.8
-To Wong Foo, Thanks for Everything! Julie Newmar, 1995, 109, 6.8
-Before Sunrise, 1995, 101, 8.1
-Jerry Maguire, 1996, 139, 7.3
-Rookie of the Year, 1993, 103, 6.1
-Pretty Woman, 1990, 119, 7.1
-There's Something About Mary, 1998, 119, 7.1
-Home Alone, 1990, 103, 7.8
-Dazed and Confused, 1993, 103, 7.6
-Jumanji, 1995, 104, 7.1
-Men in Black, 1997, 98, 7.3
-Clueless, 1995, 97, 6.9
-Rush Hour, 1998, 98, 7.1
-Hercules, 1997, 93, 7.3
-Happy Gilmore, 1996, 92, 7.0
-Office Space, 1999, 89, 7.6
-Matilda, 1996, 98, 7.0
-Notting Hill, 1999, 124, 7.2
-A Bug's Life, 1998, 95, 7.2
-The Parent Trap, 1998, 128, 6.7
-Lock, Stock and Two Smoking Barrels, 1998, 107, 8.1
-Hook, 1991, 142, 6.8
-Dumb and Dumber, 1994, 107, 7.3
-The Wedding Singer, 1998, 97, 6.9
-Death Becomes Her, 1992, 104, 6.7
-But I'm a Cheerleader, 1999, 92, 6.9
-Mars Attacks!, 1996, 106, 6.4
-Austin Powers: The Spy Who Shagged Me, 1999, 95, 6.7
-My Cousin Vinny, 1992, 2, 7.6
-Four Weddings and a Funeral, 1994, 117, 7.1
-The Mask, 1994, 101, 7.0
-Naked, 1993, 131, 7.6
-Jack the Bear, 1993, 99, 6.5
-My Best Friend's Wedding, 1997, 105, 6.4
-Mulan, 1998, 87, 7.7
-Mrs. Doubtfire, 1993, 125, 7.1
-Groundhog Day, 1993, 101, 8.0
-Aladdin, 1992, 90, 8.0
-The Witches, 1990, 91, 6.8
-Stuart Little, 1999, 84, 6.0
-Friday, 1995, 91, 7.2
-The Little Rascals, 1994, 82, 6.4
-A League of Their Own, 1992, 128, 7.4
-Pleasantville, 1998, 124, 7.5
-Bad Boys, 1995, 119, 6.8
-My Girl, 1991, 102, 6.9
-Dogma, 1999, 130, 7.3
-Kindergarten Cop, 1990, 111, 6.3
-Go, 1999, 102, 7.2
-You've Got Mail, 1998, 119, 6.7
-Tremors, 1990, 96, 7.2
-Chungking Express, 1994, 102, 7.9
-Being John Malkovich, 1999, 113, 7.7
-Sleepless in Seattle, 1993, 105, 6.8
-Babe, 1995, 91, 6.9
-Robin Hood: Men in Tights, 1993, 104, 6.7
-The Last Boy Scout, 1991, 105, 7.0
-Galaxy Quest, 1999, 102, 7.4
-Big Daddy, 1999, 93, 6.5
-Empire Records, 1995, 90, 6.7
-Sister Act, 1992, 100, 6.6
-Runaway Bride, 1999, 116, 5.6
-The Adventures of Priscilla, Queen of the Desert, 1994, 104, 7.5
-Ace Ventura: Pet Detective, 1994, 86, 6.9
-Army of Darkness, 1992, 81, 7.4
-Fear and Loathing in Las Vegas, 1998, 118, 7.4
-The Waterboy, 1998, 90, 6.2
-As Good as It Gets, 1997, 139, 7.7
-The Pagemaster, 1994, 75, 6.2
-Tarzan, 1999, 88, 7.3
-Now and Then, 1995, 102, 6.8
-The Mask of Zorro, 1998, 136, 6.8
-Back to the Future Part III, 1990, 118, 7.5
-Sneakers, 1992, 126, 7.1
-Kingpin, 1996, 114, 6.9
-To Die For, 1995, 106, 6.8
-Wayne's World, 1992, 94, 7.0
-Last Action Hero, 1993, 130, 6.5
-Major Payne, 1995, 95, 6.3
-It Takes Two, 1995, 101, 6.0
-Don't Tell Mom the Babysitter's Dead, 1991, 102, 6.4
-Liar Liar, 1997, 86, 6.9
-Teenage Mutant Ninja Turtles, 1990, 93, 6.8
-Muriel's Wedding, 1994, 106, 7.3
-Billy Madison, 1995, 89, 6.4
-Mallrats, 1995, 94, 7.0
-Don't Be a Menace to South Central While Drinking Your Juice in the Hood, 1996, 89, 6.6
-The Flintstones, 1994, 91, 5.1
-Father of the Bride Part II, 1995, 106, 6.1
-Patch Adams, 1998, 115, 6.9
-Romy and Michele's High School Reunion, 1997, 92, 6.4
-Happiness, 1998, 134, 7.7
-Casper, 1995, 100, 6.2
-The Addams Family, 1991, 99, 7.0
-Space Jam, 1996, 88, 6.5
-Grosse Pointe Blank, 1997, 107, 7.3
-That Thing You Do!, 1996, 108, 7.0
-Clerks, 1994, 92, 7.7
-Cry-Baby, 1990, 85, 6.5
-Postcards from the Edge, 1990, 101, 6.7
-Can't Hardly Wait, 1998, 100, 6.5
-Get Shorty, 1995, 105, 6.9
-Homeward Bound: The Incredible Journey, 1993, 84, 7.0
-Maverick, 1994, 127, 7.0
-Small Soldiers, 1998, 108, 6.3
-Orgazmo, 1997, 94, 6.1
-Fallen Angels, 1995, 99, 7.5
-Shakespeare in Love, 1998, 123, 7.1
-While You Were Sleeping, 1995, 103, 6.8
-Dick Tracy, 1990, 105, 6.2
-Gummo, 1997, 89, 6.6
-The Mighty Ducks, 1992, 104, 6.6
-Jawbreaker, 1999, 86, 5.8
-Oscar, 1991, 109, 6.5
-Tommy Boy, 1995, 97, 7.1
-Buffalo '66, 1998, 110, 7.4
-Swingers, 1996, 96, 7.2
-Cool Runnings, 1993, 98, 7.0
-Home Alone Lost in New York, 1992, 2, 6.9
-The Frighteners, 1996, 110, 7.1
-What About Bob?, 1991, 99, 7.0
-Heavyweights, 1995, 97, 6.6
-Beethoven, 1992, 87, 5.8
-Striptease, 1996, 115, 4.6
-A Family Thing, 1996, 109, 7.1
-Out of Sight, 1998, 123, 7.0
-Hocus Pocus, 1993, 96, 6.9
-Sliding Doors, 1998, 99, 6.7
-Mousehunt, 1997, 98, 6.5
-Frankie and Johnny, 1991, 118, 6.8
-The Player, 1992, 124, 7.5
-Toys, 1992, 118, 5.1
-Drop Dead Gorgeous, 1999, 97, 6.7
-Braindead, 1992, 104, 7.4
-Stepmom, 1998, 125, 6.8
-Only You, 1994, 109, 6.5
-Angels in the Outfield, 1994, 102, 6.2
-Ri¢hie Ri¢h, 1994, 95, 5.5
-Rushmore, 1998, 93, 7.6
-Human Traffic, 1999, 99, 7.1
-California Man, 1992, 88, 5.9
-Election, 1999, 103, 7.2
-Three Kings, 1999, 114, 7.1
-Sabrina, 1995, 127, 6.3
-Much Ado About Nothing, 1993, 111, 7.3
-Blast from the Past, 1999, 112, 6.7
-Singles, 1992, 99, 6.8
-Brassed Off, 1996, 108, 7.2
-Porco Rosso, 1992, 94, 7.7
-A Goofy Movie, 1995, 78, 7.0
-Man Bites Dog, 1992, 95, 7.4
-George of the Jungle, 1997, 92, 5.6
-Barton Fink, 1991, 116, 7.6
-The Brady Bunch Movie, 1995, 90, 6.2
-Reality Bites, 1994, 99, 6.6
-The Commitments, 1991, 118, 7.6
-A Night at the Roxbury, 1998, 82, 6.2
-Rosencrantz &amp; Guildenstern Are Dead, 1990, 117, 7.3
-Idle Hands, 1999, 92, 6.3
-Ace Ventura: When Nature Calls, 1995, 90, 6.4
-The Full Monty, 1997, 91, 7.2
-The American President, 1995, 114, 6.9
-Nowhere, 1997, 82, 6.6
-The Fisher King, 1991, 137, 7.5
-The Cable Guy, 1996, 96, 6.2
-Emma, 1996, 2, 6.6
-Career Opportunities, 1991, 83, 5.9
-Wag the Dog, 1997, 97, 7.1
-Nothing But Trouble, 1991, 94, 5.2
-A Summer's Tale, 1996, 113, 7.6
-Naked Gun 1/The Final Insult, 1994, 83, 6.5
-Dick, 1999, 94, 6.2
-Half Baked, 1998, 82, 6.6
-Michael, 1996, 105, 5.7
-The Naked Gun 2½: The Smell of Fear, 1991, 85, 6.9
-Life, 1999, 108, 6.8
-The Borrowers, 1997, 89, 5.9
-City Slickers, 1991, 113, 6.8
-Never Been Kissed, 1999, 107, 6.0
-Six Days Seven Nights, 1998, 102, 5.9
-Varsity Blues, 1999, 106, 6.6
-In &amp; Out, 1997, 90, 6.4
-Wild Wild West, 1999, 106, 4.9
-Dennis the Menace, 1993, 94, 5.7
-Addams Family Values, 1993, 94, 6.9
-The Nutty Professor, 1996, 95, 5.7
-Renaissance Man, 1994, 128, 6.2
-Bottle Rocket, 1996, 91, 6.9
-Super Mario Bros., 1993, 104, 4.2
-Mystery Men, 1999, 121, 6.1
-Analyze This, 1999, 103, 6.7
-Blank Cheque, 1994, 93, 5.3
-Dracula: Dead and Loving It, 1995, 90, 5.9
-So I Married an Axe Murderer, 1993, 93, 6.5
-The First Wives Club, 1996, 103, 6.5
-Doctor Dolittle, 1998, 85, 5.4
-Captain Ron, 1992, 100, 5.9
-The Rescuers Down Under, 1990, 77, 6.8
-Dalmatians, 1996, 103, 5.8
-Drop Dead Fred, 1991, 103, 6.0
-Little Giants, 1994, 107, 6.5
-Three Colors: White, 1994, 92, 7.6
-Ed Wood, 1994, 127, 7.8
-Tank Girl, 1995, 104, 5.4
-Secrets &amp; Lies, 1996, 136, 8.0
-The Cowboy Way, 1994, 102, 6.0
-Defending Your Life, 1991, 112, 7.2
-The Santa Clause, 1994, 97, 6.6
-Hot Shots!, 1991, 85, 6.7
-It Could Happen to You, 1994, 101, 6.4
-SLC Punk!, 1998, 97, 7.3
-My Father the Hero, 1994, 90, 5.5
-Chasing Amy, 1997, 113, 7.2
-Baby's Day Out, 1994, 99, 6.3
-Doraemon: Nobita's Three Visionary Swordsmen, 1994, 98, 7.5
-All Ladies Do It, 1992, 97, 5.2
-Bowfinger, 1999, 97, 6.5
-Delicatessen, 1991, 99, 7.5
-Loaded Weapon 1, 1993, 84, 6.2
-Street Fighter, 1994, 102, 4.1
-Senseless, 1998, 93, 6.0
-Short Cuts, 1993, 188, 7.6
-Welcome to the Dollhouse, 1995, 88, 7.3
-Night on Earth, 1991, 129, 7.6
-Gremlins The New Batch, 1990, 106, 6.5
-Waiting to Exhale, 1995, 124, 6.0
-Pom Poko, 1994, 119, 7.2
-The Hudsucker Proxy, 1994, 111, 7.2
-Buffy the Vampire Slayer, 1992, 86, 5.7
-Undercover Blues, 1993, 90, 6.1
-Hot Shots! Part Deux, 1993, 86, 6.6
-Four Rooms, 1995, 98, 6.7
-Show Me Love, 1998, 89, 7.5
-One Fine Day, 1996, 108, 6.5
-Taxi, 1998, 89, 7.0
-Sister Act Back in the Habit, 1993, 107, 5.8
-The Big Green, 1995, 100, 5.6
+naslov% leto_izida% trajanje% ocena
+Toy Story% 1995% 81% 8.3
+Toy Story 2% 1999% 92% 7.9
+Practical Magic% 1998% 104% 6.4
+The Truman Show% 1998% 103% 8.2
+The Big Lebowski% 1998% 117% 8.1
+She's All That% 1999% 95% 6.0
+Austin Powers: International Man of Mystery% 1997% 94% 7.0
+Things I Hate About You% 1999% 97% 7.4
+Life Is Beautiful% 1997% 116% 8.6
+True Lies% 1994% 141% 7.3
+American Pie% 1999% 95% 7.0
+Father of the Bride% 1991% 105% 6.6
+The Birdcage% 1996% 117% 7.3
+The Sandlot Kids% 1993% 101% 7.8
+To Wong Foo, Thanks for Everything! Julie Newmar% 1995% 109% 6.8
+Before Sunrise% 1995% 101% 8.1
+Jerry Maguire% 1996% 139% 7.3
+Rookie of the Year% 1993% 103% 6.1
+Pretty Woman% 1990% 119% 7.1
+There's Something About Mary% 1998% 119% 7.1
+Home Alone% 1990% 103% 7.8
+Dazed and Confused% 1993% 103% 7.6
+Jumanji% 1995% 104% 7.1
+Men in Black% 1997% 98% 7.3
+Clueless% 1995% 97% 6.9
+Rush Hour% 1998% 98% 7.1
+Hercules% 1997% 93% 7.3
+Happy Gilmore% 1996% 92% 7.0
+Office Space% 1999% 89% 7.6
+Matilda% 1996% 98% 7.0
+Notting Hill% 1999% 124% 7.2
+A Bug's Life% 1998% 95% 7.2
+The Parent Trap% 1998% 128% 6.7
+Lock, Stock and Two Smoking Barrels% 1998% 107% 8.1
+Hook% 1991% 142% 6.8
+Dumb and Dumber% 1994% 107% 7.3
+The Wedding Singer% 1998% 97% 6.9
+Death Becomes Her% 1992% 104% 6.7
+But I'm a Cheerleader% 1999% 92% 6.9
+Mars Attacks!% 1996% 106% 6.4
+Austin Powers: The Spy Who Shagged Me% 1999% 95% 6.7
+My Cousin Vinny% 1992% 2% 7.6
+Four Weddings and a Funeral% 1994% 117% 7.1
+The Mask% 1994% 101% 7.0
+Naked% 1993% 131% 7.6
+Jack the Bear% 1993% 99% 6.5
+My Best Friend's Wedding% 1997% 105% 6.4
+Mulan% 1998% 87% 7.7
+Mrs. Doubtfire% 1993% 125% 7.1
+Groundhog Day% 1993% 101% 8.0
+Aladdin% 1992% 90% 8.0
+The Witches% 1990% 91% 6.8
+Stuart Little% 1999% 84% 6.0
+Friday% 1995% 91% 7.2
+The Little Rascals% 1994% 82% 6.4
+A League of Their Own% 1992% 128% 7.4
+Pleasantville% 1998% 124% 7.5
+Bad Boys% 1995% 119% 6.8
+My Girl% 1991% 102% 6.9
+Dogma% 1999% 130% 7.3
+Kindergarten Cop% 1990% 111% 6.3
+Go% 1999% 102% 7.2
+You've Got Mail% 1998% 119% 6.7
+Tremors% 1990% 96% 7.2
+Chungking Express% 1994% 102% 7.9
+Being John Malkovich% 1999% 113% 7.7
+Sleepless in Seattle% 1993% 105% 6.8
+Babe% 1995% 91% 6.9
+Robin Hood: Men in Tights% 1993% 104% 6.7
+The Last Boy Scout% 1991% 105% 7.0
+Galaxy Quest% 1999% 102% 7.4
+Big Daddy% 1999% 93% 6.5
+Empire Records% 1995% 90% 6.7
+Sister Act% 1992% 100% 6.6
+Runaway Bride% 1999% 116% 5.6
+The Adventures of Priscilla, Queen of the Desert% 1994% 104% 7.5
+Ace Ventura: Pet Detective% 1994% 86% 6.9
+Army of Darkness% 1992% 81% 7.4
+Fear and Loathing in Las Vegas% 1998% 118% 7.4
+The Waterboy% 1998% 90% 6.2
+As Good as It Gets% 1997% 139% 7.7
+The Pagemaster% 1994% 75% 6.2
+Tarzan% 1999% 88% 7.3
+Now and Then% 1995% 102% 6.8
+The Mask of Zorro% 1998% 136% 6.8
+Back to the Future Part III% 1990% 118% 7.5
+Sneakers% 1992% 126% 7.1
+Kingpin% 1996% 114% 6.9
+To Die For% 1995% 106% 6.8
+Wayne's World% 1992% 94% 7.0
+Last Action Hero% 1993% 130% 6.5
+Major Payne% 1995% 95% 6.3
+It Takes Two% 1995% 101% 6.0
+Don't Tell Mom the Babysitter's Dead% 1991% 102% 6.4
+Liar Liar% 1997% 86% 6.9
+Teenage Mutant Ninja Turtles% 1990% 93% 6.8
+Muriel's Wedding% 1994% 106% 7.3
+Billy Madison% 1995% 89% 6.4
+Mallrats% 1995% 94% 7.0
+Don't Be a Menace to South Central While Drinking Your Juice in the Hood% 1996% 89% 6.6
+The Flintstones% 1994% 91% 5.1
+Father of the Bride Part II% 1995% 106% 6.1
+Patch Adams% 1998% 115% 6.9
+Romy and Michele's High School Reunion% 1997% 92% 6.4
+Happiness% 1998% 134% 7.7
+Casper% 1995% 100% 6.2
+The Addams Family% 1991% 99% 7.0
+Space Jam% 1996% 88% 6.5
+Grosse Pointe Blank% 1997% 107% 7.3
+That Thing You Do!% 1996% 108% 7.0
+Clerks% 1994% 92% 7.7
+Cry-Baby% 1990% 85% 6.5
+Postcards from the Edge% 1990% 101% 6.7
+Can't Hardly Wait% 1998% 100% 6.5
+Get Shorty% 1995% 105% 6.9
+Homeward Bound: The Incredible Journey% 1993% 84% 7.0
+Maverick% 1994% 127% 7.0
+Small Soldiers% 1998% 108% 6.3
+Orgazmo% 1997% 94% 6.1
+Fallen Angels% 1995% 99% 7.5
+Shakespeare in Love% 1998% 123% 7.1
+While You Were Sleeping% 1995% 103% 6.8
+Dick Tracy% 1990% 105% 6.2
+Gummo% 1997% 89% 6.6
+The Mighty Ducks% 1992% 104% 6.6
+Jawbreaker% 1999% 86% 5.8
+Oscar% 1991% 109% 6.5
+Tommy Boy% 1995% 97% 7.1
+Buffalo '66% 1998% 110% 7.4
+Swingers% 1996% 96% 7.2
+Cool Runnings% 1993% 98% 7.0
+Home Alone Lost in New York% 1992% 2% 6.9
+The Frighteners% 1996% 110% 7.1
+What About Bob?% 1991% 99% 7.0
+Heavyweights% 1995% 97% 6.6
+Beethoven% 1992% 87% 5.8
+Striptease% 1996% 115% 4.6
+A Family Thing% 1996% 109% 7.1
+Out of Sight% 1998% 123% 7.0
+Hocus Pocus% 1993% 96% 6.9
+Sliding Doors% 1998% 99% 6.7
+Mousehunt% 1997% 98% 6.5
+Frankie and Johnny% 1991% 118% 6.8
+The Player% 1992% 124% 7.5
+Toys% 1992% 118% 5.1
+Drop Dead Gorgeous% 1999% 97% 6.7
+Braindead% 1992% 104% 7.4
+Stepmom% 1998% 125% 6.8
+Only You% 1994% 109% 6.5
+Angels in the Outfield% 1994% 102% 6.2
+Ri¢hie Ri¢h% 1994% 95% 5.5
+Rushmore% 1998% 93% 7.6
+Human Traffic% 1999% 99% 7.1
+California Man% 1992% 88% 5.9
+Election% 1999% 103% 7.2
+Three Kings% 1999% 114% 7.1
+Sabrina% 1995% 127% 6.3
+Much Ado About Nothing% 1993% 111% 7.3
+Blast from the Past% 1999% 112% 6.7
+Singles% 1992% 99% 6.8
+Brassed Off% 1996% 108% 7.2
+Porco Rosso% 1992% 94% 7.7
+A Goofy Movie% 1995% 78% 7.0
+Man Bites Dog% 1992% 95% 7.4
+George of the Jungle% 1997% 92% 5.6
+Barton Fink% 1991% 116% 7.6
+The Brady Bunch Movie% 1995% 90% 6.2
+Reality Bites% 1994% 99% 6.6
+The Commitments% 1991% 118% 7.6
+A Night at the Roxbury% 1998% 82% 6.2
+Rosencrantz & Guildenstern Are Dead% 1990% 117% 7.3
+Idle Hands% 1999% 92% 6.3
+Ace Ventura: When Nature Calls% 1995% 90% 6.4
+The Full Monty% 1997% 91% 7.2
+The American President% 1995% 114% 6.9
+Nowhere% 1997% 82% 6.6
+The Fisher King% 1991% 137% 7.5
+The Cable Guy% 1996% 96% 6.2
+Emma% 1996% 2% 6.6
+Career Opportunities% 1991% 83% 5.9
+Wag the Dog% 1997% 97% 7.1
+Nothing But Trouble% 1991% 94% 5.2
+A Summer's Tale% 1996% 113% 7.6
+Naked Gun 1/The Final Insult% 1994% 83% 6.5
+Dick% 1999% 94% 6.2
+Half Baked% 1998% 82% 6.6
+Michael% 1996% 105% 5.7
+The Naked Gun 2½: The Smell of Fear% 1991% 85% 6.9
+Life% 1999% 108% 6.8
+The Borrowers% 1997% 89% 5.9
+City Slickers% 1991% 113% 6.8
+Never Been Kissed% 1999% 107% 6.0
+Six Days Seven Nights% 1998% 102% 5.9
+Varsity Blues% 1999% 106% 6.6
+In & Out% 1997% 90% 6.4
+Wild Wild West% 1999% 106% 4.9
+Dennis the Menace% 1993% 94% 5.7
+Addams Family Values% 1993% 94% 6.9
+The Nutty Professor% 1996% 95% 5.7
+Renaissance Man% 1994% 128% 6.2
+Bottle Rocket% 1996% 91% 6.9
+Super Mario Bros.% 1993% 104% 4.2
+Mystery Men% 1999% 121% 6.1
+Analyze This% 1999% 103% 6.7
+Blank Cheque% 1994% 93% 5.3
+Dracula: Dead and Loving It% 1995% 90% 5.9
+So I Married an Axe Murderer% 1993% 93% 6.5
+The First Wives Club% 1996% 103% 6.5
+Doctor Dolittle% 1998% 85% 5.4
+Captain Ron% 1992% 100% 5.9
+The Rescuers Down Under% 1990% 77% 6.8
+Dalmatians% 1996% 103% 5.8
+Drop Dead Fred% 1991% 103% 6.0
+Little Giants% 1994% 107% 6.5
+Three Colors: White% 1994% 92% 7.6
+Ed Wood% 1994% 127% 7.8
+Tank Girl% 1995% 104% 5.4
+Secrets & Lies% 1996% 136% 8.0
+The Cowboy Way% 1994% 102% 6.0
+Defending Your Life% 1991% 112% 7.2
+The Santa Clause% 1994% 97% 6.6
+Hot Shots!% 1991% 85% 6.7
+It Could Happen to You% 1994% 101% 6.4
+SLC Punk!% 1998% 97% 7.3
+My Father the Hero% 1994% 90% 5.5
+Chasing Amy% 1997% 113% 7.2
+Baby's Day Out% 1994% 99% 6.3
+Doraemon: Nobita's Three Visionary Swordsmen% 1994% 98% 7.5
+All Ladies Do It% 1992% 97% 5.2
+Bowfinger% 1999% 97% 6.5
+Delicatessen% 1991% 99% 7.5
+Loaded Weapon 1% 1993% 84% 6.2
+Street Fighter% 1994% 102% 4.1
+Senseless% 1998% 93% 6.0
+Short Cuts% 1993% 188% 7.6
+Welcome to the Dollhouse% 1995% 88% 7.3
+Night on Earth% 1991% 129% 7.6
+Gremlins The New Batch% 1990% 106% 6.5
+Waiting to Exhale% 1995% 124% 6.0
+Pom Poko% 1994% 119% 7.2
+The Hudsucker Proxy% 1994% 111% 7.2
+Buffy the Vampire Slayer% 1992% 86% 5.7
+Undercover Blues% 1993% 90% 6.1
+Hot Shots! Part Deux% 1993% 86% 6.6
+Four Rooms% 1995% 98% 6.7
+Show Me Love% 1998% 89% 7.5
+One Fine Day% 1996% 108% 6.5
+Taxi% 1998% 89% 7.0
+Sister Act Back in the Habit% 1993% 107% 5.8
+The Big Green% 1995% 100% 5.6

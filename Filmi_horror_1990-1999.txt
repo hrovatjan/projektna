@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-The Silence of the Lambs, 1991, 118, 8.6
-Scream, 1996, 111, 7.4
-Interview with the Vampire: The Vampire Chronicles, 1994, 123, 7.5
-Death Becomes Her, 1992, 104, 6.7
-The Blair Witch Project, 1999, 81, 6.5
-Cure, 1997, 111, 7.5
-Dracula, 1992, 128, 7.4
-Blade, 1998, 2, 7.1
-From Dusk Till Dawn, 1996, 108, 7.2
-The Witches, 1990, 91, 6.8
-Sleepy Hollow, 1999, 105, 7.3
-The Faculty, 1998, 104, 6.6
-Event Horizon, 1997, 96, 6.6
-Funny Games, 1997, 108, 7.5
-Tremors, 1990, 96, 7.2
-In the Mouth of Madness, 1994, 95, 7.1
-Army of Darkness, 1992, 81, 7.4
-Anaconda, 1997, 89, 5.0
-The Crow, 1994, 102, 7.5
-Jacob's Ladder, 1990, 113, 7.4
-Audition, 1999, 115, 7.1
-House on Haunted Hill, 1999, 93, 5.6
-The Craft, 1996, 101, 6.5
-I Know What You Did Last Summer, 1997, 101, 5.9
-Cube, 1997, 90, 7.1
-Twin Peaks: Fire Walk with Me, 1992, 134, 7.3
-Scream 2, 1997, 2, 6.4
-Split Second, 1992, 90, 6.0
-The Ring, 1998, 96, 7.2
-Species, 1995, 108, 5.9
-The Frighteners, 1996, 110, 7.1
-Pi, 1998, 84, 7.3
-The Haunting, 1999, 113, 5.1
-Midori, 1992, 55, 6.2
-Braindead, 1992, 104, 7.4
-Alien³, 1992, 114, 6.4
-Thesis, 1996, 125, 7.4
-Sorceress, 1995, 89, 4.2
-Mikey, 1992, 92, 5.7
-Idle Hands, 1999, 92, 6.3
-Mister Frost, 1990, 104, 5.9
-Sleepwalkers, 1992, 89, 5.4
-Predator 2, 1990, 108, 6.3
-Stir of Echoes, 1999, 99, 6.9
-Disturbing Behavior, 1998, 84, 5.7
-Frankenstein, 1994, 123, 6.3
-Dracula: Dead and Loving It, 1995, 90, 5.9
-eXistenZ, 1999, 97, 6.8
-Deep Rising, 1998, 106, 6.1
-Nightwatch, 1997, 101, 6.2
-Alien: Resurrection, 1997, 109, 6.2
-Memories, 1995, 113, 7.5
-Needful Things, 1993, 121, 6.3
-Candyman, 1992, 99, 6.8
-Wishmaster, 1997, 90, 5.9
-Mimic, 1997, 105, 6.0
-Spawn, 1997, 96, 5.2
-Wolf, 1994, 125, 6.3
-Gremlins The New Batch, 1990, 106, 6.5
-Buffy the Vampire Slayer, 1992, 86, 5.7
-Screams of Blasphemy, 1991, 97, 5.6
-Lake Placid, 1999, 82, 5.8
-The People Under the Stairs, 1991, 102, 6.4
-Bride of Chucky, 1998, 89, 5.7
-Virus, 1999, 99, 5.1
-The Vanishing, 1993, 109, 6.3
-The Prophecy, 1995, 98, 6.4
-Flatliners, 1990, 115, 6.6
-Vampires, 1998, 108, 6.1
-Dark Angel, 1990, 91, 6.1
-End of Days, 1999, 122, 5.8
-Ravenous, 1999, 101, 6.9
-Urban Legend, 1998, 99, 5.6
-New Nightmare, 1994, 112, 6.4
-Stigmata, 1999, 103, 6.2
-Arachnophobia, 1990, 109, 6.5
-Hardware, 1990, 94, 6.0
-The Island of Dr. Moreau, 1996, 96, 4.6
-Cronos, 1992, 94, 6.7
-Cemetery Man, 1994, 103, 7.0
-Tales from the Darkside: The Movie, 1990, 93, 6.2
-Haunted, 1995, 108, 6.2
-Screamers, 1995, 108, 6.3
-Frankenhooker, 1990, 85, 6.2
-Nightbreed, 1990, 102, 6.5
-The Lawnmower Man, 1992, 108, 5.5
-Jason Goes to Hell: The Final Friday, 1993, 87, 4.1
-The Mangler, 1995, 106, 4.5
-Vampire in Brooklyn, 1995, 100, 4.7
-Village of the Damned, 1995, 98, 5.7
-The Relic, 1997, 110, 5.8
-Species II, 1998, 93, 4.5
-Halloween HYears Later, 1998, 86, 5.8
-I Still Know What You Did Last Summer, 1998, 100, 4.8
-Thinner, 1996, 93, 5.8
-The Day of the Beast, 1995, 103, 7.3
-The Exorcist III, 1990, 110, 6.5
-Kaun?, 1999, 90, 7.8
-Freddy's Dead: The Final Nightmare, 1991, 89, 4.7
-Resurrection, 1999, 108, 6.1
-Halloween: The Curse of Michael Myers, 1995, 87, 4.7
-Necronomicon, 1993, 96, 5.8
-The Quiet Family, 1998, 101, 7.0
-The Reflecting Skin, 1990, 96, 6.7
-Leprechaun, 1992, 92, 4.8
-The Addiction, 1995, 82, 6.5
-Lord of Illusions, 1995, 109, 6.1
-Doppelganger, 1993, 104, 4.4
-Graveyard Shift, 1990, 86, 5.0
-Campfire Tales, 1997, 88, 5.8
-The Stendhal Syndrome, 1996, 2, 6.0
-Diabolique, 1996, 107, 5.5
-Tales from the Crypt: Demon Knight, 1995, 92, 6.7
-Psycho, 1998, 105, 4.6
-Innocent Blood, 1992, 112, 6.2
-Embrace of the Vampire, 1995, 92, 4.4
-The Dentist, 1996, 92, 5.4
-Body Snatchers, 1993, 87, 6.0
-The Rage: Carrie 2, 1999, 104, 4.8
-Pet Sematary II, 1992, 100, 5.0
-Tumbling Doll of Flesh, 1998, 72, 3.9
-Child's Play 2, 1990, 84, 6.0
-The Pit and the Pendulum, 1991, 97, 6.0
-Habit, 1995, 112, 6.4
-Killer Tongue, 1996, 95, 4.5
-Night of the Living Dead, 1990, 92, 6.8
-Return of the Living Dead III, 1993, 97, 5.9
-Leatherface: Texas Chainsaw Massacre III, 1990, 85, 5.0
-The Dark Half, 1993, 122, 6.0
-Nekromantik 2, 1991, 104, 5.2
-Magnetic Rose, 1995, 45, 8.5
-They Bite, 1992, 98, 4.5
-The Guardian, 1990, 92, 5.4
-Sangharsh, 1999, 127, 6.7
-Manichitrathazhu, 1993, 169, 8.7
-The Green Elephant, 1999, 90, 5.3
-The Invisible Maniac, 1990, 86, 4.3
-Auntie Lee's Meat Pies, 1992, 100, 5.1
-The Princess and the Goblin, 1991, 82, 6.7
-Ebola Syndrome, 1996, 98, 6.5
-The Night Flier, 1997, 97, 6.0
-Dust Devil, 1992, 115, 6.2
-Ring 2, 1999, 95, 5.8
-Troll 2, 1990, 95, 3.0
-Careful, 1992, 100, 7.0
-Body Parts, 1991, 88, 5.7
-Man's Best Friend, 1993, 87, 5.3
-My Boyfriend's Back, 1993, 85, 5.5
-Dolly Dearest, 1991, 93, 4.8
-The Nature of the Beast, 1995, 91, 6.2
-Raatri, 1992, 127, 7.0
-Baby Blood, 1990, 88, 6.0
-Spiral, 1998, 97, 5.2
-The Vagrant, 1992, 91, 5.8
-Fear City: A Family-Style Comedy, 1994, 100, 7.5
-I Bought a Vampire Motorcycle, 1990, 101, 5.4
-Criminal Lovers, 1999, 96, 6.4
-Evil Ed, 1995, 93, 5.5
-The Dark Side of the Moon, 1990, 91, 4.9
-Watchers II, 1990, 101, 4.6
-X, 1996, 100, 6.1
-Vampire Killer Barbys, 1996, 90, 3.8
-Ernest Scared Stupid, 1991, 91, 5.8
-Project: Metalbeast, 1995, 92, 4.5
-Prom Night III: The Last Kiss, 1990, 97, 4.7
-Gemini, 1999, 84, 6.7
-Phantoms, 1998, 96, 5.4
-Demoni 3, 1991, 88, 4.2
-Sombre, 1998, 112, 5.9
-Guyver, 1991, 88, 5.0
-Erotic Ghost Story, 1990, 90, 5.6
-Tales from the Hood, 1995, 98, 6.6
-Class of 1999, 1990, 99, 5.9
-A Chinese Torture Chamber Story, 1994, 93, 5.9
-The Crow: City of Angels, 1996, 84, 4.6
-Sorority House Massacre II, 1990, 77, 4.8
-Re-Animator 2, 1990, 96, 6.2
-Phantasm III: Lord of the Dead, 1994, 91, 6.0
-Brain Dead, 1990, 85, 5.8
-Snow White: A Tale of Terror, 1997, 100, 6.1
-Popcorn, 1991, 91, 5.9
-Death Machine, 1994, 99, 5.6
-Pinocchio's Revenge, 1996, 96, 4.2
-Metamorphosis, 1990, 96, 4.0
-The Puppet Masters, 1994, 109, 5.9
-Killer Crocodile 2, 1990, 87, 4.5
-Alferd Packer: The Musical, 1993, 95, 6.9
-In Dreams, 1999, 100, 5.5
-Singapore Sling, 1990, 111, 6.4
-Head of the Family, 1996, 82, 5.4
-Poison, 1991, 85, 6.3
-Hard to Die, 1990, 77, 4.8
-The Wax Mask, 1997, 98, 5.8
-Demonia, 1990, 88, 4.7
-The Cat, 1991, 89, 6.5
-The Outpost, 1995, 96, 4.0
-Maniac Cop Badge of Silence, 1992, 85, 5.0
-Child's Play 3, 1991, 90, 5.2
-Terror Firmer, 1998, 124, 6.1
-Nadja, 1994, 93, 6.1
-Razor Blade Smile, 1998, 102, 4.6
-Scissors, 1991, 105, 5.1
-Body Melt, 1993, 81, 5.3
-Waxwork II: Lost in Time, 1992, 104, 5.4
-Rubber's Lover, 1996, 91, 6.3
-Scanners II: The New Order, 1991, 104, 5.3
-Hellbound, 1994, 95, 4.8
-Def by Temptation, 1990, 95, 5.3
-There's Nothing Out There, 1991, 91, 5.6
-The Dentist Brace Yourself, 1998, 100, 4.8
-The Terror Within II, 1991, 85, 4.2
-Basket Case 2, 1990, 90, 5.4
-Witchboard: The Return, 1993, 94, 5.0
-The Gate II: Trespassers, 1990, 93, 4.9
-The Death King, 1990, 75, 6.3
-Tetsuo II: Body Hammer, 1992, 83, 6.4
-Shadow Builder, 1998, 101, 4.8
-Toughguy, 1994, 95, 3.5
-Scanners III: The Takeover, 1991, 101, 4.5
-Steel and Lace, 1990, 94, 5.3
-A Chinese Ghost Story II, 1990, 104, 6.8
-Xtro Watch the Skies, 1995, 97, 3.6
-Whispering Corridors, 1998, 105, 5.9
-Chinese Torture Chamber Story 2, 1998, 93, 5.1
-The Fear, 1995, 102, 3.9
-The Ugly, 1997, 91, 6.0
-Empire of the Dark, 1991, 93, 5.0
-Frostbiter: Wrath of the Wendigo, 1995, 84, 4.9
-Whispering Corridors Memento Mori, 1999, 98, 6.3
-Night Terrors, 1993, 98, 3.6
-Evil Dead Trap 2, 1992, 97, 5.4
-The Runestone, 1991, 105, 4.8
-Prom Night IV: Deliver Us from Evil, 1991, 92, 4.1
-The Witching, 1993, 64, 3.2
-Organ, 1996, 110, 5.4
-Turtle Vision, 1991, 1, 6.3
-Living Doll, 1990, 92, 5.6
-The Return of the Texas Chainsaw Massacre, 1994, 87, 3.4
-Hellraiser III: Hell on Earth, 1992, 97, 5.5
-An American Werewolf in Paris, 1997, 98, 5.1
-Angel Eyes, 1993, 84, 4.5
-Hellraiser: Bloodline, 1996, 85, 5.1
-Spirits, 1990, 88, 3.8
-Bad Moon, 1996, 80, 5.8
-Dark Waters, 1993, 94, 5.9
-Cherry Falls, 1999, 92, 5.3
-Perdita Durango, 1997, 129, 6.3
-Evil Toons, 1992, 90, 4.2
-Bordello of Blood, 1996, 87, 5.4
-Raising Cain, 1992, 92, 6.1
+naslov% leto_izida% trajanje% ocena
+The Silence of the Lambs% 1991% 118% 8.6
+Scream% 1996% 111% 7.4
+Interview with the Vampire: The Vampire Chronicles% 1994% 123% 7.5
+Death Becomes Her% 1992% 104% 6.7
+The Blair Witch Project% 1999% 81% 6.5
+Cure% 1997% 111% 7.5
+Dracula% 1992% 128% 7.4
+Blade% 1998% 2% 7.1
+From Dusk Till Dawn% 1996% 108% 7.2
+The Witches% 1990% 91% 6.8
+Sleepy Hollow% 1999% 105% 7.3
+The Faculty% 1998% 104% 6.6
+Event Horizon% 1997% 96% 6.6
+Funny Games% 1997% 108% 7.5
+Tremors% 1990% 96% 7.2
+In the Mouth of Madness% 1994% 95% 7.1
+Army of Darkness% 1992% 81% 7.4
+Anaconda% 1997% 89% 5.0
+The Crow% 1994% 102% 7.5
+Jacob's Ladder% 1990% 113% 7.4
+Audition% 1999% 115% 7.1
+House on Haunted Hill% 1999% 93% 5.6
+The Craft% 1996% 101% 6.5
+I Know What You Did Last Summer% 1997% 101% 5.9
+Cube% 1997% 90% 7.1
+Twin Peaks: Fire Walk with Me% 1992% 134% 7.3
+Scream 2% 1997% 2% 6.4
+Split Second% 1992% 90% 6.0
+The Ring% 1998% 96% 7.2
+Species% 1995% 108% 5.9
+The Frighteners% 1996% 110% 7.1
+Pi% 1998% 84% 7.3
+The Haunting% 1999% 113% 5.1
+Midori% 1992% 55% 6.2
+Braindead% 1992% 104% 7.4
+Alien³% 1992% 114% 6.4
+Thesis% 1996% 125% 7.4
+Sorceress% 1995% 89% 4.2
+Mikey% 1992% 92% 5.7
+Idle Hands% 1999% 92% 6.3
+Mister Frost% 1990% 104% 5.9
+Sleepwalkers% 1992% 89% 5.4
+Predator 2% 1990% 108% 6.3
+Stir of Echoes% 1999% 99% 6.9
+Disturbing Behavior% 1998% 84% 5.7
+Frankenstein% 1994% 123% 6.3
+Dracula: Dead and Loving It% 1995% 90% 5.9
+eXistenZ% 1999% 97% 6.8
+Deep Rising% 1998% 106% 6.1
+Nightwatch% 1997% 101% 6.2
+Alien: Resurrection% 1997% 109% 6.2
+Memories% 1995% 113% 7.5
+Needful Things% 1993% 121% 6.3
+Candyman% 1992% 99% 6.8
+Wishmaster% 1997% 90% 5.9
+Mimic% 1997% 105% 6.0
+Spawn% 1997% 96% 5.2
+Wolf% 1994% 125% 6.3
+Gremlins The New Batch% 1990% 106% 6.5
+Buffy the Vampire Slayer% 1992% 86% 5.7
+Screams of Blasphemy% 1991% 97% 5.6
+Lake Placid% 1999% 82% 5.8
+The People Under the Stairs% 1991% 102% 6.4
+Bride of Chucky% 1998% 89% 5.7
+Virus% 1999% 99% 5.1
+The Vanishing% 1993% 109% 6.3
+The Prophecy% 1995% 98% 6.4
+Flatliners% 1990% 115% 6.6
+Vampires% 1998% 108% 6.1
+Dark Angel% 1990% 91% 6.1
+End of Days% 1999% 122% 5.8
+Ravenous% 1999% 101% 6.9
+Urban Legend% 1998% 99% 5.6
+New Nightmare% 1994% 112% 6.4
+Stigmata% 1999% 103% 6.2
+Arachnophobia% 1990% 109% 6.5
+Hardware% 1990% 94% 6.0
+The Island of Dr. Moreau% 1996% 96% 4.6
+Cronos% 1992% 94% 6.7
+Cemetery Man% 1994% 103% 7.0
+Tales from the Darkside: The Movie% 1990% 93% 6.2
+Haunted% 1995% 108% 6.2
+Screamers% 1995% 108% 6.3
+Frankenhooker% 1990% 85% 6.2
+Nightbreed% 1990% 102% 6.5
+The Lawnmower Man% 1992% 108% 5.5
+Jason Goes to Hell: The Final Friday% 1993% 87% 4.1
+The Mangler% 1995% 106% 4.5
+Vampire in Brooklyn% 1995% 100% 4.7
+Village of the Damned% 1995% 98% 5.7
+The Relic% 1997% 110% 5.8
+Species II% 1998% 93% 4.5
+Halloween HYears Later% 1998% 86% 5.8
+I Still Know What You Did Last Summer% 1998% 100% 4.8
+Thinner% 1996% 93% 5.8
+The Day of the Beast% 1995% 103% 7.3
+The Exorcist III% 1990% 110% 6.5
+Kaun?% 1999% 90% 7.8
+Freddy's Dead: The Final Nightmare% 1991% 89% 4.7
+Resurrection% 1999% 108% 6.1
+Halloween: The Curse of Michael Myers% 1995% 87% 4.7
+Necronomicon% 1993% 96% 5.8
+The Quiet Family% 1998% 101% 7.0
+The Reflecting Skin% 1990% 96% 6.7
+Leprechaun% 1992% 92% 4.8
+The Addiction% 1995% 82% 6.5
+Lord of Illusions% 1995% 109% 6.1
+Doppelganger% 1993% 104% 4.4
+Graveyard Shift% 1990% 86% 5.0
+Campfire Tales% 1997% 88% 5.8
+The Stendhal Syndrome% 1996% 2% 6.0
+Diabolique% 1996% 107% 5.5
+Tales from the Crypt: Demon Knight% 1995% 92% 6.7
+Psycho% 1998% 105% 4.6
+Innocent Blood% 1992% 112% 6.2
+Embrace of the Vampire% 1995% 92% 4.4
+The Dentist% 1996% 92% 5.4
+Body Snatchers% 1993% 87% 6.0
+The Rage: Carrie 2% 1999% 104% 4.8
+Pet Sematary II% 1992% 100% 5.0
+Tumbling Doll of Flesh% 1998% 72% 3.9
+Child's Play 2% 1990% 84% 6.0
+The Pit and the Pendulum% 1991% 97% 6.0
+Habit% 1995% 112% 6.4
+Killer Tongue% 1996% 95% 4.5
+Night of the Living Dead% 1990% 92% 6.8
+Return of the Living Dead III% 1993% 97% 5.9
+Leatherface: Texas Chainsaw Massacre III% 1990% 85% 5.0
+The Dark Half% 1993% 122% 6.0
+Nekromantik 2% 1991% 104% 5.2
+Magnetic Rose% 1995% 45% 8.5
+They Bite% 1992% 98% 4.5
+The Guardian% 1990% 92% 5.4
+Sangharsh% 1999% 127% 6.7
+Manichitrathazhu% 1993% 169% 8.7
+The Green Elephant% 1999% 90% 5.3
+The Invisible Maniac% 1990% 86% 4.3
+Auntie Lee's Meat Pies% 1992% 100% 5.1
+The Princess and the Goblin% 1991% 82% 6.7
+Ebola Syndrome% 1996% 98% 6.5
+The Night Flier% 1997% 97% 6.0
+Dust Devil% 1992% 115% 6.2
+Ring 2% 1999% 95% 5.8
+Troll 2% 1990% 95% 3.0
+Careful% 1992% 100% 7.0
+Body Parts% 1991% 88% 5.7
+Man's Best Friend% 1993% 87% 5.3
+My Boyfriend's Back% 1993% 85% 5.5
+Dolly Dearest% 1991% 93% 4.8
+The Nature of the Beast% 1995% 91% 6.2
+Raatri% 1992% 127% 7.0
+Baby Blood% 1990% 88% 6.0
+Spiral% 1998% 97% 5.2
+The Vagrant% 1992% 91% 5.9
+Fear City: A Family-Style Comedy% 1994% 100% 7.5
+I Bought a Vampire Motorcycle% 1990% 101% 5.4
+Criminal Lovers% 1999% 96% 6.4
+Evil Ed% 1995% 93% 5.5
+The Dark Side of the Moon% 1990% 91% 4.9
+Watchers II% 1990% 101% 4.6
+X% 1996% 100% 6.1
+Vampire Killer Barbys% 1996% 90% 3.8
+Ernest Scared Stupid% 1991% 91% 5.8
+Project: Metalbeast% 1995% 92% 4.5
+Prom Night III: The Last Kiss% 1990% 97% 4.7
+Gemini% 1999% 84% 6.7
+Phantoms% 1998% 96% 5.4
+Demoni 3% 1991% 88% 4.2
+Sombre% 1998% 112% 5.9
+Guyver% 1991% 88% 5.0
+Erotic Ghost Story% 1990% 90% 5.6
+Tales from the Hood% 1995% 98% 6.6
+Class of 1999% 1990% 99% 5.9
+A Chinese Torture Chamber Story% 1994% 93% 5.9
+The Crow: City of Angels% 1996% 84% 4.6
+Sorority House Massacre II% 1990% 77% 4.8
+Re-Animator 2% 1990% 96% 6.2
+Phantasm III: Lord of the Dead% 1994% 91% 6.0
+Brain Dead% 1990% 85% 5.8
+Snow White: A Tale of Terror% 1997% 100% 6.1
+Popcorn% 1991% 91% 5.9
+Death Machine% 1994% 99% 5.6
+Pinocchio's Revenge% 1996% 96% 4.2
+Metamorphosis% 1990% 96% 4.0
+The Puppet Masters% 1994% 109% 5.9
+Killer Crocodile 2% 1990% 87% 4.5
+Alferd Packer: The Musical% 1993% 95% 6.9
+In Dreams% 1999% 100% 5.5
+Singapore Sling% 1990% 111% 6.4
+Head of the Family% 1996% 82% 5.4
+Poison% 1991% 85% 6.3
+Hard to Die% 1990% 77% 4.8
+The Wax Mask% 1997% 98% 5.8
+Demonia% 1990% 88% 4.7
+The Cat% 1991% 89% 6.5
+The Outpost% 1995% 96% 4.0
+Maniac Cop Badge of Silence% 1992% 85% 5.0
+Child's Play 3% 1991% 90% 5.2
+Terror Firmer% 1998% 124% 6.1
+Nadja% 1994% 93% 6.1
+Razor Blade Smile% 1998% 102% 4.6
+Scissors% 1991% 105% 5.1
+Body Melt% 1993% 81% 5.3
+Waxwork II: Lost in Time% 1992% 104% 5.4
+Rubber's Lover% 1996% 91% 6.3
+Scanners II: The New Order% 1991% 104% 5.3
+Hellbound% 1994% 95% 4.8
+Def by Temptation% 1990% 95% 5.3
+There's Nothing Out There% 1991% 91% 5.6
+The Dentist Brace Yourself% 1998% 100% 4.8
+The Terror Within II% 1991% 85% 4.2
+Basket Case 2% 1990% 90% 5.4
+Witchboard: The Return% 1993% 94% 5.0
+The Gate II: Trespassers% 1990% 93% 4.9
+The Death King% 1990% 75% 6.3
+Tetsuo II: Body Hammer% 1992% 83% 6.4
+Shadow Builder% 1998% 101% 4.8
+Toughguy% 1994% 95% 3.5
+Scanners III: The Takeover% 1991% 101% 4.5
+Steel and Lace% 1990% 94% 5.3
+A Chinese Ghost Story II% 1990% 104% 6.8
+Xtro Watch the Skies% 1995% 97% 3.6
+Whispering Corridors% 1998% 105% 5.9
+Chinese Torture Chamber Story 2% 1998% 93% 5.1
+The Fear% 1995% 102% 3.9
+The Ugly% 1997% 91% 6.0
+Empire of the Dark% 1991% 93% 5.0
+Frostbiter: Wrath of the Wendigo% 1995% 84% 4.9
+Whispering Corridors Memento Mori% 1999% 98% 6.3
+Night Terrors% 1993% 98% 3.6
+Evil Dead Trap 2% 1992% 97% 5.4
+The Runestone% 1991% 105% 4.8
+Prom Night IV: Deliver Us from Evil% 1991% 92% 4.1
+The Witching% 1993% 64% 3.2
+Organ% 1996% 110% 5.4
+Turtle Vision% 1991% 1% 6.3
+Living Doll% 1990% 92% 5.6
+The Return of the Texas Chainsaw Massacre% 1994% 87% 3.4
+Hellraiser III: Hell on Earth% 1992% 97% 5.5
+An American Werewolf in Paris% 1997% 98% 5.1
+Angel Eyes% 1993% 84% 4.5
+Hellraiser: Bloodline% 1996% 85% 5.1
+Spirits% 1990% 88% 3.8
+Bad Moon% 1996% 80% 5.8
+Dark Waters% 1993% 94% 5.9
+Cherry Falls% 1999% 92% 5.3
+Perdita Durango% 1997% 129% 6.3
+Evil Toons% 1992% 90% 4.2
+Bordello of Blood% 1996% 87% 5.4
+Raising Cain% 1992% 92% 6.1

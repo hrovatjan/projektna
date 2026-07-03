@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Toy Story, 1995, 81, 8.3
-Toy Story 2, 1999, 92, 7.9
-The Lion King, 1994, 88, 8.5
-Hercules, 1997, 93, 7.3
-A Bug's Life, 1998, 95, 7.2
-Princess Mononoke, 1997, 133, 8.3
-Perfect Blue, 1997, 82, 8.0
-FernGully: The Last Rainforest, 1992, 76, 6.6
-Ghost in the Shell, 1995, 83, 7.9
-Mulan, 1998, 87, 7.7
-Aladdin, 1992, 90, 8.0
-The Iron Giant, 1999, 86, 8.1
-Beauty and the Beast, 1991, 84, 8.0
-The Nightmare Before Christmas, 1993, 76, 7.9
-Anastasia, 1997, 94, 7.2
-The Hunchback of Notre Dame, 1996, 91, 7.0
-The Prince of Egypt, 1998, 99, 7.2
-The Pagemaster, 1994, 75, 6.2
-Tarzan, 1999, 88, 7.3
-Pocahontas, 1995, 81, 6.7
-Space Jam, 1996, 88, 6.5
-Whisper of the Heart, 1995, 111, 7.8
-Neon Genesis Evangelion: The End of Evangelion, 1997, 87, 8.1
-Midori, 1992, 55, 6.2
-Batman: Mask of the Phantasm, 1993, 76, 7.8
-Porco Rosso, 1992, 94, 7.7
-A Goofy Movie, 1995, 78, 7.0
-Ninja Scroll, 1993, 94, 7.8
-The Rescuers Down Under, 1990, 77, 6.8
-James and the Giant Peach, 1996, 79, 6.7
-Memories, 1995, 113, 7.5
-Doraemon: Nobita's Three Visionary Swordsmen, 1994, 98, 7.5
-Pom Poko, 1994, 119, 7.2
-Balto, 1995, 78, 7.1
-South Park: Bigger, Longer &amp; Uncut, 1999, 81, 7.7
-Doraemon: Nobita's Dorabian Nights, 1991, 99, 7.4
-Antz, 1998, 83, 6.5
-Jin-Roh: The Wolf Brigade, 1999, 102, 7.3
-The Thief and the Cobbler, 1993, 99, 7.1
-Pokémon: The First Movie, 1998, 96, 6.4
-We're Back! A Dinosaur's Story, 1993, 72, 6.1
-Thumbelina, 1994, 86, 6.3
-Street Fighter II: The Animated Movie, 1994, 102, 7.2
-Felidae, 1994, 82, 7.0
-Only Yesterday, 1991, 119, 7.6
-An American Tail: Fievel Goes West, 1991, 75, 6.5
-The Swan Princess, 1994, 89, 6.5
-Doraemon: Nobita and the Galaxy Super-express, 1996, 97, 7.0
-Kirikou and the Sorceress, 1998, 71, 7.5
-Cool World, 1992, 102, 4.9
-Once Upon a Forest, 1993, 71, 6.5
-My Neighbours the Yamadas, 1999, 104, 7.1
-All Dogs Go to Heaven Charlie's New Adventure, 1996, 82, 5.5
-The Magic Sword: Quest for Camelot, 1998, 86, 6.3
-A Troll in Central Park, 1994, 76, 5.3
-Fantasia 2000, 1999, 75, 7.1
-Neon Genesis Evangelion: Death &amp; Rebirth, 1997, 101, 7.2
-Doraemon: Nobita and the Kingdom of Clouds, 1992, 97, 7.2
-Rock-A-Doodle, 1991, 74, 6.0
-Ramayana: The Legend of Prince Rama, 1993, 135, 9.1
-Cats Don't Dance, 1997, 75, 6.9
-Roujin Z, 1991, 80, 6.8
-Magnetic Rose, 1995, 45, 8.5
-Bebe's Kids, 1992, 70, 5.9
-Revolutionary Girl Utena: The Movie, 1999, 85, 7.2
-The Princess and the Goblin, 1991, 82, 6.7
-Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom, 1994, 95, 6.7
-Dragon Ball Z: Revival Fusion, 1995, 51, 7.6
-Patlabor The Movie, 1993, 113, 7.5
-Pokémon: The Movie 2000, 1999, 84, 6.1
-Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi, 1992, 45, 6.9
-Detective Conan: The Time Bombed Skyscraper, 1997, 94, 7.4
-X, 1996, 100, 6.1
-Anne of Green Gables: Road to Green Gables, 2010, 100, 7.2
-Kureyon Shinchan: Action Kamen vs Haigure Maô, 1993, 93, 6.7
-The Rugrats Movie, 1998, 79, 5.9
-Doraemon: Nobita's Great Adventure in the South Seas, 1998, 100, 7.2
-Doraemon: Nobita and the Tin Labyrinth, 1993, 100, 7.1
-Doraemon: Nobita's Diary on the Creation of the World, 1995, 97, 6.8
-Dragon Ball Z: Dangerous Rivals, 1994, 48, 6.5
-Dragon Ball Z: Bojack Unbound, 1993, 50, 7.1
-Tom and Jerry: The Movie, 1992, 84, 5.5
-Beavis and Butt-Head Do America, 1996, 81, 6.8
-DuckTales: The Movie - Treasure of the Lost Lamp, 1990, 74, 6.8
-Evil Toons, 1992, 90, 4.2
-The Pebble and the Penguin, 1995, 74, 5.6
-Dragon Ball Z: Moetsukiro!! Nessen Ressen Chô-Gekisen, 1993, 72, 7.3
-Crayon Shin-chan: Unkokusai no Yabou, 1995, 94, 6.4
-Jetsons: The Movie, 1990, 82, 5.6
-Kureyon Shin-chan: Hendârando no daibôken, 1996, 93, 7.1
-Crayon Shin-chan: Pursuit of the Balls of Darkness, 1997, 100, 7.0
-Doraemon: Nobita Drifts in the Universe, 1999, 93, 6.6
-Faust, 1994, 97, 7.3
-Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle, 1999, 88, 6.2
-Crayon Shin-chan: Blitzkrieg! Pig's Hoof's Secret Mission, 1998, 99, 6.8
-Doraemon: Nobita and the Spiral City, 1997, 99, 6.5
-Doragon Bôru Zetto Ryû-Ken Bakuhatsu!! Gokû ga Yaraneba Dare ga Yaru, 1995, 52, 7.4
-Doragon bôru Zetto: Tobikkiri no Saikyô tai Saikyô, 1991, 47, 7.0
-Spriggan, 1998, 90, 6.5
-Doraemon: Nobita and the Animal Planet, 1990, 99, 6.8
-Rover Dangerfield, 1991, 74, 5.9
-Dragon Ball Z The: Strongest Guy in the World, 1990, 59, 6.6
-The King and I, 1999, 88, 4.4
-Sex Toy Story, 1998, N/A, 4.5
-Pippi Longstocking, 1997, 76, 5.3
-Evangelion: Death (True)², 1998, 73, 6.4
-Dragon Ball Z: Super Battle in the World, 1990, 1, 6.7
-Doug's 1st Movie, 1999, 77, 4.9
-Asterix Conquers America, 1994, 85, 5.9
-An American Tail: The Treasure of Manhattan Island, 1998, 79, 5.6
-Dragon Ball Z: Super Saiya Son Goku, 1991, 50, 6.5
-The Miracle Maker, 1999, 90, 7.1
-Dragon Ball Z: Super Battle of Three Super Saiyas, 1992, 46, 6.9
-Dragon Ball: The Path to Power, 1996, 80, 7.2
-Dragon Ball Z: Attack! Super Warriors, 1994, 47, 5.8
-Rudolph the Red-Nosed Reindeer: The Movie, 1998, 92, 5.9
-Sailor Moon R the Movie: The Promise of the Rose, 1993, 61, 7.6
-Werner and the Wizard of Booze, 1990, 93, 6.8
-Gundam Wing: The Movie - Endless Waltz, 1998, 90, 7.7
-The Nutcracker Prince, 1990, 75, 6.8
-An American Tail: The Mystery of the Night Monster, 1999, 78, 5.7
-I Married a Strange Person!, 1997, 72, 6.9
-Rurouni Kenshin: Requiem for the Ishin Patriots, 1997, 90, 7.3
-Fatal Fury: The Motion Picture, 1994, 100, 6.4
-Just Desserts, 1994, 91, 5.4
-Burakku jakku, 1996, 90, 6.7
-Urotsukidôji II: Legend of the Demon Womb, 1991, 88, 5.9
-Macross Plus Movie Edition, 1995, 115, 7.5
-Gumby 1, 1995, 90, 6.0
-Freddie as F.R.O.7., 1992, 91, 5.1
-Ranma ½: The Movie Nihao My Concubine, 1992, 1, 7.2
-Detective Conan: The Last Wizard of the Century, 1999, 99, 7.6
-Gekijô-ban Kâdokaputâ Sakura, 1999, 80, 7.2
-Slayers, 1995, 63, 6.8
-Detective Conan: The Fourteenth Target, 1998, 99, 7.3
-A hetedik testvér, 1991, 80, 6.7
-The Snow Queen, 1995, 78, 5.8
-Revival of Evangelion, 1998, 159, 7.8
-Die Abenteuer von Pico und Columbus, 1992, 82, 3.6
-Xiao Qian, 1997, 84, 6.5
-Yu yu hakusho: meikai shito hen - hono no kizuna, 1994, 91, 6.7
-Go Hugo Go, 1993, 73, 6.2
-Blinky Bill, 1992, 97, 6.2
-Todd McFarlane's Spawn 2, 1998, 146, 8.2
-Lucky and Zorba, 1998, 75, 7.2
-Todd McFarlane's Spawn The Ultimate Battle, 1999, 140, 8.2
-Babes in Toyland, 1997, 74, 4.9
-Kidô Senshi Gandamu Fômyura Nainti Wan, 1991, 2, 6.4
-The Fearless Four, 1997, 89, 5.8
-Sailor Moon S the Movie: Hearts in Ice, 1994, 1, 7.6
-Faeries, 1999, 90, 5.4
-The Tune, 1992, 69, 6.9
-Sailor Moon Super S: The Movie: Black Dream Hole, 1995, 1, 7.4
-The Magic Riddle, 1991, 93, 6.0
-The Mighty Kong, 1998, 71, 3.8
-Joseph and the Coat of Many Colors, 1999, 50, 5.8
-Twilight of the Dark Master, 1997, 50, 5.5
-Lupin III: Farewell to Nostradamus, 1995, 100, 6.9
-The Ugly Duckling, 1997, 81, 6.2
-Kleines Arschloch, 1997, 82, 5.8
-Ranma ½: The Movie, Big Trouble in Nekonron, China, 1991, 74, 7.0
-Werner: Eat My Dust!!!, 1996, 85, 5.6
-Manuelita, 1999, 86, 5.4
-The Secret Adventures of Tom Thumb, 1993, 1, 7.2
-Ushiro no shoumen daare, 1991, 90, 7.9
-Babar: King of the Elephants, 1999, 80, 6.0
-Madeline: Lost in Paris, 1999, 74, 6.3
-The Legend of the Titanic, 1999, 84, 1.4
-Cudnovate zgode segrta Hlapica, 1997, 83, 7.2
-Comet in Moominland, 1992, 70, 7.6
-Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi, 1994, 45, 7.7
-The Dog of Flanders, 1997, 93, 7.7
-Silent Möbius, 1991, 50, 6.2
-Hugo: The Movie Star, 1996, 72, 5.5
-How the Toys Saved Christmas, 1996, 93, 6.6
-Sorcerers, 1998, 100, 5.3
-Millionaire Dogs, 1999, 84, 5.1
-Shadow Skill, 1995, 45, 5.5
-Ginga eiyû densetsu: Arata naru tatakai no jokyoku, 1993, 90, 7.9
-Gundress, 1999, 84, 4.8
-Darkside Blues, 1994, 83, 5.4
-Motýlí cas, 1991, 84, 6.6
-Ra: Path of the Sun God, 1990, 72, 7.7
-Puss in Boots, 1999, 75, 4.4
-Lupin III: Dead or Alive, 1996, 95, 6.8
-Fuglekrigen i Kanøfleskoven, 1990, 68, 7.1
-Rupan sansei: Honô no kioku Tokyo Crisis, 1998, 95, 7.0
-Mobile Suit Gundam Jion no zankou, 1992, 2, 7.2
-Werner - Volles Rooäää!!!, 1999, 77, 5.4
-Fushigi no Umi no Nadia Gekijou You Original Ban, 1991, 85, 4.2
-Dibu: The Movie, 1997, 105, 4.0
-Cassiopeia, 1996, 80, 6.8
-Taiho shichauzo!, 1999, 92, 6.6
-Pocahontas, 1995, 53, 2.2
-Jungle Emperor Leo, 1997, 99, 6.6
-A Monkey's Tale, 1999, 80, 5.8
-Pippi's Adventures on the South Seas, 1999, 70, 4.4
-Carnivale, 1999, 74, 5.6
-Cinderella, 1995, 87, 8.5
-Peter in Magicland, 1990, 80, 7.3
-Wallace &amp; Gromit: The Aardman Collection, 1994, N/A, 8.8
-Pettson &amp; Findus - Katten och gubbens år, 1999, 75, 6.5
-Carobnjakov sesir, 1990, 75, 8.3
-The Looney Tunes Hall of Fame, 1991, 105, 8.4
-Tobias and His Lion, 1999, 72, 6.0
-Herkules, 1997, 45, 1.6
-Jonni Nitro, 1999, N/A, 7.5
-Totsuzen! Neko no kuni banipal witt, 1995, 77, 7.0
-Bobo und die Hasenbande 2 - Abenteuer im Wald, 1997, 78, 5.9
-Tenchi the Movie - Tenchi Muyo in Love, 1996, 95, 7.1
-Junkers Come Here, 1995, 105, 7.1
-City Hunter: Death of the Vicious Criminal Ryo Saeba, 1999, 90, 6.7
-Captain Tsubasa: Saikyou no teki! Holland Youth, 1995, 47, 6.9
-Der Glöckner von Notre Dame, 1996, 65, 2.3
-The Diary of Anne Frank, 1995, 102, 6.7
-The Real Shlemiel, 1995, 79, 5.1
-Secret of the Seal, 1992, 83, 6.7
-The Galaxy Express The Eternal Fantasy, 1998, 54, 6.2
-Ghost Sweeper Mikami: The Great Paradise Battle!!, 1994, 1, 6.2
-Grandma and Her Ghosts, 1998, 84, 7.5
-Tenchi Muyô! In Love Haruka naru omoi, 1999, 95, 7.1
-Ulisse, 1998, 88, 6.5
-Bad Baby, 1997, 79, 5.5
-Legend of the Galactic Heroes Gaiden: Golden Wings, 1992, 1, 6.3
-Crystania no densetsu, 1995, 85, 5.8
-Dot in Space, 1994, 63, 5.6
-The Pied Piper of Hamlin, 1992, 50, 6.0
-Pumuckl und der blaue Klabauter, 1994, 86, 5.3
-Lotus Lantern, 1999, 85, 6.9
-Neon Genesis Evangelion: Girlfriend of Steel, 1997, N/A, 7.0
-Chibi Maruko-chan: Ôno-kun to Sugiyama-kun, 1990, 94, 7.1
-Dragon Ball Z: The Movie, 1998, N/A, 6.6
-Maroko, 1990, 90, 7.2
-Coo: Come from a Distant Ocean Coo, 1993, 116, 6.9
-Tenchi the Movie The Daughter of Darkness, 1997, 95, 6.8
-Armageddon, 1996, 86, 4.1
-City Hunter: Bay City Wars, 1990, 45, 6.8
-Kidô senkan Nadeshiko: Prince of Darkness, 1998, 87, 6.5
-After Man, 1990, 91, 7.6
-Hashire Melos!, 1992, 107, 7.2
-Mumfie's Quest: The Movie, 1996, 108, 8.1
-Visiting Marco, 1999, 96, 7.2
-City Hunter: Hyakuman doru no inbô, 1990, 45, 6.9
-Go to Hell!!, 1997, 73, 6.9
-Arslân Senki, 1991, 57, 7.0
-The Emperor's New Clothes, 1991, 50, 5.4
-General Chaos: Uncensored Animation, 1998, 81, 6.3
-The Orchestra, 1990, 52, 7.6
-American Flatulators, 1995, 54, 2.3
-Käpt'n Blaubär - Der Film, 1999, 85, 6.7
+naslov% leto_izida% trajanje% ocena
+Toy Story% 1995% 81% 8.3
+Toy Story 2% 1999% 92% 7.9
+The Lion King% 1994% 88% 8.5
+Hercules% 1997% 93% 7.3
+A Bug's Life% 1998% 95% 7.2
+Princess Mononoke% 1997% 133% 8.3
+Perfect Blue% 1997% 82% 8.0
+FernGully: The Last Rainforest% 1992% 76% 6.6
+Ghost in the Shell% 1995% 83% 7.9
+Mulan% 1998% 87% 7.7
+Aladdin% 1992% 90% 8.0
+The Iron Giant% 1999% 86% 8.1
+Beauty and the Beast% 1991% 84% 8.0
+The Nightmare Before Christmas% 1993% 76% 7.9
+Anastasia% 1997% 94% 7.2
+The Hunchback of Notre Dame% 1996% 91% 7.0
+The Prince of Egypt% 1998% 99% 7.2
+The Pagemaster% 1994% 75% 6.2
+Tarzan% 1999% 88% 7.3
+Pocahontas% 1995% 81% 6.7
+Space Jam% 1996% 88% 6.5
+Whisper of the Heart% 1995% 111% 7.8
+Neon Genesis Evangelion: The End of Evangelion% 1997% 87% 8.1
+Midori% 1992% 55% 6.2
+Batman: Mask of the Phantasm% 1993% 76% 7.8
+Porco Rosso% 1992% 94% 7.7
+A Goofy Movie% 1995% 78% 7.0
+Ninja Scroll% 1993% 94% 7.8
+The Rescuers Down Under% 1990% 77% 6.8
+James and the Giant Peach% 1996% 79% 6.7
+Memories% 1995% 113% 7.5
+Doraemon: Nobita's Three Visionary Swordsmen% 1994% 98% 7.5
+Pom Poko% 1994% 119% 7.2
+Balto% 1995% 78% 7.1
+South Park: Bigger, Longer & Uncut% 1999% 81% 7.7
+Doraemon: Nobita's Dorabian Nights% 1991% 99% 7.4
+Antz% 1998% 83% 6.5
+Jin-Roh: The Wolf Brigade% 1999% 102% 7.3
+The Thief and the Cobbler% 1993% 99% 7.1
+Pokémon: The First Movie% 1998% 96% 6.4
+We're Back! A Dinosaur's Story% 1993% 72% 6.1
+Thumbelina% 1994% 86% 6.3
+Street Fighter II: The Animated Movie% 1994% 102% 7.2
+Felidae% 1994% 82% 7.0
+Only Yesterday% 1991% 119% 7.6
+An American Tail: Fievel Goes West% 1991% 75% 6.5
+The Swan Princess% 1994% 89% 6.5
+Doraemon: Nobita and the Galaxy Super-express% 1996% 97% 7.0
+Kirikou and the Sorceress% 1998% 71% 7.5
+Cool World% 1992% 102% 4.9
+Once Upon a Forest% 1993% 71% 6.5
+My Neighbours the Yamadas% 1999% 104% 7.1
+All Dogs Go to Heaven Charlie's New Adventure% 1996% 82% 5.5
+The Magic Sword: Quest for Camelot% 1998% 86% 6.3
+A Troll in Central Park% 1994% 76% 5.3
+Fantasia 2000% 1999% 75% 7.1
+Neon Genesis Evangelion: Death & Rebirth% 1997% 101% 7.2
+Doraemon: Nobita and the Kingdom of Clouds% 1992% 97% 7.2
+Rock-A-Doodle% 1991% 74% 6.0
+Ramayana: The Legend of Prince Rama% 1993% 135% 9.1
+Cats Don't Dance% 1997% 75% 6.9
+Roujin Z% 1991% 80% 6.8
+Magnetic Rose% 1995% 45% 8.5
+Bebe's Kids% 1992% 70% 5.9
+Revolutionary Girl Utena: The Movie% 1999% 85% 7.2
+The Princess and the Goblin% 1991% 82% 6.7
+Crayon Shin-chan: The Hidden Treasure of the Buri Buri Kingdom% 1994% 95% 6.7
+Dragon Ball Z: Revival Fusion% 1995% 51% 7.6
+Patlabor The Movie% 1993% 113% 7.5
+Pokémon: The Movie 2000% 1999% 84% 6.1
+Dragon Ball Z: Gekitotsu!! 100-oku Power no Senshi-tachi% 1992% 45% 6.9
+Detective Conan: The Time Bombed Skyscraper% 1997% 94% 7.4
+X% 1996% 100% 6.1
+Anne of Green Gables: Road to Green Gables% 2010% 100% 7.2
+Kureyon Shinchan: Action Kamen vs Haigure Maô% 1993% 93% 6.7
+The Rugrats Movie% 1998% 79% 5.9
+Doraemon: Nobita's Great Adventure in the South Seas% 1998% 100% 7.2
+Doraemon: Nobita and the Tin Labyrinth% 1993% 100% 7.1
+Doraemon: Nobita's Diary on the Creation of the World% 1995% 97% 6.8
+Dragon Ball Z: Dangerous Rivals% 1994% 48% 6.5
+Dragon Ball Z: Bojack Unbound% 1993% 50% 7.1
+Tom and Jerry: The Movie% 1992% 84% 5.5
+Beavis and Butt-Head Do America% 1996% 81% 6.8
+DuckTales: The Movie - Treasure of the Lost Lamp% 1990% 74% 6.8
+Evil Toons% 1992% 90% 4.2
+The Pebble and the Penguin% 1995% 74% 5.6
+Dragon Ball Z: Moetsukiro!! Nessen Ressen Chô-Gekisen% 1993% 72% 7.3
+Crayon Shin-chan: Unkokusai no Yabou% 1995% 94% 6.4
+Jetsons: The Movie% 1990% 82% 5.6
+Kureyon Shin-chan: Hendârando no daibôken% 1996% 93% 7.1
+Crayon Shin-chan: Pursuit of the Balls of Darkness% 1997% 100% 7.0
+Doraemon: Nobita Drifts in the Universe% 1999% 93% 6.6
+Faust% 1994% 97% 7.3
+Crayon Shin-chan: Explosion! The Hot Spring's Feel Good Final Battle% 1999% 88% 6.2
+Crayon Shin-chan: Blitzkrieg! Pig's Hoof's Secret Mission% 1998% 99% 6.8
+Doraemon: Nobita and the Spiral City% 1997% 99% 6.5
+Doragon Bôru Zetto Ryû-Ken Bakuhatsu!! Gokû ga Yaraneba Dare ga Yaru% 1995% 52% 7.4
+Doragon bôru Zetto: Tobikkiri no Saikyô tai Saikyô% 1991% 47% 7.0
+Spriggan% 1998% 90% 6.5
+Doraemon: Nobita and the Animal Planet% 1990% 99% 6.8
+Rover Dangerfield% 1991% 74% 5.9
+Dragon Ball Z The: Strongest Guy in the World% 1990% 59% 6.6
+The King and I% 1999% 88% 4.4
+Sex Toy Story% 1998% N/A% 4.5
+Pippi Longstocking% 1997% 76% 5.3
+Evangelion: Death (True)²% 1998% 73% 6.4
+Dragon Ball Z: Super Battle in the World% 1990% 1% 6.7
+Doug's 1st Movie% 1999% 77% 4.9
+Asterix Conquers America% 1994% 85% 5.9
+An American Tail: The Treasure of Manhattan Island% 1998% 79% 5.6
+Dragon Ball Z: Super Saiya Son Goku% 1991% 50% 6.5
+The Miracle Maker% 1999% 90% 7.1
+Dragon Ball Z: Super Battle of Three Super Saiyas% 1992% 46% 6.9
+Dragon Ball: The Path to Power% 1996% 80% 7.2
+Dragon Ball Z: Attack! Super Warriors% 1994% 47% 5.8
+Rudolph the Red-Nosed Reindeer: The Movie% 1998% 92% 5.9
+Sailor Moon R the Movie: The Promise of the Rose% 1993% 61% 7.6
+Werner and the Wizard of Booze% 1990% 93% 6.8
+Gundam Wing: The Movie - Endless Waltz% 1998% 90% 7.7
+The Nutcracker Prince% 1990% 75% 6.8
+An American Tail: The Mystery of the Night Monster% 1999% 78% 5.7
+I Married a Strange Person!% 1997% 72% 6.9
+Rurouni Kenshin: Requiem for the Ishin Patriots% 1997% 90% 7.3
+Fatal Fury: The Motion Picture% 1994% 100% 6.4
+Just Desserts% 1994% 91% 5.4
+Burakku jakku% 1996% 90% 6.7
+Urotsukidôji II: Legend of the Demon Womb% 1991% 88% 5.9
+Macross Plus Movie Edition% 1995% 115% 7.5
+Gumby 1% 1995% 90% 6.0
+Freddie as F.R.O.7.% 1992% 91% 5.1
+Ranma ½: The Movie Nihao My Concubine% 1992% 1% 7.2
+Detective Conan: The Last Wizard of the Century% 1999% 99% 7.6
+Gekijô-ban Kâdokaputâ Sakura% 1999% 80% 7.2
+Slayers% 1995% 63% 6.8
+Detective Conan: The Fourteenth Target% 1998% 99% 7.3
+A hetedik testvér% 1991% 80% 6.7
+The Snow Queen% 1995% 78% 5.8
+Revival of Evangelion% 1998% 159% 7.8
+Die Abenteuer von Pico und Columbus% 1992% 82% 3.6
+Xiao Qian% 1997% 84% 6.5
+Yu yu hakusho: meikai shito hen - hono no kizuna% 1994% 91% 6.7
+Go Hugo Go% 1993% 73% 6.2
+Blinky Bill% 1992% 97% 6.2
+Todd McFarlane's Spawn 2% 1998% 146% 8.2
+Lucky and Zorba% 1998% 75% 7.2
+Todd McFarlane's Spawn The Ultimate Battle% 1999% 140% 8.2
+Babes in Toyland% 1997% 74% 4.9
+Kidô Senshi Gandamu Fômyura Nainti Wan% 1991% 2% 6.4
+The Fearless Four% 1997% 89% 5.8
+Sailor Moon S the Movie: Hearts in Ice% 1994% 1% 7.6
+Faeries% 1999% 90% 5.4
+The Tune% 1992% 69% 6.9
+Sailor Moon Super S: The Movie: Black Dream Hole% 1995% 1% 7.4
+The Magic Riddle% 1991% 93% 6.0
+The Mighty Kong% 1998% 71% 3.8
+Joseph and the Coat of Many Colors% 1999% 50% 5.8
+Twilight of the Dark Master% 1997% 50% 5.5
+Lupin III: Farewell to Nostradamus% 1995% 100% 6.9
+The Ugly Duckling% 1997% 81% 6.2
+Kleines Arschloch% 1997% 82% 5.8
+Ranma ½: The Movie, Big Trouble in Nekonron, China% 1991% 74% 7.0
+Werner: Eat My Dust!!!% 1996% 85% 5.6
+Manuelita% 1999% 86% 5.4
+The Secret Adventures of Tom Thumb% 1993% 1% 7.2
+Ushiro no shoumen daare% 1991% 90% 7.9
+Babar: King of the Elephants% 1999% 80% 6.0
+Madeline: Lost in Paris% 1999% 74% 6.3
+The Legend of the Titanic% 1999% 84% 1.4
+Cudnovate zgode segrta Hlapica% 1997% 83% 7.2
+Comet in Moominland% 1992% 70% 7.6
+Slam Dunk: Zenkoku Seiha da! Sakuragi Hanamichi% 1994% 45% 7.7
+The Dog of Flanders% 1997% 93% 7.7
+Silent Möbius% 1991% 50% 6.2
+Hugo: The Movie Star% 1996% 72% 5.5
+How the Toys Saved Christmas% 1996% 93% 6.6
+Sorcerers% 1998% 100% 5.3
+Millionaire Dogs% 1999% 84% 5.1
+Shadow Skill% 1995% 45% 5.5
+Ginga eiyû densetsu: Arata naru tatakai no jokyoku% 1993% 90% 7.9
+Gundress% 1999% 84% 4.8
+Darkside Blues% 1994% 83% 5.4
+Motýlí cas% 1991% 84% 6.6
+Ra: Path of the Sun God% 1990% 72% 7.7
+Puss in Boots% 1999% 75% 4.4
+Lupin III: Dead or Alive% 1996% 95% 6.8
+Fuglekrigen i Kanøfleskoven% 1990% 68% 7.1
+Rupan sansei: Honô no kioku Tokyo Crisis% 1998% 95% 7.0
+Mobile Suit Gundam Jion no zankou% 1992% 2% 7.2
+Werner - Volles Rooäää!!!% 1999% 77% 5.4
+Fushigi no Umi no Nadia Gekijou You Original Ban% 1991% 85% 4.2
+Dibu: The Movie% 1997% 105% 4.0
+Cassiopeia% 1996% 80% 6.8
+Taiho shichauzo!% 1999% 92% 6.6
+Pocahontas% 1995% 53% 2.2
+Jungle Emperor Leo% 1997% 99% 6.6
+A Monkey's Tale% 1999% 80% 5.8
+Pippi's Adventures on the South Seas% 1999% 70% 4.4
+Carnivale% 1999% 74% 5.6
+Cinderella% 1995% 87% 8.5
+Peter in Magicland% 1990% 80% 7.3
+Wallace & Gromit: The Aardman Collection% 1994% N/A% 8.8
+Pettson & Findus - Katten och gubbens år% 1999% 75% 6.5
+Carobnjakov sesir% 1990% 75% 8.3
+The Looney Tunes Hall of Fame% 1991% 105% 8.4
+Tobias and His Lion% 1999% 72% 6.0
+Herkules% 1997% 45% 1.6
+Jonni Nitro% 1999% N/A% 7.5
+Totsuzen! Neko no kuni banipal witt% 1995% 77% 7.0
+Bobo und die Hasenbande 2 - Abenteuer im Wald% 1997% 78% 5.9
+Tenchi the Movie - Tenchi Muyo in Love% 1996% 95% 7.1
+Junkers Come Here% 1995% 105% 7.1
+City Hunter: Death of the Vicious Criminal Ryo Saeba% 1999% 90% 6.7
+Captain Tsubasa: Saikyou no teki! Holland Youth% 1995% 47% 6.9
+Der Glöckner von Notre Dame% 1996% 65% 2.3
+The Diary of Anne Frank% 1995% 102% 6.7
+The Real Shlemiel% 1995% 79% 5.1
+Secret of the Seal% 1992% 83% 6.7
+The Galaxy Express The Eternal Fantasy% 1998% 54% 6.2
+Ghost Sweeper Mikami: The Great Paradise Battle!!% 1994% 1% 6.2
+Grandma and Her Ghosts% 1998% 84% 7.5
+Tenchi Muyô! In Love Haruka naru omoi% 1999% 95% 7.1
+Ulisse% 1998% 88% 6.5
+Bad Baby% 1997% 79% 4.8
+Legend of the Galactic Heroes Gaiden: Golden Wings% 1992% 1% 6.3
+Crystania no densetsu% 1995% 85% 5.8
+Dot in Space% 1994% 63% 5.6
+The Pied Piper of Hamlin% 1992% 50% 6.0
+Pumuckl und der blaue Klabauter% 1994% 86% 5.3
+Lotus Lantern% 1999% 85% 6.9
+Neon Genesis Evangelion: Girlfriend of Steel% 1997% N/A% 7.0
+Chibi Maruko-chan: Ôno-kun to Sugiyama-kun% 1990% 94% 7.1
+Dragon Ball Z: The Movie% 1998% N/A% 6.6
+Maroko% 1990% 90% 7.2
+Coo: Come from a Distant Ocean Coo% 1993% 116% 6.9
+Tenchi the Movie The Daughter of Darkness% 1997% 95% 6.8
+Armageddon% 1996% 86% 4.1
+City Hunter: Bay City Wars% 1990% 45% 6.8
+Kidô senkan Nadeshiko: Prince of Darkness% 1998% 87% 6.5
+After Man% 1990% 91% 7.6
+Hashire Melos!% 1992% 107% 7.2
+Mumfie's Quest: The Movie% 1996% 108% 8.1
+Visiting Marco% 1999% 96% 7.2
+City Hunter: Hyakuman doru no inbô% 1990% 45% 6.9
+Go to Hell!!% 1997% 73% 6.9
+Arslân Senki% 1991% 57% 7.0
+The Emperor's New Clothes% 1991% 50% 5.4
+General Chaos: Uncensored Animation% 1998% 81% 6.3
+The Orchestra% 1990% 52% 7.6
+American Flatulators% 1995% 54% 2.3
+Käpt'n Blaubär - Der Film% 1999% 85% 6.7

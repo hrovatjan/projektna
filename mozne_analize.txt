@@ -1,0 +1,57 @@
+1. Analize znotraj posameznega žanra
+Za vsak žanr posebej (action, animation, family, comedy, romance, horror, drama):
+
+✔️ Trend ocen skozi desetletja
+Kako se ocene spreminjajo od 1980 do 2026.
+
+✔️ Povprečno trajanje filmov po desetletjih
+Ali so filmi postajali daljši?
+
+✔️ Število filmov z oceno > 7, > 8
+Kateri žanri imajo največ “dobrih” filmov?
+
+✔️ Histogram ocen
+Porazdelitev ocen (ali je večina filmov med 6–7, ali je veliko slabih/dobrih).
+
+✔️ Korelacija trajanje ↔ ocena
+Ali daljši filmi dobijo boljše ocene?
+
+
+🎯 2. Primerjave med žanri
+Ker imaš vse žanre, lahko delaš horizontalne primerjave:
+
+✔️ Kateri žanri imajo najvišje povprečne ocene?
+Action vs. drama vs. comedy …
+
+✔️ Kateri žanri imajo najdaljše filme?
+Animation bo kratek, drama daljša, action srednje.
+
+🎯 3. Analize skozi čas (vsi žanri skupaj)
+Tu dobiš res zanimive trende:
+
+
+✔️ Primerjava desetletij
+1980–1989 vs. 1990–1999 vs. 2000–2009 …
+
+🎯 4. Napredne analize
+Če želiš iti globlje:
+
+✔️ Boxplot ocen po žanrih
+Vizualno primerja razpršenost ocen.
+
+✔️ Heatmap korelacij
+Ocena ↔ trajanje ↔ leto.
+
+✔️ Trendline (regresija)
+Ali ocene v action žanru rastejo linearno?
+
+
+🎯 5. Vizualizacije, ki so zelo informativne
+✔️ Scatter: leto izida vs. ocena
+Pokaže, ali novejši filmi dobivajo boljše ocene.
+
+✔️ Scatter: trajanje vs. ocena
+Ali daljši filmi dobijo boljše ocene?
+
+
+

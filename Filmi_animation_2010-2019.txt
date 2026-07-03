@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Toy Story 4, 2019, 100, 7.6
-Toy Story 3, 2010, 103, 8.3
-Spider-Man: Into the Spider-Verse, 2018, 117, 8.4
-Moana, 2016, 107, 7.6
-Coco, 2017, 105, 8.4
-Sing, 2016, 108, 7.1
-Your Name., 2016, 106, 8.4
-Zootropolis, 2016, 108, 8.0
-Despicable Me, 2010, 95, 7.6
-Starship Troopers: Invasion, 2012, 89, 5.8
-Minions, 2015, 91, 6.4
-Inside Out, 2015, 95, 8.1
-Frozen, 2013, 102, 7.4
-How to Train Your Dragon, 2010, 98, 8.1
-Tangled, 2010, 100, 7.7
-Cars 3, 2017, 102, 6.7
-Cars 2, 2011, 106, 6.2
-Brave, 2012, 93, 7.1
-Monsters University, 2013, 104, 7.2
-A Silent Voice: The Movie, 2016, 130, 8.2
-Incredibles 2, 2018, 118, 7.5
-Big Hero 6, 2014, 102, 7.8
-Despicable Me 3, 2017, 90, 6.3
-Rango, 2011, 107, 7.3
-Isle of Dogs, 2018, 101, 7.8
-The Lego Movie, 2014, 100, 7.7
-Wreck-It Ralph, 2012, 101, 7.7
-Despicable Me 2, 2013, 98, 7.3
-Hotel Transylvania, 2012, 91, 7.1
-The Lego Batman Movie, 2017, 104, 7.3
-Megamind, 2010, 95, 7.3
-The Lion King, 2019, 118, 6.8
-Finding Dory, 2016, 97, 7.2
-The Secret Life of Pets, 2016, 86, 6.5
-Rio, 2011, 96, 6.9
-The Adventures of Tintin: The Secret of the Unicorn, 2011, 107, 7.3
-The Jungle Book, 2016, 106, 7.3
-Shrek Forever After, 2010, 93, 6.3
-The Wind Rises, 2013, 126, 7.8
-Turbo, 2013, 96, 6.4
-How to Train Your Dragon 2, 2014, 102, 7.8
-The Angry Birds Movie, 2016, 97, 6.3
-Kung Fu Panda 3, 2016, 95, 7.1
-Klaus, 2019, 96, 8.2
-Home, 2015, 94, 6.5
-Epic, 2013, 102, 6.6
-Sausage Party, 2016, 89, 6.1
-I Want to Eat Your Pancreas, 2018, 109, 8.1
-Frozen II, 2019, 103, 6.8
-The Good Dinosaur, 2015, 93, 6.7
-The Secret Life of Pets 2, 2019, 86, 6.4
-The Boss Baby, 2017, 97, 6.3
-Ralph Breaks the Internet, 2018, 112, 7.0
-Kung Fu Panda 2, 2011, 90, 7.3
-Ne Zha, 2019, 110, 7.3
-Trolls, 2016, 92, 6.4
-The Croods, 2013, 98, 7.1
-How to Train Your Dragon: The Hidden World, 2019, 104, 7.4
-Madagascar Europe's Most Wanted, 2012, 95, 6.8
-Puss in Boots, 2011, 90, 6.6
-Hotel Transylvania 2, 2015, 89, 6.6
-The Emoji Movie, 2017, 86, 3.5
-The Secret World of Arrietty, 2010, 94, 7.6
-Kubo and the Two Strings, 2016, 101, 7.7
-Penguins of Madagascar, 2014, 92, 6.7
-Ice Age: Collision Course, 2016, 94, 5.7
-Goosebumps, 2015, 103, 6.3
-Rise of the Guardians, 2012, 97, 7.2
-The Breadwinner, 2017, 94, 7.7
-ParaNorman, 2012, 92, 7.0
-The Tale of the Princess Kaguya, 2013, 137, 8.0
-Weathering with You, 2019, 112, 7.5
-Ice Age: Continental Drift, 2012, 88, 6.5
-The Lorax, 2012, 86, 6.4
-The Legend of Hei, 2019, 101, 7.4
-Ferdinand, 2017, 108, 6.7
-Loving Vincent, 2017, 94, 7.8
-Hotel Transylvania 3, 2018, 97, 6.3
-The Lego Ninjago Movie, 2017, 101, 6.1
-Song of the Sea, 2014, 93, 8.0
-When Marnie Was There, 2014, 103, 7.6
-Cloudy with a Chance of Meatballs 2, 2013, 95, 6.3
-The Angry Birds Movie 2, 2019, 97, 6.4
-The Book of Life, 2014, 95, 7.2
-Wolf Children, 2012, 117, 8.1
-Rio 2, 2014, 101, 6.3
-Early Man, 2018, 89, 6.1
-Planes, 2013, 92, 5.7
-From Up on Poppy Hill, 2011, 91, 7.4
-The Little Prince, 2015, 108, 7.6
-Batman: The Killing Joke, 2016, 76, 6.4
-Storks, 2016, 87, 6.8
-Peter Rabbit, 2018, 95, 6.6
-Doraemon: Nobita and the New Steel Troops: Angel Wings, 2011, 108, 8.1
-The Grinch, 2018, 86, 6.4
-Legend of the Guardians: The Owls of Ga'Hoole, 2010, 97, 6.9
-Spies in Disguise, 2019, 102, 6.8
-Frankenweenie, 2012, 87, 6.9
-Ernest &amp; Celestine, 2012, 80, 7.8
-The LEGO Movie 2, 2019, 107, 6.5
-Mutafukaz, 2017, 94, 6.7
-The Red Turtle, 2016, 80, 7.5
-The Boxtrolls, 2014, 96, 6.8
-Anomalisa, 2015, 90, 7.2
-Captain Underpants: The First Epic Movie, 2017, 89, 6.2
-Night Is Short, Walk on Girl, 2017, 92, 7.5
-Dragon Ball Super: Broly, 2018, 100, 7.7
-The Wolf House, 2018, 75, 7.4
-Doraemon the Movie: Nobita's Treasure Island, 2018, 108, 6.7
-The Smurfs, 2011, 103, 5.4
-Alvin and the Chipmunks: Chipwrecked, 2011, 87, 4.5
-Winnie the Pooh, 2011, 63, 7.1
-The Garden of Words, 2013, 46, 7.4
-The Congress, 2013, 122, 6.4
-Gnomeo &amp; Juliet, 2011, 84, 5.9
-The SpongeBob Movie: Sponge Out of Water, 2015, 92, 6.0
-Ethel &amp; Ernest, 2016, 94, 7.7
-The Illusionist, 2010, 80, 7.4
-Missing Link, 2019, 94, 6.7
-It's Such a Beautiful Day, 2012, 62, 8.2
-Snoopy and Charlie Brown: The Peanuts Movie, 2015, 88, 7.0
-The Pirates! In an Adventure with Scientists!, 2012, 88, 6.7
-In This Corner of the World, 2016, 129, 7.8
-Crayon Shin-chan Movie Ora No Hikkoshi Monogatari - Saboten Daisuugeki, 2015, 103, 6.7
-Journey to Agartha, 2011, 116, 7.1
-Doraemon the Movie: Nobita's Secret Gadget Museum, 2013, 100, 7.1
-Batman Ninja, 2018, 85, 5.6
-Shaun the Sheep Movie, 2015, 85, 7.3
-I Lost My Body, 2019, 81, 7.5
-Constantine: City of Demons, 2018, 90, 7.3
-Happy Feet Two, 2011, 100, 5.8
-The Last: Naruto the Movie, 2014, 112, 7.6
-My Life as a Courgette, 2016, 66, 7.8
-Evangelion: 3.0 You Can (Not) Redo, 2012, 96, 6.9
-Smurfs: The Lost Village, 2017, 90, 6.0
-Barbie: The Princess &amp; the Popstar, 2012, 86, 6.0
-To the Forest of Firefly Lights, 2011, 45, 7.8
-Yogi Bear, 2010, 81, 4.6
-Gnomeo &amp; Juliet Sherlock Gnomes, 2018, 86, 5.3
-Barbie and the Secret Door, 2014, 81, 5.8
-The Tragedy of Man, 2011, 166, 7.9
-Batman: Return of the Caped Crusaders, 2016, 78, 6.7
-Starship Troopers: Traitor of Mars, 2017, 88, 5.5
-Ballerina, 2016, 89, 6.8
-Mr. Peabody &amp; Sherman, 2014, 92, 6.8
-Kase-san and Morning Glories, 2018, 58, 7.1
-Mirai, 2018, 98, 7.0
-Batman and Harley Quinn, 2017, 74, 5.9
-Patema Inverted, 2013, 98, 7.3
-Abominable, 2019, 97, 7.0
-Puella Magi Madoka Magica the Movie Part III: The Rebellion Story, 2013, 116, 7.8
-Berserk: The Golden Age Arc I - The Egg of the King, 2012, 76, 7.5
-Mars Needs Moms, 2011, 88, 5.4
-Open Season 3, 2010, 75, 5.0
-Tad: The Explorer, 2012, 92, 6.0
-The Nut Job, 2014, 85, 5.7
-Berserk: The Golden Age Arc II - The Battle for Doldrey, 2012, 95, 7.7
-Justice League vs. the Fatal Five, 2019, 77, 6.5
-Barbie in Rock 'N Royals, 2015, 80, 6.0
-Barbie Mariposa and the Fairy Princess, 2013, 79, 6.3
-Resident Evil: Vendetta, 2017, 97, 6.2
-Barbie in the Pink Shoes, 2013, 75, 5.8
-Tad the Lost Explorer and the Secret of King Midas, 2017, 85, 6.2
-Animal Crackers, 2017, 105, 5.8
-My Little Pony, 2017, 99, 6.1
-Arthur Christmas, 2011, 97, 7.1
-Sgt. Stubby: An Unlikely Hero, 2018, 84, 6.9
-Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari, 2012, 130, 7.6
-Berserk: The Golden Age Arc III - The Advent, 2013, 110, 7.9
-Tarzan, 2013, 94, 4.8
-The Addams Family, 2019, 86, 5.9
-Hoodwinked Too! Hood vs. Evil, 2011, 87, 4.7
-Mary and the Witch's Flower, 2017, 103, 6.8
-Smallfoot, 2018, 96, 6.6
-Hop, 2011, 95, 5.4
-Walking with Dinosaurs: The Movie, 2013, 87, 5.2
-Minuscule: Valley of the Lost Ants, 2013, 89, 7.1
-Chhota Bheem Master of Shaolin, 2011, 75, 7.2
-The Smurfs 2, 2013, 105, 5.3
-Mune: Guardian of the Moon, 2014, 85, 7.1
-Jack and the Cuckoo-Clock Heart, 2013, 94, 6.9
-Kizumonogatari Part Tekketsu, 2016, 64, 7.3
-Crayon Shin-chan: Very Tasty! B-class Gourmet Survival!!, 2013, 96, 6.7
-Gantz: O, 2016, 95, 7.1
-Wonder Woman: Bloodlines, 2019, 83, 5.9
-Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson, 2019, 90, 7.8
-Children of the Sea, 2019, 111, 6.5
-Doraemon the Movie: Nobita's Mermaid Legend, 2010, 99, 6.6
-The Boy and the Beast, 2015, 119, 7.6
-Genocidal Organ, 2017, 115, 6.4
-The Big Bad Fox and Other Tales, 2017, 83, 7.4
-Colourful, 2010, 126, 7.3
-Teen Titans GO! to the Movies, 2018, 84, 6.7
-A Letter to Momo, 2011, 2, 7.2
-Ghost in the Shell: Arise - Border Ghost Pain, 2013, 58, 7.0
-Re: Cyborg, 2012, 103, 5.8
-Dou Kyu Sei: Classmates, 2016, 1, 7.7
-TinkerBell and the Secret of the Wings, 2012, 75, 7.0
-The Suicide Shop, 2012, 79, 6.2
-A Stork's Journey, 2017, 85, 5.8
-Barbie: Star Light Adventure, 2016, 79, 5.8
-Eiga Doraemon Nobita no Nankyoku Kachikochi Dai Bôken, 2017, 101, 6.7
-Trouble, 2019, 87, 5.8
-The Unbeatables, 2013, 97, 6.4
-Modest Heroes, 2018, 53, 6.6
-Puella Magi Madoka Magica the Movie Part Eternal, 2012, 109, 7.9
-Seoul Station, 2016, 92, 6.1
-Rascal Does Not Dream of a Dreaming Girl, 2019, 89, 8.3
-Biohazard: Damnation, 2012, 100, 6.4
-A Monster in Paris, 2011, 90, 6.7
-Dante's Inferno: An Animated Epic, 2010, 84, 6.5
-Doraemon: Nobita's Chronicle of the Moon Exploration, 2019, 111, 6.9
-Duck Duck Goose, 2018, 91, 5.8
-One Piece: Stampede, 2019, 101, 7.5
-Escape from Planet Earth, 2013, 89, 5.8
-A Shaun the Sheep Movie: Farmageddon, 2019, 86, 6.8
-Pokémon the Movie: I Choose You!, 2017, 98, 6.3
-Dragon Ball Z: Battle of Gods, 2013, 85, 7.1
-Regular Show: The Movie, 2015, 70, 7.5
-Pokémon the Movie: Hoopa and the Clash of Ages, 2015, 79, 5.9
-Blame!, 2017, 106, 6.6
-White Snake, 2019, 99, 7.0
-Wonder Park, 2019, 85, 5.9
-Playmobil: The Movie, 2019, 99, 4.9
-Ronal Barbaren, 2011, 89, 6.5
-One Piece Film: Z, 2012, 108, 7.7
-The Son of Bigfoot, 2017, 92, 6.1
-Charming, 2018, 85, 5.6
-Arthur The War of the Two Worlds, 2010, 101, 5.5
-Steins;Gate: The Movie - Load Region of Déjà Vu, 2013, 90, 7.8
-Fullmetal Alchemist: The Sacred Star of Milos, 2011, 110, 6.8
-Gnome Alone, 2017, 85, 5.6
-Fate/stay night [Heaven's Feel] I. presage flower, 2017, 2, 7.4
-Doraemon: Nobita and the Island of Miracles - Animal Adventure, 2012, 100, 6.8
-The Stolen Princess, 2018, 85, 6.0
-Fate/stay night [Heaven's Feel] II. lost butterfly, 2019, 117, 8.0
-Saint Seiya: Legend of Sanctuary, 2014, 93, 5.4
-White Fang, 2018, 85, 6.9
-Penguin Highway, 2018, 117, 7.1
-Crayon Shin-chan: Invasion!! Alien Shiriri, 2017, 103, 6.1
-Ghost in the Shell: The New Movie, 2015, 100, 6.6
-Junk Head, 2017, 100, 7.3
-Tehran Taboo, 2017, 96, 7.1
-Saga of Tanya the Evil: The Movie, 2019, 115, 7.5
-The Boxcar Children, 2014, 86, 6.5
-Strange Magic, 2015, 99, 5.8
-K-On! The Movie, 2011, 110, 7.7
-Appleseed Alpha, 2014, 93, 6.5
-Ruben Brandt, Collector, 2018, 96, 7.4
-CarGo, 2017, 96, 2.4
+naslov% leto_izida% trajanje% ocena
+Toy Story 4% 2019% 100% 7.6
+Toy Story 3% 2010% 103% 8.3
+Spider-Man: Into the Spider-Verse% 2018% 117% 8.4
+Moana% 2016% 107% 7.6
+Coco% 2017% 105% 8.4
+Sing% 2016% 108% 7.1
+Your Name.% 2016% 106% 8.4
+Zootropolis% 2016% 108% 8.0
+Despicable Me% 2010% 95% 7.6
+Starship Troopers: Invasion% 2012% 89% 5.8
+Minions% 2015% 91% 6.4
+Inside Out% 2015% 95% 8.1
+Frozen% 2013% 102% 7.4
+How to Train Your Dragon% 2010% 98% 8.1
+Tangled% 2010% 100% 7.7
+Cars 3% 2017% 102% 6.7
+Cars 2% 2011% 106% 6.2
+Brave% 2012% 93% 7.1
+Monsters University% 2013% 104% 7.2
+A Silent Voice: The Movie% 2016% 130% 8.2
+Incredibles 2% 2018% 118% 7.5
+Big Hero 6% 2014% 102% 7.8
+Despicable Me 3% 2017% 90% 6.3
+Rango% 2011% 107% 7.3
+Isle of Dogs% 2018% 101% 7.8
+The Lego Movie% 2014% 100% 7.7
+Wreck-It Ralph% 2012% 101% 7.7
+Despicable Me 2% 2013% 98% 7.3
+Hotel Transylvania% 2012% 91% 7.1
+The Lego Batman Movie% 2017% 104% 7.3
+Megamind% 2010% 95% 7.3
+The Lion King% 2019% 118% 6.8
+Finding Dory% 2016% 97% 7.2
+The Secret Life of Pets% 2016% 86% 6.5
+Rio% 2011% 96% 6.9
+The Adventures of Tintin: The Secret of the Unicorn% 2011% 107% 7.3
+The Jungle Book% 2016% 106% 7.3
+Shrek Forever After% 2010% 93% 6.3
+The Wind Rises% 2013% 126% 7.8
+Turbo% 2013% 96% 6.4
+How to Train Your Dragon 2% 2014% 102% 7.8
+The Angry Birds Movie% 2016% 97% 6.3
+Kung Fu Panda 3% 2016% 95% 7.1
+Klaus% 2019% 96% 8.2
+Home% 2015% 94% 6.5
+Epic% 2013% 102% 6.6
+Sausage Party% 2016% 89% 6.1
+I Want to Eat Your Pancreas% 2018% 109% 8.1
+Frozen II% 2019% 103% 6.8
+The Good Dinosaur% 2015% 93% 6.7
+The Secret Life of Pets 2% 2019% 86% 6.4
+The Boss Baby% 2017% 97% 6.3
+Ralph Breaks the Internet% 2018% 112% 7.0
+Kung Fu Panda 2% 2011% 90% 7.3
+Ne Zha% 2019% 110% 7.3
+Trolls% 2016% 92% 6.4
+The Croods% 2013% 98% 7.1
+How to Train Your Dragon: The Hidden World% 2019% 104% 7.4
+Madagascar Europe's Most Wanted% 2012% 95% 6.8
+Puss in Boots% 2011% 90% 6.6
+Hotel Transylvania 2% 2015% 89% 6.6
+The Emoji Movie% 2017% 86% 3.5
+The Secret World of Arrietty% 2010% 94% 7.6
+Kubo and the Two Strings% 2016% 101% 7.7
+Penguins of Madagascar% 2014% 92% 6.7
+Ice Age: Collision Course% 2016% 94% 5.7
+Goosebumps% 2015% 103% 6.3
+Rise of the Guardians% 2012% 97% 7.2
+The Breadwinner% 2017% 94% 7.7
+ParaNorman% 2012% 92% 7.0
+The Tale of the Princess Kaguya% 2013% 137% 8.0
+Weathering with You% 2019% 112% 7.5
+Ice Age: Continental Drift% 2012% 88% 6.5
+The Lorax% 2012% 86% 6.4
+The Legend of Hei% 2019% 101% 7.4
+Ferdinand% 2017% 108% 6.7
+Loving Vincent% 2017% 94% 7.8
+Hotel Transylvania 3% 2018% 97% 6.3
+The Lego Ninjago Movie% 2017% 101% 6.1
+Song of the Sea% 2014% 93% 8.0
+When Marnie Was There% 2014% 103% 7.6
+Cloudy with a Chance of Meatballs 2% 2013% 95% 6.3
+The Angry Birds Movie 2% 2019% 97% 6.4
+The Book of Life% 2014% 95% 7.2
+Wolf Children% 2012% 117% 8.1
+Rio 2% 2014% 101% 6.3
+Early Man% 2018% 89% 6.1
+Planes% 2013% 92% 5.7
+From Up on Poppy Hill% 2011% 91% 7.4
+The Little Prince% 2015% 108% 7.6
+Batman: The Killing Joke% 2016% 76% 6.4
+Storks% 2016% 87% 6.8
+Peter Rabbit% 2018% 95% 6.6
+Doraemon: Nobita and the New Steel Troops: Angel Wings% 2011% 108% 8.1
+The Grinch% 2018% 86% 6.4
+Legend of the Guardians: The Owls of Ga'Hoole% 2010% 97% 6.9
+Spies in Disguise% 2019% 102% 6.8
+Frankenweenie% 2012% 87% 6.9
+Ernest & Celestine% 2012% 80% 7.8
+The LEGO Movie 2% 2019% 107% 6.5
+Mutafukaz% 2017% 94% 6.7
+The Red Turtle% 2016% 80% 7.5
+The Boxtrolls% 2014% 96% 6.8
+Anomalisa% 2015% 90% 7.2
+Captain Underpants: The First Epic Movie% 2017% 89% 6.2
+Night Is Short, Walk on Girl% 2017% 92% 7.5
+Dragon Ball Super: Broly% 2018% 100% 7.7
+The Wolf House% 2018% 75% 7.4
+Doraemon the Movie: Nobita's Treasure Island% 2018% 108% 6.7
+The Smurfs% 2011% 103% 5.4
+Alvin and the Chipmunks: Chipwrecked% 2011% 87% 4.5
+Winnie the Pooh% 2011% 63% 7.1
+The Garden of Words% 2013% 46% 7.4
+The Congress% 2013% 122% 6.4
+Gnomeo & Juliet% 2011% 84% 5.9
+The SpongeBob Movie: Sponge Out of Water% 2015% 92% 6.0
+Ethel & Ernest% 2016% 94% 7.7
+The Illusionist% 2010% 80% 7.4
+Missing Link% 2019% 94% 6.7
+It's Such a Beautiful Day% 2012% 62% 8.2
+Snoopy and Charlie Brown: The Peanuts Movie% 2015% 88% 7.0
+The Pirates! In an Adventure with Scientists!% 2012% 88% 6.7
+In This Corner of the World% 2016% 129% 7.8
+Crayon Shin-chan Movie Ora No Hikkoshi Monogatari - Saboten Daisuugeki% 2015% 103% 6.7
+Journey to Agartha% 2011% 116% 7.1
+Doraemon the Movie: Nobita's Secret Gadget Museum% 2013% 100% 7.1
+Batman Ninja% 2018% 85% 5.6
+Shaun the Sheep Movie% 2015% 85% 7.3
+I Lost My Body% 2019% 81% 7.5
+Constantine: City of Demons% 2018% 90% 7.3
+Happy Feet Two% 2011% 100% 5.8
+The Last: Naruto the Movie% 2014% 112% 7.6
+My Life as a Courgette% 2016% 66% 7.8
+Evangelion: 3.0 You Can (Not) Redo% 2012% 96% 6.9
+Smurfs: The Lost Village% 2017% 90% 6.0
+Barbie: The Princess & the Popstar% 2012% 86% 6.0
+To the Forest of Firefly Lights% 2011% 45% 7.8
+Yogi Bear% 2010% 81% 4.6
+Gnomeo & Juliet Sherlock Gnomes% 2018% 86% 5.3
+Barbie and the Secret Door% 2014% 81% 5.8
+The Tragedy of Man% 2011% 166% 7.9
+Batman: Return of the Caped Crusaders% 2016% 78% 6.7
+Starship Troopers: Traitor of Mars% 2017% 88% 5.5
+Ballerina% 2016% 89% 6.8
+Mr. Peabody & Sherman% 2014% 92% 6.8
+Kase-san and Morning Glories% 2018% 58% 7.1
+Mirai% 2018% 98% 7.0
+Batman and Harley Quinn% 2017% 74% 5.9
+Patema Inverted% 2013% 98% 7.3
+Abominable% 2019% 97% 7.0
+Puella Magi Madoka Magica the Movie Part III: The Rebellion Story% 2013% 116% 7.8
+Berserk: The Golden Age Arc I - The Egg of the King% 2012% 76% 7.5
+Mars Needs Moms% 2011% 88% 5.4
+Open Season 3% 2010% 75% 5.0
+Tad: The Explorer% 2012% 92% 6.0
+The Nut Job% 2014% 85% 5.7
+Berserk: The Golden Age Arc II - The Battle for Doldrey% 2012% 95% 7.7
+Justice League vs. the Fatal Five% 2019% 77% 6.5
+Barbie in Rock 'N Royals% 2015% 80% 6.0
+Barbie Mariposa and the Fairy Princess% 2013% 79% 6.3
+Resident Evil: Vendetta% 2017% 97% 6.2
+Barbie in the Pink Shoes% 2013% 75% 5.8
+Tad the Lost Explorer and the Secret of King Midas% 2017% 85% 6.2
+Animal Crackers% 2017% 105% 5.8
+My Little Pony% 2017% 99% 6.1
+Arthur Christmas% 2011% 97% 7.1
+Sgt. Stubby: An Unlikely Hero% 2018% 84% 6.9
+Gekijou-ban Mahou Shoujo Madoka*Magica: [Zenpen] Hajimari no monogatari% 2012% 130% 7.6
+Berserk: The Golden Age Arc III - The Advent% 2013% 110% 7.9
+Tarzan% 2013% 94% 4.8
+The Addams Family% 2019% 86% 5.9
+Hoodwinked Too! Hood vs. Evil% 2011% 87% 4.7
+Mary and the Witch's Flower% 2017% 103% 6.8
+Smallfoot% 2018% 96% 6.6
+Hop% 2011% 95% 5.4
+Walking with Dinosaurs: The Movie% 2013% 87% 5.2
+Minuscule: Valley of the Lost Ants% 2013% 89% 7.1
+Chhota Bheem Master of Shaolin% 2011% 75% 7.2
+The Smurfs 2% 2013% 105% 5.3
+Mune: Guardian of the Moon% 2014% 85% 7.1
+Jack and the Cuckoo-Clock Heart% 2013% 94% 6.9
+Kizumonogatari Part Tekketsu% 2016% 64% 7.3
+Crayon Shin-chan: Very Tasty! B-class Gourmet Survival!!% 2013% 96% 6.7
+Gantz: O% 2016% 95% 7.1
+Wonder Woman: Bloodlines% 2019% 83% 5.9
+Konosuba!: God's Blessing on This Wonderful World! - Legend of Crimson% 2019% 90% 7.8
+Children of the Sea% 2019% 111% 6.5
+Doraemon the Movie: Nobita's Mermaid Legend% 2010% 99% 6.6
+The Boy and the Beast% 2015% 119% 7.6
+Genocidal Organ% 2017% 115% 6.4
+The Big Bad Fox and Other Tales% 2017% 83% 7.4
+Colourful% 2010% 126% 7.3
+Teen Titans GO! to the Movies% 2018% 84% 6.7
+A Letter to Momo% 2011% 2% 7.2
+Ghost in the Shell: Arise - Border Ghost Pain% 2013% 58% 7.0
+Re: Cyborg% 2012% 103% 5.8
+Dou Kyu Sei: Classmates% 2016% 1% 7.7
+TinkerBell and the Secret of the Wings% 2012% 75% 7.0
+The Suicide Shop% 2012% 79% 6.2
+A Stork's Journey% 2017% 85% 5.8
+Barbie: Star Light Adventure% 2016% 79% 5.8
+Eiga Doraemon Nobita no Nankyoku Kachikochi Dai Bôken% 2017% 101% 6.7
+Trouble% 2019% 87% 5.8
+The Unbeatables% 2013% 97% 6.4
+Modest Heroes% 2018% 53% 6.6
+Puella Magi Madoka Magica the Movie Part Eternal% 2012% 109% 7.9
+Seoul Station% 2016% 92% 6.1
+Rascal Does Not Dream of a Dreaming Girl% 2019% 89% 8.3
+Biohazard: Damnation% 2012% 100% 6.4
+A Monster in Paris% 2011% 90% 6.7
+Dante's Inferno: An Animated Epic% 2010% 84% 6.5
+Doraemon: Nobita's Chronicle of the Moon Exploration% 2019% 111% 6.9
+Duck Duck Goose% 2018% 91% 5.8
+One Piece: Stampede% 2019% 101% 7.5
+Escape from Planet Earth% 2013% 89% 5.8
+A Shaun the Sheep Movie: Farmageddon% 2019% 86% 6.8
+Pokémon the Movie: I Choose You!% 2017% 98% 6.3
+Dragon Ball Z: Battle of Gods% 2013% 85% 7.1
+Regular Show: The Movie% 2015% 70% 7.5
+Pokémon the Movie: Hoopa and the Clash of Ages% 2015% 79% 5.9
+Blame!% 2017% 106% 6.6
+White Snake% 2019% 99% 7.0
+Wonder Park% 2019% 85% 5.9
+Playmobil: The Movie% 2019% 99% 4.9
+Ronal Barbaren% 2011% 89% 6.5
+One Piece Film: Z% 2012% 108% 7.7
+The Son of Bigfoot% 2017% 92% 6.1
+Charming% 2018% 85% 5.6
+Arthur The War of the Two Worlds% 2010% 101% 5.5
+Steins;Gate: The Movie - Load Region of Déjà Vu% 2013% 90% 7.8
+Fullmetal Alchemist: The Sacred Star of Milos% 2011% 110% 6.8
+Gnome Alone% 2017% 85% 5.6
+Fate/stay night [Heaven's Feel] I. presage flower% 2017% 2% 7.4
+Doraemon: Nobita and the Island of Miracles - Animal Adventure% 2012% 100% 6.8
+The Stolen Princess% 2018% 85% 6.0
+Fate/stay night [Heaven's Feel] II. lost butterfly% 2019% 117% 8.0
+Saint Seiya: Legend of Sanctuary% 2014% 93% 5.4
+White Fang% 2018% 85% 6.9
+Penguin Highway% 2018% 117% 7.1
+Crayon Shin-chan: Invasion!! Alien Shiriri% 2017% 103% 6.2
+Ghost in the Shell: The New Movie% 2015% 100% 6.6
+Junk Head% 2017% 100% 7.3
+Tehran Taboo% 2017% 96% 7.1
+Saga of Tanya the Evil: The Movie% 2019% 115% 7.5
+The Boxcar Children% 2014% 86% 6.5
+Strange Magic% 2015% 99% 5.8
+K-On! The Movie% 2011% 110% 7.7
+Appleseed Alpha% 2014% 93% 6.5
+Ruben Brandt, Collector% 2018% 96% 7.4
+CarGo% 2017% 96% 2.4

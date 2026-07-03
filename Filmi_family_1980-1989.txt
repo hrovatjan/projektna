@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-The Princess Bride, 1987, 98, 8.0
-The Goonies, 1985, 114, 7.7
-E.T. the Extra-Terrestrial, 1982, 115, 7.9
-Labyrinth, 1986, 101, 7.3
-The Karate Kid, 1984, 126, 7.3
-My Neighbour Totoro, 1988, 86, 8.1
-Field of Dreams, 1989, 107, 7.5
-The NeverEnding Story, 1984, 102, 7.3
-Who Framed Roger Rabbit, 1988, 104, 7.7
-Honey, I Shrunk the Kids, 1989, 93, 6.4
-The Little Mermaid, 1989, 83, 7.6
-Kiki's Delivery Service, 1989, 103, 7.8
-The Land Before Time, 1988, 69, 7.4
-Laputa: Castle in the Sky, 1986, 124, 8.0
-Annie, 1982, 126, 6.6
-Return to Oz, 1985, 113, 6.7
-Short Circuit, 1986, 98, 6.6
-Flight of the Navigator, 1986, 90, 6.9
-Where Is the Friend's House?, 1987, 83, 8.1
-The Karate Kid Part II, 1986, 113, 6.2
-The Fox and the Hound, 1981, 83, 7.2
-The Dark Crystal, 1982, 93, 7.1
-Explorers, 1985, 109, 6.4
-The Brave Little Toaster, 1987, 90, 7.2
-*batteries not included, 1987, 107, 6.6
-All Dogs Go to Heaven, 1989, 84, 6.8
-The Secret of NIMH, 1982, 82, 7.5
-The Black Cauldron, 1985, 80, 6.3
-A Christmas Story, 1983, 93, 7.9
-Doraemon: Nobita and the Steel Troops, 1986, 97, 7.8
-The Karate Kid Part III, 1989, 112, 5.4
-Three Men and a Baby, 1987, 102, 6.1
-The Last Unicorn, 1982, 92, 7.3
-An American Tail, 1986, 80, 6.9
-Oliver &amp; Company, 1988, 74, 6.6
-Pee-wee's Big Adventure, 1985, 91, 7.1
-The Great Mouse Detective, 1986, 74, 7.1
-The Peanut Butter Solution, 1985, 93, 5.9
-D.A.R.Y.L., 1985, 99, 6.3
-Popeye, 1980, 97, 5.4
-Harry and the Hendersons, 1987, 110, 6.1
-The Watcher in the Woods, 1980, 84, 6.2
-Doraemon: Nobita's Dinosaur, 1980, 92, 7.4
-The Ballad of Narayama, 1983, 130, 7.8
-The Transformers: The Movie, 1986, 84, 7.2
-The Secret of the Sword, 1985, 88, 7.2
-The Great Muppet Caper, 1981, 97, 7.1
-The Adventures of Milo and Otis, 1986, 90, 6.9
-Doraemon: Nobita and the Haunts of Evil, 1982, 91, 6.8
-Short Circuit 2, 1988, 110, 5.8
-Mac and Me, 1988, 99, 3.4
-The Bear, 1988, 96, 7.7
-Cloak &amp; Dagger, 1984, 101, 6.6
-The Muppets Take Manhattan, 1984, 94, 6.9
-Nobita no uchû shô-sensô, 1985, 98, 7.3
-The Journey of Natty Gann, 1985, 101, 7.0
-Little Nemo, 1989, 85, 7.1
-The Wizard, 1989, 96, 6.1
-Alice, 1988, 86, 7.4
-Follow That Bird, 1985, 88, 6.8
-The Legend of Frog Dreaming, 1986, 93, 6.1
-Herbie Goes Bananas, 1980, 100, 4.9
-Cat City, 1986, 96, 8.3
-The Adventures of Mark Twain, 1985, 86, 7.2
-Felix the Cat: The Movie, 1988, 82, 4.7
-Little Monsters, 1989, 100, 6.1
-Doraemon: Nobita no Uchû kaitakushi, 1981, 90, 6.7
-The Garbage Pail Kids Movie, 1987, 97, 2.7
-Silsila, 1981, 182, 7.1
-Savannah Smiles, 1982, 105, 7.2
-Doraemon: Nobita's Version of Saiyuki, 1988, 90, 6.9
-The Chipmunk Adventure, 1987, 78, 7.2
-Doraemon: Nobita and the Knights on Dinosaurs, 1987, 90, 6.7
-SpaceCamp, 1986, 107, 5.8
-The BFG, 1989, 91, 6.7
-Ernest Goes to Camp, 1987, 92, 5.5
-Masoom, 1983, 165, 8.3
-Momo, 1986, 101, 6.5
-The Story of Hachikō, 1987, 107, 7.9
-The Party 2, 1982, 109, 6.3
-Night on the Galactic Railroad, 1985, 113, 7.0
-GoBots: Battle of the Rock Lords, 1986, 75, 5.5
-My Bodyguard, 1980, 96, 7.1
-BMX Bandits, 1983, 88, 5.5
-Doraemon: Nobita no makai dai bôken, 1984, 97, 7.0
-The New Adventures of Pippi Longstocking, 1988, 104, 5.9
-Doraemon: Nobita and the Castle of the Undersea Devil, 1983, 94, 6.9
-Billa Ranga, 1982, 113, 7.4
-Santa Claus, 1985, 107, 6.3
-Condorman, 1981, 90, 5.7
-Mio in the Land of Faraway, 1987, 99, 6.3
-Mr. India, 1987, 179, 7.7
-Ronia: The Robber's Daughter, 1984, 126, 7.3
-En sommerforelskelse, 1989, 47, 5.5
-Doraemon: Nobita and the Birth of Japan, 1989, 102, 6.9
-The Care Bears Movie, 1985, 77, 5.6
-Jays in the Head, 1984, 71, 6.0
-Happily Ever After, 1989, 75, 5.6
-Hansel and Gretel, 1987, 84, 6.5
-My Little Pony: The Movie, 1986, 86, 6.0
-Swedes at Sea, 1988, 104, 6.2
-Author! Author!, 1982, 110, 6.2
-Ernest Saves Christmas, 1988, 91, 5.8
-The Last Flight of Noah's Ark, 1980, 97, 5.7
-Snow White &amp; the 7 Dwarfs, 1987, 85, 6.5
-L'uomo puma, 1980, 90, 2.3
-Purple People Eater, 1988, 90, 4.6
-Puss in Boots, 1988, 96, 6.1
-Baby: Secret of the Lost Legend, 1985, 95, 5.1
-Commuters, 1988, 81, 6.4
-The King and Mister Bird, 1980, 83, 7.7
-Babu, 1985, 148, 5.5
-Prancer, 1989, 103, 6.5
-Looney, Looney, Looney Bugs Bunny Movie, 1981, 79, 7.1
-One Magic Christmas, 1985, 89, 6.4
-For Tor's Sake, 1982, 82, 5.8
-The Frog Prince, 1986, 86, 6.3
-Everything Happens to Me, 1980, 102, 5.8
-Biggles, 1986, 108, 5.6
-Desert Bloom, 1986, 105, 6.6
-The Dirt Bike Kid, 1985, 90, 5.3
-The Black Stallion Returns, 1983, 103, 5.9
-Care Bears Movie II: A New Generation, 1986, 76, 5.6
-Wizards of the Lost Kingdom, 1985, 72, 3.0
-Das Haus am Fluß, 1986, 89, 6.3
-Willy the Sparrow, 1989, 76, 7.3
-Bazaar, 1982, 2, 7.3
-Sleeping Beauty, 1987, 90, 5.8
-Night Crossing, 1982, 107, 6.5
-Adventures of Ali-Baba and the Forty Thieves, 1980, 138, 6.2
-Phar Lap, 1983, 107, 7.2
-Beauty and the Beast, 1987, 94, 5.8
-Valhalla, 1986, 76, 7.1
-Swan Lake, 1981, 71, 7.6
-Benji the Hunted, 1987, 88, 6.3
-Khubsoorat, 1980, 126, 7.6
-Jackie, 1985, N/A, 6.9
-Rainbow Brite and the Star Stealer, 1985, 85, 6.8
-Project A-ko, 1986, 86, 6.9
-The Bear, 1984, 110, 6.0
-Tommy Tricker and the Stamp Traveller, 1988, 105, 6.8
-Baseraa, 1981, 139, 6.8
-Rumpelstiltskin, 1987, 84, 5.3
-Asterix vs. Caesar, 1985, 79, 6.8
-Joey, 1985, 98, 4.7
-Cry Wilderness, 1987, 93, 2.1
-Animalympics, 1980, 78, 6.8
-Tuck Everlasting, 1981, 90, 6.5
-Bon Voyage, Charlie Brown (and Don't Come Back!!), 1980, 75, 7.1
-The Dog Who Stopped the War, 1984, 91, 7.5
-The Fantastic Adventures of Unico, 1981, 90, 7.4
-Spriditis, 1986, 80, 7.0
-The Little Fox, 1981, 79, 8.3
-The Children of Bullerby Village, 1986, 87, 6.8
-Nukie, 1987, 99, 1.8
-Asterix and the Big Fight, 1989, 81, 6.4
-Chashme Buddoor, 1981, 145, 7.9
-Amy, 1981, 100, 6.4
-Asterix in Britain, 1986, 79, 7.1
-Jui gaai paak dong, 1982, 93, 6.6
-Priklyucheniya pingvinenka Lolo, 1987, 78, 7.4
-Bush Christmas, 1983, 91, 5.1
-The Care Bears Adventure in Wonderland, 1987, 80, 5.9
-Nigahen: Nagina Part II, 1989, 140, 5.2
-Going Ape!, 1981, 87, 4.1
-Conan the Future Boy: The Big Giant Robot's Resurrection, 1984, 49, 8.2
-Cheetah, 1989, 83, 5.9
-Rasmus på luffen, 1981, 105, 6.8
-Babar: The Movie, 1989, 70, 6.3
-Bananen-Paul, 1982, 90, NE
-Sea Prince and the Fire Child, 1981, 108, 7.1
-Nutcracker, 1986, 89, 6.9
-The Wizard of Oz, 1982, 78, 6.6
-The Devil and Max Devlin, 1981, 96, 5.0
-Young Dragons: Kung Fu Kids, 1986, 86, 7.2
-Chaalbaaz, 1989, 155, 6.8
-Samsaram Athu Minsaram, 1986, 145, 7.8
-Begynnelsen på en historie, 1988, 87, 6.5
-Tadpole and the Whale, 1988, 91, 6.2
-Twice Upon a Time, 1983, 74, 6.9
-The Mystery of the Third Planet, 1981, 48, 7.8
-Lost, 1983, 92, 4.6
-Courage Mountain, 1989, 98, 5.8
-Avtaar, 1983, 150, 7.4
-It's a Mad, Mad, Mad World, 1987, 100, 6.5
-Cudesna suma, 1986, 83, 8.0
-Aladdin and the Wonderful Lamp, 1982, 65, 6.8
-Bemisal, 1982, 142, 6.8
-Bugs Bunny's 3rd Movie: Rabbit Tales, 1982, 74, 7.0
-Gritta of the Rats' Castle, 1985, 79, 6.5
-Ek Jaan Hain Hum, 1983, 151, 5.3
-Badi, 1984, 77, 3.1
-Red Riding Hood, 1987, 81, 5.4
-Heidi's Song, 1982, 94, 6.2
-Chiquidrácula, 1985, 92, 5.4
-El sinvergüenza, 1984, 84, 7.3
-Pyar Jhukta Nahin, 1985, 135, 6.6
-Sylvester, 1985, 104, 6.3
-Meg of June Hill, 1980, 82, 6.4
-Daffy Duck's Movie: Fantastic Island, 1983, 78, 6.9
-Daffy Duck's Quackbusters, 1988, 78, 7.0
-The Kingdom of Diamonds, 1980, 118, 8.8
-Maria, Mirabella, 1981, 69, 7.5
-Pinocchio and the Emperor of the Night, 1987, 87, 6.2
-Swathi Muthyam, 1986, 160, 8.5
-Mashaal, 1984, 162, 7.1
-Betaab, 1983, 162, 6.5
-The Adventures of the American Rabbit, 1986, 85, 5.3
-The Wolves of Willoughby Chase, 1989, 93, 5.9
-Eeshwar, 1989, 147, 7.3
-The Emperor's New Clothes, 1987, 85, 4.7
-Captain Tsubasa Movie Attention! The Japanese Junior Selection, 1985, 1, 6.5
-Ilzaam, 1986, 164, 5.0
-Voyager from the Unknown, 1982, 91, 6.9
-Gamera: Super Monster, 1980, 92, 3.6
-Panchavati, 1986, 143, 6.6
-Samson and Sally, 1984, 1, 7.0
-Pop Pirates, 1984, 58, 5.3
-Fatty Finn, 1980, 91, 6.6
-Playing Beatie Bow, 1986, 93, 5.8
-The Puppetoon Movie, 1987, 79, 7.1
-My Dear Kuttichaathan, 1984, 96, 7.8
-BraveStarr: The Legend, 1988, 91, 6.8
-Gummi-Tarzan, 1981, 98, 6.4
-Friend or Foe, 1982, 70, 6.4
-Szeleburdi vakáció, 1987, 73, 6.9
-Conrad: The Factory-Made Boy, 1983, 80, 6.9
-Peter-No-Tail, 1981, 81, 7.0
-Mamá, soy Paquito, 1984, 105, 6.9
-Amigo, 1980, 85, 6.6
-Bolji zivot, 1989, 98, 7.8
-Mister Blot's Academy, 1984, 166, 6.8
-The Happy Ghost, 1984, 96, 6.2
-Pound Puppies and the Legend of Big Paw, 1988, 76, 4.8
-Teri Meherbaniyan, 1985, 140, 5.5
-The Snow Queen, 1986, 89, 6.4
-The Great Land of Small, 1987, 93, 5.2
-Radha Kalyanam, 1981, N/A, 6.1
-Hyper Sapien: People from Another Star, 1986, 92, 4.8
-Busters verden, 1984, 91, 7.1
-Dull Ice Flower, 1989, 99, 8.2
-Mayuri, 1984, 142, 7.0
-Like Rabbits, 1982, 79, 6.4
-Katy, la oruga, 1984, 86, 6.9
-Kamilla og tyven, 1988, 106, 6.7
-A Summer in a Sea Shell, 1985, 95, 7.2
-Zui jia pai dang Da xian shen tong, 1983, 100, 6.6
-Gandhinagar 2nd Street, 1986, 137, 7.7
-Amrit, 1986, 137, 7.1
-George's Island, 1989, 89, 5.5
+naslov% leto_izida% trajanje% ocena
+The Princess Bride% 1987% 98% 8.0
+The Goonies% 1985% 114% 7.7
+E.T. the Extra-Terrestrial% 1982% 115% 7.9
+Labyrinth% 1986% 101% 7.3
+The Karate Kid% 1984% 126% 7.3
+My Neighbour Totoro% 1988% 86% 8.1
+Field of Dreams% 1989% 107% 7.5
+The NeverEnding Story% 1984% 102% 7.3
+Who Framed Roger Rabbit% 1988% 104% 7.7
+Honey, I Shrunk the Kids% 1989% 93% 6.4
+The Little Mermaid% 1989% 83% 7.6
+Kiki's Delivery Service% 1989% 103% 7.8
+The Land Before Time% 1988% 69% 7.4
+Laputa: Castle in the Sky% 1986% 124% 8.0
+Annie% 1982% 126% 6.6
+Return to Oz% 1985% 113% 6.7
+Short Circuit% 1986% 98% 6.6
+Flight of the Navigator% 1986% 90% 6.9
+Where Is the Friend's House?% 1987% 83% 8.1
+The Karate Kid Part II% 1986% 113% 6.2
+The Fox and the Hound% 1981% 83% 7.2
+The Dark Crystal% 1982% 93% 7.1
+Explorers% 1985% 109% 6.4
+The Brave Little Toaster% 1987% 90% 7.2
+*batteries not included% 1987% 107% 6.6
+All Dogs Go to Heaven% 1989% 84% 6.8
+The Secret of NIMH% 1982% 82% 7.5
+The Black Cauldron% 1985% 80% 6.3
+A Christmas Story% 1983% 93% 7.9
+Doraemon: Nobita and the Steel Troops% 1986% 97% 7.8
+The Karate Kid Part III% 1989% 112% 5.4
+Three Men and a Baby% 1987% 102% 6.1
+The Last Unicorn% 1982% 92% 7.3
+An American Tail% 1986% 80% 6.9
+Oliver & Company% 1988% 74% 6.6
+Pee-wee's Big Adventure% 1985% 91% 7.1
+The Great Mouse Detective% 1986% 74% 7.1
+The Peanut Butter Solution% 1985% 93% 5.9
+D.A.R.Y.L.% 1985% 99% 6.3
+Popeye% 1980% 97% 5.4
+Harry and the Hendersons% 1987% 110% 6.1
+The Watcher in the Woods% 1980% 84% 6.2
+Doraemon: Nobita's Dinosaur% 1980% 92% 7.4
+The Ballad of Narayama% 1983% 130% 7.8
+The Transformers: The Movie% 1986% 84% 7.2
+The Secret of the Sword% 1985% 88% 7.2
+The Great Muppet Caper% 1981% 97% 7.1
+The Adventures of Milo and Otis% 1986% 90% 6.9
+Doraemon: Nobita and the Haunts of Evil% 1982% 91% 6.8
+Short Circuit 2% 1988% 110% 5.8
+Mac and Me% 1988% 99% 3.4
+The Bear% 1988% 96% 7.7
+Cloak & Dagger% 1984% 101% 6.6
+The Muppets Take Manhattan% 1984% 94% 6.9
+Nobita no uchû shô-sensô% 1985% 98% 7.3
+The Journey of Natty Gann% 1985% 101% 7.0
+Little Nemo% 1989% 85% 7.1
+The Wizard% 1989% 96% 6.1
+Alice% 1988% 86% 7.4
+Follow That Bird% 1985% 88% 6.8
+The Legend of Frog Dreaming% 1986% 93% 6.1
+Herbie Goes Bananas% 1980% 100% 4.9
+Cat City% 1986% 96% 8.3
+The Adventures of Mark Twain% 1985% 86% 7.2
+Felix the Cat: The Movie% 1988% 82% 4.7
+Little Monsters% 1989% 100% 6.1
+Doraemon: Nobita no Uchû kaitakushi% 1981% 90% 6.7
+The Garbage Pail Kids Movie% 1987% 97% 2.7
+Silsila% 1981% 182% 7.1
+Savannah Smiles% 1982% 105% 7.2
+Doraemon: Nobita's Version of Saiyuki% 1988% 90% 6.9
+The Chipmunk Adventure% 1987% 78% 7.2
+Doraemon: Nobita and the Knights on Dinosaurs% 1987% 90% 6.7
+SpaceCamp% 1986% 107% 5.8
+The BFG% 1989% 91% 6.7
+Ernest Goes to Camp% 1987% 92% 5.5
+Masoom% 1983% 165% 8.3
+Momo% 1986% 101% 6.5
+The Story of Hachikō% 1987% 107% 7.9
+The Party 2% 1982% 109% 6.3
+Night on the Galactic Railroad% 1985% 113% 7.0
+GoBots: Battle of the Rock Lords% 1986% 75% 5.5
+My Bodyguard% 1980% 96% 7.1
+BMX Bandits% 1983% 88% 5.5
+Doraemon: Nobita no makai dai bôken% 1984% 97% 7.0
+The New Adventures of Pippi Longstocking% 1988% 104% 5.9
+Doraemon: Nobita and the Castle of the Undersea Devil% 1983% 94% 6.9
+Billa Ranga% 1982% 113% 7.4
+Santa Claus% 1985% 107% 6.3
+Condorman% 1981% 90% 5.7
+Mio in the Land of Faraway% 1987% 99% 6.3
+Mr. India% 1987% 179% 7.7
+Ronia: The Robber's Daughter% 1984% 126% 7.3
+En sommerforelskelse% 1989% 47% 5.5
+Doraemon: Nobita and the Birth of Japan% 1989% 102% 6.9
+The Care Bears Movie% 1985% 77% 5.6
+Jays in the Head% 1984% 71% 6.0
+Happily Ever After% 1989% 75% 5.6
+Hansel and Gretel% 1987% 84% 6.5
+My Little Pony: The Movie% 1986% 86% 6.0
+Swedes at Sea% 1988% 104% 6.2
+Author! Author!% 1982% 110% 6.2
+Ernest Saves Christmas% 1988% 91% 5.8
+The Last Flight of Noah's Ark% 1980% 97% 5.7
+Snow White & the 7 Dwarfs% 1987% 85% 6.5
+L'uomo puma% 1980% 90% 2.3
+Purple People Eater% 1988% 90% 4.6
+Puss in Boots% 1988% 96% 6.1
+Baby: Secret of the Lost Legend% 1985% 95% 5.1
+Commuters% 1988% 81% 6.4
+The King and Mister Bird% 1980% 83% 7.7
+Babu% 1985% 148% 5.5
+Prancer% 1989% 103% 6.5
+Looney, Looney, Looney Bugs Bunny Movie% 1981% 79% 7.1
+One Magic Christmas% 1985% 89% 6.4
+For Tor's Sake% 1982% 82% 5.8
+The Frog Prince% 1986% 86% 6.3
+Everything Happens to Me% 1980% 102% 5.8
+Biggles% 1986% 108% 5.6
+Desert Bloom% 1986% 105% 6.6
+The Dirt Bike Kid% 1985% 90% 5.3
+The Black Stallion Returns% 1983% 103% 5.9
+Care Bears Movie II: A New Generation% 1986% 76% 5.6
+Wizards of the Lost Kingdom% 1985% 72% 3.0
+Das Haus am Fluß% 1986% 89% 6.3
+Willy the Sparrow% 1989% 76% 7.3
+Bazaar% 1982% 2% 7.3
+Sleeping Beauty% 1987% 90% 5.8
+Night Crossing% 1982% 107% 6.5
+Adventures of Ali-Baba and the Forty Thieves% 1980% 138% 6.2
+Phar Lap% 1983% 107% 7.2
+Beauty and the Beast% 1987% 94% 5.8
+Valhalla% 1986% 76% 7.1
+Swan Lake% 1981% 71% 7.6
+Benji the Hunted% 1987% 88% 6.3
+Khubsoorat% 1980% 126% 7.6
+Jackie% 1985% N/A% 6.6
+Rainbow Brite and the Star Stealer% 1985% 85% 6.8
+Project A-ko% 1986% 86% 6.9
+The Bear% 1984% 110% 6.0
+Tommy Tricker and the Stamp Traveller% 1988% 105% 6.8
+Baseraa% 1981% 139% 6.8
+Rumpelstiltskin% 1987% 84% 5.3
+Asterix vs. Caesar% 1985% 79% 6.8
+Joey% 1985% 98% 4.7
+Cry Wilderness% 1987% 93% 2.1
+Animalympics% 1980% 78% 6.8
+Tuck Everlasting% 1981% 90% 6.5
+Bon Voyage, Charlie Brown (and Don't Come Back!!)% 1980% 75% 7.1
+The Dog Who Stopped the War% 1984% 91% 7.5
+The Fantastic Adventures of Unico% 1981% 90% 7.4
+Spriditis% 1986% 80% 7.0
+The Little Fox% 1981% 79% 8.3
+The Children of Bullerby Village% 1986% 87% 6.8
+Nukie% 1987% 99% 1.8
+Asterix and the Big Fight% 1989% 81% 6.4
+Chashme Buddoor% 1981% 145% 7.9
+Amy% 1981% 100% 6.4
+Asterix in Britain% 1986% 79% 7.1
+Jui gaai paak dong% 1982% 93% 6.6
+Priklyucheniya pingvinenka Lolo% 1987% 78% 7.4
+Bush Christmas% 1983% 91% 5.1
+The Care Bears Adventure in Wonderland% 1987% 80% 5.9
+Nigahen: Nagina Part II% 1989% 140% 5.2
+Going Ape!% 1981% 87% 4.1
+Conan the Future Boy: The Big Giant Robot's Resurrection% 1984% 49% 8.2
+Cheetah% 1989% 83% 5.9
+Rasmus på luffen% 1981% 105% 6.8
+Babar: The Movie% 1989% 70% 6.3
+Bananen-Paul% 1982% 90% NE
+Sea Prince and the Fire Child% 1981% 108% 7.1
+Nutcracker% 1986% 89% 6.9
+The Wizard of Oz% 1982% 78% 6.6
+The Devil and Max Devlin% 1981% 96% 5.0
+Young Dragons: Kung Fu Kids% 1986% 86% 7.2
+Chaalbaaz% 1989% 155% 6.8
+Samsaram Athu Minsaram% 1986% 145% 7.8
+Begynnelsen på en historie% 1988% 87% 6.5
+Tadpole and the Whale% 1988% 91% 6.2
+Twice Upon a Time% 1983% 74% 6.9
+The Mystery of the Third Planet% 1981% 48% 7.8
+Lost% 1983% 92% 4.6
+Courage Mountain% 1989% 98% 5.8
+Avtaar% 1983% 150% 7.4
+It's a Mad, Mad, Mad World% 1987% 100% 6.5
+Cudesna suma% 1986% 83% 8.0
+Aladdin and the Wonderful Lamp% 1982% 65% 6.8
+Bemisal% 1982% 142% 6.8
+Bugs Bunny's 3rd Movie: Rabbit Tales% 1982% 74% 7.0
+Gritta of the Rats' Castle% 1985% 79% 6.5
+Ek Jaan Hain Hum% 1983% 151% 5.3
+Badi% 1984% 77% 3.1
+Red Riding Hood% 1987% 81% 5.4
+Heidi's Song% 1982% 94% 6.2
+Chiquidrácula% 1985% 92% 5.4
+El sinvergüenza% 1984% 84% 7.3
+Pyar Jhukta Nahin% 1985% 135% 6.6
+Sylvester% 1985% 104% 6.3
+Meg of June Hill% 1980% 82% 6.4
+Daffy Duck's Movie: Fantastic Island% 1983% 78% 6.9
+Daffy Duck's Quackbusters% 1988% 78% 7.0
+The Kingdom of Diamonds% 1980% 118% 8.8
+Maria, Mirabella% 1981% 69% 7.5
+Pinocchio and the Emperor of the Night% 1987% 87% 6.2
+Swathi Muthyam% 1986% 160% 8.5
+Mashaal% 1984% 162% 7.1
+Betaab% 1983% 162% 6.5
+The Adventures of the American Rabbit% 1986% 85% 5.3
+The Wolves of Willoughby Chase% 1989% 93% 5.9
+Eeshwar% 1989% 147% 7.3
+The Emperor's New Clothes% 1987% 85% 4.7
+Captain Tsubasa Movie Attention! The Japanese Junior Selection% 1985% 1% 6.5
+Ilzaam% 1986% 164% 5.0
+Voyager from the Unknown% 1982% 91% 6.9
+Gamera: Super Monster% 1980% 92% 3.6
+Panchavati% 1986% 143% 6.6
+Samson and Sally% 1984% 1% 7.0
+Pop Pirates% 1984% 58% 5.3
+Fatty Finn% 1980% 91% 6.6
+Playing Beatie Bow% 1986% 93% 5.8
+The Puppetoon Movie% 1987% 79% 7.1
+My Dear Kuttichaathan% 1984% 96% 7.8
+BraveStarr: The Legend% 1988% 91% 6.8
+Gummi-Tarzan% 1981% 98% 6.4
+Friend or Foe% 1982% 70% 6.4
+Szeleburdi vakáció% 1987% 73% 6.9
+Conrad: The Factory-Made Boy% 1983% 80% 6.9
+Peter-No-Tail% 1981% 81% 7.0
+Mamá, soy Paquito% 1984% 105% 6.9
+Amigo% 1980% 85% 6.6
+Bolji zivot% 1989% 98% 7.8
+Mister Blot's Academy% 1984% 166% 6.8
+The Happy Ghost% 1984% 96% 6.2
+Pound Puppies and the Legend of Big Paw% 1988% 76% 4.8
+Teri Meherbaniyan% 1985% 140% 5.5
+The Snow Queen% 1986% 89% 6.4
+The Great Land of Small% 1987% 93% 5.2
+Radha Kalyanam% 1981% N/A% 6.1
+Hyper Sapien: People from Another Star% 1986% 92% 4.8
+Busters verden% 1984% 91% 7.1
+Dull Ice Flower% 1989% 99% 8.2
+Mayuri% 1984% 142% 7.0
+Like Rabbits% 1982% 79% 6.4
+Katy, la oruga% 1984% 86% 6.9
+Kamilla og tyven% 1988% 106% 6.7
+A Summer in a Sea Shell% 1985% 95% 7.2
+Zui jia pai dang Da xian shen tong% 1983% 100% 6.6
+Gandhinagar 2nd Street% 1986% 137% 7.7
+Amrit% 1986% 137% 7.1
+George's Island% 1989% 89% 5.5

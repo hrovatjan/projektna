@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-The Shining, 1980, 146, 8.4
-The Thing, 1982, 109, 8.2
-Possession, 1981, 124, 7.2
-The Lost Boys, 1987, 97, 7.2
-Aliens, 1986, 137, 8.4
-Predator, 1987, 107, 7.8
-The Evil Dead, 1981, 85, 7.3
-Christine, 1983, 110, 6.8
-A Nightmare on Elm Street, 1984, 91, 7.4
-They Live, 1988, 94, 7.2
-Cannibal Holocaust, 1980, 95, 5.7
-The Fly, 1986, 96, 7.6
-Angel Heart, 1987, 113, 7.2
-Poltergeist, 1982, 114, 7.3
-Friday the 13th, 1980, 95, 6.4
-Gremlins, 1984, 106, 7.3
-Evil Dead II, 1987, 84, 7.6
-Pet Sematary, 1989, 103, 6.5
-Videodrome, 1983, 87, 7.2
-Hellraiser, 1987, 94, 6.9
-Little Shop of Horrors, 1986, 94, 7.1
-An American Werewolf in London, 1981, 97, 7.5
-Jaws 3-D, 1983, 99, 3.8
-Tenebrae, 1982, 101, 7.0
-Creepshow, 1982, 2, 6.8
-The Return of the Living Dead, 1985, 91, 7.3
-Re-Animator, 1985, 84, 7.1
-Sleepaway Camp, 1983, 84, 6.2
-The Witches of Eastwick, 1987, 118, 6.6
-Child's Play, 1988, 87, 6.7
-Fright Night, 1985, 106, 7.0
-Near Dark, 1987, 94, 6.9
-The Fog, 1980, 89, 6.8
-Dead Ringers, 1988, 116, 7.2
-Society, 1989, 99, 6.5
-Dead Calm, 1989, 96, 6.8
-Delirium, 1987, 94, 5.7
-Lifeforce, 1985, 101, 6.2
-Night of the Comet, 1984, 95, 6.3
-The Hunger, 1983, 97, 6.6
-Prince of Darkness, 1987, 102, 6.7
-Altered States, 1980, 102, 6.9
-The Changeling, 1980, 107, 7.1
-The Hidden, 1987, 97, 7.0
-Friday the 13th: Part 2, 1981, 87, 6.1
-Cannibal ferox, 1981, 93, 5.1
-Night of the Creeps, 1986, 88, 6.7
-Children of the Corn, 1984, 92, 5.6
-Day of the Dead, 1985, 101, 7.1
-The Blob, 1988, 95, 6.7
-Maximum Overdrive, 1986, 98, 5.4
-Angst, 1983, 87, 7.1
-Henry: Portrait of a Serial Killer, 1986, 83, 7.0
-Jaws: The Revenge, 1987, 89, 3.1
-Scanners, 1981, 103, 6.7
-The Burning, 1981, 91, 6.2
-Cat People, 1982, 118, 6.2
-The Wraith, 1986, 93, 5.9
-Bad Taste, 1987, 91, 6.4
-Twilight Zone: The Movie, 1983, 101, 6.5
-The Howling, 1981, 91, 6.5
-The Serpent and the Rainbow, 1988, 98, 6.4
-The Peanut Butter Solution, 1985, 93, 5.9
-The Entity, 1982, 125, 6.7
-Halloween II, 1981, 92, 6.5
-Friday the 13th: The Final Chapter, 1984, 91, 6.0
-Cujo, 1983, 93, 6.1
-A Nightmare on Elm Street Dream Warriors, 1987, 96, 6.7
-A Nightmare on Elm Street Part Freddy's Revenge, 1985, 87, 5.5
-Leviathan, 1989, 98, 5.8
-The Monster Squad, 1987, 82, 6.9
-The Watcher in the Woods, 1980, 84, 6.2
-The Company of Wolves, 1984, 95, 6.6
-Elvira: Mistress of the Dark, 1988, 96, 6.6
-The Stuff, 1985, 87, 5.9
-Tetsuo: The Iron Man, 1989, 67, 6.9
-Silver Bullet, 1985, 95, 6.4
-The New Kids, 1985, 89, 6.1
-Psycho II, 1983, 113, 6.6
-A Nightmare on Elm Street The Dream Master, 1988, 93, 5.6
-Phenomena, 1985, 116, 6.7
-Friday the 13th Part VI: Jason Lives, 1986, 86, 6.0
-Vampire Hunter D, 1985, 80, 7.0
-The Gate, 1987, 85, 6.1
-Once Bitten, 1985, 94, 5.6
-Halloween III: Season of the Witch, 1982, 98, 5.2
-Communion, 1989, 109, 5.5
-Friday the 13th: Part III, 1982, 95, 5.6
-The Stepfather, 1987, 89, 6.7
-Cat's Eye, 1985, 94, 6.3
-Begotten, 1989, 72, 5.5
-Critters, 1986, 86, 6.1
-Friday the 13th Part VII: The New Blood, 1988, 88, 5.2
-Alligator, 1980, 91, 6.1
-House, 1985, 93, 6.1
-Killer Klowns from Outer Space, 1988, 88, 6.2
-Poltergeist II: The Other Side, 1986, 91, 5.7
-C.H.U.D., 1984, 88, 5.6
-Opera, 1987, 107, 6.9
-Dead End Drive-In, 1986, 92, 5.9
-Friday the 13th Part VIII: Jason Takes Manhattan, 1989, 100, 4.5
-Dreamscape, 1984, 99, 6.3
-Troll, 1986, 82, 4.6
-Brain Damage, 1988, 84, 6.5
-Ghost Story, 1981, 110, 6.3
-Basket Case, 1982, 91, 6.2
-From Beyond, 1986, 85, 6.6
-Food of the Gods II, 1989, 91, 4.2
-Friday the 13th Part V: A New Beginning, 1985, 92, 4.8
-Maniac Cop, 1988, 85, 6.0
-Firestarter, 1984, 114, 6.1
-Nekromantik, 1988, 71, 4.8
-The Believers, 1987, 114, 6.1
-Wolfen, 1981, 115, 6.3
-The Sword and the Sorcerer, 1982, 100, 5.5
-Swamp Thing, 1982, 91, 5.3
-Man Behind the Sun, 1988, 105, 6.1
-Pumpkinhead, 1988, 86, 6.2
-Visitor of a Museum, 1989, 136, 7.2
-Forbidden World, 1982, 77, 5.1
-Chopping Mall, 1986, 77, 5.6
-Motel Hell, 1980, 101, 6.0
-Santa Sangre, 1989, 123, 7.5
-Neo Tokyo, 1987, 50, 7.0
-Poltergeist III, 1988, 98, 4.7
-StageFright, 1987, 90, 6.6
-A Nightmare on Elm Street: The Dream Child, 1989, 89, 5.1
-Creepozoids, 1987, 69, 4.1
-Intruder, 1989, 83, 6.1
-Pieces, 1982, 85, 6.0
-The Keep, 1983, 96, 5.7
-Inferno, 1980, 106, 6.5
-The Prowler, 1981, 89, 5.9
-Phantasm II, 1988, 97, 6.4
-Creepshow 2, 1987, 92, 6.1
-Class of Nuke 'Em High, 1986, 85, 5.6
-Monster (Humanoids from the Deep), 1980, 80, 5.7
-Galaxy of Terror, 1981, 81, 5.0
-The Funhouse, 1981, 96, 5.9
-Invaders from Mars, 1986, 100, 5.5
-Street Trash, 1987, 91, 5.9
-Fortress, 1985, 85, 7.0
-The Pit, 1981, 96, 5.7
-Witchboard, 1986, 98, 5.7
-Pin, 1988, 103, 6.5
-Black Cat, 1981, 92, 5.8
-The Texas Chainsaw Massacre 2, 1986, 101, 5.6
-The Beast Within, 1982, 98, 5.6
-A Chinese Ghost Story, 1987, 98, 7.3
-Nothing Underneath, 1985, 90, 5.8
-Halloween The Return of Michael Myers, 1988, 88, 5.8
-Gothic, 1986, 87, 5.7
-Maniac, 1980, 87, 6.3
-The Nest, 1987, 89, 5.3
-Amsterdamned, 1988, 114, 6.6
-Just Before Dawn, 1981, 90, 6.0
-House II: The Second Story, 1987, 88, 5.4
-City of the Living Dead, 1980, 93, 6.2
-I, Madman, 1989, 89, 5.9
-The Evil Protege, 1981, 96, 6.3
-The Dungeonmaster, 1984, 73, 4.6
-Psycho III, 1986, 93, 5.5
-House of the Long Shadows, 1983, 102, 6.2
-Hello Mary Lou: Prom Night II, 1987, 97, 5.8
-Happy Birthday to Me, 1981, 111, 6.0
-Trick or Treat, 1986, 98, 5.9
-Waxwork, 1988, 95, 6.1
-Jack's Back, 1988, 97, 5.8
-Superstition, 1982, 86, 5.7
-Terror Train, 1980, 97, 5.8
-The Dorm That Dripped Blood, 1982, 88, 4.9
-Spontaneous Combustion, 1989, 97, 4.9
-The House by the Cemetery, 1981, 86, 6.1
-The Toxic Avenger, 1984, 82, 6.2
-Dolls, 1986, 77, 6.3
-The Final Conflict, 1981, 108, 5.5
-Cutting Class, 1989, 91, 4.6
-Monkey Shines, 1988, 113, 6.2
-Hellbound: Hellraiser II, 1988, 97, 6.4
-TerrorVision, 1986, 85, 5.6
-The Godsend, 1980, 86, 5.3
-Amityville II: The Possession, 1982, 104, 5.6
-Crimewave, 1985, 86, 5.5
-Luther the Geek, 1989, 80, 5.2
-Mother's Day, 1980, 91, 5.3
-Demons 2, 1986, 92, 5.9
-The Lair of the White Worm, 1988, 93, 6.1
-The Beyond, 1981, 87, 6.5
-Nightmare City, 1980, 92, 5.6
-Strange Invaders, 1983, 92, 5.4
-976-EVIL, 1988, 92, 5.1
-Bad Dreams, 1988, 84, 5.7
-Next of Kin, 1982, 89, 6.2
-Return of the Living Dead: Part II, 1988, 89, 5.7
-The Grim Reaper, 1980, 92, 5.3
-Surf Nazis Must Die, 1987, 83, 3.8
-The Pied Piper, 1986, 55, 7.8
-Prom Night, 1980, 92, 5.3
-Nightwish, 1989, 92, 4.8
-The Terror Within, 1989, 88, 4.7
-Doom Asylum, 1988, 79, 4.6
-The Boogens, 1981, 95, 5.5
-The Return of Godzilla, 1984, 103, 6.8
-Blood Rage, 1987, 82, 5.8
-Biohazard, 1985, 84, 3.7
-The Awakening, 1980, 105, 4.9
-Contamination, 1980, 95, 5.1
-Abunômaru: Ingyaku, 1988, 64, 6.0
-Dead and Buried, 1981, 94, 6.5
-Her Vengeance, 1988, 92, 6.4
-Hex, 1980, 97, 6.4
-The Seventh Sign, 1988, 97, 5.8
-DeepStar Six, 1989, 99, 5.4
-Game Over, 1989, 92, 6.4
-Wicked City, 1987, 82, 6.7
-Too Beautiful to Die, 1988, 100, 5.3
-Piranha Part Two: The Spawning, 1982, 94, 3.8
-Nun in Rope Hell, 1984, 69, 4.8
-The House on the Edge of the Park, 1980, 91, 5.7
-Fright Night Part 2, 1988, 104, 6.0
-My Bloody Valentine, 1981, 90, 6.3
-Halloween The Revenge of Michael Myers, 1989, 96, 4.9
-Urotsukidoji: Legend of the Overfiend, 1989, 108, 6.3
-Nightmare Sisters, 1988, 83, 5.0
-Dead Heat, 1988, 84, 6.1
-Monster Dog, 1986, 81, 4.4
-The Island, 1980, 114, 5.3
-Godzilla vs. Biollante, 1989, 104, 6.5
-Razorback, 1984, 95, 6.0
-Fade to Black, 1980, 102, 6.1
-Strange Behavior, 1981, 99, 5.6
-Lady in White, 1988, 113, 6.6
-The Initiation, 1984, 97, 5.6
-Bloody Pom Poms, 1988, 89, 4.7
-Alone in the Dark, 1982, 92, 6.0
-Manhattan Baby, 1982, 89, 4.9
-Poison for the Fairies, 1986, 90, 7.2
-Bloody Moon, 1981, 90, 5.3
-The Phantom of the Opera, 1989, 93, 5.5
-The Return of Swamp Thing, 1989, 89, 4.7
-The Last Horror Film, 1982, 87, 5.6
-The Bride, 1985, 118, 5.4
-Devil Hunter, 1980, 102, 3.5
-Breeders, 1986, 77, 3.8
-Nightmare, 1981, 97, 5.6
-The Mutilator, 1984, 86, 5.2
-Las Vegas Serial Killer, 1986, 87, 3.1
-Not of This Earth, 1988, 81, 5.0
-Murder-Rock: Dancing Death, 1984, 93, 5.5
-Graduation Day, 1981, 92, 4.8
+naslov% leto_izida% trajanje% ocena
+The Shining% 1980% 146% 8.4
+The Thing% 1982% 109% 8.2
+Possession% 1981% 124% 7.2
+The Lost Boys% 1987% 97% 7.2
+Aliens% 1986% 137% 8.4
+Predator% 1987% 107% 7.8
+The Evil Dead% 1981% 85% 7.3
+Christine% 1983% 110% 6.8
+A Nightmare on Elm Street% 1984% 91% 7.4
+They Live% 1988% 94% 7.2
+Cannibal Holocaust% 1980% 95% 5.7
+The Fly% 1986% 96% 7.6
+Angel Heart% 1987% 113% 7.2
+Poltergeist% 1982% 114% 7.3
+Friday the 13th% 1980% 95% 6.4
+Gremlins% 1984% 106% 7.3
+Evil Dead II% 1987% 84% 7.6
+Pet Sematary% 1989% 103% 6.5
+Videodrome% 1983% 87% 7.2
+Hellraiser% 1987% 94% 6.9
+Little Shop of Horrors% 1986% 94% 7.1
+An American Werewolf in London% 1981% 97% 7.5
+Jaws 3-D% 1983% 99% 3.8
+Tenebrae% 1982% 101% 7.0
+Creepshow% 1982% 2% 6.8
+The Return of the Living Dead% 1985% 91% 7.3
+Re-Animator% 1985% 84% 7.1
+Sleepaway Camp% 1983% 84% 6.2
+The Witches of Eastwick% 1987% 118% 6.6
+Child's Play% 1988% 87% 6.7
+Fright Night% 1985% 106% 7.0
+Near Dark% 1987% 94% 6.9
+The Fog% 1980% 89% 6.8
+Dead Ringers% 1988% 116% 7.2
+Society% 1989% 99% 6.5
+Dead Calm% 1989% 96% 6.8
+Delirium% 1987% 94% 5.7
+Lifeforce% 1985% 101% 6.2
+Night of the Comet% 1984% 95% 6.3
+The Hunger% 1983% 97% 6.6
+Prince of Darkness% 1987% 102% 6.7
+Altered States% 1980% 102% 6.9
+The Changeling% 1980% 107% 7.1
+The Hidden% 1987% 97% 7.0
+Friday the 13th: Part 2% 1981% 87% 6.1
+Cannibal ferox% 1981% 93% 5.1
+Night of the Creeps% 1986% 88% 6.7
+Children of the Corn% 1984% 92% 5.6
+Day of the Dead% 1985% 101% 7.1
+The Blob% 1988% 95% 6.7
+Maximum Overdrive% 1986% 98% 5.4
+Angst% 1983% 87% 7.1
+Henry: Portrait of a Serial Killer% 1986% 83% 7.0
+Jaws: The Revenge% 1987% 89% 3.1
+Scanners% 1981% 103% 6.7
+The Burning% 1981% 91% 6.2
+Cat People% 1982% 118% 6.2
+The Wraith% 1986% 93% 5.9
+Bad Taste% 1987% 91% 6.4
+Twilight Zone: The Movie% 1983% 101% 6.5
+The Howling% 1981% 91% 6.5
+The Serpent and the Rainbow% 1988% 98% 6.4
+The Peanut Butter Solution% 1985% 93% 5.9
+The Entity% 1982% 125% 6.7
+Halloween II% 1981% 92% 6.5
+Friday the 13th: The Final Chapter% 1984% 91% 6.0
+Cujo% 1983% 93% 6.1
+A Nightmare on Elm Street Dream Warriors% 1987% 96% 6.7
+A Nightmare on Elm Street Part Freddy's Revenge% 1985% 87% 5.5
+Leviathan% 1989% 98% 5.8
+The Monster Squad% 1987% 82% 6.9
+The Watcher in the Woods% 1980% 84% 6.2
+The Company of Wolves% 1984% 95% 6.6
+Elvira: Mistress of the Dark% 1988% 96% 6.6
+The Stuff% 1985% 87% 5.9
+Tetsuo: The Iron Man% 1989% 67% 6.9
+Silver Bullet% 1985% 95% 6.4
+The New Kids% 1985% 89% 6.1
+Psycho II% 1983% 113% 6.6
+A Nightmare on Elm Street The Dream Master% 1988% 93% 5.6
+Phenomena% 1985% 116% 6.7
+Friday the 13th Part VI: Jason Lives% 1986% 86% 6.0
+Vampire Hunter D% 1985% 80% 7.0
+The Gate% 1987% 85% 6.1
+Once Bitten% 1985% 94% 5.6
+Halloween III: Season of the Witch% 1982% 98% 5.2
+Communion% 1989% 109% 5.5
+Friday the 13th: Part III% 1982% 95% 5.6
+The Stepfather% 1987% 89% 6.7
+Cat's Eye% 1985% 94% 6.3
+Begotten% 1989% 72% 5.5
+Critters% 1986% 86% 6.1
+Friday the 13th Part VII: The New Blood% 1988% 88% 5.2
+Alligator% 1980% 91% 6.1
+House% 1985% 93% 6.1
+Killer Klowns from Outer Space% 1988% 88% 6.2
+Poltergeist II: The Other Side% 1986% 91% 5.7
+C.H.U.D.% 1984% 88% 5.6
+Opera% 1987% 107% 6.9
+Dead End Drive-In% 1986% 92% 5.9
+Friday the 13th Part VIII: Jason Takes Manhattan% 1989% 100% 4.5
+Dreamscape% 1984% 99% 6.3
+Troll% 1986% 82% 4.6
+Brain Damage% 1988% 84% 6.5
+Ghost Story% 1981% 110% 6.3
+Basket Case% 1982% 91% 6.2
+From Beyond% 1986% 85% 6.6
+Food of the Gods II% 1989% 91% 4.2
+Friday the 13th Part V: A New Beginning% 1985% 92% 4.8
+Maniac Cop% 1988% 85% 6.0
+Firestarter% 1984% 114% 6.1
+Nekromantik% 1988% 71% 4.8
+The Believers% 1987% 114% 6.1
+Wolfen% 1981% 115% 6.3
+The Sword and the Sorcerer% 1982% 100% 5.5
+Swamp Thing% 1982% 91% 5.3
+Man Behind the Sun% 1988% 105% 6.1
+Pumpkinhead% 1988% 86% 6.2
+Visitor of a Museum% 1989% 136% 7.2
+Forbidden World% 1982% 77% 5.1
+Chopping Mall% 1986% 77% 5.6
+Motel Hell% 1980% 101% 6.0
+Santa Sangre% 1989% 123% 7.5
+Neo Tokyo% 1987% 50% 7.0
+Poltergeist III% 1988% 98% 4.7
+StageFright% 1987% 90% 6.6
+A Nightmare on Elm Street: The Dream Child% 1989% 89% 5.1
+Creepozoids% 1987% 69% 4.1
+Intruder% 1989% 83% 6.1
+Pieces% 1982% 85% 6.0
+The Keep% 1983% 96% 5.7
+Inferno% 1980% 106% 6.5
+The Prowler% 1981% 89% 5.9
+Phantasm II% 1988% 97% 6.4
+Creepshow 2% 1987% 92% 6.1
+Class of Nuke 'Em High% 1986% 85% 5.6
+Monster (Humanoids from the Deep)% 1980% 80% 5.7
+Galaxy of Terror% 1981% 81% 5.0
+The Funhouse% 1981% 96% 5.9
+Invaders from Mars% 1986% 100% 5.5
+Street Trash% 1987% 91% 5.9
+Fortress% 1985% 85% 7.0
+The Pit% 1981% 96% 5.7
+Witchboard% 1986% 98% 5.7
+Pin% 1988% 103% 6.5
+Black Cat% 1981% 92% 5.8
+The Texas Chainsaw Massacre 2% 1986% 101% 5.6
+The Beast Within% 1982% 98% 5.6
+A Chinese Ghost Story% 1987% 98% 7.3
+Nothing Underneath% 1985% 90% 5.8
+Halloween The Return of Michael Myers% 1988% 88% 5.8
+Gothic% 1986% 87% 5.7
+Maniac% 1980% 87% 6.3
+The Nest% 1987% 89% 5.3
+Amsterdamned% 1988% 114% 6.6
+Just Before Dawn% 1981% 90% 6.0
+House II: The Second Story% 1987% 88% 5.4
+City of the Living Dead% 1980% 93% 6.2
+I, Madman% 1989% 89% 5.9
+The Evil Protege% 1981% 96% 6.3
+The Dungeonmaster% 1984% 73% 4.6
+Psycho III% 1986% 93% 5.5
+House of the Long Shadows% 1983% 102% 6.2
+Hello Mary Lou: Prom Night II% 1987% 97% 5.8
+Happy Birthday to Me% 1981% 111% 6.0
+Trick or Treat% 1986% 98% 5.9
+Waxwork% 1988% 95% 6.1
+Jack's Back% 1988% 97% 5.8
+Superstition% 1982% 86% 5.7
+Terror Train% 1980% 97% 5.8
+The Dorm That Dripped Blood% 1982% 88% 4.9
+Spontaneous Combustion% 1989% 97% 4.9
+The House by the Cemetery% 1981% 86% 6.1
+The Toxic Avenger% 1984% 82% 6.2
+Dolls% 1986% 77% 6.3
+The Final Conflict% 1981% 108% 5.5
+Cutting Class% 1989% 91% 4.6
+Monkey Shines% 1988% 113% 6.2
+Hellbound: Hellraiser II% 1988% 97% 6.4
+TerrorVision% 1986% 85% 5.6
+The Godsend% 1980% 86% 5.3
+Amityville II: The Possession% 1982% 104% 5.6
+Crimewave% 1985% 86% 5.5
+Luther the Geek% 1989% 80% 5.2
+Mother's Day% 1980% 91% 5.3
+Demons 2% 1986% 92% 5.9
+The Lair of the White Worm% 1988% 93% 6.1
+The Beyond% 1981% 87% 6.5
+Nightmare City% 1980% 92% 5.6
+Strange Invaders% 1983% 92% 5.4
+976-EVIL% 1988% 92% 5.1
+Bad Dreams% 1988% 84% 5.7
+Next of Kin% 1982% 89% 6.2
+Return of the Living Dead: Part II% 1988% 89% 5.7
+The Grim Reaper% 1980% 92% 5.3
+Surf Nazis Must Die% 1987% 83% 3.8
+The Pied Piper% 1986% 55% 7.8
+Prom Night% 1980% 92% 5.3
+Nightwish% 1989% 92% 4.8
+The Terror Within% 1989% 88% 4.7
+Doom Asylum% 1988% 79% 4.6
+The Boogens% 1981% 95% 5.5
+The Return of Godzilla% 1984% 103% 6.8
+Blood Rage% 1987% 82% 5.8
+Biohazard% 1985% 84% 3.7
+The Awakening% 1980% 105% 4.9
+Contamination% 1980% 95% 5.1
+Abunômaru: Ingyaku% 1988% 64% 6.0
+Dead and Buried% 1981% 94% 6.5
+Her Vengeance% 1988% 92% 6.4
+Hex% 1980% 97% 6.4
+The Seventh Sign% 1988% 97% 5.8
+DeepStar Six% 1989% 99% 5.4
+Game Over% 1989% 92% 6.4
+Wicked City% 1987% 82% 6.7
+Too Beautiful to Die% 1988% 100% 5.3
+Piranha Part Two: The Spawning% 1982% 94% 3.8
+Nun in Rope Hell% 1984% 69% 4.8
+The House on the Edge of the Park% 1980% 91% 5.7
+Fright Night Part 2% 1988% 104% 6.0
+My Bloody Valentine% 1981% 90% 6.3
+Halloween The Revenge of Michael Myers% 1989% 96% 4.9
+Urotsukidoji: Legend of the Overfiend% 1989% 108% 6.3
+Nightmare Sisters% 1988% 83% 5.0
+Dead Heat% 1988% 84% 6.1
+Monster Dog% 1986% 81% 4.4
+The Island% 1980% 114% 5.3
+Godzilla vs. Biollante% 1989% 104% 6.5
+Razorback% 1984% 95% 6.0
+Fade to Black% 1980% 102% 6.1
+Strange Behavior% 1981% 99% 5.6
+Lady in White% 1988% 113% 6.6
+The Initiation% 1984% 97% 5.6
+Bloody Pom Poms% 1988% 89% 4.7
+Alone in the Dark% 1982% 92% 6.0
+Manhattan Baby% 1982% 89% 4.9
+Poison for the Fairies% 1986% 90% 7.2
+Bloody Moon% 1981% 90% 5.3
+The Phantom of the Opera% 1989% 93% 5.5
+The Return of Swamp Thing% 1989% 89% 4.7
+The Last Horror Film% 1982% 87% 5.6
+The Bride% 1985% 118% 5.4
+Devil Hunter% 1980% 102% 3.5
+Breeders% 1986% 77% 3.8
+Nightmare% 1981% 97% 5.6
+The Mutilator% 1984% 86% 5.2
+Las Vegas Serial Killer% 1986% 87% 3.1
+Not of This Earth% 1988% 81% 5.0
+Murder-Rock: Dancing Death% 1984% 93% 5.5
+Graduation Day% 1981% 92% 4.8

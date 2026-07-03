@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Avatar, 2009, 162, 7.9
-Gladiator, 2000, 155, 8.5
-Kingdom of Heaven, 2005, 144, 7.3
-Spider-Man, 2002, 121, 7.4
-Pirates of the Caribbean: The Curse of the Black Pearl, 2003, 143, 8.1
-Oldboy, 2003, 2, 8.3
-Troy, 2004, 163, 7.3
-Street Kings, 2008, 109, 6.8
-A History of Violence, 2005, 96, 7.4
-Casino Royale, 2006, 144, 8.0
-Watchmen, 2009, 162, 7.6
-Transformers, 2007, 144, 7.1
-Iron Man, 2008, 126, 7.9
-Kill Bill: Vol. 1, 2003, 111, 8.2
-The Fast and the Furious, 2001, 106, 6.8
-Bandits, 2001, 123, 6.5
-Jackass: The Movie, 2002, 85, 6.6
-Minority Report, 2002, 145, 7.6
-Tropic Thunder, 2008, 107, 7.1
-Kill Bill: The Whole Bloody Affair, 2004, 253, 8.7
-Hot Fuzz, 2007, 121, 7.8
-Spider-Man 2, 2004, 127, 7.5
-War of the Worlds, 2005, 117, 6.6
-The Incredibles, 2004, 115, 8.0
-Apocalypto, 2006, 139, 7.9
-The Patriot, 2000, 165, 7.2
-Taken, 2008, 90, 7.7
-Quantum of Solace, 2008, 106, 6.5
-Collateral, 2004, 2, 7.5
-300, 2006, 117, 7.6
-X-Men, 2000, 104, 7.3
-Star Trek, 2009, 127, 7.9
-National Treasure, 2004, 131, 6.9
-Gone in Sixty Seconds, 2000, 118, 6.5
-A Knight's Tale, 2001, 132, 7.0
-Spider-Man 3, 2007, 139, 6.3
-Kung Fu Panda, 2008, 92, 7.6
-Resident Evil, 2002, 100, 6.6
-Black Hawk Down, 2001, 144, 7.7
-Law Abiding Citizen, 2009, 109, 7.4
-Man on Fire, 2004, 146, 7.7
-The Incredible Hulk, 2008, 112, 6.6
-Master and Commander: The Far Side of the World, 2003, 138, 7.5
-V for Vendetta, 2005, 132, 8.1
-The Count of Monte Cristo, 2002, 131, 7.7
-Constantine, 2005, 121, 7.0
-Pirates of the Caribbean: Dead Man's Chest, 2006, 151, 7.4
-Star Wars: Episode III - Revenge of the Sith, 2005, 140, 7.7
-The Bourne Identity, 2002, 119, 7.8
-Shooter, 2007, 124, 7.2
-The Day After Tomorrow, 2004, 124, 6.5
-The Fast and the Furious: Tokyo Drift, 2006, 104, 6.1
-The Last Samurai, 2003, 154, 7.8
-Mr. &amp; Mrs. Smith, 2005, 2, 6.5
-Underworld, 2003, 121, 7.0
-The Chronicles of Riddick, 2004, 119, 6.6
-Fast &amp; Furious, 2009, 107, 6.5
-The Matrix Reloaded, 2003, 138, 7.2
-Miami Vice, 2006, 132, 6.1
-2012, 2009, 158, 5.9
-Austin Powers in Goldmember, 2002, 94, 6.3
-Pirates of the Caribbean: At World's End, 2007, 169, 7.2
-Sherlock Holmes, 2009, 128, 7.5
-Jackass Number Two, 2006, 92, 7.0
-The Italian Job, 2003, 111, 7.0
-National Treasure: Book of Secrets, 2007, 124, 6.5
-Kill Bill: Vol. 2, 2004, 137, 8.0
-Pearl Harbor, 2001, 183, 6.3
-Zombieland, 2009, 88, 7.5
-District 9, 2009, 112, 7.9
-Postal, 2007, 100, 4.5
-2 Fast 2 Furious, 2003, 107, 6.0
-Superhero Movie, 2008, 75, 4.8
-Cloverfield, 2008, 85, 7.0
-Serenity, 2005, 119, 7.8
-Star Wars: Episode II - Attack of the Clones, 2002, 142, 6.6
-I, Robot, 2004, 115, 7.1
-King Arthur, 2004, 126, 6.3
-Deja Vu, 2006, 126, 7.1
-Wanted, 2008, 110, 6.7
-Enemy at the Gates, 2001, 131, 7.5
-Terminator Salvation, 2009, 115, 6.5
-Body of Lies, 2008, 128, 7.0
-Indiana Jones and the Kingdom of the Crystal Skull, 2008, 122, 6.2
-The Punisher, 2004, 124, 6.4
-Van Helsing, 2004, 131, 6.1
-Open Range, 2003, 139, 7.4
-X-Men 2, 2003, 134, 7.4
-Poseidon, 2006, 98, 5.7
-Hulk, 2003, 138, 5.7
-Superman Returns, 2006, 154, 6.1
-Atlantis: The Lost Empire, 2001, 95, 6.9
-Reign of Fire, 2002, 101, 6.2
-The Island, 2005, 136, 6.8
-Treasure Planet, 2002, 95, 7.2
-X-Men Origins: Wolverine, 2009, 107, 6.5
-Miss Congeniality, 2000, 109, 6.4
-Next, 2007, 96, 6.2
-Equilibrium, 2002, 107, 7.3
-X-Men: The Last Stand, 2006, 104, 6.6
-The Bourne Supremacy, 2004, 108, 7.7
-Ghost Rider, 2007, 110, 5.3
-Transformers: Revenge of the Fallen, 2009, 149, 6.0
-Rampage, 2009, 85, 6.2
-Jurassic Park III, 2001, 92, 6.0
-Rat Race, 2001, 112, 6.5
-The Dukes of Hazzard, 2005, 104, 5.2
-The Bourne Ultimatum, 2007, 115, 8.0
-Crouching Tiger, Hidden Dragon, 2000, 2, 7.9
-Pandorum, 2009, 108, 6.7
-King Kong, 2005, 187, 7.2
-Dawn of the Dead, 2004, 101, 7.2
-Get Smart, 2008, 110, 6.5
-Hellboy, 2004, 122, 6.9
-The Matrix Revolutions, 2003, 129, 6.7
-9, 2009, 79, 7.0
-Bronson, 2008, 92, 7.0
-Fantastic Four, 2005, 106, 5.7
-Terminator Rise of the Machines, 2003, 109, 6.3
-Hancock, 2008, 92, 6.4
-Kung Fu Hustle, 2004, 99, 7.7
-The Chaser, 2008, 125, 7.8
-In the Name of the King: A Dungeon Siege Tale, 2007, 127, 3.8
-Pineapple Express, 2008, 111, 6.9
-The Mummy Returns, 2001, 130, 6.4
-Spy Game, 2001, 126, 7.1
-Rambo, 2008, 92, 7.0
-Vertical Limit, 2000, 124, 6.0
-Fool's Gold, 2008, 112, 5.7
-Wild Hogs, 2007, 100, 5.9
-Four Brothers, 2005, 109, 6.8
-3:to Yuma, 2007, 122, 7.6
-Mission: Impossible III, 2006, 126, 6.9
-Jumper, 2008, 88, 6.1
-The League of Extraordinary Gentlemen, 2003, 110, 5.8
-Redline, 2009, 102, 7.5
-Flight of the Phoenix, 2004, 113, 6.1
-Sky High, 2005, 100, 6.3
-Rush Hour 2, 2001, 90, 6.7
-Lara Croft: Tomb Raider, 2001, 100, 5.8
-Into the Blue, 2005, 110, 5.9
-Elite Squad, 2007, 115, 8.0
-You Don't Mess with the Zohan, 2008, 113, 5.6
-Mission: Impossible II, 2000, 123, 6.1
-Charlie's Angels, 2000, 98, 5.7
-Battle Royale, 2000, 114, 7.5
-Die Another Day, 2002, 133, 6.1
-We Were Soldiers, 2002, 138, 7.2
-Men in Black II, 2002, 88, 6.2
-Zathura: A Space Adventure, 2005, 101, 6.3
-Planet Terror, 2007, 105, 7.0
-The Chronicles of Narnia: Prince Caspian, 2008, 150, 6.5
-Ip Man, 2008, 106, 8.0
-District B13, 2004, 84, 7.1
-RocknRolla, 2008, 114, 7.2
-The Transporter, 2002, 92, 6.8
-Daredevil, 2003, 103, 5.3
-Eagle Eye, 2008, 118, 6.6
-Welcome to the Jungle, 2003, 104, 6.6
-Speed Racer, 2008, 135, 6.1
-Hero, 2002, 93, 7.9
-Shaolin Soccer, 2001, 113, 7.3
-Hollow Man, 2000, 112, 5.9
-Awarapan, 2007, 126, 7.4
-Alexander, 2004, 175, 5.6
-Crank, 2006, 88, 6.9
-Defiance, 2008, 137, 7.1
-xXx, 2002, 124, 5.9
-Damage, 2009, 102, 5.7
-The Core, 2003, 135, 5.5
-Resident Evil: Apocalypse, 2004, 94, 6.1
-Letters from Iwo Jima, 2006, 141, 7.8
-Spy Kids, 2001, 88, 5.6
-Big Stan, 2007, 105, 6.2
-Team America: World Police, 2004, 98, 7.2
-Æon Flux, 2005, 93, 5.4
-Sahara, 2005, 124, 6.1
-The Perfect Storm, 2000, 130, 6.5
-Hitman, 2007, 89, 6.2
-Friday Night Lights, 2004, 118, 7.2
-Bad Boys II, 2003, 147, 6.6
-Death Race, 2008, 105, 6.4
-Rush Hour 3, 2007, 91, 6.3
-Swordfish, 2001, 99, 6.5
-Planet of the Apes, 2001, 2, 5.7
-Journey to the Centre of the Earth, 2008, 93, 5.8
-BloodRayne, 2005, 95, 3.0
-The Spiderwick Chronicles, 2008, 96, 6.5
-Underworld: Evolution, 2006, 106, 6.7
-Die Hard 4.0, 2007, 128, 7.1
-Vampire Hunter D: Bloodlust, 2000, 103, 7.7
-Monsters vs. Aliens, 2009, 94, 6.4
-Shaft, 2000, 99, 6.0
-Revolver, 2005, 111, 6.3
-Blade II, 2002, 117, 6.7
-The Time Machine, 2002, 96, 6.0
-The Taking of Pelham 123, 2009, 106, 6.4
-The Last Castle, 2001, 131, 7.0
-Blade: Trinity, 2004, 113, 5.8
-The Sum of All Fears, 2002, 124, 6.5
-D.E.B.S., 2004, 91, 5.5
-Underworld: Rise of the Lycans, 2009, 92, 6.5
-Flags of Our Fathers, 2006, 135, 7.1
-Alone in the Dark, 2005, 99, 2.4
-Never Back Down, 2008, 113, 6.6
-Ninja Assassin, 2009, 99, 6.3
-Ong-Bak: The Thai Warrior, 2003, 108, 7.2
-Ghosts of Mars, 2001, 98, 4.9
-Resident Evil: Extinction, 2007, 94, 6.2
-The Life Aquatic with Steve Zissou, 2004, 119, 7.2
-Once Upon a Time in Mexico, 2003, 102, 6.3
-Dog Soldiers, 2002, 105, 6.8
-The Brothers Grimm, 2005, 118, 5.9
-Fantastic Rise of the Silver Surfer, 2007, 92, 5.6
-Land of the Lost, 2009, 102, 5.4
-Brotherhood of the Wolf, 2001, 142, 7.0
-Titan A.E., 2000, 94, 6.6
-The Mummy: Tomb of the Dragon Emperor, 2008, 112, 5.2
-Paul Blart: Mall Cop, 2009, 91, 5.3
-Tears of the Sun, 2003, 121, 6.6
-Cellular, 2004, 94, 6.5
-Beowulf, 2007, 115, 6.3
-S.W.A.T., 2003, 117, 6.1
-Flushed Away, 2006, 85, 6.6
-A Bittersweet Life, 2005, 119, 7.5
-Love Exposure, 2008, 237, 8.0
-G.I. Joe: The Rise of Cobra, 2009, 118, 5.7
-Smokin' Aces, 2006, 109, 6.6
-Behind Enemy Lines, 2001, 106, 6.4
-Gamer, 2009, 95, 5.7
-The Pacifier, 2005, 95, 5.6
-Paycheck, 2003, 119, 6.3
-Shanghai Noon, 2000, 110, 6.6
-Made in China, 2009, 154, 4.4
-Johnny English, 2003, 88, 6.3
-Mongol, 2007, 126, 7.2
-Miss Congeniality Armed and Fabulous, 2005, 115, 5.2
-Solomon Kane, 2009, 104, 6.1
-Death Sentence, 2007, 105, 6.7
-Doomsday, 2008, 108, 5.9
-The Recruit, 2003, 115, 6.6
-Surrogates, 2009, 89, 6.3
-House of Flying Daggers, 2004, 119, 7.5
-Transporter 2, 2005, 87, 6.3
-Outlander, 2008, 115, 6.2
-Running Scared, 2006, 122, 7.3
-Hellboy II: The Golden Army, 2008, 2, 7.0
-Hostage, 2005, 113, 6.5
-Push, 2009, 111, 6.1
-Punisher: War Zone, 2008, 103, 5.9
+naslov% leto_izida% trajanje% ocena
+Avatar% 2009% 162% 7.9
+Gladiator% 2000% 155% 8.5
+Kingdom of Heaven% 2005% 144% 7.3
+Spider-Man% 2002% 121% 7.4
+Pirates of the Caribbean: The Curse of the Black Pearl% 2003% 143% 8.1
+Oldboy% 2003% 2% 8.3
+Troy% 2004% 163% 7.3
+Street Kings% 2008% 109% 6.8
+A History of Violence% 2005% 96% 7.4
+Casino Royale% 2006% 144% 8.0
+Watchmen% 2009% 162% 7.6
+Transformers% 2007% 144% 7.1
+Iron Man% 2008% 126% 7.9
+Kill Bill: Vol. 1% 2003% 111% 8.2
+The Fast and the Furious% 2001% 106% 6.8
+Bandits% 2001% 123% 6.5
+Jackass: The Movie% 2002% 85% 6.6
+Minority Report% 2002% 145% 7.6
+Tropic Thunder% 2008% 107% 7.1
+Kill Bill: The Whole Bloody Affair% 2004% 253% 8.7
+Hot Fuzz% 2007% 121% 7.8
+Spider-Man 2% 2004% 127% 7.5
+War of the Worlds% 2005% 117% 6.6
+The Incredibles% 2004% 115% 8.0
+Apocalypto% 2006% 139% 7.9
+The Patriot% 2000% 165% 7.2
+Taken% 2008% 90% 7.7
+Quantum of Solace% 2008% 106% 6.5
+Collateral% 2004% 2% 7.5
+300% 2006% 117% 7.6
+X-Men% 2000% 104% 7.3
+Star Trek% 2009% 127% 7.9
+National Treasure% 2004% 131% 6.9
+Gone in Sixty Seconds% 2000% 118% 6.5
+A Knight's Tale% 2001% 132% 7.0
+Spider-Man 3% 2007% 139% 6.3
+Kung Fu Panda% 2008% 92% 7.6
+Resident Evil% 2002% 100% 6.6
+Black Hawk Down% 2001% 144% 7.7
+Law Abiding Citizen% 2009% 109% 7.4
+Man on Fire% 2004% 146% 7.7
+The Incredible Hulk% 2008% 112% 6.6
+Master and Commander: The Far Side of the World% 2003% 138% 7.5
+V for Vendetta% 2005% 132% 8.1
+The Count of Monte Cristo% 2002% 131% 7.7
+Constantine% 2005% 121% 7.0
+Pirates of the Caribbean: Dead Man's Chest% 2006% 151% 7.4
+Star Wars: Episode III - Revenge of the Sith% 2005% 140% 7.7
+The Bourne Identity% 2002% 119% 7.8
+Shooter% 2007% 124% 7.2
+The Day After Tomorrow% 2004% 124% 6.5
+The Fast and the Furious: Tokyo Drift% 2006% 104% 6.1
+The Last Samurai% 2003% 154% 7.8
+Mr. & Mrs. Smith% 2005% 2% 6.5
+Underworld% 2003% 121% 7.0
+The Chronicles of Riddick% 2004% 119% 6.6
+Fast & Furious% 2009% 107% 6.5
+The Matrix Reloaded% 2003% 138% 7.2
+Miami Vice% 2006% 132% 6.1
+2012% 2009% 158% 5.9
+Austin Powers in Goldmember% 2002% 94% 6.3
+Pirates of the Caribbean: At World's End% 2007% 169% 7.2
+Sherlock Holmes% 2009% 128% 7.5
+Jackass Number Two% 2006% 92% 7.0
+The Italian Job% 2003% 111% 7.0
+National Treasure: Book of Secrets% 2007% 124% 6.5
+Kill Bill: Vol. 2% 2004% 137% 8.0
+Pearl Harbor% 2001% 183% 6.3
+Zombieland% 2009% 88% 7.5
+District 9% 2009% 112% 7.9
+Postal% 2007% 100% 4.5
+2 Fast 2 Furious% 2003% 107% 6.0
+Superhero Movie% 2008% 75% 4.8
+Cloverfield% 2008% 85% 7.0
+Serenity% 2005% 119% 7.8
+Star Wars: Episode II - Attack of the Clones% 2002% 142% 6.6
+I, Robot% 2004% 115% 7.1
+King Arthur% 2004% 126% 6.3
+Deja Vu% 2006% 126% 7.1
+Wanted% 2008% 110% 6.7
+Enemy at the Gates% 2001% 131% 7.5
+Terminator Salvation% 2009% 115% 6.5
+Body of Lies% 2008% 128% 7.0
+Indiana Jones and the Kingdom of the Crystal Skull% 2008% 122% 6.2
+The Punisher% 2004% 124% 6.4
+Van Helsing% 2004% 131% 6.1
+Open Range% 2003% 139% 7.4
+X-Men 2% 2003% 134% 7.4
+Poseidon% 2006% 98% 5.7
+Hulk% 2003% 138% 5.7
+Superman Returns% 2006% 154% 6.1
+Atlantis: The Lost Empire% 2001% 95% 6.9
+Reign of Fire% 2002% 101% 6.2
+The Island% 2005% 136% 6.8
+Treasure Planet% 2002% 95% 7.2
+X-Men Origins: Wolverine% 2009% 107% 6.5
+Miss Congeniality% 2000% 109% 6.4
+Next% 2007% 96% 6.2
+Equilibrium% 2002% 107% 7.3
+X-Men: The Last Stand% 2006% 104% 6.6
+The Bourne Supremacy% 2004% 108% 7.7
+Ghost Rider% 2007% 110% 5.3
+Transformers: Revenge of the Fallen% 2009% 149% 6.0
+Rampage% 2009% 85% 6.2
+Jurassic Park III% 2001% 92% 6.0
+Rat Race% 2001% 112% 6.5
+The Dukes of Hazzard% 2005% 104% 5.2
+The Bourne Ultimatum% 2007% 115% 8.0
+Crouching Tiger, Hidden Dragon% 2000% 2% 7.9
+Pandorum% 2009% 108% 6.7
+King Kong% 2005% 187% 7.2
+Dawn of the Dead% 2004% 101% 7.2
+Get Smart% 2008% 110% 6.5
+Hellboy% 2004% 122% 6.9
+The Matrix Revolutions% 2003% 129% 6.7
+9% 2009% 79% 7.0
+Bronson% 2008% 92% 7.0
+Fantastic Four% 2005% 106% 5.7
+Terminator Rise of the Machines% 2003% 109% 6.3
+Hancock% 2008% 92% 6.4
+Kung Fu Hustle% 2004% 99% 7.7
+The Chaser% 2008% 125% 7.8
+In the Name of the King: A Dungeon Siege Tale% 2007% 127% 3.8
+Pineapple Express% 2008% 111% 6.9
+The Mummy Returns% 2001% 130% 6.4
+Spy Game% 2001% 126% 7.1
+Rambo% 2008% 92% 7.0
+Vertical Limit% 2000% 124% 6.0
+Fool's Gold% 2008% 112% 5.7
+Wild Hogs% 2007% 100% 5.9
+Four Brothers% 2005% 109% 6.8
+3:to Yuma% 2007% 122% 7.6
+Mission: Impossible III% 2006% 126% 6.9
+Jumper% 2008% 88% 6.1
+The League of Extraordinary Gentlemen% 2003% 110% 5.8
+Redline% 2009% 102% 7.5
+Flight of the Phoenix% 2004% 113% 6.1
+Sky High% 2005% 100% 6.3
+Rush Hour 2% 2001% 90% 6.7
+Lara Croft: Tomb Raider% 2001% 100% 5.8
+Into the Blue% 2005% 110% 5.9
+Elite Squad% 2007% 115% 8.0
+You Don't Mess with the Zohan% 2008% 113% 5.6
+Mission: Impossible II% 2000% 123% 6.1
+Charlie's Angels% 2000% 98% 5.7
+Battle Royale% 2000% 114% 7.5
+Die Another Day% 2002% 133% 6.1
+We Were Soldiers% 2002% 138% 7.2
+Men in Black II% 2002% 88% 6.2
+Zathura: A Space Adventure% 2005% 101% 6.3
+Planet Terror% 2007% 105% 7.0
+The Chronicles of Narnia: Prince Caspian% 2008% 150% 6.5
+Ip Man% 2008% 106% 8.0
+District B13% 2004% 84% 7.1
+RocknRolla% 2008% 114% 7.2
+The Transporter% 2002% 92% 6.8
+Daredevil% 2003% 103% 5.3
+Eagle Eye% 2008% 118% 6.6
+Welcome to the Jungle% 2003% 104% 6.6
+Speed Racer% 2008% 135% 6.1
+Hero% 2002% 93% 7.9
+Shaolin Soccer% 2001% 113% 7.3
+Hollow Man% 2000% 112% 5.9
+Awarapan% 2007% 126% 7.4
+Alexander% 2004% 175% 5.6
+Crank% 2006% 88% 6.9
+Defiance% 2008% 137% 7.1
+xXx% 2002% 124% 5.9
+Damage% 2009% 102% 5.7
+The Core% 2003% 135% 5.5
+Resident Evil: Apocalypse% 2004% 94% 6.1
+Letters from Iwo Jima% 2006% 141% 7.8
+Spy Kids% 2001% 88% 5.6
+Big Stan% 2007% 105% 6.2
+Team America: World Police% 2004% 98% 7.2
+Æon Flux% 2005% 93% 5.4
+Sahara% 2005% 124% 6.1
+The Perfect Storm% 2000% 130% 6.5
+Hitman% 2007% 89% 6.2
+Friday Night Lights% 2004% 118% 7.2
+Bad Boys II% 2003% 147% 6.6
+Death Race% 2008% 105% 6.4
+Rush Hour 3% 2007% 91% 6.3
+Swordfish% 2001% 99% 6.5
+Planet of the Apes% 2001% 2% 5.7
+Journey to the Centre of the Earth% 2008% 93% 5.8
+BloodRayne% 2005% 95% 3.0
+The Spiderwick Chronicles% 2008% 96% 6.5
+Underworld: Evolution% 2006% 106% 6.7
+Die Hard 4.0% 2007% 128% 7.1
+Vampire Hunter D: Bloodlust% 2000% 103% 7.7
+Monsters vs. Aliens% 2009% 94% 6.4
+Shaft% 2000% 99% 6.0
+Revolver% 2005% 111% 6.3
+Blade II% 2002% 117% 6.7
+The Time Machine% 2002% 96% 6.0
+The Taking of Pelham 123% 2009% 106% 6.4
+The Last Castle% 2001% 131% 7.0
+Blade: Trinity% 2004% 113% 5.8
+The Sum of All Fears% 2002% 124% 6.5
+D.E.B.S.% 2004% 91% 5.5
+Underworld: Rise of the Lycans% 2009% 92% 6.5
+Flags of Our Fathers% 2006% 135% 7.1
+Alone in the Dark% 2005% 99% 2.4
+Never Back Down% 2008% 113% 6.6
+Ninja Assassin% 2009% 99% 6.3
+Ong-Bak: The Thai Warrior% 2003% 108% 7.2
+Ghosts of Mars% 2001% 98% 4.9
+Resident Evil: Extinction% 2007% 94% 6.2
+The Life Aquatic with Steve Zissou% 2004% 119% 7.2
+Once Upon a Time in Mexico% 2003% 102% 6.3
+Dog Soldiers% 2002% 105% 6.8
+The Brothers Grimm% 2005% 118% 5.9
+Fantastic Rise of the Silver Surfer% 2007% 92% 5.6
+Land of the Lost% 2009% 102% 5.4
+Brotherhood of the Wolf% 2001% 142% 7.0
+Titan A.E.% 2000% 94% 6.6
+The Mummy: Tomb of the Dragon Emperor% 2008% 112% 5.2
+Paul Blart: Mall Cop% 2009% 91% 5.3
+Tears of the Sun% 2003% 121% 6.6
+Cellular% 2004% 94% 6.5
+Beowulf% 2007% 115% 6.3
+S.W.A.T.% 2003% 117% 6.1
+Flushed Away% 2006% 85% 6.6
+A Bittersweet Life% 2005% 119% 7.5
+Love Exposure% 2008% 237% 8.0
+G.I. Joe: The Rise of Cobra% 2009% 118% 5.7
+Smokin' Aces% 2006% 109% 6.6
+Behind Enemy Lines% 2001% 106% 6.4
+Gamer% 2009% 95% 5.7
+The Pacifier% 2005% 95% 5.6
+Paycheck% 2003% 119% 6.3
+Shanghai Noon% 2000% 110% 6.6
+Made in China% 2009% 154% 4.4
+Johnny English% 2003% 88% 6.3
+Mongol% 2007% 126% 7.2
+Miss Congeniality Armed and Fabulous% 2005% 115% 5.2
+Solomon Kane% 2009% 104% 6.1
+Death Sentence% 2007% 105% 6.7
+Doomsday% 2008% 108% 5.9
+The Recruit% 2003% 115% 6.6
+Surrogates% 2009% 89% 6.3
+House of Flying Daggers% 2004% 119% 7.5
+Transporter 2% 2005% 87% 6.3
+Outlander% 2008% 115% 6.2
+Running Scared% 2006% 122% 7.3
+Hellboy II: The Golden Army% 2008% 2% 7.0
+Hostage% 2005% 113% 6.5
+Push% 2009% 111% 6.1
+Punisher: War Zone% 2008% 103% 5.9

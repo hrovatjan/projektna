@@ -1,251 +1,251 @@
-naslov, leto_izida, trajanje, ocena
-Midsommar, 2019, 148, 7.1
-Ready or Not, 2019, 95, 6.9
-Hereditary, 2018, 127, 7.3
-Get Out, 2017, 104, 7.8
-It, 2017, 135, 7.3
-The Conjuring, 2013, 112, 7.5
-The Witch, 2015, 92, 7.0
-A Quiet Place, 2018, 90, 7.5
-The Ritual, 2017, 94, 6.4
-Vivarium, 2019, 97, 5.9
-Sinister, 2012, 110, 6.8
-Split, 2016, 117, 7.3
-World War Z, 2013, 116, 7.0
-A Serbian Film, 2010, 104, 4.9
-Insidious, 2010, 103, 6.8
-The Lighthouse, 2019, 109, 7.4
-Train to Busan, 2016, 118, 7.6
-Us, 2019, 116, 6.8
-Evil Dead, 2013, 91, 6.5
-The Cabin in the Woods, 2011, 95, 7.0
-It Follows, 2014, 100, 6.8
-Tusk, 2014, 102, 5.4
-Annihilation, 2018, 115, 6.8
-I Spit on Your Grave, 2010, 108, 6.2
-The Invitation, 2015, 100, 6.6
-The Wailing, 2016, 156, 7.4
-The Killing of a Sacred Deer, 2017, 121, 7.0
-Under the Skin, 2013, 108, 6.3
-A Cure for Wellness, 2016, 146, 6.4
-Don't Breathe, 2016, 88, 7.1
-Creep, 2014, 77, 6.3
-Cloverfield Lane, 2016, 103, 7.2
-Scary Movie 5, 2013, 88, 3.6
-What We Do in the Shadows, 2014, 86, 7.6
-The Autopsy of Jane Doe, 2016, 86, 6.8
-As Above, So Below, 2014, 93, 6.3
-Terrifier, 2016, 85, 5.5
-Doctor Sleep, 2019, 152, 7.3
-The Visit, 2015, 94, 6.3
-Zombieland: Double Tap, 2019, 99, 6.6
-Tumbbad, 2018, 108, 8.2
-The Platform, 2019, 94, 7.0
-Revenge, 2017, 108, 6.4
-It: Chapter Two, 2019, 169, 6.5
-Bird Box, 2018, 124, 6.6
-Hotel Transylvania, 2012, 91, 7.1
-Megan Is Missing, 2011, 89, 4.6
-Mother!, 2017, 121, 6.6
-Lights Out, 2016, 81, 6.3
-Life, 2017, 104, 6.6
-Climax, 2018, 97, 6.9
-Overlord, 2018, 110, 6.6
-Oculus, 2013, 104, 6.6
-Green Room, 2015, 95, 6.9
-The Babadook, 2014, 94, 6.8
-The Nun, 2018, 96, 5.4
-The Conjuring 2, 2016, 134, 7.3
-Bone Tomahawk, 2015, 132, 7.1
-The House That Jack Built, 2018, 152, 6.8
-Alien: Covenant, 2017, 122, 6.4
-Brightburn, 2019, 90, 6.1
-The Meg, 2018, 113, 5.7
-The Green Inferno, 2013, 100, 5.4
-Glass, 2019, 129, 6.6
-Happy Death Day, 2017, 96, 6.6
-The Tunnel, 2011, 94, 5.8
-The Babysitter, 2017, 85, 6.4
-Escape Room, 2019, 99, 6.4
-Terrified, 2017, 87, 6.5
-Hell House LLC, 2015, 93, 6.4
-The Mummy, 2017, 111, 5.4
-Hidden, 2015, 84, 6.3
-The Endless, 2017, 111, 6.5
-The Dead Don't Die, 2019, 104, 5.4
-The Thing, 2011, 103, 6.3
-Scouts Guide to the Zombie Apocalypse, 2015, 93, 6.3
-Suspiria, 2018, 152, 6.7
-The Secret of Marrowbone, 2017, 110, 6.7
-Tucker and Dale vs Evil, 2010, 89, 7.5
-The Purge, 2013, 85, 5.8
-Dark Shadows, 2012, 113, 6.2
-Gonjiam: Haunted Asylum, 2018, 95, 6.5
-In the Tall Grass, 2019, 101, 5.5
-Scream 4, 2011, 111, 6.3
-The Neon Demon, 2016, 117, 6.1
-The Crazies, 2010, 101, 6.5
-Mama, 2013, 100, 6.2
-Gerald's Game, 2017, 103, 6.5
-The Shallows, 2016, 86, 6.3
-The Taking, 2014, 90, 6.0
-The Grey, 2011, 117, 6.7
-Odd Thomas, 2013, 100, 6.8
-Mandy, 2018, 121, 6.5
-Incident in a Ghostland, 2018, 91, 6.4
-The Awakening, 2011, 102, 6.5
-Last Shift, 2014, 88, 5.8
-You're Next, 2011, 95, 6.6
-I See You, 2019, 98, 6.8
-Annabelle, 2014, 99, 5.5
-Piranha 3D, 2010, 88, 5.5
-Dark Skies, 2013, 97, 6.3
-Hush, 2016, 82, 6.6
-Legion, 2010, 100, 5.3
-Devil, 2010, 80, 6.3
-Raw, 2016, 99, 6.9
-Dracula Untold, 2014, 92, 6.2
-The Void, 2016, 90, 5.9
-Crimson Peak, 2015, 119, 6.5
-Saint Maud, 2019, 84, 6.6
-Truth or Dare, 2018, 100, 5.3
-Apostle, 2018, 130, 6.3
-Crawl, 2019, 87, 6.1
-The Last Witch Hunter, 2015, 106, 5.9
-Tale of Tales, 2015, 134, 6.4
-Colossal, 2016, 109, 6.2
-Warm Bodies, 2013, 98, 6.8
-The Clovehitch Killer, 2018, 109, 6.5
-It Comes at Night, 2017, 91, 6.1
-Annabelle: Creation, 2017, 109, 6.5
-The Lodge, 2019, 108, 6.0
-Fright Night, 2011, 106, 6.4
-Hotel Transylvania 2, 2015, 89, 6.6
-Color Out of Space, 2019, 111, 6.1
-Goosebumps, 2015, 103, 6.3
-The Rite, 2011, 114, 6.0
-Insidious: Chapter 3, 2015, 97, 6.1
-Only Lovers Left Alive, 2013, 123, 7.2
-A Dark Song, 2016, 100, 6.2
-The Mortal Instruments: City of Bones, 2013, 130, 5.8
-The Perfection, 2018, 90, 6.2
-Hansel &amp; Gretel: Witch Hunters, 2013, 88, 6.1
-Abraham Lincoln: Vampire Hunter, 2012, 105, 5.9
-Insidious: Chapter 2, 2013, 106, 6.6
-Kill List, 2011, 95, 6.3
-Summer of 84, 2018, 105, 6.7
-The Boy, 2016, 97, 6.0
-Ouija: Origin of Evil, 2016, 99, 6.2
-Halloween, 2018, 106, 6.5
-Radius, 2017, 93, 6.2
-The Cloverfield Paradox, 2018, 102, 5.5
-A Haunted House, 2013, 86, 5.1
-Priest, 2011, 87, 5.7
-Scary Stories to Tell in the Dark, 2019, 108, 6.2
-November, 2017, 115, 7.1
-The Woman, 2011, 103, 6.0
-Death Note, 2017, 101, 4.5
-Mayhem, 2017, 86, 6.4
-The Final Girls, 2015, 91, 6.5
-1922, 2017, 102, 6.2
-The Roommate, 2011, 94, 4.8
-One Cut of the Dead, 2017, 96, 7.6
-The Silence, 2019, 90, 5.4
-A Monster Calls, 2016, 108, 7.4
-Sinister 2, 2015, 97, 5.3
-Would You Rather, 2012, 93, 5.7
-The Love Witch, 2016, 2, 6.3
-Girl on the Third Floor, 2019, 93, 4.7
-The Blackcoat's Daughter, 2015, 93, 5.9
-Insidious: The Last Key, 2018, 103, 5.7
-Final Destination 5, 2011, 92, 5.9
-The Hole in the Ground, 2019, 90, 5.7
-Let Me In, 2010, 116, 7.1
-Annabelle Comes Home, 2019, 106, 5.9
-The Crucifixion, 2017, 90, 5.1
-Carrie, 2013, 100, 5.8
-The Call, 2013, 96, 6.7
-Villains, 2019, 90, 6.3
-Hotel Transylvania 3, 2018, 97, 6.3
-The Bay, 2012, 85, 5.7
-Deadly Crush, 2018, 85, 3.5
-Pride and Prejudice and Zombies, 2016, 108, 5.8
-I Spit on Your Grave 2, 2013, 106, 5.7
-Hellboy, 2019, 2, 5.3
-Grave Encounters, 2011, 92, 6.1
-Veronica, 2017, 105, 6.2
-Bunny the Killer Thing, 2015, 88, 4.3
-V/H/S, 2012, 116, 5.8
-Shin Godzilla, 2016, 2, 6.9
-Resident Evil: The Final Chapter, 2016, 107, 5.5
-The Belko Experiment, 2016, 89, 6.2
-Ingrid Goes West, 2017, 98, 6.6
-The Last Will and Testament of Rosalind Leigh, 2012, 82, 5.1
-The Golden Glove, 2019, 115, 6.7
-The Borderlands, 2013, 89, 5.8
-The Woman in Black, 2012, 95, 6.4
-Cargo, 2017, 105, 6.3
-Before I Wake, 2016, 97, 6.2
-Bacurau, 2019, 131, 7.3
-Vamps, 2012, 92, 5.4
-Resident Evil: Retribution, 2012, 95, 5.3
-Thelma, 2017, 116, 6.9
-Into the Labyrinth, 2019, 130, 5.8
-Byzantium, 2012, 118, 6.5
-Malevolent, 2018, 89, 4.9
-Vampire Academy, 2014, 104, 5.4
-Final Girl, 2015, 84, 4.7
-The Wolfman, 2010, 103, 5.9
-Resident Evil: Afterlife, 2010, 96, 5.8
-Synchronic, 2019, 102, 6.2
-Countdown, 2019, 90, 5.4
-They Look Like People, 2015, 80, 5.8
-No One Lives, 2012, 86, 6.0
-The Wretched, 2019, 95, 5.8
-Rubber, 2010, 82, 5.7
-Jigsaw, 2017, 92, 5.7
-Texas Chainsaw, 2013, 92, 4.8
-Look Away, 2018, 103, 5.8
-Burning Bright, 2010, 89, 5.8
-Under the Shadow, 2016, 84, 6.8
-The Bad Batch, 2016, 118, 5.2
-The Curse of La Llorona, 2019, 93, 5.3
-How It Ends, 2018, 113, 5.1
-Hagazussa: A Heathen's Curse, 2017, 102, 5.8
-The Purge: Anarchy, 2014, 103, 6.4
-Meet the Blacks, 2016, 94, 4.8
-Possum, 2018, 85, 5.8
-The Human Centipede 2 (Full Sequence), 2011, 91, 3.8
-A Nightmare on Elm Street, 2010, 95, 5.2
-Playing with Dolls, 2015, 80, 2.7
-Truth or Dare, 2012, 95, 5.6
-Extra Ordinary, 2019, 94, 6.4
-Creep 2, 2017, 78, 6.4
-The Possession, 2012, 92, 5.9
-Silent Hill: Revelation, 2012, 95, 4.9
-Meters Down, 2017, 89, 5.6
-The Mortuary Collection, 2019, 108, 6.4
-Retreat, 2011, 90, 5.8
-Frankenweenie, 2012, 87, 6.9
-Hostile, 2017, 83, 5.3
-A Haunted House 2, 2014, 86, 4.7
-Morgan, 2016, 92, 5.9
-Beyond the Black Rainbow, 2010, 110, 5.9
-Blair Witch, 2016, 89, 5.0
-Happy Death Day 2U, 2019, 100, 6.2
-Savageland, 2015, 82, 6.0
-Berberian Sound Studio, 2012, 92, 6.2
-Black Death, 2010, 102, 6.4
-Flatliners, 2017, 109, 5.2
-Lords of Chaos, 2018, 118, 6.6
-Maniac, 2012, 89, 6.1
-Sweetheart, 2019, 82, 5.8
-Girl in the Box, 2016, 87, 6.2
-Circle, 2015, 87, 6.0
-Howl, 2015, 92, 5.5
-The Snowman, 2017, 119, 5.2
-The Lazarus Effect, 2015, 83, 5.2
-Dave Made a Maze, 2017, 80, 6.3
-The Keeping Hours, 2017, 91, 6.4
-Eli, 2019, 98, 5.8
-Spring, 2014, 109, 6.7
+naslov% leto_izida% trajanje% ocena
+Midsommar% 2019% 148% 7.1
+Ready or Not% 2019% 95% 6.9
+Hereditary% 2018% 127% 7.3
+Get Out% 2017% 104% 7.8
+It% 2017% 135% 7.3
+The Conjuring% 2013% 112% 7.5
+The Witch% 2015% 92% 7.0
+A Quiet Place% 2018% 90% 7.5
+The Ritual% 2017% 94% 6.4
+Vivarium% 2019% 97% 5.9
+Sinister% 2012% 110% 6.8
+Split% 2016% 117% 7.3
+World War Z% 2013% 116% 7.0
+A Serbian Film% 2010% 104% 4.9
+Insidious% 2010% 103% 6.8
+The Lighthouse% 2019% 109% 7.4
+Train to Busan% 2016% 118% 7.6
+Us% 2019% 116% 6.8
+Evil Dead% 2013% 91% 6.5
+The Cabin in the Woods% 2011% 95% 7.0
+It Follows% 2014% 100% 6.8
+Tusk% 2014% 102% 5.4
+Annihilation% 2018% 115% 6.8
+I Spit on Your Grave% 2010% 108% 6.2
+The Invitation% 2015% 100% 6.6
+The Wailing% 2016% 156% 7.4
+The Killing of a Sacred Deer% 2017% 121% 7.0
+Under the Skin% 2013% 108% 6.3
+A Cure for Wellness% 2016% 146% 6.4
+Don't Breathe% 2016% 88% 7.1
+Creep% 2014% 77% 6.3
+Cloverfield Lane% 2016% 103% 7.2
+Scary Movie 5% 2013% 88% 3.6
+What We Do in the Shadows% 2014% 86% 7.6
+The Autopsy of Jane Doe% 2016% 86% 6.8
+As Above, So Below% 2014% 93% 6.3
+Terrifier% 2016% 85% 5.5
+Doctor Sleep% 2019% 152% 7.3
+The Visit% 2015% 94% 6.3
+Zombieland: Double Tap% 2019% 99% 6.6
+Tumbbad% 2018% 108% 8.2
+The Platform% 2019% 94% 7.0
+Revenge% 2017% 108% 6.4
+It: Chapter Two% 2019% 169% 6.5
+Bird Box% 2018% 124% 6.6
+Hotel Transylvania% 2012% 91% 7.1
+Megan Is Missing% 2011% 89% 4.6
+Mother!% 2017% 121% 6.6
+Lights Out% 2016% 81% 6.3
+Life% 2017% 104% 6.6
+Climax% 2018% 97% 6.9
+Overlord% 2018% 110% 6.6
+Oculus% 2013% 104% 6.6
+Green Room% 2015% 95% 6.9
+The Babadook% 2014% 94% 6.8
+The Nun% 2018% 96% 5.4
+The Conjuring 2% 2016% 134% 7.3
+Bone Tomahawk% 2015% 132% 7.1
+The House That Jack Built% 2018% 152% 6.8
+Alien: Covenant% 2017% 122% 6.4
+Brightburn% 2019% 90% 6.1
+The Meg% 2018% 113% 5.7
+The Green Inferno% 2013% 100% 5.4
+Glass% 2019% 129% 6.6
+Happy Death Day% 2017% 96% 6.6
+The Tunnel% 2011% 94% 5.8
+The Babysitter% 2017% 85% 6.4
+Escape Room% 2019% 99% 6.4
+Terrified% 2017% 87% 6.5
+Hell House LLC% 2015% 93% 6.4
+The Mummy% 2017% 111% 5.4
+Hidden% 2015% 84% 6.3
+The Endless% 2017% 111% 6.5
+The Dead Don't Die% 2019% 104% 5.4
+The Thing% 2011% 103% 6.3
+Scouts Guide to the Zombie Apocalypse% 2015% 93% 6.3
+Suspiria% 2018% 152% 6.7
+The Secret of Marrowbone% 2017% 110% 6.7
+Tucker and Dale vs Evil% 2010% 89% 7.5
+The Purge% 2013% 85% 5.8
+Dark Shadows% 2012% 113% 6.2
+Gonjiam: Haunted Asylum% 2018% 95% 6.5
+In the Tall Grass% 2019% 101% 5.5
+Scream 4% 2011% 111% 6.3
+The Neon Demon% 2016% 117% 6.1
+The Crazies% 2010% 101% 6.5
+Mama% 2013% 100% 6.2
+Gerald's Game% 2017% 103% 6.5
+The Shallows% 2016% 86% 6.3
+The Taking% 2014% 90% 6.0
+The Grey% 2011% 117% 6.7
+Odd Thomas% 2013% 100% 6.8
+Mandy% 2018% 121% 6.5
+Incident in a Ghostland% 2018% 91% 6.4
+The Awakening% 2011% 102% 6.5
+Last Shift% 2014% 88% 5.8
+You're Next% 2011% 95% 6.6
+I See You% 2019% 98% 6.8
+Annabelle% 2014% 99% 5.5
+Piranha 3D% 2010% 88% 5.5
+Dark Skies% 2013% 97% 6.3
+Hush% 2016% 82% 6.6
+Legion% 2010% 100% 5.3
+Devil% 2010% 80% 6.3
+Raw% 2016% 99% 6.9
+Dracula Untold% 2014% 92% 6.2
+The Void% 2016% 90% 5.9
+Crimson Peak% 2015% 119% 6.5
+Saint Maud% 2019% 84% 6.6
+Truth or Dare% 2018% 100% 5.3
+Apostle% 2018% 130% 6.3
+Crawl% 2019% 87% 6.1
+The Last Witch Hunter% 2015% 106% 5.9
+Tale of Tales% 2015% 134% 6.4
+Colossal% 2016% 109% 6.2
+Warm Bodies% 2013% 98% 6.8
+The Clovehitch Killer% 2018% 109% 6.5
+It Comes at Night% 2017% 91% 6.1
+Annabelle: Creation% 2017% 109% 6.5
+The Lodge% 2019% 108% 6.0
+Fright Night% 2011% 106% 6.4
+Hotel Transylvania 2% 2015% 89% 6.6
+Color Out of Space% 2019% 111% 6.1
+Goosebumps% 2015% 103% 6.3
+The Rite% 2011% 114% 6.0
+Insidious: Chapter 3% 2015% 97% 6.1
+Only Lovers Left Alive% 2013% 123% 7.2
+A Dark Song% 2016% 100% 6.2
+The Mortal Instruments: City of Bones% 2013% 130% 5.8
+The Perfection% 2018% 90% 6.2
+Hansel & Gretel: Witch Hunters% 2013% 88% 6.1
+Abraham Lincoln: Vampire Hunter% 2012% 105% 5.9
+Insidious: Chapter 2% 2013% 106% 6.6
+Kill List% 2011% 95% 6.3
+Summer of 84% 2018% 105% 6.7
+The Boy% 2016% 97% 6.0
+Ouija: Origin of Evil% 2016% 99% 6.2
+Halloween% 2018% 106% 6.5
+Radius% 2017% 93% 6.2
+The Cloverfield Paradox% 2018% 102% 5.5
+A Haunted House% 2013% 86% 5.1
+Priest% 2011% 87% 5.7
+Scary Stories to Tell in the Dark% 2019% 108% 6.2
+November% 2017% 115% 7.1
+The Woman% 2011% 103% 6.0
+Death Note% 2017% 101% 4.5
+Mayhem% 2017% 86% 6.4
+The Final Girls% 2015% 91% 6.5
+1922% 2017% 102% 6.2
+The Roommate% 2011% 94% 4.8
+One Cut of the Dead% 2017% 96% 7.6
+The Silence% 2019% 90% 5.4
+A Monster Calls% 2016% 108% 7.4
+Sinister 2% 2015% 97% 5.3
+Would You Rather% 2012% 93% 5.7
+The Love Witch% 2016% 2% 6.3
+Girl on the Third Floor% 2019% 93% 4.7
+The Blackcoat's Daughter% 2015% 93% 5.9
+Insidious: The Last Key% 2018% 103% 5.7
+Final Destination 5% 2011% 92% 5.9
+The Hole in the Ground% 2019% 90% 5.7
+Let Me In% 2010% 116% 7.1
+Annabelle Comes Home% 2019% 106% 5.9
+The Crucifixion% 2017% 90% 5.1
+Carrie% 2013% 100% 5.8
+The Call% 2013% 96% 6.7
+Villains% 2019% 90% 6.3
+Hotel Transylvania 3% 2018% 97% 6.3
+The Bay% 2012% 85% 5.7
+Deadly Crush% 2018% 85% 3.5
+Pride and Prejudice and Zombies% 2016% 108% 5.8
+I Spit on Your Grave 2% 2013% 106% 5.7
+Hellboy% 2019% 2% 5.3
+Grave Encounters% 2011% 92% 6.1
+Veronica% 2017% 105% 6.2
+Bunny the Killer Thing% 2015% 88% 4.3
+V/H/S% 2012% 116% 5.8
+Shin Godzilla% 2016% 2% 6.9
+Resident Evil: The Final Chapter% 2016% 107% 5.5
+The Belko Experiment% 2016% 89% 6.2
+Ingrid Goes West% 2017% 98% 6.6
+The Last Will and Testament of Rosalind Leigh% 2012% 82% 5.1
+The Golden Glove% 2019% 115% 6.7
+The Borderlands% 2013% 89% 5.8
+The Woman in Black% 2012% 95% 6.4
+Cargo% 2017% 105% 6.3
+Before I Wake% 2016% 97% 6.2
+Bacurau% 2019% 131% 7.3
+Vamps% 2012% 92% 5.4
+Resident Evil: Retribution% 2012% 95% 5.3
+Thelma% 2017% 116% 6.9
+Into the Labyrinth% 2019% 130% 5.8
+Byzantium% 2012% 118% 6.5
+Malevolent% 2018% 89% 4.9
+Vampire Academy% 2014% 104% 5.4
+Final Girl% 2015% 84% 4.7
+The Wolfman% 2010% 103% 5.9
+Resident Evil: Afterlife% 2010% 96% 5.8
+Synchronic% 2019% 102% 6.2
+Countdown% 2019% 90% 5.4
+They Look Like People% 2015% 80% 5.8
+No One Lives% 2012% 86% 6.0
+The Wretched% 2019% 95% 5.8
+Rubber% 2010% 82% 5.7
+Jigsaw% 2017% 92% 5.7
+Texas Chainsaw% 2013% 92% 4.8
+Look Away% 2018% 103% 5.8
+Burning Bright% 2010% 89% 5.8
+Under the Shadow% 2016% 84% 6.8
+The Bad Batch% 2016% 118% 5.2
+The Curse of La Llorona% 2019% 93% 5.3
+How It Ends% 2018% 113% 5.1
+Hagazussa: A Heathen's Curse% 2017% 102% 5.8
+The Purge: Anarchy% 2014% 103% 6.4
+Meet the Blacks% 2016% 94% 4.8
+Possum% 2018% 85% 5.8
+The Human Centipede 2 (Full Sequence)% 2011% 91% 3.8
+A Nightmare on Elm Street% 2010% 95% 5.2
+Playing with Dolls% 2015% 80% 2.7
+Truth or Dare% 2012% 95% 5.6
+Extra Ordinary% 2019% 94% 6.4
+Creep 2% 2017% 78% 6.4
+The Possession% 2012% 92% 5.9
+Silent Hill: Revelation% 2012% 95% 4.9
+Meters Down% 2017% 89% 5.6
+The Mortuary Collection% 2019% 108% 6.4
+Retreat% 2011% 90% 5.8
+Frankenweenie% 2012% 87% 6.9
+Hostile% 2017% 83% 5.3
+A Haunted House 2% 2014% 86% 4.7
+Morgan% 2016% 92% 5.9
+Beyond the Black Rainbow% 2010% 110% 5.9
+Blair Witch% 2016% 89% 5.0
+Happy Death Day 2U% 2019% 100% 6.2
+Savageland% 2015% 82% 6.0
+Berberian Sound Studio% 2012% 92% 6.2
+Black Death% 2010% 102% 6.4
+Flatliners% 2017% 109% 5.2
+Lords of Chaos% 2018% 118% 6.6
+Maniac% 2012% 89% 6.1
+Sweetheart% 2019% 82% 5.8
+Girl in the Box% 2016% 87% 6.2
+Circle% 2015% 87% 6.0
+Howl% 2015% 92% 5.5
+The Snowman% 2017% 119% 5.2
+The Lazarus Effect% 2015% 83% 5.2
+Dave Made a Maze% 2017% 80% 6.3
+The Keeping Hours% 2017% 91% 6.4
+Eli% 2019% 98% 5.8
+Spring% 2014% 109% 6.7
