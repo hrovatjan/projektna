@@ -1,3 +1,6 @@
+https://claude.ai/share/718ab039-f98d-4dd6-9904-aaeb83de47ee
+
+
 zakaj to ne deluje dolzina = re.findall(r'<li class="ipc-inline-list__item" role="presentation">\w+</li>', film.decode_contents())ce imamo tako vrsto podatkov <li class="ipc-metadata-list-summary-item"><div class="ipc-metadata-list-summary-item__c"><div class="ipc-metadata-list-summary-item__tc"><span aria-disabled="false" class="ipc-metadata-list-summary-item__t ipc-btn--not-interactable"></span><div class="sc-fc35a1ef-1 lmHCrT dli-parent"><div class="sc-fc35a1ef-0 hTMtRz"><div class="sc-1f7bc70-0 gspVJR dli-poster-container"><div class="ipc-poster ipc-poster--base ipc-poster--media-radius ipc-poster--wTvoj regex ne deluje iz dveh razlogov:
 1. \w+ ne pokriva presledkov
 \w ujema samo črke, številke in podčrtaj — ne pa presledkov. Če je dolžina filma zapisana kot npr. 1h 55m, se \w+ ustavi na 1h in ne zajame celotnega niza, ker je vmes presledek. Tudi če bi se regex sicer ujel, bi dobil samo del besedila.
